@@ -18,7 +18,7 @@ OUTPUT_LOG_TYPES = {
 
 # CLI arguments for program configuration
 argument_parser = argparse.ArgumentParser(
-    prog="generator",
+    prog="archive_manager",
     add_help=True,
     exit_on_error=True,
     allow_abbrev=True,
