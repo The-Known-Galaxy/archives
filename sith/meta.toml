@@ -1,0 +1,7529 @@
+category_count = 18
+[[categories]]
+total_entries = 28
+name = "Sith Philosophy"
+index = 1
+[[categories.entries]]
+markdown_path = "sith_philosophy/grand_plan/entry.md"
+index = 1
+author = "ValenTemenos"
+name = "Grand Plan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/rule_of_two/entry.md"
+index = 2
+author = "SonOfLotus"
+name = "Rule of Two"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/sith_magic_alchemy/entry.md"
+index = 3
+author = "Reavion"
+name = "Sith Magic & Alchemy"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/rule_of_one/entry.md"
+index = 4
+author = "Redjaal"
+name = "Rule of One"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/sith_ari/entry.md"
+index = 5
+author = "seko1111"
+name = "Sith'ari"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/kaggath/entry.md"
+index = 6
+author = "seko1111"
+name = "Kaggath"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/doctrine_of_the_dyad/entry.md"
+index = 7
+author = "ShadowKorbius"
+name = "Doctrine of the Dyad"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/revenge_of_the_sith/entry.md"
+index = 8
+author = "jaketstone34"
+name = "Revenge of the Sith"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/sith_tattoos/entry.md"
+index = 9
+author = "seko1111"
+name = "Sith Tattoos"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/sith_necromancy/entry.md"
+index = 10
+author = "seko1111"
+name = "Sith Necromancy"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/sith_language/entry.md"
+index = 11
+author = "Chilimeni"
+name = "Sith Language"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/sith_holocrons/entry.md"
+index = 12
+author = "Reavion"
+name = "Sith Holocrons"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/blood_soup/entry.md"
+index = 13
+author = "jinqxd"
+name = "Blood Soup"
+release_year = 0
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/rite_of_blood_and_bone/entry.md"
+index = 14
+author = "ViroSpect"
+name = "Rite of Blood and Bone"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/rule_by_the_strong/entry.md"
+index = 15
+author = "ValenTemenos"
+name = "Rule by the Strong"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/immortality/entry.md"
+index = 16
+author = "BOBERTER123070"
+name = "Immortality"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/dark_side_of_the_force/entry.md"
+index = 17
+author = "Reavion"
+name = "Dark Side of the Force"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/weakness_of_inferiors/entry.md"
+index = 18
+author = "jaketstone34"
+name = "Weakness of Inferiors"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/living_force_and_the_dark_side/entry.md"
+index = 19
+author = "jaketstone34"
+name = "Living Force and the Dark Side"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/selecting_an_apprenitce/entry.md"
+index = 20
+author = "jaketstone34"
+name = "Selecting an Apprenitce"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/nihilism/entry.md"
+index = 21
+author = "edex08"
+name = "Nihilism"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/sith_chalice/entry.md"
+index = 22
+author = "ElysiaLValkyrie"
+name = "Sith Chalice"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/striking_from_the_shadows/entry.md"
+index = 23
+author = "jaketstone34"
+name = "Striking from the shadows"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/power_of_hatred/entry.md"
+index = 24
+author = "AlexJackz"
+name = "Power of Hatred"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/sith_code/entry.md"
+index = 25
+author = "Reavion"
+name = "Sith Code"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/manipulation_and_deception/entry.md"
+index = 26
+author = "Clumpat"
+name = "Manipulation and Deception"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/betrayal_philosophy/entry.md"
+index = 27
+author = "Iridinia"
+name = "Betrayal Philosophy"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_philosophy/power_of_the_sith/entry.md"
+index = 28
+author = "jaketstone34"
+name = "Power of the Sith"
+release_year = 2023
+
+
+[[categories]]
+total_entries = 99
+name = "Factions"
+index = 2
+[[categories.entries]]
+markdown_path = "factions/clan_kelborn/entry.md"
+index = 1
+author = "seko1111"
+name = "Clan Kelborn"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/bravis_sith/entry.md"
+index = 2
+author = "AnimatedEcrux"
+name = "Bravis Sith"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/ones/entry.md"
+index = 3
+author = "ChaseTheStarWarsNerd"
+name = "Ones"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/eagle_s_network/entry.md"
+index = 4
+author = "ShadowKorbius"
+name = "Eagle's Network"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/cosmic_balance/entry.md"
+index = 5
+author = "ShokuMatsu"
+name = "Cosmic Balance"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/clan_farr/entry.md"
+index = 6
+author = "seko1111"
+name = "Clan Farr"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/clan_fett/entry.md"
+index = 7
+author = "seko1111"
+name = "Clan Fett"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/imperial_intelligence_sith_empire/entry.md"
+index = 8
+author = "seko1111"
+name = "Imperial Intelligence (Sith Empire)"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/darth_andeddu_s_disciples/entry.md"
+index = 9
+author = "BOBERTER123070"
+name = "Darth Andeddu's Disciples"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/sorcerers_of_rhand/entry.md"
+index = 10
+author = "DaedricOtto"
+name = "Sorcerers of Rhand"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/dread_host/entry.md"
+index = 11
+author = "ShokuPurpose"
+name = "Dread Host"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/empire_of_the_hand/entry.md"
+index = 12
+author = "DaedricOtto"
+name = "Empire of the Hand"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/nuruodo_family/entry.md"
+index = 13
+author = "DaedricOtto"
+name = "Nuruodo Family"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/first_legion/entry.md"
+index = 14
+author = "Medmain20062"
+name = "First Legion"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/order_of_dai_bendu/entry.md"
+index = 15
+author = "Chilimeni"
+name = "Order of Dai Bendu"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/knights_of_ren/entry.md"
+index = 16
+author = "PaulTLincoln"
+name = "Knights of Ren"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/infinite_empire/entry.md"
+index = 17
+author = "Austin_Innit"
+name = "Infinite Empire"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/mandalorian_neo_crusaders/entry.md"
+index = 18
+author = "MommyMute"
+name = "Mandalorian Neo Crusaders"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/mandalorian_protectors/entry.md"
+index = 19
+author = "MommyMute"
+name = "Mandalorian Protectors"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/order_of_the_sith_lords/entry.md"
+index = 20
+author = "Worlock365"
+name = "Order of the Sith Lords"
+release_year = 2922
+
+[[categories.entries]]
+markdown_path = "factions/exchange/entry.md"
+index = 21
+author = "BoarGrills"
+name = "Exchange"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/brotherhood_of_the_sith/entry.md"
+index = 22
+author = "nuariel"
+name = "Brotherhood of the Sith"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/prophets_of_the_dark_side/entry.md"
+index = 23
+author = "ValenTemenos"
+name = "Prophets of the Dark Side"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/pius_dea/entry.md"
+index = 24
+author = "VelenTemenos"
+name = "Pius Dea"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/ninûshwodzakut/entry.md"
+index = 25
+author = "ThornedAshen"
+name = "Ninûshwodzakut"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/mandalorians/entry.md"
+index = 26
+author = "MommyMute"
+name = "Mandalorians"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/legions_of_lettow/entry.md"
+index = 27
+author = "Edex08"
+name = "Legions of Lettow"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/chiss_ascendancy/entry.md"
+index = 28
+author = "AwesomeO561"
+name = "Chiss Ascendancy"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/order_of_revan/entry.md"
+index = 29
+author = "Antarctic_Gaming"
+name = "Order of Revan"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/imperial_navy_sith_empire/entry.md"
+index = 30
+author = "jason567s"
+name = "Imperial Navy (Sith Empire)"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/imperial_army_sith_empire/entry.md"
+index = 31
+author = "ValenTemenos"
+name = "Imperial Army (Sith Empire)"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/first_sector_army/entry.md"
+index = 32
+author = "ShokuMatsu"
+name = "First Sector Army"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/eternal_alliance/entry.md"
+index = 33
+author = "Worlock365"
+name = "Eternal Alliance"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/jedi_covenant/entry.md"
+index = 34
+author = "Worlock365"
+name = "Jedi Covenant"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/emperor_s_shadow_guard/entry.md"
+index = 35
+author = "KenjiVolt"
+name = "Emperor's Shadow Guard"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/bergruutfa_clan/entry.md"
+index = 36
+author = "Worlock365"
+name = "Bergruutfa Clan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/one_sith/entry.md"
+index = 37
+author = "ValenTemenos"
+name = "One Sith"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/naddists/entry.md"
+index = 38
+author = "MysteryOmnis"
+name = "Naddists"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/nightbrothers/entry.md"
+index = 39
+author = "ElysiaLValkyrie"
+name = "Nightbrothers"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/clan_cadera/entry.md"
+index = 40
+author = "ElysiaLValkyrie"
+name = "Clan Cadera"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/carbonite_sith_army/entry.md"
+index = 41
+author = "SpawnKiller1326"
+name = "Carbonite Sith Army"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/intergalactic_banking_clan/entry.md"
+index = 42
+author = "SpawnKiller1326"
+name = "InterGalactic Banking Clan"
+release_year = 0
+
+[[categories.entries]]
+markdown_path = "factions/task_force_99/entry.md"
+index = 43
+author = "daedima"
+name = "Task Force 99"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/hutt_clan/entry.md"
+index = 44
+author = "ChaseTheStarWarsNerd"
+name = "Hutt Clan"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/501st_legion/entry.md"
+index = 45
+author = "jinqxd"
+name = "501st Legion"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/kissai_heretics/entry.md"
+index = 46
+author = "AnimatedEcrux"
+name = "Kissai Heretics"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/blackguard/entry.md"
+index = 47
+author = "ThornedRedRose"
+name = "Blackguard"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/czerka_corporation/entry.md"
+index = 48
+author = "Real_RedStar"
+name = "Czerka Corporation"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/sith_troopers/entry.md"
+index = 49
+author = "KenjiVolt"
+name = "Sith Troopers"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/death_watch/entry.md"
+index = 50
+author = "MommyMute"
+name = "Death Watch"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/inquisitorius_legends/entry.md"
+index = 51
+author = "ShokuPurpose"
+name = "Inquisitorius (Legends)"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/joint_chiefs/entry.md"
+index = 52
+author = "jinqxd"
+name = "Joint Chiefs"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/jen_jidai/entry.md"
+index = 53
+author = "ValenTemenos"
+name = "Jen'jidai"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/house_of_thul/entry.md"
+index = 54
+author = "24dino"
+name = "House of Thul"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/badawans/entry.md"
+index = 55
+author = "AnimatedEcrux"
+name = "Badawans"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/clan_skirata/entry.md"
+index = 56
+author = "Seko1111"
+name = "Clan Skirata"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/sun_guard/entry.md"
+index = 57
+author = "ArtamielDude"
+name = "Sun Guard"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/church_of_the_force/entry.md"
+index = 58
+author = "ArtamielDude"
+name = "Church of the Force"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/star_cabal/entry.md"
+index = 59
+author = "WebbyVyndrix"
+name = "Star Cabal"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/sly_moore_s_guards/entry.md"
+index = 60
+author = "jinqxd"
+name = "Sly Moore's Guards"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/veiled_sorority/entry.md"
+index = 61
+author = "Clumpat"
+name = "Veiled Sorority"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/wilhuff_tarkin_s_guards/entry.md"
+index = 62
+author = "jinqxd"
+name = "Wilhuff Tarkin's Guards"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/yewl_s_guards/entry.md"
+index = 63
+author = "jinqxd"
+name = "Yewl's Guards"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/sith_triumvirate/entry.md"
+index = 64
+author = "EternalTrinity"
+name = "Sith Triumvirate"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/nightsisters/entry.md"
+index = 65
+author = "Vexrionz"
+name = "Nightsisters"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/zann_consortium/entry.md"
+index = 66
+author = "Rysesaka"
+name = "Zann Consortium"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/guardians_of_the_whills/entry.md"
+index = 67
+author = "daedima"
+name = "Guardians of the Whills"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/order_of_silver_jedi/entry.md"
+index = 68
+author = "edex08"
+name = "Order of Silver Jedi"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/reborn/entry.md"
+index = 69
+author = "ard1974"
+name = "Reborn"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/darkseekers/entry.md"
+index = 70
+author = "AnimatedEcrux"
+name = "Darkseekers"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/crimson_dawn/entry.md"
+index = 71
+author = "ShadowKorbius"
+name = "Crimson Dawn"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/new_empire/entry.md"
+index = 72
+author = "24dino"
+name = "New Empire"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/lost_tribe_of_sith/entry.md"
+index = 73
+author = "Xenatious"
+name = "Lost Tribe of Sith"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/disciples_of_ragnos/entry.md"
+index = 74
+author = "EternalTrinity"
+name = "Disciples of Ragnos"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/shaper_caste/entry.md"
+index = 75
+author = "PoH_v1"
+name = "Shaper Caste"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/dark_honor_guard/entry.md"
+index = 76
+author = "ShadowKorbius"
+name = "Dark Honor Guard"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "factions/dark_jedi/entry.md"
+index = 77
+author = "daedima"
+name = "Dark Jedi"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/brotherhood_of_darkness/entry.md"
+index = 78
+author = "ValenTemenos"
+name = "Brotherhood of Darkness"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/zygerrian_slave_empire/entry.md"
+index = 79
+author = "ElMajestico"
+name = "Zygerrian Slave Empire"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/eternal_empire/entry.md"
+index = 80
+author = "C_aladria"
+name = "Eternal Empire"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/stormtroopers/entry.md"
+index = 81
+author = "BOBERTER123070"
+name = "Stormtroopers"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/antarian_rangers/entry.md"
+index = 82
+author = "WebbyVyndrix"
+name = "Antarian Rangers"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/corporate_sector_authority/entry.md"
+index = 83
+author = "PoH_v1"
+name = "Corporate Sector Authority"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/tenloss_syndicate/entry.md"
+index = 84
+author = "PoH_v1"
+name = "Tenloss Syndicate"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/veris_hydran_s_guards/entry.md"
+index = 85
+author = "jinqxd"
+name = "Veris Hydran's Guards"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/refugee_relief_movement/entry.md"
+index = 86
+author = "Rysesaka"
+name = "Refugee Relief Movement"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/mistryl_shadow_guard/entry.md"
+index = 87
+author = "Clumpat"
+name = "Mistryl Shadow Guard"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/black_sun/entry.md"
+index = 88
+author = "PoH_v1"
+name = "Black Sun"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/sith_eternal/entry.md"
+index = 89
+author = "Mateo_222"
+name = "Sith Eternal"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/sorcerers_of_tund/entry.md"
+index = 90
+author = "BoarGrills"
+name = "Sorcerers of Tund"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/light_sith/entry.md"
+index = 91
+author = "Xenatious"
+name = "Light Sith"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "factions/gen_dai_bounty_hunters/entry.md"
+index = 92
+author = "Iridinia"
+name = "Gen’Dai Bounty Hunters"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/the_hapes_consortium/entry.md"
+index = 93
+author = "Clumpat"
+name = "The Hapes Consortium"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/the_galactic_empire/entry.md"
+index = 94
+author = "Minato_Yt108"
+name = "The Galactic Empire"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "factions/the_pyke_syndicate/entry.md"
+index = 95
+author = "TorrykkTheGod"
+name = "The Pyke Syndicate"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "factions/first_order/entry.md"
+index = 96
+author = "rares_cristian10"
+name = "First Order"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "factions/confederacy_of_independent_systems/entry.md"
+index = 97
+author = "Minato_Yt108"
+name = "Confederacy of Independent Systems"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "factions/warlords_of_the_outer_rim/entry.md"
+index = 98
+author = "Minato_Yt108"
+name = "Warlords of the Outer Rim"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "factions/jabba_s_criminal_empire/entry.md"
+index = 99
+author = "AlexJackz"
+name = "Jabba's Criminal Empire"
+release_year = 2024
+
+
+[[categories]]
+total_entries = 116
+name = "Species"
+index = 3
+[[categories.entries]]
+markdown_path = "species/sith_purebloods/entry.md"
+index = 1
+author = "ShadowKorbius"
+name = "Sith Purebloods"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "species/verpine/entry.md"
+index = 2
+author = "Private_Popsicle"
+name = "Verpine"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/miraluka/entry.md"
+index = 3
+author = "ShadowKorbius"
+name = "Miraluka"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "species/chiss/entry.md"
+index = 4
+author = "DaedricOtto"
+name = "Chiss"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "species/tuk_ata/entry.md"
+index = 5
+author = "ShadowKorbius"
+name = "Tuk'ata"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "species/kumumgah/entry.md"
+index = 6
+author = "Kazefall"
+name = "Kumumgah"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/togruta/entry.md"
+index = 7
+author = "Vexrionz"
+name = "Togruta"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/massassi/entry.md"
+index = 8
+author = "Chilimeni"
+name = "Massassi"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/krayt_dragon/entry.md"
+index = 9
+author = "RobloxianMan1023"
+name = "Krayt Dragon"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/chagrians/entry.md"
+index = 10
+author = "PhaseSpectr"
+name = "Chagrians"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/talz/entry.md"
+index = 11
+author = "PhaseSpectr"
+name = "Talz"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/gamorrean/entry.md"
+index = 12
+author = "mrcake_201"
+name = "Gamorrean"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/dressellians/entry.md"
+index = 13
+author = "PhaseSpectr"
+name = "Dressellians"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/devaronian/entry.md"
+index = 14
+author = "Craked10"
+name = "Devaronian"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/rakata/entry.md"
+index = 15
+author = "C_aladria"
+name = "Rakata"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/ho_din/entry.md"
+index = 16
+author = "Private_Popsicle"
+name = "Ho'Din"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/yuuzhan_vong/entry.md"
+index = 17
+author = "AustinKaril"
+name = "Yuuzhan Vong"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/jenet/entry.md"
+index = 18
+author = "Private_Popsicle"
+name = "Jenet"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/twi_lek/entry.md"
+index = 19
+author = "FlashPanik"
+name = "Twi'lek"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/fosh/entry.md"
+index = 20
+author = "Remalior"
+name = "Fosh"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/nekghoul/entry.md"
+index = 21
+author = "CrazyMaRKuLsIO"
+name = "Nekghoul"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/technobeast/entry.md"
+index = 22
+author = "Worlock365"
+name = "Technobeast"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/rakghoul/entry.md"
+index = 23
+author = "CrazyMaRKuLsIO"
+name = "Rakghoul"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/mirialan/entry.md"
+index = 24
+author = "CrazyMaRKuLsIO"
+name = "Mirialan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/ecorb/entry.md"
+index = 25
+author = "Aceltra72279"
+name = "Ecorb"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/squib/entry.md"
+index = 26
+author = "CrazyMaRKuLsIO"
+name = "Squib"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/kaadu/entry.md"
+index = 27
+author = "Long_Industries"
+name = "Kaadu"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/zuguruk/entry.md"
+index = 28
+author = "Long_Industries"
+name = "Zuguruk"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/talortai/entry.md"
+index = 30
+author = "SpawnKiller1326"
+name = "Talortai"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/abednedo/entry.md"
+index = 31
+author = "Kabuto40k"
+name = "Abednedo"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/purrgil/entry.md"
+index = 32
+author = "bebravesingapore"
+name = "Purrgil"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/skakoan/entry.md"
+index = 33
+author = "Private_Popsicle"
+name = "Skakoan"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/sipsk_ud/entry.md"
+index = 34
+author = "DevLoo_charismaGod"
+name = "Sipsk'ud"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/abominor/entry.md"
+index = 35
+author = "IppeiFTW"
+name = "Abominor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/ezaraa/entry.md"
+index = 36
+author = "AnimatedEcrux"
+name = "Ezaraa"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/sarlacc/entry.md"
+index = 37
+author = "nuariel"
+name = "Sarlacc"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/maelibus/entry.md"
+index = 38
+author = "IppeiFTW"
+name = "Maelibus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/mynock/entry.md"
+index = 39
+author = "Private_Popsicle"
+name = "Mynock"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/nautolan/entry.md"
+index = 40
+author = "Leviuchiha215"
+name = "Nautolan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/gungan/entry.md"
+index = 41
+author = "RobloxianMan1023"
+name = "Gungan"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/tognath/entry.md"
+index = 42
+author = "SkyPanik"
+name = "Tognath"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/wookie/entry.md"
+index = 43
+author = "RobloxianMan1023"
+name = "Wookie"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/falleen/entry.md"
+index = 44
+author = "Private_Popsicle"
+name = "Falleen"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/kyuzo/entry.md"
+index = 45
+author = "Private_Popsicle"
+name = "Kyuzo"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/kissai/entry.md"
+index = 46
+author = "Chilimeni"
+name = "Kissai"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/ugnaught/entry.md"
+index = 47
+author = "purebourne"
+name = "Ugnaught"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/lepi/entry.md"
+index = 48
+author = "ShokuMatsu"
+name = "Lepi"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/gand/entry.md"
+index = 49
+author = "PhaseSpectr"
+name = "Gand"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/klatooinian/entry.md"
+index = 50
+author = "Private_Popsicle"
+name = "Klatooinian"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/ewok/entry.md"
+index = 51
+author = "Phyphus"
+name = "Ewok"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/zygerrian/entry.md"
+index = 52
+author = "AnimatedEcrux"
+name = "Zygerrian"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/kaminoan/entry.md"
+index = 53
+author = "SpawnKiller1326"
+name = "Kaminoan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/trailian/entry.md"
+index = 54
+author = "ShokuPurpose"
+name = "Trailian"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/yoda_s_species/entry.md"
+index = 55
+author = "AnimatedEcrux"
+name = "Yoda's species"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/rancor/entry.md"
+index = 56
+author = "24dino"
+name = "Rancor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/ystervark/entry.md"
+index = 57
+author = "ShokuMatsu"
+name = "Ystervark"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/lasat/entry.md"
+index = 58
+author = "Private_Popsicle"
+name = "Lasat"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/terentatek/entry.md"
+index = 59
+author = "CrazyMaRKuLsIO"
+name = "Terentatek"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/iokath_species/entry.md"
+index = 60
+author = "AnimatedEcrux"
+name = "Iokath species"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/snivvian/entry.md"
+index = 61
+author = "Long_guy27"
+name = "Snivvian"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/flesh_raiders/entry.md"
+index = 62
+author = "EternalTrinity"
+name = "Flesh Raiders"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/cerean/entry.md"
+index = 63
+author = "Craked10"
+name = "Cerean"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/trianii/entry.md"
+index = 64
+author = "Remalior"
+name = "Trianii"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/shistavanen/entry.md"
+index = 65
+author = "Remalior"
+name = "Shistavanen"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/togorian/entry.md"
+index = 66
+author = "Remalior"
+name = "Togorian"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/nelvaanian/entry.md"
+index = 67
+author = "Remalior"
+name = "Nelvaanian"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/bith/entry.md"
+index = 68
+author = "Craked10"
+name = "Bith"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/chikarri/entry.md"
+index = 69
+author = "Remalior"
+name = "Chikarri"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/cantrosian/entry.md"
+index = 70
+author = "Remalior"
+name = "Cantrosian"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/anzat/entry.md"
+index = 71
+author = "Craked10"
+name = "Anzat"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/phindian/entry.md"
+index = 72
+author = "AcciusJuiiusCaesar"
+name = "Phindian"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/hutt/entry.md"
+index = 73
+author = "Long_Industries"
+name = "Hutt"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/zabrak/entry.md"
+index = 74
+author = "OfficiallyMommy"
+name = "Zabrak"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/zeltron/entry.md"
+index = 75
+author = "MysteryOmnis"
+name = "Zeltron"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/anx/entry.md"
+index = 76
+author = "Craked10"
+name = "Anx"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/amaran/entry.md"
+index = 77
+author = "Remalior"
+name = "Amaran"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/bimm/entry.md"
+index = 78
+author = "Remalior"
+name = "Bimm"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/cathar/entry.md"
+index = 79
+author = "Remalior"
+name = "Cathar"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/selonian/entry.md"
+index = 80
+author = "MysteryOmnis"
+name = "Selonian"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/clawdites/entry.md"
+index = 81
+author = "PhaseSpectr"
+name = "Clawdites"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/vulptereen/entry.md"
+index = 82
+author = "Private_Popsicle"
+name = "Vulptereen"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/zeffo/entry.md"
+index = 83
+author = "Framis"
+name = "Zeffo"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/theelin/entry.md"
+index = 84
+author = "AnimatedEcrux"
+name = "Theelin"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/barabel/entry.md"
+index = 85
+author = "AnimatedEcrux"
+name = "Barabel"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/herglic/entry.md"
+index = 86
+author = "ard1974"
+name = "Herglic"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/vurk/entry.md"
+index = 87
+author = "Private_Popsicle"
+name = "Vurk"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/vornskr/entry.md"
+index = 88
+author = "ElysiaLValkyrie"
+name = "Vornskr"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/vultan/entry.md"
+index = 89
+author = "ShadowKorbius"
+name = "Vultan"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "species/exogorth/entry.md"
+index = 90
+author = "PoH_v1"
+name = "Exogorth"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/starweird/entry.md"
+index = 91
+author = "Private_Popsicle"
+name = "Starweird"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/slith/entry.md"
+index = 92
+author = "AnimatedEcrux"
+name = "Slith"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/kaleesh/entry.md"
+index = 93
+author = "Private_Popsicle"
+name = "Kaleesh"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/elom/entry.md"
+index = 94
+author = "Craked10"
+name = "Elom"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/jawa/entry.md"
+index = 95
+author = "heaartkeepers"
+name = "Jawa"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/sando_aqua_monster/entry.md"
+index = 96
+author = "Private_Popsicle"
+name = "Sando aqua monster"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/muun/entry.md"
+index = 97
+author = "SpawnKiller1326"
+name = "Muun"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/qom_jha_and_qom_qae/entry.md"
+index = 98
+author = "AnimatedEcrux"
+name = "Qom Jha and Qom Qae"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/iktotchi/entry.md"
+index = 99
+author = "Craked10"
+name = "Iktotchi"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/killik/entry.md"
+index = 100
+author = "GamerNoob1007"
+name = "Killik"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/elomin/entry.md"
+index = 101
+author = "Craked10"
+name = "Elomin"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/summa_verminoth/entry.md"
+index = 102
+author = "PoH_v1"
+name = "Summa-verminoth"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/kel_dor/entry.md"
+index = 103
+author = "ShokuPurpose"
+name = "Kel Dor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/keeradak/entry.md"
+index = 104
+author = "BoarGrills"
+name = "Keeradak"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/kindalo/entry.md"
+index = 105
+author = "BoarGrills"
+name = "Kindalo"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/dianoga/entry.md"
+index = 106
+author = "Clumpat"
+name = "Dianoga"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "species/rodians/entry.md"
+index = 107
+author = "GamerNoob1007"
+name = "Rodians"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "species/weequay/entry.md"
+index = 108
+author = "wessiGRW"
+name = "Weequay"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "species/dathomirians/entry.md"
+index = 112
+author = "ElysiaLValkyrie"
+name = "Dathomirians"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "species/geonosians/entry.md"
+index = 113
+author = "Odysseus_v1"
+name = "Geonosians"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "species/kiffar/entry.md"
+index = 115
+author = "wessiGRW"
+name = "Kiffar"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "species/trandoshans/entry.md"
+index = 116
+author = "AlexanderWestley"
+name = "Trandoshans"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "species/abyssin/entry.md"
+index = 117
+author = "ValenTemenos"
+name = "Abyssin"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "species/the_rakatan/entry.md"
+index = 118
+author = "Eternal_Incursion"
+name = "The Rakatan"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "species/umbarans/entry.md"
+index = 119
+author = "AlexanderWestley"
+name = "Umbarans"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "species/mon_calamari/entry.md"
+index = 120
+author = "Il_van"
+name = "Mon Calamari"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "species/sullustan/entry.md"
+index = 121
+author = "Il_van"
+name = "Sullustan"
+release_year = 2024
+
+
+[[categories]]
+total_entries = 130
+name = "Planets"
+index = 4
+[[categories.entries]]
+markdown_path = "planets/asation/entry.md"
+index = 1
+author = "TheReaperOfReality"
+name = "Asation"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "planets/ziost/entry.md"
+index = 2
+author = "ShadowKorbius"
+name = "Ziost"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "planets/oricon/entry.md"
+index = 3
+author = "TheReaperOfReality"
+name = "Oricon"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "planets/nal_hutta/entry.md"
+index = 4
+author = "Karrykaren"
+name = "Nal Hutta"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/ezaraa/entry.md"
+index = 5
+author = "AnimatedEcrux"
+name = "Ezaraa"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/korriban/entry.md"
+index = 6
+author = "Chilimeni"
+name = "Korriban"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/dromund_fels/entry.md"
+index = 7
+author = "ShadowKorbius"
+name = "Dromund Fels"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "planets/dathomir/entry.md"
+index = 8
+author = "MommyMute"
+name = "Dathomir"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "planets/belsavis/entry.md"
+index = 9
+author = "TheReaperOfReality"
+name = "Belsavis"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "planets/fyodos/entry.md"
+index = 10
+author = "AnimatedEcrux"
+name = "Fyodos"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/mandalore/entry.md"
+index = 11
+author = "bonniealfonsochica"
+name = "Mandalore"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/yavin_iv/entry.md"
+index = 12
+author = "RavMalvern"
+name = "Yavin IV"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/eadu/entry.md"
+index = 13
+author = "ElMajestico"
+name = "Eadu"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/mustafar/entry.md"
+index = 14
+author = "RavMalvern"
+name = "Mustafar"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/kolaador/entry.md"
+index = 15
+author = "AnimatedEcrux"
+name = "Kolaador"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/jakku/entry.md"
+index = 16
+author = "Real_RedStar"
+name = "Jakku"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/zakuul/entry.md"
+index = 17
+author = "Obiseck"
+name = "Zakuul"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/yar_togna/entry.md"
+index = 18
+author = "SquashyOk"
+name = "Yar Togna"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/cholganna/entry.md"
+index = 19
+author = "AnimatedEcrux"
+name = "Cholganna"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/ashas_ree/entry.md"
+index = 20
+author = "Long_industries"
+name = "Ashas Ree"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/nathema/entry.md"
+index = 21
+author = "Long_Industries"
+name = "Nathema"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/carlac/entry.md"
+index = 22
+author = "purebourne"
+name = "Carlac"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/attahox/entry.md"
+index = 23
+author = "AnimatedEcrux"
+name = "Attahox"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/begeren/entry.md"
+index = 24
+author = "ValenTemenos"
+name = "Begeren"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/council/entry.md"
+index = 25
+author = "Il_van"
+name = "Council"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/lol/entry.md"
+index = 26
+author = "ShokuMatsu"
+name = "Lol"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/ruusan/entry.md"
+index = 27
+author = "ValenTemenos"
+name = "Ruusan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/bamayar_ix/entry.md"
+index = 28
+author = "AnimatedEcrux"
+name = "Bamayar IX"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/utapau/entry.md"
+index = 29
+author = "Framis"
+name = "Utapau"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/ukio/entry.md"
+index = 30
+author = "Framis"
+name = "Ukio"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/radhii/entry.md"
+index = 31
+author = "iMirones"
+name = "Radhii"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/vaal/entry.md"
+index = 32
+author = "iMirones"
+name = "Vaal"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/xendek/entry.md"
+index = 33
+author = "iMirones"
+name = "Xendek"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/ganthel/entry.md"
+index = 34
+author = "iMirones"
+name = "Ganthel"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/zeffo/entry.md"
+index = 35
+author = "SpawnKiller1326"
+name = "Zeffo"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/tatooine/entry.md"
+index = 36
+author = "divinediredread"
+name = "Tatooine"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/naboo/entry.md"
+index = 37
+author = "Phyphus"
+name = "Naboo"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/vandor/entry.md"
+index = 38
+author = "ShokuMatsu"
+name = "Vandor"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/tauber/entry.md"
+index = 39
+author = "Kavrakhos"
+name = "Tauber"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/uaua/entry.md"
+index = 40
+author = "Kavrakhos"
+name = "Uaua"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/almas/entry.md"
+index = 41
+author = "Kavrakhos"
+name = "Almas"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/arkania/entry.md"
+index = 42
+author = "ElMajestico"
+name = "Arkania"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/scipio/entry.md"
+index = 43
+author = "SpawnKiller1326"
+name = "Scipio"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/muunilinst/entry.md"
+index = 44
+author = "SpawnKiller1326"
+name = "Muunilinst"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/serenno/entry.md"
+index = 45
+author = "Kabuto40k"
+name = "Serenno"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/dantooine/entry.md"
+index = 46
+author = "ShokuPurpose"
+name = "Dantooine"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/makeb/entry.md"
+index = 47
+author = "24dino"
+name = "Makeb"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/geonosis/entry.md"
+index = 48
+author = "tbnrfan213432"
+name = "Geonosis"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/florrum/entry.md"
+index = 49
+author = "Long_Guy27"
+name = "Florrum"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/wrea/entry.md"
+index = 50
+author = "SkyPanik"
+name = "Wrea"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/var_shaa/entry.md"
+index = 51
+author = "SkyPanik"
+name = "Var Shaa"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/moraband/entry.md"
+index = 52
+author = "60328"
+name = "Moraband"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/endor/entry.md"
+index = 53
+author = "RobloxianMan1023"
+name = "Endor"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/xibariz/entry.md"
+index = 54
+author = "SkyPanik"
+name = "Xibariz"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/obroa_skai/entry.md"
+index = 55
+author = "SkyPanik"
+name = "Obroa-skai"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/wasskah/entry.md"
+index = 56
+author = "purebourne"
+name = "Wasskah"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/jelucan/entry.md"
+index = 57
+author = "SkyPanik"
+name = "Jelucan"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/oba_diah/entry.md"
+index = 58
+author = "SkyPanik"
+name = "Oba Diah"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/akiva/entry.md"
+index = 59
+author = "SkyPanik"
+name = "Akiva"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/pagodon/entry.md"
+index = 60
+author = "SkyPanik"
+name = "Pagodon"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/twon_ketee/entry.md"
+index = 61
+author = "SkyPanik"
+name = "Twon Ketee"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/cato_neimoidia/entry.md"
+index = 62
+author = "AlterAurum"
+name = "Cato Neimoidia"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "planets/tynna/entry.md"
+index = 63
+author = "SquashyOk"
+name = "Tynna"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/nar_shaddaa/entry.md"
+index = 64
+author = "bonniealfonsochica"
+name = "Nar Shaddaa"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/malachor_iii/entry.md"
+index = 65
+author = "bebravesingapore"
+name = "Malachor III"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/mon_cala/entry.md"
+index = 66
+author = "SkyPanik"
+name = "Mon Cala"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/exegol/entry.md"
+index = 67
+author = "ShadowKorbius"
+name = "Exegol"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "planets/zygerria/entry.md"
+index = 68
+author = "AnimatedEcrux"
+name = "Zygerria"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/fondor/entry.md"
+index = 69
+author = "PhaseSpectr"
+name = "Fondor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/athiss/entry.md"
+index = 70
+author = "ValenTemenos"
+name = "Athiss"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/balmorra/entry.md"
+index = 71
+author = "jinqxd"
+name = "Balmorra"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/csilla/entry.md"
+index = 72
+author = "ShokuMatsu"
+name = "Csilla"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/vashka/entry.md"
+index = 73
+author = "AnimatedEcrux"
+name = "Vashka"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/ord_vaxal/entry.md"
+index = 74
+author = "AnimatedEcrux"
+name = "Ord Vaxal"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/giju/entry.md"
+index = 75
+author = "ard1974"
+name = "Giju"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/dandoran/entry.md"
+index = 76
+author = "AnimatedEcrux"
+name = "Dandoran"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/valhari/entry.md"
+index = 77
+author = "iMirones"
+name = "Valhari"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/corellia/entry.md"
+index = 78
+author = "Leviuchiha215"
+name = "Corellia"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/byss/entry.md"
+index = 79
+author = "Long_industries"
+name = "Byss"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/ambria/entry.md"
+index = 80
+author = "ElMajestico"
+name = "Ambria"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/katarr/entry.md"
+index = 81
+author = "RavMalvern"
+name = "Katarr"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/paloma/entry.md"
+index = 82
+author = "AnimatedEcrux"
+name = "Paloma"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/tanalorr/entry.md"
+index = 83
+author = "bebravesingapore"
+name = "Tanalorr"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/taris/entry.md"
+index = 84
+author = "ShokuMatsu"
+name = "Taris"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/wroona/entry.md"
+index = 85
+author = "ShokuMatsu"
+name = "Wroona"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/bakura/entry.md"
+index = 86
+author = "ShokuMatsu"
+name = "Bakura"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/krayiss_ii/entry.md"
+index = 87
+author = "ValenTemenos"
+name = "Krayiss II"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/cadinth/entry.md"
+index = 88
+author = "ShokuMatsu"
+name = "Cadinth"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/crait/entry.md"
+index = 89
+author = "AnimatedEcrux"
+name = "Crait"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/velusia/entry.md"
+index = 90
+author = "ShokuMatsu"
+name = "Velusia"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/felucia/entry.md"
+index = 91
+author = "tbnrfan213432"
+name = "Felucia"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/hoxim/entry.md"
+index = 92
+author = "AnimatedEcrux"
+name = "Hoxim"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/cantonica/entry.md"
+index = 93
+author = "ShokuPurpose"
+name = "Cantonica"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/actlyon/entry.md"
+index = 94
+author = "AnimatedEcrux"
+name = "Actlyon"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/kessel/entry.md"
+index = 95
+author = "ShokuMatsu"
+name = "Kessel"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/vanquo/entry.md"
+index = 96
+author = "Kavrakhos"
+name = "Vanquo"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/rodia/entry.md"
+index = 97
+author = "purebourne"
+name = "Rodia"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/voss/entry.md"
+index = 98
+author = "IAmCatastrophe"
+name = "Voss"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/dagobah/entry.md"
+index = 99
+author = "Ferdtica"
+name = "Dagobah"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/malachor_v/entry.md"
+index = 100
+author = "C_aladria"
+name = "Malachor V"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/rhen_var/entry.md"
+index = 101
+author = "purebourne"
+name = "Rhen Var"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/saleucami/entry.md"
+index = 102
+author = "purebourne"
+name = "Saleucami"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/d_qar/entry.md"
+index = 103
+author = "Il_van"
+name = "D'Qar"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "planets/altora/entry.md"
+index = 104
+author = "BOBERTER123070"
+name = "Altora"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/anaxes/entry.md"
+index = 105
+author = "AnimatedEcrux"
+name = "Anaxes"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/honoghr/entry.md"
+index = 106
+author = "ShokuPurpose"
+name = "Honoghr"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/abafar/entry.md"
+index = 107
+author = "Long_Guy27"
+name = "Abafar"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/ryloth/entry.md"
+index = 108
+author = "edex08"
+name = "Ryloth"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/rakata_prime/entry.md"
+index = 109
+author = "SkyPanik"
+name = "Rakata Prime"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/targonn/entry.md"
+index = 110
+author = "AnimatedEcrux"
+name = "Targonn"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/ossus/entry.md"
+index = 111
+author = "BOBERTER123070"
+name = "Ossus"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/ch_hodos/entry.md"
+index = 112
+author = "gamer_doritos1"
+name = "Ch'hodos"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/tralus/entry.md"
+index = 113
+author = "Kriliis"
+name = "Tralus"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/pillio/entry.md"
+index = 114
+author = "Long_Guy27"
+name = "Pillio"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/iridonia/entry.md"
+index = 115
+author = "Il_van"
+name = "Iridonia"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "planets/gloam/entry.md"
+index = 116
+author = "Unknown"
+name = "Gloam"
+release_year = 0
+
+[[categories.entries]]
+markdown_path = "planets/pasaana/entry.md"
+index = 117
+author = "Clumpat"
+name = "Pasaana"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/wellspring_of_life/entry.md"
+index = 118
+author = "SkyPanik"
+name = "Wellspring of Life"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/umbara/entry.md"
+index = 119
+author = "Karrykaren"
+name = "Umbara"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/zolan/entry.md"
+index = 120
+author = "Yuffiao"
+name = "Zolan"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/naporar/entry.md"
+index = 121
+author = "DaedricOtto"
+name = "Naporar"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "planets/mygeeto/entry.md"
+index = 122
+author = "Edex08"
+name = "Mygeeto"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/maridun/entry.md"
+index = 123
+author = "Clumpat"
+name = "Maridun"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/aleen/entry.md"
+index = 124
+author = "Iridinia"
+name = "Aleen"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/lothal/entry.md"
+index = 125
+author = "joelbloxx"
+name = "Lothal"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/celegia/entry.md"
+index = 126
+author = "purebourne"
+name = "Celegia"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/christophsis/entry.md"
+index = 127
+author = "AlexanderWestley"
+name = "Christophsis"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "planets/kef_bir/entry.md"
+index = 128
+author = "lI_van"
+name = "Kef Bir"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "planets/dromund_kaas/entry.md"
+index = 129
+author = "RavMalvern"
+name = "Dromund Kaas"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "planets/ilum/entry.md"
+index = 130
+author = "bebravesingapore"
+name = "Ilum"
+release_year = 2023
+
+
+[[categories]]
+total_entries = 60
+name = "History"
+index = 5
+[[categories.entries]]
+markdown_path = "history/origin_of_the_dreads/entry.md"
+index = 1
+author = "PhaseSpectr"
+name = "Origin of the Dreads"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "history/mission_to_mustafar/entry.md"
+index = 2
+author = "edex08"
+name = "Mission to Mustafar"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/hundred_year_darkness/entry.md"
+index = 3
+author = "ThornedRedRose"
+name = "Hundred-Year Darkness"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "history/golden_age_of_the_sith/entry.md"
+index = 4
+author = "ShadowKorbius"
+name = "Golden Age of The Sith"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "history/great_hyperspace_war/entry.md"
+index = 5
+author = "Chilimeni"
+name = "Great Hyperspace War"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/great_scourge_of_malachor/entry.md"
+index = 6
+author = "Redjaal"
+name = "Great Scourge of Malachor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/galactic_republic_unification_wars/entry.md"
+index = 7
+author = "Chilimeni"
+name = "Galactic Republic Unification Wars"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/first_battle_of_ruusan/entry.md"
+index = 8
+author = "ValenTemenos"
+name = "First Battle of Ruusan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/first_great_schism/entry.md"
+index = 9
+author = "Chilimeni"
+name = "First Great Schism"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/rakatan_civil_war/entry.md"
+index = 10
+author = "C_aladria"
+name = "Rakatan Civil War"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/funeral_of_marka_ragnos/entry.md"
+index = 11
+author = "Worlock365"
+name = "Funeral of Marka Ragnos"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/sith_civil_war/entry.md"
+index = 12
+author = "Chilimeni"
+name = "Sith Civil War"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/crusade_of_krath/entry.md"
+index = 13
+author = "popydog21"
+name = "Crusade of Krath"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/destruction_of_tund/entry.md"
+index = 14
+author = "ShokuMatsu"
+name = "Destruction of Tund"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/nathema_ritual/entry.md"
+index = 15
+author = "RavMalvern"
+name = "Nathema Ritual"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/xer_s_campaigns/entry.md"
+index = 16
+author = "RavMalvern"
+name = "Xer's Campaigns"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/korriban_incursion/entry.md"
+index = 17
+author = "RavMalvern"
+name = "Korriban Incursion"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/first_jedi_purge/entry.md"
+index = 18
+author = "RavMalvern"
+name = "First Jedi Purge"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/cremlevian_war/entry.md"
+index = 19
+author = "ShokuMatsu"
+name = "Cremlevian War"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/seventh_battle_of_ruusan/entry.md"
+index = 20
+author = "ValenTemenos"
+name = "Seventh Battle of Ruusan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/mandalorian_wars/entry.md"
+index = 21
+author = "seko1111"
+name = "Mandalorian Wars"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "history/sith_holocaust/entry.md"
+index = 22
+author = "KenjiVolt"
+name = "Sith Holocaust"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/battle_of_yavin/entry.md"
+index = 23
+author = "ShokuMatsu"
+name = "Battle of Yavin"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/dread_war/entry.md"
+index = 24
+author = "RavMalvern"
+name = "Dread War"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/first_alsakan_conflict/entry.md"
+index = 25
+author = "ValenTemenos"
+name = "First Alsakan Conflict"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/great_sith_wars/entry.md"
+index = 26
+author = "Worlock365"
+name = "Great Sith Wars"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/tionese_war/entry.md"
+index = 27
+author = "gamer_doritos1"
+name = "Tionese War"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/new_sith_wars/entry.md"
+index = 28
+author = "ValenTemenos"
+name = "New Sith Wars"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/candorian_plague/entry.md"
+index = 29
+author = "ElysiaLValkyrie"
+name = "Candorian Plague"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/skirmish_on_mapuzo/entry.md"
+index = 30
+author = "ValenTemenos"
+name = "Skirmish on Mapuzo"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/operation_knightfall/entry.md"
+index = 31
+author = "KenjiVolt"
+name = "Operation: Knightfall"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/great_galactic_war/entry.md"
+index = 32
+author = "EternalTrinity"
+name = "Great Galactic War"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/battle_of_phaseera/entry.md"
+index = 33
+author = "ShokuPurpose"
+name = "Battle of Phaseera"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/jedi_civil_war/entry.md"
+index = 34
+author = "ShokuMatsu"
+name = "Jedi Civil War"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/reign_of_the_ax/entry.md"
+index = 35
+author = "jaketstone34"
+name = "Reign of the Ax"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/battle_of_scarif/entry.md"
+index = 36
+author = "Redjaal"
+name = "Battle of Scarif"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/duel_on_mustafar/entry.md"
+index = 37
+author = "Renjaal"
+name = "Duel on Mustafar"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/mistakes_of_russan/entry.md"
+index = 38
+author = "jaketstone34"
+name = "Mistakes of Russan"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/sacking_of_coruscant/entry.md"
+index = 39
+author = "AwesomeO561"
+name = "Sacking of Coruscant"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/war_on_shu_torun/entry.md"
+index = 40
+author = "SquashyOk"
+name = "War on Shu-Torun"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/great_hunt/entry.md"
+index = 41
+author = "PhaseSpectr"
+name = "Great Hunt"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/treaty_of_vontor/entry.md"
+index = 42
+author = "ShineEpic"
+name = "Treaty of Vontor"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/pius_dea_crusades/entry.md"
+index = 43
+author = "ValenTemenos"
+name = "Pius Dea Crusades"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/force_wars/entry.md"
+index = 44
+author = "Chilimeni"
+name = "Force Wars"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/battle_of_tython/entry.md"
+index = 45
+author = "bonniealfonsochica"
+name = "Battle of Tython"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/darth_desolous_skirmishes/entry.md"
+index = 46
+author = "ard1974"
+name = "Darth Desolous Skirmishes"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/treaty_of_coruscant/entry.md"
+index = 47
+author = "ShineEpic"
+name = "Treaty of Coruscant"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/third_alsakan_conflict/entry.md"
+index = 48
+author = "ValenTemenos"
+name = "Third Alsakan Conflict"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/time_of_rot/entry.md"
+index = 49
+author = "60328"
+name = "Time of Rot"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/third_battle_of_ruusan/entry.md"
+index = 50
+author = "ValenTemenos"
+name = "Third Battle of Ruusan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/battle_of_malachor_v/entry.md"
+index = 51
+author = "BoarGrills"
+name = "Battle of Malachor V"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/battle_of_jakku/entry.md"
+index = 52
+author = "FeudalCrow"
+name = "Battle of Jakku"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/battle_of_thule/entry.md"
+index = 53
+author = "Real_RedStar"
+name = "Battle of Thule"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/great_jedi_purge_order_66/entry.md"
+index = 54
+author = "Minato_Yt108"
+name = "Great Jedi Purge \n(Order 66)"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "history/darth_vader_s_purge/entry.md"
+index = 55
+author = "Minato_Yt108"
+name = "Darth Vader's Purge"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "history/the_ruusan_reformation/entry.md"
+index = 56
+author = "AlexanderWestley"
+name = "The Ruusan Reformation"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "history/sith_imperial_war/entry.md"
+index = 57
+author = "AlexanderWestley"
+name = "Sith-Imperial War"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "history/the_fall_of_the_galactic_empire/entry.md"
+index = 59
+author = "tiger0989"
+name = "The Fall of the Galactic Empire"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "history/the_rise_of_the_galactic_empire/entry.md"
+index = 60
+author = "tiger0989"
+name = "The Rise of the Galactic Empire"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "history/the_galactic_civil_war/entry.md"
+index = 61
+author = "AlexJackz"
+name = "The Galactic Civil War"
+release_year = 2024
+
+
+[[categories]]
+total_entries = 92
+name = "Scientific Studies"
+index = 6
+[[categories.entries]]
+markdown_path = "scientific_studies/classes_of_droids/entry.md"
+index = 1
+author = "BoarGrills"
+name = "Classes of Droids"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "scientific_studies/mc80_liberty_type_star_cruiser/entry.md"
+index = 2
+author = "PoH_v1"
+name = "MC80 Liberty-Type Star Cruiser"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/hypergates/entry.md"
+index = 3
+author = "SonofLotus"
+name = "Hypergates"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "scientific_studies/dynamic_class_freighter/entry.md"
+index = 4
+author = "ElMajestico"
+name = "Dynamic-class Freighter"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tulak_hord_s_madness/entry.md"
+index = 5
+author = "TheReaperOfReality"
+name = "Tulak Hord's Madness"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "scientific_studies/aurora_cannon/entry.md"
+index = 6
+author = "crystalboy1234"
+name = "Aurora Cannon"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "scientific_studies/star_forge/entry.md"
+index = 7
+author = "ThornedRedRose"
+name = "Star Forge"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "scientific_studies/sentience/entry.md"
+index = 8
+author = "Chilimeni"
+name = "Sentience"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/the_dying_sun/entry.md"
+index = 9
+author = "ShokuPurpose"
+name = "The Dying Sun"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/jaig_eyes/entry.md"
+index = 10
+author = "seko1111"
+name = "Jaig Eyes"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "scientific_studies/payment_dispenser/entry.md"
+index = 11
+author = "Worlock365"
+name = "Payment Dispenser"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/kylo_ren_s_command_shuttle/entry.md"
+index = 12
+author = "Worlock365"
+name = "Kylo Ren's Command Shuttle"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/kolto/entry.md"
+index = 13
+author = "deadima"
+name = "Kolto"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/fury_class_interceptor/entry.md"
+index = 14
+author = "Worlock365"
+name = "Fury-class Interceptor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/silencer/entry.md"
+index = 15
+author = "RedGhoulUL"
+name = "Silencer"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/the_kauri_princess/entry.md"
+index = 16
+author = "ElysiaLValkyrie"
+name = "The Kauri Princess"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/nssis_class_clawcraft/entry.md"
+index = 17
+author = "bonniealfonsochica"
+name = "Nssis-class Clawcraft"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/eclipse_class_dreadnought/entry.md"
+index = 18
+author = "KenjiVolt"
+name = "Eclipse-class Dreadnought"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_lambada/entry.md"
+index = 19
+author = "iMirones"
+name = "TIE Lambada"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_phantom/entry.md"
+index = 20
+author = "Framis"
+name = "TIE Phantom"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_vanguard/entry.md"
+index = 21
+author = "SpawnKiller1326"
+name = "TIE Vanguard"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/suluk/entry.md"
+index = 22
+author = "Worlock365"
+name = "Suluk"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/spice/entry.md"
+index = 23
+author = "divinediredread"
+name = "Spice"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/gozanti_class_cruiser/entry.md"
+index = 24
+author = "ElysiaLValkyrie"
+name = "Gozanti-class Cruiser"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/all_terrain_armored_transport/entry.md"
+index = 25
+author = "ShokuPurpose"
+name = "All Terrain Armored Transport"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/the_sickness/entry.md"
+index = 26
+author = "KenjiVolt"
+name = "The Sickness"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/rz_1_a_wing_interceptor/entry.md"
+index = 27
+author = "Worlock365"
+name = "RZ-1 A-wing Interceptor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/spike/entry.md"
+index = 28
+author = "ShokuPurpose"
+name = "Spike"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/emperor_palpatine_s_shuttle/entry.md"
+index = 29
+author = "ViroSpect"
+name = "Emperor Palpatine's Shuttle"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/gungan_energy_shield/entry.md"
+index = 30
+author = "Vexrionz"
+name = "Gungan Energy Shield "
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/universal_translators/entry.md"
+index = 31
+author = "RedGhoulUL"
+name = "Universal Translators"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/bacta/entry.md"
+index = 32
+author = "RedGhoulUL"
+name = "Bacta"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/the_outrider/entry.md"
+index = 33
+author = "RedGhoulUL"
+name = "The Outrider"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/mark_vi_interceptor/entry.md"
+index = 34
+author = "ValenTemenos"
+name = "Mark VI Interceptor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/synthetic_crystal/entry.md"
+index = 35
+author = "Ruvjaal"
+name = "Synthetic Crystal"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/harrower_class_dreadnought/entry.md"
+index = 36
+author = "RedGhoulUL"
+name = "Harrower-class Dreadnought"
+release_year = 0
+
+[[categories.entries]]
+markdown_path = "scientific_studies/guavian_ship/entry.md"
+index = 37
+author = "Kabuto40k"
+name = "Guavian Ship"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/munificent_class_star_frigate/entry.md"
+index = 38
+author = "PoH_v1"
+name = "Munificent-class Star Frigate"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_raptor/entry.md"
+index = 39
+author = "Zeldris98761"
+name = "TIE Raptor"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/lancet_aerial_artillery/entry.md"
+index = 40
+author = "mrcake_201"
+name = "Lancet Aerial Artillery"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/terminus_class_destroyer/entry.md"
+index = 41
+author = "RedGhoulUL"
+name = "Terminus-class Destroyer"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/sweetblossom/entry.md"
+index = 42
+author = "Rysesaka"
+name = "Sweetblossom"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/57c_holocam/entry.md"
+index = 43
+author = "ViroSpect"
+name = "57C Holocam"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/aura_blossom/entry.md"
+index = 44
+author = "AnimatedEcrux"
+name = "Aura Blossom"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_heavy_bomber/entry.md"
+index = 45
+author = "purebourne"
+name = "TIE Heavy Bomber"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_oppressor/entry.md"
+index = 46
+author = "60328"
+name = "TIE Oppressor"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_experimental_m3/entry.md"
+index = 47
+author = "Redjaal"
+name = "TIE Experimental M3"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_lone_scout_a/entry.md"
+index = 48
+author = "PurposeMalvern"
+name = "TIE Lone-Scout A"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_defender/entry.md"
+index = 49
+author = "PurposeMalvern"
+name = "TIE Defender"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_x2/entry.md"
+index = 50
+author = "PurposeMalvern"
+name = "TIE/x2"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_interceptor/entry.md"
+index = 51
+author = "PurposeMalvern"
+name = "TIE Interceptor"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_aggressor/entry.md"
+index = 52
+author = "PurposeMalvern"
+name = "TIE Aggressor"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/a_wing_starfighter/entry.md"
+index = 53
+author = "ShokuMatsu"
+name = "A-wing Starfighter"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/dark_trooper_project/entry.md"
+index = 54
+author = "seko1111"
+name = "Dark Trooper Project"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_defender_prototype_12/entry.md"
+index = 55
+author = "Worlock365"
+name = "TIE Defender Prototype 12"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/sun_crusher/entry.md"
+index = 56
+author = "ShokuMatsu"
+name = "Sun Crusher"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/acid_beet_salad/entry.md"
+index = 57
+author = "SymboIOfFear"
+name = "Acid beet salad"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/action_vi_transport/entry.md"
+index = 58
+author = "ElMajestico"
+name = "Action VI Transport"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/the_sojourn/entry.md"
+index = 59
+author = "Worlock365"
+name = "The Sojourn"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/interdictor_class_destroyer/entry.md"
+index = 60
+author = "ElMajestico"
+name = "Interdictor-class Destroyer"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/republic_battleship/entry.md"
+index = 61
+author = "Worlock365"
+name = "Republic Battleship"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/the_renthal_s_vigilance/entry.md"
+index = 62
+author = "Worlock365"
+name = "The Renthal's Vigilance"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/vorknkx_project/entry.md"
+index = 63
+author = "Worlock365"
+name = "Vorknkx Project"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/kyber_crystals/entry.md"
+index = 64
+author = "OfficiallyMommy"
+name = "Kyber Crystals"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/super_star_destroyer/entry.md"
+index = 65
+author = "Worlock365"
+name = "Super Star Destroyer"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/starhawk_class_battleship/entry.md"
+index = 66
+author = "Worlock365"
+name = "Starhawk-class Battleship"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/lucrehulk_class_battleship/entry.md"
+index = 67
+author = "Worlock365"
+name = "Lucrehulk-class Battleship"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/providence_class_dreadnought/entry.md"
+index = 68
+author = "Worlock365"
+name = "Providence-class Dreadnought"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/keldabe_class_battleship/entry.md"
+index = 69
+author = "Worlock365"
+name = "Keldabe-class Battleship"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/derriphan_class_battleship/entry.md"
+index = 70
+author = "Worlock365"
+name = "Derriphan-class Battleship"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/kumauri_battleship/entry.md"
+index = 71
+author = "Worlock365"
+name = "Kumauri Battleship"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/cal_class_battleship/entry.md"
+index = 72
+author = "Worlock365"
+name = "Cal-class Battleship"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/the_ebon_hawk/entry.md"
+index = 73
+author = "ElMajestico"
+name = "The Ebon Hawk"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/goddess_missile/entry.md"
+index = 74
+author = "AnimatedEcrux"
+name = "Goddess Missile"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/gemini/entry.md"
+index = 75
+author = "AnimatedEcrux"
+name = "GEMINI"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/tie_torpedo_bomber/entry.md"
+index = 76
+author = "SkyPanik"
+name = "TIE Torpedo Bomber"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/consular_class_cruiser/entry.md"
+index = 77
+author = "ElMajestico"
+name = "Consular-class Cruiser"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/sith_war_droid/entry.md"
+index = 78
+author = "ThornedAshen"
+name = "Sith War Droid"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/kandosii_type_dreadnought/entry.md"
+index = 79
+author = "RedGhoulUL"
+name = "Kandosii-type Dreadnought"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/ig_227_hailfire_class_droid_tank/entry.md"
+index = 80
+author = "SpawnKiller1326"
+name = "IG-227 Hailfire-class Droid Tank"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/hyperspace_travel_physics/entry.md"
+index = 81
+author = "LuxReaper"
+name = "Hyperspace Travel Physics"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/death_stick/entry.md"
+index = 82
+author = "Rysesaka"
+name = "Death Stick"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/world_devastator/entry.md"
+index = 83
+author = "Luxreaper"
+name = "World Devastator"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/starfreighter_2000/entry.md"
+index = 84
+author = "PoH_v1"
+name = "Starfreighter 2000"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/mass_shadow_generator/entry.md"
+index = 85
+author = "ShadowKorbius"
+name = "Mass Shadow Generator"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "scientific_studies/executor_class_star_dreadnought/entry.md"
+index = 86
+author = "PoH_v1"
+name = "Executor-class Star Dreadnought"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "scientific_studies/midi_chlorians/entry.md"
+index = 87
+author = "ValenTemenos"
+name = "Midi-Chlorians"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "scientific_studies/cheunh/entry.md"
+index = 88
+author = "ThornedRedRose"
+name = "Cheunh"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "scientific_studies/anzati_snot_garlic/entry.md"
+index = 89
+author = "I_Kepler"
+name = "Anzati snot garlic"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "scientific_studies/bluebell_squish/entry.md"
+index = 90
+author = "I_Kepler"
+name = "Bluebell Squish"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "scientific_studies/vongforming_techniques/entry.md"
+index = 91
+author = "AlexanderWestley"
+name = "Vongforming Techniques"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "scientific_studies/death_s_embrace/entry.md"
+index = 92
+author = "AlexJackz"
+name = "Death's Embrace"
+release_year = 2024
+
+
+[[categories]]
+total_entries = 38
+name = "Sith Echelon"
+index = 7
+[[categories.entries]]
+markdown_path = "sith_echelon/emperor_s_hand/entry.md"
+index = 1
+author = "Ruvjaal"
+name = "Emperor's Hand"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/shadow_hand/entry.md"
+index = 2
+author = "seko1111"
+name = "Shadow Hand"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_inquisitor_imperial_era/entry.md"
+index = 3
+author = "ShadowKorbius"
+name = "Sith Inquisitor (Imperial Era)"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_assassin/entry.md"
+index = 4
+author = "ShadowKorbius"
+name = "Sith Assassin"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "sith_echelon/dark_lord_of_the_sith/entry.md"
+index = 5
+author = "Chilimeni"
+name = "Dark Lord of the Sith"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_overseer/entry.md"
+index = 6
+author = "Redjaal"
+name = "Sith Overseer"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_council/entry.md"
+index = 7
+author = "Chilimeni"
+name = "Sith Council"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_hopeful/entry.md"
+index = 8
+author = "Chilimeni"
+name = "Sith Hopeful"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_warrior/entry.md"
+index = 9
+author = "Redjaal"
+name = "Sith Warrior"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_inquisitor/entry.md"
+index = 10
+author = "Redjaal"
+name = "Sith Inquisitor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/emperor_s_voice/entry.md"
+index = 11
+author = "Obiseck"
+name = "Emperor's Voice"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_juggernaut/entry.md"
+index = 12
+author = "PhaseSpectr"
+name = "Sith Juggernaut"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_acolyte/entry.md"
+index = 13
+author = "Redjaal"
+name = "Sith Acolyte"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_sorcerer/entry.md"
+index = 14
+author = "Redjaal"
+name = "Sith Sorcerer"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_marauder/entry.md"
+index = 15
+author = "Ruvjaal"
+name = "Sith Marauder"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/grand_moff/entry.md"
+index = 16
+author = "Veliskiotis"
+name = "Grand Moff"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_scientist/entry.md"
+index = 17
+author = "BOBERTER123070"
+name = "Sith Scientist"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_saber/entry.md"
+index = 18
+author = "ViroSpect"
+name = "Sith Saber"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_apprentice/entry.md"
+index = 19
+author = "FlashPanik"
+name = "Sith Apprentice"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_spy/entry.md"
+index = 20
+author = "ViroSpect"
+name = "Sith Spy"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/powerbase/entry.md"
+index = 21
+author = "deadima"
+name = "Powerbase"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_battlemaster/entry.md"
+index = 22
+author = "Xenatious"
+name = "Sith Battlemaster"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_master/entry.md"
+index = 23
+author = "FlashPanik"
+name = "Sith Master"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_battlelord/entry.md"
+index = 24
+author = "ValenTemenos"
+name = "Sith Battlelord"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/dark_council/entry.md"
+index = 25
+author = "Ruvjaal"
+name = "Dark Council"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_hand/entry.md"
+index = 26
+author = "60328"
+name = "Sith Hand"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_echelon/darth/entry.md"
+index = 27
+author = "Redjaal"
+name = "Darth"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_cultist/entry.md"
+index = 28
+author = "ShokuPurpose"
+name = "Sith Cultist"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_king/entry.md"
+index = 29
+author = "ShokuPurpose"
+name = "Sith King"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_minion/entry.md"
+index = 30
+author = "ShineEpic"
+name = "Sith Minion"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_wraith/entry.md"
+index = 31
+author = "ElMajestico"
+name = "Sith Wraith"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_swordmaster/entry.md"
+index = 32
+author = "ElMajestico"
+name = "Sith Swordmaster"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_executioner/entry.md"
+index = 33
+author = "ElMajestico"
+name = "Sith Executioner"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_stalker/entry.md"
+index = 34
+author = "BOBERTER123070"
+name = "Sith Stalker"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_echelon/emperor_s_wrath/entry.md"
+index = 35
+author = "PhaseSpectr"
+name = "Emperor's Wrath"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_emperor/entry.md"
+index = 36
+author = "ElMajestico"
+name = "Sith Emperor"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "sith_echelon/master_of_the_sith/entry.md"
+index = 37
+author = "ErichKordenic"
+name = "Master of the Sith"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_lord/entry.md"
+index = 38
+author = "Minato_Yt108"
+name = "Sith Lord"
+release_year = 2024
+
+
+[[categories]]
+total_entries = 53
+name = "Points of Interest"
+index = 8
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_shrine_in_the_depths/entry.md"
+index = 1
+author = "SonOfLotus"
+name = "Sith Shrine in the Depths"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "points_of_interest/imperial_citadel/entry.md"
+index = 2
+author = "ThornedRedRose"
+name = "Imperial Citadel"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "points_of_interest/valley_of_the_dark_lords/entry.md"
+index = 3
+author = "seko1111"
+name = "Valley of the Dark Lords"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/orsis_academy/entry.md"
+index = 4
+author = "seko1111"
+name = "Orsis Academy"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "points_of_interest/great_temple_on_yavin_iv/entry.md"
+index = 5
+author = "ElMajestico"
+name = "Great Temple on Yavin IV"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_academy_on_korriban/entry.md"
+index = 6
+author = "Chilimeni"
+name = "Sith Academy on Korriban"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_citadel_on_ziost/entry.md"
+index = 7
+author = "Chilimeni"
+name = "Sith Citadel on Ziost"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/starlight_beacon/entry.md"
+index = 8
+author = "PhaseSpectr"
+name = "Starlight Beacon"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/death_star/entry.md"
+index = 9
+author = "Redjaal"
+name = "Death Star"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/trayus_academy/entry.md"
+index = 10
+author = "C_aladria"
+name = "Trayus Academy"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/temple_of_exar_kun/entry.md"
+index = 11
+author = "Worlock365"
+name = "Temple of Exar Kun"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_temple_on_malachor/entry.md"
+index = 12
+author = "xDaiku"
+name = "Sith Temple on Malachor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_temple_in_the_valley_of_the_dark_lords/entry.md"
+index = 13
+author = "jinqxd"
+name = "Sith Temple in the Valley of the Dark Lords"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_archives/entry.md"
+index = 14
+author = "jinqxd"
+name = "Sith Archives"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_embassy/entry.md"
+index = 15
+author = "xDaiku"
+name = "Sith Embassy"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_cave_on_mustafar/entry.md"
+index = 16
+author = "Worlock365"
+name = "Sith Cave on Mustafar"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_academy_on_umbara/entry.md"
+index = 17
+author = "ElysiaLValkyrie"
+name = "Sith Academy on Umbara"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/tomb_of_naga_sadow/entry.md"
+index = 18
+author = "Daedima"
+name = "Tomb of Naga Sadow"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_citadel_on_exegol/entry.md"
+index = 19
+author = "SonofLotus"
+name = "Sith Citadel on Exegol"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "points_of_interest/darth_vader_s_meditation_chamber/entry.md"
+index = 20
+author = "Mateo_222"
+name = "Darth Vader's Meditation Chamber"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_observatory/entry.md"
+index = 21
+author = "Craked10"
+name = "Sith Observatory"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/wild_space/entry.md"
+index = 22
+author = "ShokuMatsu"
+name = "Wild Space"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/dark_temple_on_dromund_kaas/entry.md"
+index = 23
+author = "RavMalvern"
+name = "Dark Temple on Dromund Kaas"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_temple_on_mustafar/entry.md"
+index = 24
+author = "jinqxd"
+name = "Sith Temple on Mustafar"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_temple_on_ashas_ree/entry.md"
+index = 25
+author = "xDaiku"
+name = "Sith Temple on Ashas Ree"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_architecture_on_thule/entry.md"
+index = 26
+author = "ard1974"
+name = "Sith Architecture on Thule"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_temple_on_moraband/entry.md"
+index = 27
+author = "jinqxd"
+name = "Sith Temple on Moraband"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/dark_force_temple/entry.md"
+index = 28
+author = "Mateo_222"
+name = "Dark Force Temple"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/darth_azamin_s_stronghold/entry.md"
+index = 29
+author = "jinqxd"
+name = "Darth Azamin's Stronghold"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/throne_of_the_sith/entry.md"
+index = 30
+author = "jinqxd"
+name = "Throne of the Sith"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/outer_rim_territories/entry.md"
+index = 31
+author = "RedGhoulUL"
+name = "Outer Rim Territories"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_temple_on_zigoola/entry.md"
+index = 32
+author = "jinqxd"
+name = "Sith Temple on Zigoola"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/mount_tantiss/entry.md"
+index = 33
+author = "BoarGrills"
+name = "Mount Tantiss"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/rakatan_writings_of_lehon/entry.md"
+index = 34
+author = "AlexanderWestley"
+name = "Rakatan Writings of Lehon"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "points_of_interest/utapau_sinkholes/entry.md"
+index = 35
+author = "PoH_v1"
+name = "Utapau Sinkholes"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/wheel/entry.md"
+index = 36
+author = "BOBERTER123070"
+name = "Wheel"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/dxun/entry.md"
+index = 37
+author = "PoH_v1"
+name = "Dxun"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/emperor_s_observatory_on_pillio/entry.md"
+index = 38
+author = "Long_guy27"
+name = "Emperor's Observatory on Pillio"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/bendu_s_valley/entry.md"
+index = 39
+author = "BoarGrills"
+name = "Bendu's Valley"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/massassi_temples/entry.md"
+index = 40
+author = "edex08"
+name = "Massassi Temples"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/valley_of_golg/entry.md"
+index = 41
+author = "BoarGrills"
+name = "Valley of Golg"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/eclipse_station/entry.md"
+index = 42
+author = "LuxReaper"
+name = "Eclipse Station"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/dread_fortress/entry.md"
+index = 43
+author = "jinqxd"
+name = "Dread Fortress"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/bast_castle/entry.md"
+index = 44
+author = "PoH_v1"
+name = "Bast Castle"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/centerpoint_station/entry.md"
+index = 45
+author = "Luxreaper"
+name = "Centerpoint station"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/clan_skirata_s_farm/entry.md"
+index = 46
+author = "Edex08"
+name = "Clan Skirata’s Farm"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/citadel/entry.md"
+index = 47
+author = "Karrykaren"
+name = "Citadel"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/maw/entry.md"
+index = 48
+author = "BoarGrills"
+name = "Maw"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/sith_temple_on_korriban/entry.md"
+index = 49
+author = "GamerNoob1007"
+name = "Sith  Temple on Korriban"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/tomb_of_freedon_nadd/entry.md"
+index = 50
+author = "AlexanderWestley"
+name = "Tomb of Freedon Nadd"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "points_of_interest/rishi_maze/entry.md"
+index = 51
+author = "ElysiaLValkyrie"
+name = "Rishi Maze"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "points_of_interest/palace_of_the_woolamander/entry.md"
+index = 52
+author = "AlexJackz"
+name = "Palace of the Woolamander"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "points_of_interest/tomb_of_ludo_kressh/entry.md"
+index = 53
+author = "AlexanderWestley"
+name = "Tomb of Ludo Kressh"
+release_year = 2024
+
+
+[[categories]]
+total_entries = 64
+name = "Combat Studies"
+index = 9
+[[categories.entries]]
+markdown_path = "combat_studies/gungan_booma/entry.md"
+index = 1
+author = "Long_Industries"
+name = "Gungan Booma"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/form_viii_kendosu/entry.md"
+index = 2
+author = "ValenTemenos"
+name = "Form VIII - Kendosu"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/protosaber/entry.md"
+index = 3
+author = "MommyDorchadas"
+name = "Protosaber"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/double_bladed_lightsaber/entry.md"
+index = 4
+author = "Chilimeni"
+name = "Double-Bladed Lightsaber"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/crushgaunt/entry.md"
+index = 5
+author = "ElMajestico"
+name = "Crushgaunt"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/form_x_jar_kai/entry.md"
+index = 6
+author = "iMirones"
+name = "Form X - Jar’kai"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/double_bladed_spinning_lightsaber/entry.md"
+index = 7
+author = "Redjaal"
+name = "Double-Bladed Spinning Lightsaber"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/energy_slingshot/entry.md"
+index = 8
+author = "Long_Industries"
+name = "Energy Slingshot"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/sun_djem/entry.md"
+index = 9
+author = "Redjaal"
+name = "Sun Djem"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/lightsaber_pike/entry.md"
+index = 10
+author = "PhaseSpectr"
+name = "Lightsaber Pike"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/shiim/entry.md"
+index = 11
+author = "C_aladria"
+name = "Shiim"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/echani_martial_arts/entry.md"
+index = 12
+author = "daedima"
+name = "Echani Martial Arts"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/lightwhip/entry.md"
+index = 13
+author = "popydog21"
+name = "Lightwhip"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/zann_defiler_tactics/entry.md"
+index = 14
+author = "Rysesaka"
+name = "Zann Defiler Tactics"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/shoto_lightsaber/entry.md"
+index = 15
+author = "Long_Industries"
+name = "Shoto Lightsaber"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/sabercane/entry.md"
+index = 16
+author = "ViroSpect"
+name = "Sabercane"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/mandalorian_vambrace/entry.md"
+index = 17
+author = "ElMajestico"
+name = "Mandalorian Vambrace"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/electro_whip/entry.md"
+index = 18
+author = "Long_Industries"
+name = "Electro Whip"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/vibro_axe/entry.md"
+index = 19
+author = "Long_Industries"
+name = "Vibro Axe"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/cho_mai/entry.md"
+index = 20
+author = "RavMalvern"
+name = "Cho Mai"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/force_imbued_blade/entry.md"
+index = 21
+author = "ValenTemenos"
+name = "Force-imbued blade"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/chain_sickle/entry.md"
+index = 22
+author = "ElysiaLValkyrie"
+name = "Chain Sickle"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/darksaber/entry.md"
+index = 23
+author = "Long_Industries"
+name = "Darksaber"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/sith_poison/entry.md"
+index = 24
+author = "Wither117717"
+name = "Sith Poison"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/ready_stances/entry.md"
+index = 25
+author = "ElysiaLValkyrie"
+name = "Ready Stances"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/tl_50_heavy_repeater/entry.md"
+index = 26
+author = "Worlock365"
+name = "TL-50 Heavy Repeater"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/sith_lightsaber_variants/entry.md"
+index = 27
+author = "jaketstone34"
+name = "Sith Lightsaber Variants"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/lightsaber_construction_sith_way/entry.md"
+index = 28
+author = "jaketstone34"
+name = "Lightsaber Construction - Sith way"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/blastsword_fighting_techniques/entry.md"
+index = 29
+author = "edex08"
+name = "Blastsword Fighting Techniques"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/vibroshield/entry.md"
+index = 30
+author = "RedGhoulUL"
+name = "Vibroshield"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/forcesaber/entry.md"
+index = 31
+author = "Long_Industries"
+name = "Forcesaber"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/lightsaber_parasol/entry.md"
+index = 32
+author = "Craked10"
+name = "Lightsaber Parasol"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/vibroblade/entry.md"
+index = 33
+author = "SpawnKiller1326"
+name = "Vibroblade"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/lightsaber_blaster_hybrid/entry.md"
+index = 34
+author = "Long_Industries"
+name = "Lightsaber-Blaster Hybrid"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/mou_kei/entry.md"
+index = 35
+author = "ValenTemenos"
+name = "Mou Kei"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/crossguard_lightsaber/entry.md"
+index = 36
+author = "Redjaal"
+name = "Crossguard Lightsaber"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/trispzest/entry.md"
+index = 37
+author = "ElMajestico"
+name = "Trispzest"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/form_xi_tràkata/entry.md"
+index = 38
+author = "Chilimeni"
+name = "Form XI - Tràkata"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/stava/entry.md"
+index = 39
+author = "ElMajestico"
+name = "Stava"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/kinetic_combat/entry.md"
+index = 40
+author = "Clumpat"
+name = "Kinetic Combat"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/teräs_käsi/entry.md"
+index = 41
+author = "iMirones"
+name = "Teräs Käsi"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/ancient_sith_armor/entry.md"
+index = 42
+author = "Remalior"
+name = "Ancient Sith Armor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/disruptor/entry.md"
+index = 43
+author = "daedima"
+name = "Disruptor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/mandalorian_armor/entry.md"
+index = 44
+author = "MommyMute"
+name = "Mandalorian Armor"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "combat_studies/marksman_h_combat_remote/entry.md"
+index = 45
+author = "Worlock365"
+name = "Marksman-H Combat Remote"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/orbalisk_armor/entry.md"
+index = 46
+author = "Worlock365"
+name = "Orbalisk Armor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/thermal_detonator/entry.md"
+index = 47
+author = "ShokuMatsu"
+name = "Thermal Detonator"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/guard_shoto/entry.md"
+index = 48
+author = "OfficiallyMommy"
+name = "Guard Shoto"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/dark_side_combat/entry.md"
+index = 49
+author = "jaketstone34"
+name = "Dark Side Combat"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/electroblade_training_saber/entry.md"
+index = 50
+author = "Redjaal"
+name = "Electroblade: Training Saber"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/traditional_lightsaber_combat_forms/entry.md"
+index = 51
+author = "Chilimeni"
+name = "Traditional Lightsaber Combat Forms"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/lightsaber_rifle/entry.md"
+index = 52
+author = "Long_Industries"
+name = "Lightsaber Rifle"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/lightsaber_variants/entry.md"
+index = 53
+author = "jaketstone34"
+name = "Lightsaber Variants"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/marks_of_contact/entry.md"
+index = 54
+author = "jaketstone34"
+name = "Marks of Contact"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/saberstaff/entry.md"
+index = 55
+author = "jaketstone34"
+name = "Saberstaff"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/sith_sword/entry.md"
+index = 56
+author = "Mateo_222"
+name = "Sith Sword"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/form_xix_dun_möch/entry.md"
+index = 57
+author = "RavMalvern"
+name = "Form XIX - Dun Möch"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/ig_100_magnaguard_combat_techniques/entry.md"
+index = 58
+author = "edex08"
+name = "IG-100 MagnaGuard Combat Techniques"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/zeyd_cloth/entry.md"
+index = 59
+author = "PoH_v1"
+name = "Zeyd-cloth"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/blaster/entry.md"
+index = 60
+author = "Renjaal"
+name = "Blaster"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/jensaarai_combat_style/entry.md"
+index = 61
+author = "PoH_v1"
+name = "Jensaarai Combat Style"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/lugjack_machine/entry.md"
+index = 62
+author = "PoH_v1"
+name = "Lugjack Machine"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/wampa_ambush_tactics/entry.md"
+index = 63
+author = "joelbloxx"
+name = "Wampa Ambush Tactics"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "combat_studies/vornskr_hunting_techniques/entry.md"
+index = 64
+author = "TorrykkTheGod"
+name = "Vornskr Hunting Techniques"
+release_year = 2024
+
+
+[[categories]]
+total_entries = 61
+name = "Archaeological Studies"
+index = 10
+[[categories.entries]]
+markdown_path = "archaeological_studies/exar_kun_s_lightsaber/entry.md"
+index = 1
+author = "PhaseSpectr"
+name = "Exar Kun's Lightsaber"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/holocron_of_belia_darzu/entry.md"
+index = 2
+author = "ShokuPurpose"
+name = "Holocron of Belia Darzu"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/scepter_of_ragnos/entry.md"
+index = 3
+author = "PhaseSpectr"
+name = "Scepter of Ragnos"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/mask_of_viceroy_exim_panshard/entry.md"
+index = 4
+author = "jinqxd"
+name = "Mask of Viceroy Exim Panshard"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/dagger_of_mortis/entry.md"
+index = 5
+author = "ChaseTheStarWarsNerd"
+name = "Dagger of Mortis"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/embrace_of_pain/entry.md"
+index = 6
+author = "PhaseSpectr"
+name = "Embrace of Pain"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/revan_s_mask/entry.md"
+index = 7
+author = "PhaseSpectr"
+name = "Revan's Mask"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/durindfire_crystal/entry.md"
+index = 8
+author = "bebravesingapore"
+name = "Durindfire Crystal"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/morrigan_scrolls/entry.md"
+index = 9
+author = "PhaseSpectr"
+name = "Morrigan Scrolls"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/muur_talisman/entry.md"
+index = 10
+author = "PhaseSpectr"
+name = "Muur Talisman"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/phobis_devices/entry.md"
+index = 11
+author = "PhaseSpectr"
+name = "Phobis Devices"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/ravager/entry.md"
+index = 12
+author = "PhaseSpectr"
+name = "Ravager"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/seeds_of_rage/entry.md"
+index = 13
+author = "PhaseSpectr"
+name = "Seeds of Rage"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/mask_of_lord_momin/entry.md"
+index = 14
+author = "PhaseSpectr"
+name = "Mask of Lord Momin"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/darth_atrius_s_lightsabers/entry.md"
+index = 15
+author = "PhaseSpectr"
+name = "Darth Atrius’s Lightsabers"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/sword_of_khashyun/entry.md"
+index = 16
+author = "ShadowKorbius"
+name = "Sword of Khashyun"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/mask_of_darth_nihilus/entry.md"
+index = 17
+author = "AcciusJuiiusCaesar"
+name = "Mask of Darth Nihilus"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/sith_medallion/entry.md"
+index = 18
+author = "PaulTLincoln"
+name = "Sith Medallion"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/kallig_s_countenance/entry.md"
+index = 19
+author = "deadima"
+name = "Kallig's Countenance"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/glove_of_darth_vader/entry.md"
+index = 20
+author = "ShokuPurpose"
+name = "Glove of Darth Vader"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/telos_holocron/entry.md"
+index = 21
+author = "Worlock365"
+name = "Telos Holocron"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/great_crystal/entry.md"
+index = 22
+author = "ViroSpect"
+name = "Great Crystal"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/bestiary_of_darth_caldoth/entry.md"
+index = 23
+author = "RavMalvern"
+name = "Bestiary of Darth Caldoth"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/wayfinder/entry.md"
+index = 24
+author = "ViroSpect"
+name = "Wayfinder"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/sith_scrolls/entry.md"
+index = 25
+author = "ValenTemenos"
+name = "Sith Scrolls"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/oubliette/entry.md"
+index = 26
+author = "ValenTemenos"
+name = "Oubliette"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/freedon_nadd_s_short_lightsaber/entry.md"
+index = 27
+author = "daedima"
+name = "Freedon Nadd's Short Lightsaber"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/darth_bane_s_holocron/entry.md"
+index = 28
+author = "Remalior"
+name = "Darth Bane's Holocron"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/sith_spellbook/entry.md"
+index = 29
+author = "ElysiaLValkyrie"
+name = "Sith Spellbook"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/darth_revan_s_holocron/entry.md"
+index = 30
+author = "ValenTemenos"
+name = "Darth Revan's Holocron"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/darkstaff/entry.md"
+index = 31
+author = "TheReaperOfReality"
+name = "Darkstaff"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/amulet_of_kalara/entry.md"
+index = 32
+author = "ElMajestico"
+name = "Amulet of Kalara"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/darth_nihilus_sith_holocron/entry.md"
+index = 33
+author = "jinqxd"
+name = "Darth Nihilus’ Sith Holocron"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/electrum/entry.md"
+index = 34
+author = "RedGhoulUL"
+name = "Electrum"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/coaxium/entry.md"
+index = 35
+author = "RedGhoulUL"
+name = "Coaxium"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/infinite_empire_ruins/entry.md"
+index = 36
+author = "Iridinia"
+name = "Infinite Empire Ruins"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/translation_talisman/entry.md"
+index = 37
+author = "ValenTemenos"
+name = "Translation Talisman"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/beskar/entry.md"
+index = 38
+author = "ShokuMatsu"
+name = "Beskar"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/circlet_of_saresh/entry.md"
+index = 39
+author = "AcciusJuiiusCaesar"
+name = "Circlet of Saresh"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/blade_of_ochi_of_bestoon/entry.md"
+index = 40
+author = "crystalboy1234"
+name = "Blade of Ochi of Bestoon"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/bane_s_heart/entry.md"
+index = 41
+author = "ViroSpect"
+name = "Bane's Heart"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/helm_of_ieldis/entry.md"
+index = 42
+author = "PhaseSpectr"
+name = "Helm of Ieldis"
+release_year = 0
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/gauntlet_of_kressh_the_younger/entry.md"
+index = 43
+author = "ValenTemenos"
+name = "Gauntlet of Kressh the Younger"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/darth_vader_s_lightsaber/entry.md"
+index = 44
+author = "ValenTemenos"
+name = "Darth Vader's Lightsaber"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/mask_of_nihilus/entry.md"
+index = 45
+author = "PhaseSpectr"
+name = "Mask of Nihilus"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/qel_droma_epics/entry.md"
+index = 46
+author = "BoarGrills"
+name = "Qel-Droma Epics"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/neuranium/entry.md"
+index = 47
+author = "Worlock365"
+name = "Neuranium"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/ludo_kressh_s_war_sword/entry.md"
+index = 48
+author = "ElMajestico"
+name = "Ludo Kressh's War Sword"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/force_detectors/entry.md"
+index = 49
+author = "Remalior"
+name = "Force Detectors"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/kaiburr_crystal/entry.md"
+index = 50
+author = "ElMajestico"
+name = "Kaiburr Crystal"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/aleema_keto_s_robes/entry.md"
+index = 51
+author = "ElMajestico"
+name = "Aleema Keto's Robes"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/doonium/entry.md"
+index = 52
+author = "ShokuPurpose"
+name = "Doonium"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/alternative_kyber_crystals/entry.md"
+index = 53
+author = "Long_Industries"
+name = "Alternative Kyber Crystals"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/mustafar_sith_holocron/entry.md"
+index = 54
+author = "Remalior"
+name = "Mustafar Sith Holocron"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/books_of_massassi/entry.md"
+index = 55
+author = "ValenTemenos"
+name = "Books of Massassi"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/carbonite_sith_army_holocron/entry.md"
+index = 56
+author = "SpawnKiller1326"
+name = "Carbonite Sith Army Holocron"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/sword_of_ajunta_pall/entry.md"
+index = 57
+author = "KenjiVolt"
+name = "Sword of Ajunta Pall"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/shadow_crown/entry.md"
+index = 58
+author = "PhaseSpectr"
+name = "Shadow Crown"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/isotope_5/entry.md"
+index = 59
+author = "RedGhoulUL"
+name = "ISOTOPE-5"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/kwa_temples_on_dathomir/entry.md"
+index = 60
+author = "Iridinia"
+name = "Kwa Temples on Dathomir"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "archaeological_studies/revan_s_lightsaber/entry.md"
+index = 61
+author = "Odysseus_v1"
+name = "Revan's Lightsaber"
+release_year = 2024
+
+
+[[categories]]
+total_entries = 11
+name = "Order Information"
+index = 11
+[[categories.entries]]
+markdown_path = "order_information/spheres_of_influence/entry.md"
+index = 1
+author = "Chilimeni"
+name = "Spheres of Influence"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "order_information/order_of_the_loremaster/entry.md"
+index = 2
+author = "gamer_doritos1"
+name = "Order of the Loremaster"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "order_information/the_three_orders/entry.md"
+index = 3
+author = "Remalior"
+name = "The Three Orders"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "order_information/order_leadership/entry.md"
+index = 4
+author = "Chilimeni"
+name = "Order Leadership"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "order_information/monthly_events/entry.md"
+index = 5
+author = "Remalior"
+name = "Monthly Events"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "order_information/raids/entry.md"
+index = 6
+author = "Long_Guy27"
+name = "Raids"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "order_information/the_academic_alliance/entry.md"
+index = 7
+author = "Daedima"
+name = "The Academic Alliance"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "order_information/trials_of_the_order/entry.md"
+index = 8
+author = "iMirones"
+name = "Trials of the Order"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "order_information/rite_of_kaggath/entry.md"
+index = 9
+author = "Redjaal"
+name = "Rite of Kaggath"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "order_information/ceremonial_rally/entry.md"
+index = 10
+author = "BOBERTER123070"
+name = "Ceremonial Rally"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "order_information/sith_accolades_and_awards/entry.md"
+index = 11
+author = "Chilimeni"
+name = "Sith Accolades and Awards"
+release_year = 2022
+
+
+[[categories]]
+total_entries = 31
+name = "Foremost of the Order"
+index = 12
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_bellicus/entry.md"
+index = 1
+author = "ValenTemenos"
+name = "Darth Bellicus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_havok/entry.md"
+index = 2
+author = "CaesarTemenos"
+name = "Darth Havok"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_kaderim/entry.md"
+index = 3
+author = "Remalior"
+name = "Darth Kaderim"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_xenion/entry.md"
+index = 4
+author = "Jinqxd"
+name = "Darth Xenion"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_nödt/entry.md"
+index = 5
+author = "jinqxd"
+name = "Darth Nödt"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_naile/entry.md"
+index = 6
+author = "ShokuMatsu"
+name = "Darth Naile"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_valdor/entry.md"
+index = 7
+author = "ShokuMatsu"
+name = "Darth Valdor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_raithon/entry.md"
+index = 8
+author = "Jinqxd"
+name = "Darth Raithon"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_penumbra/entry.md"
+index = 9
+author = "Jinqxd"
+name = "Darth Penumbra"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/commander_arcanum/entry.md"
+index = 10
+author = "Daedima"
+name = "Commander Arcanum"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_lividus/entry.md"
+index = 11
+author = "Daedima"
+name = "Darth Lividus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_invictus/entry.md"
+index = 12
+author = "ShokuMatsu"
+name = "Darth Invictus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/commander_avalan/entry.md"
+index = 13
+author = "jinqxd"
+name = "Commander Avalan"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_hyvar/entry.md"
+index = 14
+author = "RenavusMorningstar"
+name = "Darth Hyvar"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_nurrix/entry.md"
+index = 15
+author = "jinqxd"
+name = "Darth Nurrix"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_aureus/entry.md"
+index = 16
+author = "Kabuto40k"
+name = "Darth Aureus"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_heisen/entry.md"
+index = 17
+author = "Daedima"
+name = "Darth Heisen"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_strages/entry.md"
+index = 18
+author = "jinqxd"
+name = "Darth Strages"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_cibus/entry.md"
+index = 19
+author = "RobloxianMan1023"
+name = "Darth Cibus"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_asmodeus/entry.md"
+index = 20
+author = "ShokuMatsu"
+name = "Darth Asmodeus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_vederium/entry.md"
+index = 21
+author = "ShokuMatsu"
+name = "Darth Vederium"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_surge/entry.md"
+index = 22
+author = "SpawnKiller123"
+name = "Darth Surge"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_gladius/entry.md"
+index = 23
+author = "Kabuto40k"
+name = "Darth Gladius"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_hestiva/entry.md"
+index = 24
+author = "iMirones"
+name = "Darth Hestiva"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_amarus/entry.md"
+index = 25
+author = "SpawnKiller1326"
+name = "Darth Amarus"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_ignis/entry.md"
+index = 26
+author = "Jinqxd"
+name = "Darth Ignis"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_apricos/entry.md"
+index = 27
+author = "RobloxianMan1023"
+name = "Darth Apricos"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_tacitus/entry.md"
+index = 28
+author = "SymbolofFear and Redjaal"
+name = "Darth Tacitus"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_carmesi/entry.md"
+index = 29
+author = "jinqxd"
+name = "Darth Carmesi"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/darth_apeiros/entry.md"
+index = 30
+author = "jinqxd"
+name = "Darth Apeiros"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/quartermaster_meka_odullu/entry.md"
+index = 31
+author = "Long_Guy27"
+name = "Quartermaster Meka Odullu"
+release_year = 2022
+
+
+[[categories]]
+total_entries = 2
+name = "Order History"
+index = 13
+[[categories.entries]]
+markdown_path = "order_history/timeline_of_the_sith_order/entry.md"
+index = 1
+author = "Remalior"
+name = "Timeline of the Sith Order"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "order_history/darth_bellicus_vs_darth_kenneax_kaggath/entry.md"
+index = 2
+author = "RenavusMorningstar"
+name = "Darth Bellicus Vs Darth Kenneax (Kaggath)"
+release_year = 2022
+
+
+[[categories]]
+total_entries = 13
+name = "Group Legends"
+index = 14
+[[categories.entries]]
+markdown_path = "group_legends/legends_of_the_loremaster_secrets_of_the_shadows/entry.md"
+index = 1
+author = "Daedima"
+name = "Legends of the Loremaster: Secrets of the Shadows"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "group_legends/the_return_of_the_sith_prologue/entry.md"
+index = 2
+author = "CaesarTemenos"
+name = "The Return of the Sith: Prologue"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "group_legends/legends_of_the_loremaster_path_of_blood/entry.md"
+index = 3
+author = "Daedima"
+name = "Legends of the Loremaster: Path of Blood"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "group_legends/a_grand_disclosure/entry.md"
+index = 4
+author = "Chilimeni"
+name = "A Grand Disclosure"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "group_legends/lord_of_fire_the_saga/entry.md"
+index = 5
+author = "jinqxd"
+name = "Lord of Fire: The Saga"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "group_legends/he_who_shattered_the_silence/entry.md"
+index = 6
+author = "Remalior"
+name = "He Who Shattered The Silence"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "group_legends/meni_s_tale/entry.md"
+index = 7
+author = "Chilimeni"
+name = "Meni's Tale"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "group_legends/a_duel_of_fate/entry.md"
+index = 8
+author = "LuciferTemenos"
+name = "A Duel of Fate"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "group_legends/dead_by_dawn/entry.md"
+index = 9
+author = "Long_guy27"
+name = "Dead by Dawn"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "group_legends/tales_of_scrawl_homeland/entry.md"
+index = 10
+author = "Long_Guy27"
+name = "Tales of Scrawl: Homeland"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "group_legends/dathomir_s_dawn/entry.md"
+index = 11
+author = "Daedima"
+name = "Dathomir's Dawn"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "group_legends/the_death_of_a_master/entry.md"
+index = 12
+author = "LuciferTemenos"
+name = "The Death of a Master "
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "group_legends/the_ascension_of_darth_gallius/entry.md"
+index = 13
+author = "Daedima"
+name = "The Ascension of Darth Gallius"
+release_year = 2022
+
+
+[[categories]]
+total_entries = 204
+name = "Persons of Interest"
+index = 15
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_mortis/entry.md"
+index = 1
+author = "Ruvjaal"
+name = "Darth Mortis"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_malak/entry.md"
+index = 2
+author = "PhaseSpectr"
+name = "Darth Malak"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_stryfe/entry.md"
+index = 3
+author = "Craked10"
+name = "Darth Stryfe"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/ajunta_pall/entry.md"
+index = 4
+author = "LordExitium"
+name = "Ajunta Pall"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/dread_master_raptus/entry.md"
+index = 5
+author = "PhaseSpectr"
+name = "Dread Master Raptus"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/dread_master_styrak/entry.md"
+index = 6
+author = "PhaseSpectr"
+name = "Dread Master Styrak"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/dread_master_tyrans/entry.md"
+index = 7
+author = "PhaseSpectr"
+name = "Dread Master Tyrans"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/dread_master_calphayus/entry.md"
+index = 8
+author = "PhaseSpectr"
+name = "Dread Master Calphayus"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/dread_master_bestia/entry.md"
+index = 9
+author = "PhaseSpectr"
+name = "Dread Master Bestia"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/dread_master_brontes/entry.md"
+index = 10
+author = "PhaseSpectr"
+name = "Dread Master Brontes"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/mara_jade/entry.md"
+index = 11
+author = "ElMajestico"
+name = "Mara Jade"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_nihilus/entry.md"
+index = 12
+author = "Seko1111"
+name = "Darth Nihilus"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/tulak_hord/entry.md"
+index = 13
+author = "Seko1111"
+name = "Tulak Hord"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/sorzus_syn/entry.md"
+index = 14
+author = "Seko1111"
+name = "Sorzus Syn"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/grand_moff_vaiken/entry.md"
+index = 15
+author = "Seko1111"
+name = "Grand Moff Vaiken"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_andeddu/entry.md"
+index = 16
+author = "PhaseSpectr"
+name = "Darth Andeddu"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/meetra_surik/entry.md"
+index = 17
+author = "Seko1111"
+name = "Meetra Surik"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_tormen/entry.md"
+index = 18
+author = "ShadowKorbius"
+name = "Darth Tormen"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_jadus/entry.md"
+index = 19
+author = "ShadowKorbius"
+name = "Darth Jadus"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/jerec/entry.md"
+index = 20
+author = "Antarctic_Gaming"
+name = "Jerec"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/subject_1138/entry.md"
+index = 21
+author = "Antarctic_Gaming"
+name = "Subject 1138"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_minax/entry.md"
+index = 22
+author = "jinqxd"
+name = "Darth Minax"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/exar_kun/entry.md"
+index = 23
+author = "Ruvjaal"
+name = "Exar Kun"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/jedi_master_atris/entry.md"
+index = 24
+author = "seko1111"
+name = "Jedi Master Atris"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/sith_king_adas/entry.md"
+index = 25
+author = "Chilimeni"
+name = "Sith King Adas"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_qalar/entry.md"
+index = 26
+author = "jinqxd"
+name = "Darth Qalar"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_marr/entry.md"
+index = 27
+author = "AlexanderWestley"
+name = "Darth Marr"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/uthar_wynn/entry.md"
+index = 28
+author = "Redjaal"
+name = "Uthar Wynn"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_sidious/entry.md"
+index = 29
+author = "Redjaal"
+name = "Darth Sidious"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/the_entity/entry.md"
+index = 30
+author = "PhaseSpectr"
+name = "The Entity"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_vectivus/entry.md"
+index = 31
+author = "OfficiallyMommy"
+name = "Darth Vectivus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/mandalore_the_avenger/entry.md"
+index = 32
+author = "MommyMute"
+name = "Mandalore the Avenger"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/mandalore_the_vindicated/entry.md"
+index = 33
+author = "ThornedRedRose"
+name = "Mandalore the Vindicated"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/mandalore_the_ultimate/entry.md"
+index = 34
+author = "MommyMute"
+name = "Mandalore the Ultimate"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/mandalore_the_first/entry.md"
+index = 35
+author = "MommyMute"
+name = "Mandalore the First"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_malgus/entry.md"
+index = 36
+author = "C_aladria"
+name = "Darth Malgus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/poggle_the_lesser/entry.md"
+index = 37
+author = "nuariel"
+name = "Poggle the Lesser"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_traya/entry.md"
+index = 38
+author = "C_aladria"
+name = "Darth Traya"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/grand_admiral_thrawn/entry.md"
+index = 39
+author = "C_aladria and AwesomeO561"
+name = "Grand Admiral Thrawn"
+release_year = 0
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/lord_grathan/entry.md"
+index = 40
+author = "ard1974"
+name = "Lord Grathan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/aloysius_kallig/entry.md"
+index = 41
+author = "Obiseck"
+name = "Aloysius Kallig"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/mother_talzin/entry.md"
+index = 42
+author = "samsungcharger"
+name = "Mother Talzin"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/naga_sadow/entry.md"
+index = 43
+author = "Ruvjaal"
+name = "Naga Sadow"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/0_0_0/entry.md"
+index = 44
+author = "ShadowKorbius"
+name = "0-0-0"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_vader/entry.md"
+index = 45
+author = "ValenTemenos"
+name = "Darth Vader"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/hakagram_graush/entry.md"
+index = 46
+author = "Anarkhist6686"
+name = "Hakagram Graush"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_talon/entry.md"
+index = 47
+author = "2lu0"
+name = "Darth Talon"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_ruin/entry.md"
+index = 48
+author = "2lu0"
+name = "Darth Ruin"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/tahiri_veila/entry.md"
+index = 49
+author = "Craked10"
+name = "Tahiri Veila"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_rivan/entry.md"
+index = 50
+author = "iMirones"
+name = "Darth Rivan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_dramath/entry.md"
+index = 51
+author = "2lu0"
+name = "Darth Dramath"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_bane/entry.md"
+index = 52
+author = "jinqxd"
+name = "Darth Bane"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/death_trooper_waffle/entry.md"
+index = 53
+author = "jinqxd"
+name = "Death Trooper Waffle"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_vitiate/entry.md"
+index = 54
+author = "jinqxd"
+name = "Darth Vitiate"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_wyyrlok_ii/entry.md"
+index = 55
+author = "SkyPanik"
+name = "Darth Wyyrlok II"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_xarion/entry.md"
+index = 56
+author = "jinqxd"
+name = "Darth Xarion"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/ludo_kressh/entry.md"
+index = 57
+author = "jinqxd"
+name = "Ludo Kressh"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/force_vampire/entry.md"
+index = 58
+author = "edex08"
+name = "Force Vampire"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/starkiller/entry.md"
+index = 59
+author = "ValenTemenos"
+name = "Starkiller"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/lord_kas_im/entry.md"
+index = 60
+author = "Renjaal"
+name = "Lord Kas’im"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/shar_dakhan/entry.md"
+index = 61
+author = "gamer_doritos1"
+name = "Shar Dakhan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/reva_sevander/entry.md"
+index = 62
+author = "ShokuMatsu"
+name = "Reva Sevander"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/dengar/entry.md"
+index = 63
+author = "wessiGRW"
+name = "Dengar"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/ulic_qel_droma/entry.md"
+index = 64
+author = "ValenTemenos"
+name = "Ulic Qel-Droma"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/kell_douro/entry.md"
+index = 65
+author = "ValenTemenos"
+name = "Kell Douro"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/karness_muur/entry.md"
+index = 66
+author = "ValenTemenos"
+name = "Karness Muur"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/xendor/entry.md"
+index = 67
+author = "ValenTemenos"
+name = "Xendor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_drear/entry.md"
+index = 68
+author = "jinqxd"
+name = "Darth Drear"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/dash_rendar/entry.md"
+index = 69
+author = "ElMajestico"
+name = "Dash Rendar"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_arctis/entry.md"
+index = 70
+author = "jinqxd"
+name = "Darth Arctis"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_anathel/entry.md"
+index = 71
+author = "jinqxd"
+name = "Darth Anathel"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/xoxaan/entry.md"
+index = 72
+author = "ValenTemenos"
+name = "XoXaan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_malora/entry.md"
+index = 73
+author = "jinqxd"
+name = "Darth Malora"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_shaar/entry.md"
+index = 74
+author = "jinqxd"
+name = "Darth Shaar"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_gravid/entry.md"
+index = 75
+author = "Worlock365"
+name = "Darth Gravid"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_gean/entry.md"
+index = 76
+author = "Worlock365"
+name = "Darth Gean"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_cognus/entry.md"
+index = 77
+author = "Craked10"
+name = "Darth Cognus"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_maladi/entry.md"
+index = 78
+author = "SkyPanik"
+name = "Darth Maladi"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_thanaton/entry.md"
+index = 79
+author = "jinqxd"
+name = "Darth Thanaton"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/empress_vaylin/entry.md"
+index = 80
+author = "jinqxd"
+name = "Empress Vaylin"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_phobos/entry.md"
+index = 81
+author = "Craked10"
+name = "Darth Phobos"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_tyranus/entry.md"
+index = 82
+author = "jinqxd"
+name = "Darth Tyranus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_krayt/entry.md"
+index = 83
+author = "ShokuMatsu"
+name = "Darth Krayt"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/mandalore_the_lesser/entry.md"
+index = 84
+author = "ValenTemenos"
+name = "Mandalore the Lesser"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/mandalore_the_uniter/entry.md"
+index = 85
+author = "ValenTemenos"
+name = "Mandalore the Uniter"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/mandalore_the_indomitable/entry.md"
+index = 86
+author = "ValenTemenos"
+name = "Mandalore the Indomitable"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_iratus/entry.md"
+index = 87
+author = "jinqxd"
+name = "Darth Iratus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/durge/entry.md"
+index = 88
+author = "KenjiVolt"
+name = "Durge"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/savage_opress/entry.md"
+index = 89
+author = "Worlock365"
+name = "Savage Opress"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_vindican/entry.md"
+index = 90
+author = "jinqxd"
+name = "Darth Vindican"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/tray_essek/entry.md"
+index = 91
+author = "Worlock365"
+name = "Tray'Essek"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/risso_nu/entry.md"
+index = 92
+author = "iMirones"
+name = "Risso Nu"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_aruk/entry.md"
+index = 93
+author = "jinqxd"
+name = "Darth Aruk"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_zash/entry.md"
+index = 94
+author = "Mateo_222"
+name = "Darth Zash"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/barriss_offee/entry.md"
+index = 95
+author = "mrcake_201"
+name = "Barriss Offee"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_venemal/entry.md"
+index = 96
+author = "Mateo_222"
+name = "Darth Venemal"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_bandon/entry.md"
+index = 97
+author = "iMirones"
+name = "Darth Bandon"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_vilus/entry.md"
+index = 98
+author = "jinqxd"
+name = "Darth Vilus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/abeloth/entry.md"
+index = 99
+author = "Framis"
+name = "Abeloth"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/tay_0/entry.md"
+index = 100
+author = "iMirones"
+name = "TAY-0"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/senator_riyo_chuchi/entry.md"
+index = 101
+author = "jinqxd"
+name = "Senator Riyo Chuchi"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/silri/entry.md"
+index = 102
+author = "SpawnKiller1326"
+name = "Silri"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_desolous/entry.md"
+index = 103
+author = "Redjaal"
+name = "Darth Desolous"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/nute_gunray/entry.md"
+index = 104
+author = "Renjaal"
+name = "Nute Gunray"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_nihl/entry.md"
+index = 105
+author = "Kavrakhos"
+name = "Darth Nihl"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/lord_scourge/entry.md"
+index = 106
+author = "jinqxd"
+name = "Lord Scourge"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/jezzi/entry.md"
+index = 107
+author = "Kabuto40k"
+name = "Jezzi"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/karis_nemik/entry.md"
+index = 108
+author = "Kabuto40k"
+name = "Karis Nemik"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/tenn_graneet/entry.md"
+index = 109
+author = "RedGhoulUL"
+name = "Tenn Graneet"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/asajj_ventress/entry.md"
+index = 110
+author = "KenjiVolt"
+name = "Asajj Ventress"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/lana_beniko/entry.md"
+index = 111
+author = "jinqxd"
+name = "Lana Beniko"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/lumiya/entry.md"
+index = 112
+author = "iMirones"
+name = "Lumiya"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/eldon_ax/entry.md"
+index = 113
+author = "jinqxd"
+name = "Eldon Ax"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/horak_mul/entry.md"
+index = 114
+author = "jinqxd"
+name = "Horak-Mul"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/remulus_dreypa/entry.md"
+index = 115
+author = "Worlock365"
+name = "Remulus Dreypa"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/sith_lord_kopecz/entry.md"
+index = 116
+author = "iMirones"
+name = "Sith Lord Kopecz"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_venamis/entry.md"
+index = 117
+author = "jinqxd"
+name = "Darth Venamis"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/gallius_rax/entry.md"
+index = 118
+author = "iMirones"
+name = "Gallius Rax"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_scabrous/entry.md"
+index = 119
+author = "jinqxd"
+name = "Darth Scabrous"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/teneniel_djo/entry.md"
+index = 120
+author = "SkyPanik"
+name = "Teneniel Djo"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/grand_moff_vilim_disra/entry.md"
+index = 121
+author = "SkyPanik"
+name = "Grand Moff Vilim Disra"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/d_harhan/entry.md"
+index = 122
+author = "SkyPanik"
+name = "D'harhan"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/tawni_ames/entry.md"
+index = 123
+author = "SkyPanik"
+name = "Tawni Ames"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/desann/entry.md"
+index = 124
+author = "SkyPanik"
+name = "Desann"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_lachris/entry.md"
+index = 125
+author = "jinqxd"
+name = "Darth Lachris"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/moralo_eval/entry.md"
+index = 126
+author = "AcciusJuiiusCaesar"
+name = "Moralo Eval"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/aleema_keto/entry.md"
+index = 127
+author = "AcciusJuiiusCaesar"
+name = "Aleema Keto"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_tenebrous/entry.md"
+index = 128
+author = "ValenTemenos"
+name = "Darth Tenebrous"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/reginald_barkbone/entry.md"
+index = 129
+author = "AcciusJuIiusCaesar"
+name = "Reginald Barkbone"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/jedgar/entry.md"
+index = 130
+author = "SkyPanik"
+name = "Jedgar"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/commodore_faro/entry.md"
+index = 131
+author = "jinqxd"
+name = "Commodore Faro"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/cradossk/entry.md"
+index = 132
+author = "SkyPanik"
+name = "Cradossk"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/sariss/entry.md"
+index = 133
+author = "SkyPanik"
+name = "Sariss"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/ennix_devian/entry.md"
+index = 134
+author = "BoarGrills"
+name = "Ennix Devian"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_vowrawn/entry.md"
+index = 135
+author = "jinqxd"
+name = "Darth Vowrawn"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_wyyrlok_i/entry.md"
+index = 136
+author = "SkyPanik"
+name = "Darth Wyyrlok I"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/lord_nyax/entry.md"
+index = 137
+author = "BoarGrills"
+name = "Lord Nyax"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/sev_rance_tann/entry.md"
+index = 138
+author = "SkyPanik"
+name = "Sev'rance Tann"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/komari_vosa/entry.md"
+index = 139
+author = "Craked10"
+name = "Komari Vosa"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/grand_moff_dunhausen/entry.md"
+index = 140
+author = "AnimatedEcrux"
+name = "Grand Moff Dunhausen"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/jeng_droga/entry.md"
+index = 141
+author = "AnimatedEcrux"
+name = "Jeng Droga"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/borsk_fey_lya/entry.md"
+index = 142
+author = "Craked10"
+name = "Borsk Fey'lya"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/joruus_c_baoth/entry.md"
+index = 143
+author = "Craked10"
+name = "Joruus C'baoth"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/director_orson_krennic/entry.md"
+index = 144
+author = "ErichKordenic"
+name = "Director Orson Krennic"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_savik/entry.md"
+index = 145
+author = "Lee_Mze"
+name = "Darth Savik"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/carnor_jax/entry.md"
+index = 146
+author = "Craked10"
+name = "Carnor Jax"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_lokess/entry.md"
+index = 147
+author = "jinqxd"
+name = "Darth Lokess"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_nox/entry.md"
+index = 148
+author = "jinqxd"
+name = "Darth Nox"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_ikoral/entry.md"
+index = 149
+author = "jinqxd"
+name = "Darth Ikoral"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_millennial/entry.md"
+index = 150
+author = "ShadowKorbius"
+name = "Darth Millennial"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_caedus/entry.md"
+index = 151
+author = "KenjiVolt"
+name = "Darth Caedus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/jango_fett/entry.md"
+index = 152
+author = "iMirones"
+name = "Jango Fett"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/varner_hilts/entry.md"
+index = 153
+author = "Craked10"
+name = "Varner Hilts"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/zayne_carrick/entry.md"
+index = 154
+author = "Craked10"
+name = "Zayne Carrick"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_nurin/entry.md"
+index = 155
+author = "jinqxd"
+name = "Darth Nurin"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_sion/entry.md"
+index = 156
+author = "PhaseSpectr"
+name = "Darth Sion"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_charnus/entry.md"
+index = 157
+author = "jinqxd"
+name = "Darth Charnus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/onimi/entry.md"
+index = 158
+author = "Craked10"
+name = "Onimi"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/sharad_hett/entry.md"
+index = 159
+author = "Craked10"
+name = "Sharad Hett"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/janus_greejatus/entry.md"
+index = 160
+author = "AnimatedEcrux"
+name = "Janus Greejatus"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/colonel_wullf_yularen/entry.md"
+index = 161
+author = "jinqxd"
+name = "Colonel Wullf Yularen"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/merf/entry.md"
+index = 162
+author = "iMirones"
+name = "Merf"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/senior_lieutenant_hammerly/entry.md"
+index = 163
+author = "jinqxd"
+name = "Senior Lieutenant Hammerly"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/prince_xizor/entry.md"
+index = 164
+author = "Craked10"
+name = "Prince Xizor"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/grogu/entry.md"
+index = 165
+author = "jinqxd"
+name = "Grogu"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_zannah/entry.md"
+index = 166
+author = "RenavusMorningstar"
+name = "Darth Zannah"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/luthen_rael/entry.md"
+index = 167
+author = "ShokuMatsu"
+name = "Luthen Rael"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/senior_lieutenant_yve/entry.md"
+index = 168
+author = "jinqxd"
+name = "Senior Lieutenant Yve"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/bao_dur/entry.md"
+index = 169
+author = "IAmCatastrophe"
+name = "Bao-Dur"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/kreia/entry.md"
+index = 170
+author = "Craked10"
+name = "Kreia"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_hadra/entry.md"
+index = 171
+author = "Mateo_222"
+name = "Darth Hadra"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/dathka_graush/entry.md"
+index = 172
+author = "anarkhist6686"
+name = "Dathka Graush"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/death_trooper_pik/entry.md"
+index = 173
+author = "jinqxd"
+name = "Death Trooper Pik"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/death_trooper_dt_5537/entry.md"
+index = 174
+author = "jinqxd"
+name = "Death Trooper DT-5537"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/banok_ral/entry.md"
+index = 175
+author = "Worlock365"
+name = "Banok Ral"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_zavakon/entry.md"
+index = 176
+author = "jinqxd"
+name = "Darth Zavakon"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/vestara_khai/entry.md"
+index = 177
+author = "Craked10"
+name = "Vestara Khai"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/zodoh/entry.md"
+index = 178
+author = "Craked10"
+name = "Zodoh"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/marka_ragnos/entry.md"
+index = 179
+author = "PhaseSpectr"
+name = "Marka Ragnos"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/blevin/entry.md"
+index = 180
+author = "jinqxd"
+name = "Blevin"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/tainor/entry.md"
+index = 181
+author = "2lu0"
+name = "Tainor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/mission_vao/entry.md"
+index = 182
+author = "ElMajestico"
+name = "Mission Vao"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/kyle_katarn/entry.md"
+index = 183
+author = "Craked10"
+name = "Kyle Katarn"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/ganner_rhysode/entry.md"
+index = 184
+author = "Craked10"
+name = "Ganner Rhysode"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/nomi_sunrider/entry.md"
+index = 185
+author = "Craked10"
+name = "Nomi Sunrider"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/arcann/entry.md"
+index = 186
+author = "AcciusJuiiusCaesar"
+name = "Arcann"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/bendu/entry.md"
+index = 187
+author = "purebourne"
+name = "Bendu"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_acina/entry.md"
+index = 188
+author = "jinqxd"
+name = "Darth Acina"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_plagueis/entry.md"
+index = 189
+author = "Redjaal"
+name = "Darth Plagueis"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_revan/entry.md"
+index = 190
+author = "C_aladria"
+name = "Darth Revan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/dark_underlord/entry.md"
+index = 191
+author = "BOBERTER123070"
+name = "Dark Underlord"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/grand_inquisitor/entry.md"
+index = 192
+author = "Redjaal"
+name = "Grand Inquisitor"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/lord_simus/entry.md"
+index = 193
+author = "nuariel"
+name = "Lord Simus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/lord_kaan/entry.md"
+index = 194
+author = "Renjaal"
+name = "Lord Kaan"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/freedon_nadd/entry.md"
+index = 195
+author = "jinqxd"
+name = "Freedon Nadd"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/bastila_shan/entry.md"
+index = 196
+author = "jinqxd"
+name = "Bastila Shan"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_maul/entry.md"
+index = 197
+author = "GamerNoob1007"
+name = "Darth Maul"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/grand_moff_tarkin/entry.md"
+index = 198
+author = "Edex08"
+name = "Grand Moff Tarkin"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_momin/entry.md"
+index = 199
+author = "ThornedRedRose"
+name = "Darth Momin"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/general_hux/entry.md"
+index = 200
+author = "Minato_Yt108"
+name = "General Hux"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/anakin_skywalker/entry.md"
+index = 201
+author = "ValenTemenos"
+name = "Anakin Skywalker"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/boba_fett/entry.md"
+index = 204
+author = "Eternal_Incursion"
+name = "Boba Fett"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/ig_88/entry.md"
+index = 205
+author = "AlterAurum"
+name = "IG-88"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/gial_ackbar/entry.md"
+index = 206
+author = "Il_van"
+name = "Gial Ackbar"
+release_year = 2024
+
+
+[[categories]]
+total_entries = 62
+name = "Aspects of the Force"
+index = 16
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_lightning/entry.md"
+index = 1
+author = "ShadowKorbius"
+name = "Force Lightning"
+release_year = 0
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_choke/entry.md"
+index = 2
+author = "OfficiallyMommy"
+name = "Force Choke"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/shatterpoint/entry.md"
+index = 3
+author = "Chilimeni"
+name = "Shatterpoint"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_storm/entry.md"
+index = 4
+author = "Chilimeni"
+name = "Force Storm"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_blast/entry.md"
+index = 5
+author = "60328"
+name = "Force Blast"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_sight/entry.md"
+index = 6
+author = "ShadowKorbius"
+name = "Force Sight"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_deflect/entry.md"
+index = 7
+author = "ShadowKorbius"
+name = "Force Deflect"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_dash/entry.md"
+index = 8
+author = "ShadowKorbius"
+name = "Force Dash"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_bond/entry.md"
+index = 9
+author = "edex08"
+name = "Force Bond"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_vergence/entry.md"
+index = 10
+author = "ShadowKorbius"
+name = "Force Vergence"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_repulse/entry.md"
+index = 11
+author = "ard1974"
+name = "Force Repulse"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/morichro/entry.md"
+index = 12
+author = "Long_Industries"
+name = "Morichro"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_cloak/entry.md"
+index = 13
+author = "Long_Industries"
+name = "Force Cloak"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_slow/entry.md"
+index = 14
+author = "Long_Industries"
+name = "Force Slow"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/dwomutsiqsa/entry.md"
+index = 15
+author = "ValenTemenos"
+name = "Dwomutsiqsa"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/qâzoi_kyantuska/entry.md"
+index = 16
+author = "Lee_Mze"
+name = "Qâzoi Kyantuska"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/drain_knowledge/entry.md"
+index = 17
+author = "Long_Industries"
+name = "Drain Knowledge"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/control_web/entry.md"
+index = 18
+author = "Long_Industries"
+name = "Control Web"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/battle_sense/entry.md"
+index = 19
+author = "AnimatedEcrux"
+name = "Battle Sense"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/thought_bomb/entry.md"
+index = 20
+author = "ValenTemenos"
+name = "Thought Bomb"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_scream/entry.md"
+index = 21
+author = "deadima"
+name = "Force Scream"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_walk/entry.md"
+index = 22
+author = "daedima"
+name = "Force Walk"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/dark_side_tendrils/entry.md"
+index = 23
+author = "ValenTemenos"
+name = "Dark Side Tendrils"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/aura_of_uneasiness/entry.md"
+index = 24
+author = "ValenTemenos"
+name = "Aura of Uneasiness"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_rage/entry.md"
+index = 25
+author = "DerCreatz"
+name = "Force Rage"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/summon_fear/entry.md"
+index = 26
+author = "ValenTemenos"
+name = "Summon Fear"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/spell_of_concealment/entry.md"
+index = 27
+author = "Frogsreign"
+name = "Spell of Concealment"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_crush/entry.md"
+index = 28
+author = "bonniealfonsochica"
+name = "Force Crush"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/dopplegänger/entry.md"
+index = 29
+author = "ElMajestico"
+name = "Dopplegänger"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/corpse_vision/entry.md"
+index = 30
+author = "ard1974"
+name = "Corpse Vision"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/memory_walking/entry.md"
+index = 31
+author = "Worlock365"
+name = "Memory Walking"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_stasis/entry.md"
+index = 32
+author = "ValenTemenos"
+name = "Force Stasis"
+release_year = 0
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/dark_illusion/entry.md"
+index = 33
+author = "ShokuMatsu"
+name = "Dark Illusion"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_illusion/entry.md"
+index = 34
+author = "ElMajestico"
+name = "Force Illusion"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/cryokinesis/entry.md"
+index = 35
+author = "Wither117717"
+name = "Cryokinesis"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/tutaminis/entry.md"
+index = 36
+author = "KenjiVolt"
+name = "Tutaminis"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_clouding/entry.md"
+index = 37
+author = "FlashPanik"
+name = "Force Clouding"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_barrier/entry.md"
+index = 38
+author = "ShadowKorbius"
+name = "Force Barrier"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/battle_meditation/entry.md"
+index = 39
+author = "ValenTemenos"
+name = "Battle Meditation"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_fear/entry.md"
+index = 40
+author = "ShineEpic"
+name = "Force Fear"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/mind_trick/entry.md"
+index = 41
+author = "daedima"
+name = "Mind Trick"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_flight/entry.md"
+index = 42
+author = "ElMajestico"
+name = "Force Flight"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_stealth/entry.md"
+index = 43
+author = "ElMajestico"
+name = "Force Stealth"
+release_year = 0
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_nexus/entry.md"
+index = 44
+author = "daedima"
+name = "Force Nexus"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/alter_environment/entry.md"
+index = 45
+author = "ElMajestico"
+name = "Alter Environment"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/midi_chlorian_manipulation/entry.md"
+index = 46
+author = "ElMajestico"
+name = "Midi-chlorian Manipulation"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_inertia/entry.md"
+index = 47
+author = "Wither117717"
+name = "Force Inertia"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_projection/entry.md"
+index = 48
+author = "ElMajestico"
+name = "Force Projection"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/deadly_sight/entry.md"
+index = 49
+author = "ValenTemenos"
+name = "Deadly Sight"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_phantom/entry.md"
+index = 50
+author = "ElMajestico"
+name = "Force Phantom"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/malacia/entry.md"
+index = 51
+author = "ElMajestico"
+name = "Malacia"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_meld/entry.md"
+index = 52
+author = "ShineEpic"
+name = "Force Meld"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/life_bond/entry.md"
+index = 53
+author = "MysteryOmnis"
+name = "Life Bond"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/mnemotherapy/entry.md"
+index = 54
+author = "Craked10"
+name = "Mnemotherapy"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/psychometry/entry.md"
+index = 55
+author = "Craked10"
+name = "Psychometry"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/sith_alchemy/entry.md"
+index = 56
+author = "jaketstone34"
+name = "Sith Alchemy"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/transcending_death/entry.md"
+index = 57
+author = "jaketstone34"
+name = "Transcending Death"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_push/entry.md"
+index = 58
+author = "Long_Industries"
+name = "Force Push"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/ice_image/entry.md"
+index = 59
+author = "VearuJr"
+name = "Ice Image"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_blinding/entry.md"
+index = 60
+author = "ShadowKorbius"
+name = "Force Blinding"
+release_year = 2021
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/essence_transfer/entry.md"
+index = 61
+author = "Iridinia"
+name = "Essence Transfer"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/dark_side_corruption/entry.md"
+index = 62
+author = "Iridinia"
+name = "Dark Side Corruption"
+release_year = 2024
+
+
