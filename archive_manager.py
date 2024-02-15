@@ -222,9 +222,10 @@ def generate_archive_directories():
                             base_name,
                             processed_category_name,
                             processed_article_name,
-                            f"{processed_article_name}.md",
+                            "entry.md",
                         ),
                         "w",
+                        encoding="utf-8",
                     ) as entry_file:
                         entry_file.write(process_markdown(article_data["content"]))
 
@@ -246,7 +247,7 @@ def format_archives():
     for archive_index, folder in enumerate(archive_folders):
         if arguments.verbose:
             log_info(
-                f"Formatting {folder}[{archive_index}/{len(archive_folders)}] archives..."
+                f"Formatting {folder}[{archive_index + 1}/{len(archive_folders)}] archives..."
             )
 
         archives_folder_path = os.path.join(os.getcwd(), folder)
@@ -255,7 +256,7 @@ def format_archives():
         for category_index, category in enumerate(categories):
             if arguments.verbose:
                 log_info(
-                    f"\tFormatting category [{category_index}/{total_categories}]<{category}>"
+                    f"\tFormatting category [{category_index + 1}/{total_categories}]<{category}>"
                 )
 
             category_folder_path = os.path.join(folder, category)
@@ -270,25 +271,8 @@ def format_archives():
                 if entry_markdown_file_path is not None:
                     if arguments.verbose:
                         log_info(
-                            f"\t\tFormatting category <{category}> entry [{entry_index}/{total_entries}]<{entry}>"
+                            f"\t\tFormatting category <{category}> entry [{entry_index + 1}/{total_entries}]<{entry}>"
                         )
-
-                    # pre-format encoding check
-                    # reading file contents
-                    file_contents = None
-                    with open(
-                        entry_markdown_file_path, "r", encoding="utf-8"
-                    ) as entry_file:
-                        file_contents = entry_file.read()
-
-                    # encoding
-                    # file_contents = file_contents.encode(encoding="utf-8")
-                    with open(
-                        entry_markdown_file_path, "w", encoding="utf-8"
-                    ) as entry_file:
-                        entry_file.write(file_contents)
-
-                    # format
                     mdformat.file(entry_markdown_file_path)
 
 
