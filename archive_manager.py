@@ -10,6 +10,8 @@ import mdformat
 ARCHIVE_FILE_SUFFIX = "_archives"
 ARCHIVE_FILE_TYPE_SUFFIXES = ["lua", "json"]
 META_FILE_NAME = "meta.toml"
+META_FILE_NAME_JSON = "meta.json"
+ENTRY_FILE_NAME = "entry.md"
 
 COLOUR_SEQUENCE = {"RESET": "\033[0m", "YELLOW": "\x1b[33;20m", "GREEN": "\x1b[32;20m"}
 OUTPUT_LOG_TYPES = {
@@ -61,6 +63,13 @@ argument_parser.add_argument(
     action="store_true",
     dest="format",
     help="Formats all the archive entries.",
+)
+argument_parser.add_argument(
+    "-m",
+    "--genereate-meta",
+    action="store_true",
+    dest="meta",
+    help="Generates a summative meta file, explaining the contents of the entire archives",
 )
 arguments = argument_parser.parse_args()
 
@@ -117,6 +126,21 @@ def find_markdown_file(path: str):
     for file_name in os.listdir(path):
         if file_name.endswith(".md"):
             return os.path.join(path, file_name)
+
+
+def find_archive_folders() -> list[str]:
+    """Returns a list of all the archive folders."""
+    archive_base_folders = []
+    for file_name in os.listdir(os.getcwd()):
+        # ignoring hidden directories
+        if os.path.isdir(file_name) and not file_name.startswith("."):
+            archive_base_folders.append(file_name)
+    return archive_base_folders
+
+
+def get_index_key(entry_data) -> int:
+    """Key function for use in sorting dictionaries of categories or entries."""
+    return entry_data["index"]
 
 
 def generate_archive_directories():
@@ -222,7 +246,7 @@ def generate_archive_directories():
                             base_name,
                             processed_category_name,
                             processed_article_name,
-                            "entry.md",
+                            ENTRY_FILE_NAME,
                         ),
                         "w",
                         encoding="utf-8",
@@ -232,12 +256,7 @@ def generate_archive_directories():
 
 def format_archives():
     """Formats all archives. Additionally, fixes any unidentified Unicode characters resulting from JSONEncoding from ROBLOX"""
-    # first, identify all archive folders
-    archive_folders = []
-    for file_name in os.listdir(os.getcwd()):
-        # ignoring hidden directories
-        if os.path.isdir(file_name) and not file_name.startswith("."):
-            archive_folders.append(file_name)
+    archive_folders = find_archive_folders()
 
     if len(archive_folders) == 0 and arguments.verbose:
         log_warn("No archive folders to format.")
@@ -276,8 +295,108 @@ def format_archives():
                     mdformat.file(entry_markdown_file_path)
 
 
+def generate_meta():
+    """Generates a single meta file for each set of archives, explaining their contents and using the existing meta files as sources of truth."""
+    archive_folders = find_archive_folders()
+
+    if len(archive_folders) == 0 and arguments.verbose:
+        log_warn("No archive folders to generate meta files for.")
+        return
+
+    for archive in archive_folders:
+        # parsing all categories
+        archive_path = os.path.join(os.getcwd(), archive)
+        categories = os.listdir(archive)
+
+        # creating main meta data object
+        category_list = list()
+
+        for category in categories:
+
+            # collecting meta data from meta file
+            category_path = os.path.join(archive_path, category)
+            category_meta_file_path = os.path.join(category_path, META_FILE_NAME)
+
+            # ensuring the category has a meta file
+            if not os.path.exists(category_meta_file_path):
+                if arguments.verbose:
+                    log_warn(
+                        f"[{category_path}] does not have a {META_FILE_NAME}. Skipping category."
+                    )
+                continue
+
+            # variables in preparation for processing meta file
+            entries = os.listdir(category_path)
+            entries.remove(META_FILE_NAME)  # since meta file should be ignored
+            entry_count = len(entries)
+            entry_list = list()
+
+            # parsing all entries
+            for entry in entries:
+
+                # collecting meta data from meta file
+                entry_path = os.path.join(category_path, entry)
+                entry_meta_file = os.path.join(entry_path, META_FILE_NAME)
+
+                # ensuring the entry has a meta file
+                if not os.path.exists(entry_meta_file):
+                    if arguments.verbose:
+                        log_warn(
+                            f"[{entry_path}] does not have a {META_FILE_NAME}. Skipping entry."
+                        )
+                    continue
+
+                # reading and processing entry meta file
+                with open(entry_meta_file, "r") as meta_file:
+                    entry_meta_data = toml.load(meta_file)
+
+                    # adding each bit of meta data into the list of entries, prior to adding them to the main meta object
+                    entry_list.append(
+                        dict(
+                            markdown_path=f"{category}/{entry}/{ENTRY_FILE_NAME}",
+                            **entry_meta_data,
+                        )
+                    )
+
+            # sorting entries by index
+            entry_list.sort(key=get_index_key)
+
+            # reading the category meta file
+            with open(category_meta_file_path, "r") as meta_file:
+                # loading toml data into a python dictionary
+                category_meta_data = toml.load(meta_file)
+
+                # appending a new category dictionary
+                category_list.append(
+                    dict(
+                        entries=entry_list,
+                        total_entries=entry_count,
+                        **category_meta_data,  # unpacking all category meta data into keys/values inside the new, expanded meta data
+                    ),
+                )
+
+        # sorting categories
+        category_list.sort(key=get_index_key)
+
+        # compiling meta data
+        archive_meta_data = dict(
+            categories=category_list, category_count=len(categories)
+        )
+
+        # writing meta files (toml for readability and json for roblox processing)
+        with open(os.path.join(archive, META_FILE_NAME), "w") as new_meta_toml_file:
+            toml.dump(archive_meta_data, new_meta_toml_file)
+        with open(
+            os.path.join(archive, META_FILE_NAME_JSON), "w"
+        ) as new_meta_json_file:
+            json.dump(archive_meta_data, new_meta_json_file, indent=None)
+
+
 if arguments.generate:
     generate_archive_directories()
 
 if arguments.format:
     format_archives()
+
+if arguments.meta:
+    generate_meta()
