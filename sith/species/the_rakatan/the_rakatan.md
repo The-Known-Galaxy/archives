@@ -1,8 +1,10 @@
 # Introduction
+
 The Rakatans were a sophisticated species that created the largest empire of its time, known as the Rakatan Infinite Empire.
 Over time, the Rakatans accomplished many things but couldn't escape the grasp of nature.
 
 # Description
+
 The Rakatans were born on the planet Lehon, deep in the unknown regions of the galaxy.
 They were cannibalistic species that were genetically drawn to the dark side.
 They held no galactic significance until the Kwa (a species of Force Sensitives) arrived on the planet.

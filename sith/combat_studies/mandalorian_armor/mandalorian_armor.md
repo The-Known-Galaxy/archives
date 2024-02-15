@@ -1,10 +1,11 @@
 # Description
+
 The Mandalorian is more than a race, it is a culture, a warrior culture, and along with it comes years of war, battles, honour, glory.
-But with this culture, beskar’gam and besbes’trayce are one of the core definition of their culture, the armor can be passed down from generations to generations within an aliit, or the organisation they are within, like for Bo-Katan Kryse, her armor being passed down for over three hundred years.
+But with this culture, beskarâ€™gam and besbesâ€™trayce are one of the core definition of their culture, the armor can be passed down from generations to generations within an aliit, or the organisation they are within, like for Bo-Katan Kryse, her armor being passed down for over three hundred years.
 
 The Mandalorian armor is made out of Beskar, the rarest and strongest metal in all of the galaxy, it can resist blaster bolt and even up to lightsaber strikes, along with Beskar, some were made out of Durasteel to replace parts missing the Beskar.
 
-However, even with it’s close to indestructible properties, the Galactic Empire created a weapon in which could overheat the alloy, incinerating anyone wearing the Beskar.
+However, even with itâ€™s close to indestructible properties, the Galactic Empire created a weapon in which could overheat the alloy, incinerating anyone wearing the Beskar.
 They are the only faction that came with a super weapon able to overcome Mandalorian Beskar.
 
 Although Mandalorians had custom armors depending on clans and people, the Neo-crusaders had standardized armors to look united and to show their banner of the Neo-crusaders.

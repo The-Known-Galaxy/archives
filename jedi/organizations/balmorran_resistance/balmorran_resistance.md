@@ -1,14 +1,15 @@
 # Introduction
+
 During the Cold War, the Balmorran resistance was created by Balmorran inhabitants and Galactic Republic warriors in an attempt to drive the Sith Empire out of their world.
 
 # Section 1
+
 Balmorra was given to the Sith Empire after the Treaty of Coruscant.
 All Republic forces remaining on the planet from the Great Galactic War were intended to leave as a result of this, but some were able to stay.
 The Balmorran Resistance movement was formed by these soldiers and Balmorran residents, with the main purpose of ending the Empire's colonization of Balmorra.
 
-
-
 # Section 2
+
 Guerrilla warfare would be used by the Resistance against the Imperial occupation.
 These methods were used not only by the military, but also by ordinary citizens.
 This made it more difficult for the Empire to figure out who was in the Resistance because anyone could be a member.

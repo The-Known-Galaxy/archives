@@ -1,9 +1,9 @@
 # Overview
+
 Beskar is an extremely legendary steel, known mainly for its insane durability and special usage.
 This was a steel primarily used by Mandalorians for their unique armor, hence why this metal also carries names such as the Mandalorian Iron or the Mandalorian Steel.
 This metal was so strong that it could handle blaster bolts and actual Lightsaber strikes.
 The armor and other Beskar items were crafted using a superweapon known as the Arc Pulse Generator that was able to achieve such high temperatures that it could completely melt and mold the Beskar.
-
 
 The Mandalorians had many different groups, but every single one of them used Beskar to craft their own armor.
 Hundreds of years ago, the Jedi and Mandalorians went into a war, and the armor forged from Beskar was the only thing keeping the fight equal.

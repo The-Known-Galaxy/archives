@@ -1,4 +1,5 @@
 # Introduction
+
 Flashstick is a weapon that releases a powerful and blinding flash of light able to blind someone for hours.
 A flashstick was a small baton, mainly made and used for law enforcement on Drall.
 The flashstick was most effective for the native Drall, they were exceptionally sensitive to bright lights, actually disabling them completely.

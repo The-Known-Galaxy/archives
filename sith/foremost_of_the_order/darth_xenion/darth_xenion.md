@@ -1,9 +1,11 @@
 # Introduction
+
 Darth Xenion, widely recognized as PurposeMalvern or Purpose, was a formidable figure within the Known Galaxy, having served in pivotal roles within multiple Spheres.
 He held esteemed positions, starting from the Sphere of Defense and Security, then transitioning to the Sphere of Law and Justice, and finally finding himself in the Sphere of Mysteries after it emerged from a subdivision of Laws and Justice.
 With each transition, he left an indelible mark of his expertise and dedication.
 
 # Biography:
+
 PurposeMalvern's journey began in the Sphere of Defense and Security.
 Here, he quickly distinguished himself through his adept skills in documentation and automation.
 His knack for streamlining processes and ensuring that every detail was meticulously accounted for earned him the respect of his peers and superiors alike.

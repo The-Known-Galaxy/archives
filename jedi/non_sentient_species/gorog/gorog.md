@@ -1,6 +1,7 @@
 # Introduction
+
 The Gorog was a large and bipedal creature of unknown origin spotted in approximately 1 BBY on the planet of Cato Neimoidia.
-The creature was used in a large gladiatorial arena on the planet’s city of Tarko-se.
+The creature was used in a large gladiatorial arena on the planetâ€™s city of Tarko-se.
 The creature itself was owned by one Baron Merillion Tarko, who was the latest member of a distinctive noble family who had served the Republic for generations.
 The creature was of an unknown species and gender.
 Its most prominent feature was its colossal size which was estimated as several times that of a Rancor, which appeared to be part of its diet.

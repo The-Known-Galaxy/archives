@@ -1,4 +1,5 @@
 # Description
+
 Yar Togna, located in the Outer Rim Territories and the Trailing Sectors, was a planet known for its unique geological features.
 Intense fault-line pressure produced rare crystalline elements vital for sensor array manufacturing.
 The landscape comprised a vast volcanic mountain range, lava channels, and mountain springs.
@@ -7,6 +8,7 @@ However, float-jellies, large gasbag-like creatures, consumed the ash, preventin
 The float-jellies secreted substances on their backs, enabling the growth of valuable mosses, molds, and mushrooms by the Tognath species.
 
 # Overview
+
 Yar Togna, an Outer Rim Territories planet, was inhabited by the Tognath species.
 This high-gravity world possessed a dense, oxygen-poor atmosphere and boasted a striking volcanic mountain range.
 The volcanoes constantly spewed sulfur and ash into the air, but their impact was mitigated by the presence of float-jellies, large floating creatures that consumed the airborne particles.

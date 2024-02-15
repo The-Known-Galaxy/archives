@@ -1,4 +1,5 @@
 # Introduction
+
 Little is known about the Anodyne medical substance.
 Anodyne was a medical substance that was used in the Galactic Civil War and the Cold War.
 It helped with sustaining injuries of any sort.

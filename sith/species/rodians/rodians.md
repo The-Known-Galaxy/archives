@@ -1,12 +1,14 @@
 # Introduction
+
 Rodians were humanoid green-skinned creatures that resembled reptilians.
-They were residents of the planet ‘’Rodia’’.
+They were residents of the planet â€˜â€™Rodiaâ€™â€™.
 During the clone wars, their homeland was led by Senator Onaconda Farr.
 He made a pact with the Trade Federation for food and protection.
 They were betrayed shortly after, and they fell back into the hands of the republic.
 Some roadians were dedicated to bounty hunting and informants for the galactic empire.
 
 # Description
+
 The rodians possessed large eyes that lacked pupils, meaning they could see the infrared spectrum.
 They also had antennae that had a weird twin-saucer shape that could detect vibrations.
 Their antennae were located at the top of their head.

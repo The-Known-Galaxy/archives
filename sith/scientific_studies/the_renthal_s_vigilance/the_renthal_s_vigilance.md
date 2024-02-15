@@ -1,4 +1,5 @@
 # Overview
+
 Renthal's Vigilance existed as a Carrack-class light cruiser in Drea Renthal's pirate fleet.
 Initially, it had been an Imperial ship designated Vigilance under Captain Darv Eldon.
 It was part of the Imperial Squad following the Battle of Nar Shaddaa in 4 BBY.

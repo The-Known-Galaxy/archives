@@ -1,4 +1,5 @@
 # Overview
+
 Vandor was a cold planet located in the Sloo sector of the Mid Rim.
 The Galactic Empire has a strong presence on this planet and would be part of much of its history.
 This planet had two moons and a breathable atmosphere, though it was very cold and contained a large amount of mountains and such.

@@ -1,4 +1,5 @@
 # Introduction
+
 In 3643 BBY, Balic Cormac and his troops captured a member of House Thul named Markus Thul, who was planning to enter Castle Organa with a group of Imperial commandos.
 Balic then took the prisoner to the prison camp on Alderaan to find out information about his hiding place.
 Once there, Balic met the new Havoc Squad lieutenant, who was sent to search for Gearbox, one of the Havoc Squad traitors.

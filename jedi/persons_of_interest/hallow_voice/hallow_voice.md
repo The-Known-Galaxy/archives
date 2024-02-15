@@ -1,4 +1,5 @@
 # Introduction
+
 As the population of the Esh-kha horde grew, an unprecedented event occurred, the birth of Hallow Voice.
 He was born while the current patriarch was still well and healthy, and so there were now two patriarchs living at once.
 However, Hallow was somewhat unusual, as he spoke with wise words about coexistence with unknown species, wanting to make friends with them instead of exterminating them.

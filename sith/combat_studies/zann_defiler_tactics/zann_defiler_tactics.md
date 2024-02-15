@@ -1,4 +1,5 @@
 # Overview
+
 Despite having a well-equipped and structured military, the Zann Consortium's Defilers favored guerilla warfare tactics and criminal activities to achieve power.
 Defilers sought to spread Tyber Zann's "corruption" across the galaxy, in which many or all were indoctrinated to serve the Consortium.
 Other tactics used by the Zann defilers were sabotage, kidnapping, bribery, piracy, slavery, and corrupting local militia on planets, as well as intimidating or kidnapping individuals who defied the Consortium.

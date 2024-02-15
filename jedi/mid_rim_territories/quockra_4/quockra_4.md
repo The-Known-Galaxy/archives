@@ -1,4 +1,5 @@
 # Introduction
+
 Quockra-4 was a desert planet, a desert planet meaning a planet with little amounts of water and liquids, it was flat without much differences of terrain.
 It was located on the Minos Cluster sector, and their native species were Quockrans, who were a sentient species of slugs.
 On the planet, it never rained and there were no signs of oceans, although there were many huge salt flats throughout the planet.

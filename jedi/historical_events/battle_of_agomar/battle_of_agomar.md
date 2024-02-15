@@ -1,4 +1,5 @@
 # Introduction
+
 It all took place in the first year of the clone wars on the planet of Agomar, the war consisted of the Galactic Republic and the Confederacy of Independent Systems.
 In the year 22 BBY, The Jedi High Council took on a proactive role in the war.
 The Jedi High Council would launch campaigns against the Confederacy of Independent Systems along the Outer Rim worlds.
@@ -7,4 +8,4 @@ Not far away was Jedi Master Obi-Wan Kenobi on a mission to planet Zigoola with 
 After MasterObi-Wan told her this, Gallia promised to relay the message back to the Jedi Temple at the next opportunity.
 The Republic eventually unleashed a nanovirus on the Separatists on Agomar.
 This virus would make B2 Super battle droids and droidekas to turn on each other, this left the B1 battle droids caught in the middle of all the chaos.
-Thanks to the Republic’s sabotage, Jedi General Adi Gallia, the republic emerged victorious on the planet.
+Thanks to the Republicâ€™s sabotage, Jedi General Adi Gallia, the republic emerged victorious on the planet.

@@ -1,4 +1,5 @@
 # Introduction
+
 The Librarian's Assembly is a group of Jedi Initiates or higher who make the articles held in the archives.
 As a division under the Council of First Knowledge, the Assembly was officially formed and opened on the 13th of October, 2020.
 The first leader of the Librarian's Assembly was Chief Librarian DemshyAlkion, while Caretaker of First Knowledge ValSenko remained as Senior Councilor of First Knowledge.
@@ -7,6 +8,7 @@ The motivation stemmed from the interest in Star Wars lore and the ability to pr
 The goal for the Librarian's Assembly has been steadily fulfilled throughout the Librarian's Assembly's existence under different leaders, such as Chief Librarian CannonMalvern, who has been in service since the 29th of July, 2021.
 
 # Section 1
+
 Within the first few months, the Librarian's Assembly was relatively small in its efficiency.
 The Assembly did not have a dedicated team to provide oversight and review articles aside from the Chief Librarian and Caretaker, though they kept on going with the production.
 Over the course of that following year, the Assembly saw multiple changes in leadership and efficiency.

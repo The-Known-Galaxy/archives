@@ -1,8 +1,10 @@
 # Introduction
+
 The bacta tank, also known as the rejuvenation tank, was a glass vessel filled with a powerful healing agent called the bacta, created by the Vratix.
 The healing agent would promote rapid healing when a body was placed inside a large cylinder tank filled to the brim with the bacta liquid.
 
 # Section 1
+
 The bacta tanks were very expensive.
 Buying the tanks plus the supply of bacta would cost around 100,000 credits from 32 BBY to 8 ABY.
 There were many types of medical equipment that came with the bacta tanks that were only seen in hospitals, capital ships, and major military bases.

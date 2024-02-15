@@ -1,4 +1,5 @@
 # Overview
+
 Sev'rance Tann, a Force-sensitive Chiss female, became a Dark Acolyte and a trusted general in the Confederacy during the Clone Wars.
 Trained by Count Dooku, she excelled in battles, stealing powerful Republic technology, the Decimators.
 Her audacious attack on Sarapin left Core Worlds in darkness.
@@ -6,6 +7,7 @@ Pursued by Jedi Master Echuu Shen-Jon, she met her end in a final confrontation.
 Despite her short service, Tann's strategic brilliance and dark side prowess left a lasting impact on the war.
 
 # Biography
+
 Sev'rance Tann, a rare Force-sensitive Chiss female born on the distant planet Csilla during the waning days of the Galactic Republic, possessed a unique gift - the ability to predict her enemy's movements with uncanny precision.
 Recognizing her potential, she attended the prestigious Chiss Academy, where she honed her skills in military strategy and tactics.
 One remarkable incident during her time at the academy showcased her brilliance.
@@ -30,9 +32,8 @@ This marked the end of Tann's service in the Clone Wars, but her impact on the c
 Despite her short tenure, Sev'rance Tann's exceptional abilities and strategic prowess made her one of the Confederacy's most formidable commanders.
 Her mysterious departure from Chiss Space and her intriguing legacy left an enduring mark on the history of the Clone Wars.
 
-
-
 # Personality and traits
+
 Sev'rance Tann exuded confidence in her abilities, displaying unwavering faith in her capacity to fulfill Count Dooku's orders.
 She held herself in high regard and boasted about her swift conquest of Sarapin when tasked with its capture.
 Her overconfidence and underestimation of her adversaries led to her downfall, as she faced Jedi Knight Jor Drakas and Echuu Shen-Jon without any hesitation, ultimately meeting her end at the hands of Shen-Jon.
@@ -44,9 +45,8 @@ This method proved effective, as her actions ensured absolute compliance with he
 Sev'rance Tann's audacious personality, sharp wit, and unyielding determination made her a formidable commander within the ranks of the Confederacy of Independent Systems.
 However, her overconfidence and penchant for mockery ultimately led to her demise in the Clone Wars.
 
-
-
 # Power and abilities
+
 Sev'rance Tann possessed a wealth of military knowledge, making her a skilled strategist and tactician, evident in her successful command of various battles throughout the Clone Wars.
 As a Chiss general, she showcased remarkable expertise in maneuvering her forces and outwitting her opponents on the battlefield.
 In addition to her commanding abilities, Tann was a formidable combatant, actively engaging in fights alongside the Separatist infantry.

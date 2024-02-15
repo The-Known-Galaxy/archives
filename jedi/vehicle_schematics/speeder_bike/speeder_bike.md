@@ -1,8 +1,8 @@
 # Introduction
+
 Speeder bikes, or jumpspeeders are open-air vehicles that are used in nearly every world in the galaxy.
 The Jedi notably used the Undicur-class Speeder bike, which became well known and used among civilians.
 The Clone Wars produced the CK-6 Swoop bikes that are made primarily for the cold climates of worlds like Hoth.
-
 
 A combat variant of the CK-6 was created also, designed especially for General Grevious.
 The Imperial speeder bikes are inspired in design and engineering by the BARC speeders used during the Clone Wars.

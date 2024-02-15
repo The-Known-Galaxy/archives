@@ -1,4 +1,5 @@
 # Overview
+
 Hammerly was a human female who served the Galactic Empire.
 She was an Officer in the Imperial Navy years before the Galactic Civil War.
 Her duties were aboard the Thunder Wasp during the battle that took place over Umbara.

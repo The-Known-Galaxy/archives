@@ -1,10 +1,12 @@
 # Overview
+
 Nelvaanians are a race of blue-furred lupine humanoids originating from the planet of Nelvaan.
-They call their planet ìGreat Motherî, and have Nelvaan as the main focus of their religion.
+They call their planet ‚ÄúGreat Mother‚Äù, and have Nelvaan as the main focus of their religion.
 They usually formed simple, tribalistic societies in which males became warriors and scouts while females were builders, gatherers, and mothers.
 Each tribe was governed by one Shaman and one Chieftain respectively.
 
 # History
+
 During the Clone Wars, a Separatist Base on Nelvaan was run by scientists of the Techno Union.
 Once General Grievous had come to visit the base, he asked about the nature of its inhabitants.
 Fascinated by their strength and culture, he convinced himself to turn them into his own personal elite.

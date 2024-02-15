@@ -1,4 +1,5 @@
 # Overview
+
 The Force Cloak which was sometimes referred to as Force Camouflage was an ability not often seen due to the requirement of having to bend Light and Sound Waves.
 This Force Ability would render the user invisible to the naked eye.
 As such, this ability allowed users to sneak into enemy territory, carry out assassinations, and going in restricted sections.

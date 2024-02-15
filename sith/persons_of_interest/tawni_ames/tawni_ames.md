@@ -1,8 +1,10 @@
 # Overview
+
 During the Imperial Era, Tawni Ames held the prestigious position of governor in the region of Desix.
 As a female human, her leadership and influence left an indelible mark on the governance of that era.
 
 # Biography
+
 During the Clone Wars, Tawni Ames and her homeworld of Desix supported the Confederacy of Independent Systems.
 When Senator Mina Bonteri of Onderon put forth a peace initiative between the Galactic Republic and the Separatist movement, Ames supported her.
 Nevertheless, the treaty's revocation occurred due to the bombing of the Republic capital and the subsequent assassination of Bonteri.

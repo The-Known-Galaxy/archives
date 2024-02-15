@@ -1,4 +1,5 @@
 # Description
+
 Action VI Transport was also known as the bulk transport.
 It was a transport ship that was created by the Corellian Engineering Corporation.
 These ships had no defense systems, making them an easy target for opponents of their owners.

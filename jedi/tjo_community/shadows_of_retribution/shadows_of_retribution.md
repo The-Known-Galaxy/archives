@@ -1,4 +1,5 @@
 # Introduction
+
 The architecture's ancient design and the ambient lighting cast upon it create a sense of serenity in these halls.
 Embraced by the eternal history of the Order as one passed the decorated walls and sculptures for the significant individuals of the past.
 Without a moment's notice, the sound of footsteps filled the room.

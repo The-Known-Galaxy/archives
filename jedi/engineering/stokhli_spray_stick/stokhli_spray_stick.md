@@ -1,4 +1,5 @@
 # Introduction
+
 The Stokhli spray sticks, also known as the Stokhli sticks, were rod-like weapons that were crafted from metal.
 They would weigh around four kilograms and cost very much compared to Gaderffiis, which would be 14,000 credits.
 Stokhli sticks were first developed by the Stokhli like the name suggests that would lurk on Manress, a planet that is mostly unknown.

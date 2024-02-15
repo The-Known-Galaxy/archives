@@ -1,4 +1,5 @@
 # Introduction
+
 A feared criminal organization known as the Black Sun was led by a male Falleen named  Xomit Grunseit.
 He had chosen their facility to be located on the planet Mustafar where he also began training and gathering his loyal warriors.
 During the Clone Wars, Grunseit and other Black Sun leaders were confronted by Darth Maul, Savage Opress, and the leader of Death Watch, Pre-Vizsla.

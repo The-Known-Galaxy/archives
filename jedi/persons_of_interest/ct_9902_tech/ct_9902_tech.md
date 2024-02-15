@@ -1,4 +1,5 @@
 # Introduction
+
 The nickname "Tech" was given to a member of the elite clone commando squad called "Clone Force 99/The Bad Batch".
 Each member of Clone Force 99 had their special abilities.
 Tech specialized in science and technology; therefore, his name was "Tech".
@@ -6,6 +7,7 @@ Also, he was very skilled in decrypting, engineering, and language translations.
 He mainly used dual DC-17 blaster pistols but could use different weapons if needed.
 
 # Section 1
+
 Tech was born on Kamino as a clone.
 But Tech was a little different.
 He got his mutations early on in Kaminoan scientist Nala Se's private research laboratory.
@@ -15,20 +17,18 @@ The mutations of Tech were neither super strength nor sharpshooter expertise, bu
 Also, he had a lot of knowledge about ships, and because of that knowledge, he was mostly the person who repaired the ships or other broken things.
 The ability to translate languages was mostly because of the goggles he wore; if someone spoke in a language not native to him, the goggles would translate it, and Tech would be able to translate and speak it.
 
-
-
 # Section 2
+
 Tech was in the Clone Commando squad called Clone Force 99.
 He served with Hunter, Wrecker, and Crosshair.
 After a while, Omega and Echo joined the squad.
 After the fall of the republic, Clone Force 99 worked very hard for the empire but betrayed it after a while.
 Except for Crosshair, he stayed with the Empire and began to hunt the squad down.
 While Crosshair was hunting the squad, they and Tech began to work as mercenaries for Cid.
-Cid gave them money for jobs, and that’s how the squad got their money.
-
-
+Cid gave them money for jobs, and thatâ€™s how the squad got their money.
 
 # Section 3
+
 While on a mission on Eriadu to locate Doctor Royce Hemlock, the squad got stuck on a railway high up in the sky.
 While they were surrounded by the Empire in other railcars, their railcar got heavily damaged.
 Half of the railcar was dangling over the ridge and could fall at any moment.

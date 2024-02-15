@@ -1,4 +1,5 @@
 # Introduction
+
 The Ezaraa species was a sentient humanoid species that lived on the planet Ezaraa.
 Not much is known about their visual features, but they were often seen with armor to reflect their warmongering nature.
 Being a violent carnivorous species, they formed into a dominion on two continents of the planet Ezaraa.

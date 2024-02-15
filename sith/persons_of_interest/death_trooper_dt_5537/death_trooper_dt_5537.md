@@ -1,6 +1,7 @@
 # Overview
+
 DT-5537 was a human male Death Trooper that served the Galactic Empire.
-His real name was never exposed because a lot of Death Troopers were secretive and those who weren’t had code names, such as Pik or Waffle.
+His real name was never exposed because a lot of Death Troopers were secretive and those who werenâ€™t had code names, such as Pik or Waffle.
 DT-5537 was part of the special Unit TI-23, also known as the undying unit.
 On the Imperial planet of Scarif, DT-5537 had to face severe training camps and received classified orders.
 He was very skilled in the art of guerilla warfare tactics and proved to do really well in the training camps.

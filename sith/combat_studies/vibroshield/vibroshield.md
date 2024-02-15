@@ -1,4 +1,5 @@
 # Overview
+
 The vibroshield is a versatile weapon and as the name states, it is a shield.
 The vibroshield is made out of ultra-chrome, a metal used in the Old Republic Era for ship armor by the Sith Empire.
 Kar Vastor created the vibroshield intending to be able to act as a normal shield but at the same time, be able to use it as a weapon for cutting.

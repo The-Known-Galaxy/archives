@@ -1,4 +1,5 @@
 # Introduction
+
 The Super Tank was created by the Confederacy of Independent Systems.
 Its possible origins  are the AAT merged with the MTT.
 With a small crew of only two members including a pilot and a gunner, if either crew member was taken out, then the tank was rendered useless.

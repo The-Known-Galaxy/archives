@@ -1,4 +1,5 @@
 # Introduction
+
 The Malkite Poisoners were an organization of assassins who learned and tried to perfect the arts of poisoning like the name suggests.
 They would train together on Malkii, a planet which was usually filled with terrorists and refugees.
 Malkii would help them be more deadly due to the ingredients it offered to make this lethal poison.
@@ -9,6 +10,6 @@ He was also involved in the death of Mor Agmor Glayyd, a person killed by a smal
 When hired by Jiliac Desilijic Tiron, they would assassinate Aruk Besadii Aora.
 The Malkite Poisoners would pull off this heist by placing an addictive substance designed X-1 droid within his brain.
 This would affect his brain activity and eventually, the toxins within would rot his brain.
-Aora didn’t do anything about it as he was addicted and couldn’t.
+Aora didnâ€™t do anything about it as he was addicted and couldnâ€™t.
 With his late death, Durga would invade and take over the Besadii clan.
 Though the poison used on Aora was known to be able to elude without any medical tests and evaluations.

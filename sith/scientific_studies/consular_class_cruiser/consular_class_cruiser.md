@@ -1,8 +1,8 @@
 # Description
+
 The Consular-class cruiser was also known as a Republic cruiser.
 It was used by the Galactic Republic to transport members of the Jedi Order and its diplomats.
 The cruiser was developed by the Corellian Engineering Corporation.
-
 
 The ships were covered in a red paint, which symbolized the diplomatic service of the Galactic Republic.
 It was also a sign for other factions not to shoot it.

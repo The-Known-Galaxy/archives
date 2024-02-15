@@ -1,9 +1,11 @@
 # Introduction
+
 Darth Maladi, a prominent Sith Lady in Darth Krayt's One Sith Order, was a formidable Force-sensitive Devaronian female.
 Known for her expertise in inquisition, torture, and mental manipulation, Maladi served as the head of Sith Intelligence and Assassination.
-With her skills in science and her dedication to the Sith cause, she played a crucial role in the Sith–Imperial War and pursued the capture of key individuals, leaving a lasting impact on the galaxy.
+With her skills in science and her dedication to the Sith cause, she played a crucial role in the Sithâ€“Imperial War and pursued the capture of key individuals, leaving a lasting impact on the galaxy.
 
 # Biography
+
 Darth Maladi, born as Malincha on the planet Devaron, was the child of a Devaronian Jedi.
 When she was young, Darth Krayt, the Dark Lord of The Sith, killed her parents and took her as his apprentice.
 Under Krayt's guidance, Malincha embraced the dark side of the Force and became Darth Maladi, a prominent Sith Lady specializing in science, Yuuzhan Vong bioengineering, and espionage.
@@ -22,9 +24,8 @@ Unable to attack directly due to its defenses, she devised a plan involving Impe
 However, Fel thwarted the plan, killing Kruhl and the crew of the Star Destroyer Dauntless.
 In the end, Maladi's capture of Skywalker and her attempts to eliminate Fel set the stage for further conflicts within the Sith-Imperial War.
 
-
-
 # Personality and traits
+
 Darth Maladi, a member of Darth Krayt's New Sith Order, displayed traits of loyalty and obedience towards her Master, despite occasionally questioning his decisions.
 She was skilled in torture and manipulation, often extracting valuable information from her victims.
 Maladi held positions of power, commanding individuals like Nyna Calixte and Hosk Trey'lis.
@@ -38,16 +39,14 @@ She believed in the strength of the New Sith Order, while Nyna Calixte saw simil
 Maladi was composed, calculated, and unafraid to commit heinous acts to further her agenda.
 Her greatest fear was losing control over her scientific creations.
 
-
-
 # Physical appearance
+
 Darth Maladi possessed distinct physical characteristics that set her apart from other females of her species.
 Unlike the natural white fur commonly found on her species, Maladi had black hair, which was limited to her head due to genetic factors.
 Her eyes were notable for their yellow coloration.
 
-
-
 # Powers and abilities
+
 Darth Maladi possessed a diverse range of skills and abilities as a Sith in the New Sith Order.
 Proficient in lightsaber combat, she combined strong Force attacks with her blade work, making her a formidable opponent.
 During a duel with the Twi'lek Jedi Shado Vao, Maladi showcased her dexterity and unleashed Force lightning, engaging in a fierce battle where neither side gained an advantage.
@@ -55,14 +54,13 @@ Despite her confidence in her detection skills, she acknowledged Vao, Skywalker,
 Torture and assassination were areas of expertise for Maladi.
 Using specialized torture droids, she successfully extracted crucial information about Cade Skywalker from Jedi Master Hosk Trey'lis.
 Skilled in espionage, assassination, and interrogation, she possessed expertise in Sith Alchemy and Yuuzhan Vong bioengineering.
-Maladi employed the Memory Walk technique to attack Skywalker's mind and also utilized her Force abilities to sabotage the Ossus Project, triggering the Sith–Imperial War.
+Maladi employed the Memory Walk technique to attack Skywalker's mind and also utilized her Force abilities to sabotage the Ossus Project, triggering the Sithâ€“Imperial War.
 Her mastery of Sith Alchemy, combined with her Vongsense, allowed her to manipulate Yuuzhan Vong coral seeds into agonizing and lethal sores.
 Additionally, she created Omega Red, an advanced version of the deadly Alpha Red.
 Throughout her endeavors, Maladi demonstrated her proficiency with Force lightning, employing it to torture both Jariah Syn and Deliah Blue while extracting information from Skywalker.
 Despite suffering a temporary defeat at the hands of Skywalker's dark technique, she eventually regained her composure and resumed her work after the defeat of the One Sith's Maine forces.
 
-
-
 # Equipment
+
 Darth Maladi, like her Sith counterparts, wielded a red-bladed lightsaber during combat, as witnessed on Had Abbadon.
 Additionally, she adhered to the common Sith practice of donning all-black attire.

@@ -1,6 +1,7 @@
 # Introduction
+
 The Black Cipher was a device used by the Sith Empire; the device was used as an encryption device manufactured by Imperial Intelligence.
-Known by the name of the ìUmbra encrypterî to the Galactic Republic, the Sith Empireís enemy.
+Known by the name of the ‚ÄúUmbra encrypter‚Äù to the Galactic Republic, the Sith Empire‚Äôs enemy.
 It was said that in the times of 3640 BBY only 17 of these devices were manufactured.
 15 on board some of the largest ships that the Sith Empire contained and the last 2 in the Minister of Logistics office and shared in the possession of Darth Marr.
 It was said in the early stages of the Galactic War, Sergeant Yuun with the help of Havoc Squad to reassemble a Black Cipher on the wreckage of Hoth.

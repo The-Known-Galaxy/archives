@@ -1,4 +1,5 @@
 # Introduction
+
 Cator was a droid stationed in the Jedi Holocron Vault in the Jedi Temple.
 The droid was programmed with the sole purpose of preserving the contents of the vault.
 Cator was committed to his programming, even staying out of a conflict in the Jedi Temple to protect the vault.

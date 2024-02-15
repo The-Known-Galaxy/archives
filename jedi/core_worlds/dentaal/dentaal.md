@@ -1,4 +1,5 @@
 # Introduction
+
 Dentaal was a planet in the core worlds, whose population was wiped out by the Candorian plague at the time of the Galactic civil war.
 The planet's capital was Calif city and the planet itself was ruled by the House of Dentaal, who was suppressed and disbanded by the Empire.
 The house would have none of this as they formed Dentaal Independence party which they used to assassinate the Imperial Governor Taliff.

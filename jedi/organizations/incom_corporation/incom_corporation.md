@@ -1,4 +1,5 @@
 # Introduction
+
 Incom Corporation was an organization known for manufacturing starships for the galaxy.
 Their designs would include starfighters and transports.
 Within the High Republic Era, they would begin to gain more influence and interest as they created ships such as the Z-24 Buzzbug and Z-28 Skywing.

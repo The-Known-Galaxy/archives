@@ -1,4 +1,5 @@
 # Overview
+
 Bacta is a medical substance created from a mixture of kavam, alazhi, ambori fluid, and vraxitia renanicus.
 Bacta was created by the Vratix with the sole purpose of healing injuries rapidly, Bacta was normally placed in Bacta tanks where the person enters.
 Bacta's immense healing properties allowed it to reconnect broken bones, it also allowed the healing of any critical injuries.

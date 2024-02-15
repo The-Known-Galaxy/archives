@@ -1,4 +1,5 @@
 # Overview
+
 The Cosmic Balance was a heavily followed religion on the planet of Bakura.
 This religion was based on the idea that every motive placed in the universe would affect something else in the universe, almost mirroring a butterfly effect.
 For example, if someone that day was having extremely good luck, someone else was having poor luck as well.

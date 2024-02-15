@@ -1,4 +1,5 @@
 # Introduction
+
 Korriban is the only planet in the solar system of Horuset.
 It was the home planet of the Sith species and a sacred planet among the Sith.
 The planet is buried in a number of ancient and powerful dark Sith Lords and the planet is tainted with dark side energy.
@@ -10,12 +11,13 @@ The Rakata was eventually exiled from Korriban, after the Sith King Adas, lead t
 The Sith Dynasty on Korriban fell and the Siths started leaving Korriban to planets like Arbra and Tund.
 
 # Section 1
-The Sith Empire on Korriban was created in the 6900 BBY, by the Dark Jedis, exiled from the Jedi community, and itís morals.
- Many famous and powerful Siths were buried on this planet, for example Darth Bane.
-The graves of the fallen Sith Lords, were on the famous ìValley of the Dark Lordsî, which included many other gravestones, of the fallen siths.
+
+The Sith Empire on Korriban was created in the 6900 BBY, by the Dark Jedis, exiled from the Jedi community, and it‚Äôs morals.
+Many famous and powerful Siths were buried on this planet, for example Darth Bane.
+The graves of the fallen Sith Lords, were on the famous ‚ÄúValley of the Dark Lords‚Äù, which included many other gravestones, of the fallen siths.
 The Valley was also next to a Sith Temple.
 
-The exiled Dark Jedis, called themselves ìSithsî, after the species that lived on Korriban.
+The exiled Dark Jedis, called themselves ‚ÄúSiths‚Äù, after the species that lived on Korriban.
 The first three Sith lords were Ajunta Pall, Karness Muur and XoXaan.
 Korriban itself is one of the planets, that can have liveable environment, but itself, hard to live on.
 Because of the hard pressure of the dark stigma on the planet, it had more negative and dark monsters living on it.

@@ -1,4 +1,5 @@
 # Introduction
+
 The Greater Krayt Dragon was the largest subspecies of Krayt Dragon who was more rare and bigger than the canyon krayt and relatives.
 They could grow up to 100 metres or more, requiring ten legs to support their big bulk.
 Despite their large size these creatures have been rarely seen due to preferring to spend long periods of time swimming within the sand of their homeworld Tatooine.

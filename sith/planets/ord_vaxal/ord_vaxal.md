@@ -1,4 +1,5 @@
 # Overview
+
 Ord Vaxal was a terrestrial planet in the Inner Rim, inhabited by immigrant populations and native to non-sentient species such as the Risp and the Trigha.
 Having three continents and several groups of islands, the terrain was a vast mixture of rainforests, aquamarine grassy plains and polar tundra, separated by oceans.
 For most of its history, it was known as an Ordnance/Regional Depot, a military and prison outpost.
@@ -7,8 +8,9 @@ This city housed four regions, Bahn, Khorma, Old Soren and Paast, whose people c
 Oubliette, a shadowport in the northern reaches of Old Soren, allowed smuggler trade with the Hutt space and for imports of working domestic animals, such as the Jungle Bantha, Eopies, Rontos and Nerfs.
 
 # History
+
 During the Clone Wars, the Jailbreak of 20 BBY took place on Ord Vaxal.
-It was instigated by a gang’s revolt at a prison, igniting similar mutinies in other jails.
+It was instigated by a gangâ€™s revolt at a prison, igniting similar mutinies in other jails.
 Within a fortnight, masses of convicts made it to the spaceports.
 Still, their escape from the planet was halted by Republic forces, who destroyed their means to travel in an orbital bombardment.
 Some trapped prisoners quickly established their territory, and battles ensued between these groups to maintain their power.

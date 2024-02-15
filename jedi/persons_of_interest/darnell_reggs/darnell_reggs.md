@@ -1,7 +1,8 @@
 # Introduction
+
 PREFACE
 
-ìYou canít shake me this time, buckethead!î - Darnell Reggs
+‚ÄúYou can‚Äôt shake me this time, buckethead!‚Äù - Darnell Reggs
 
 This lesser known pilot served the Rebel Alliance religiously during the Galactic Civil War.
 He had immense skill with his class Y-wing starfighter, and notably served under Admiral Krane during the Imdaar escort.
@@ -10,14 +11,14 @@ Darnell Reggs, alongside his fellow Rebel pilots secured an instrumental victory
 They defeated a squadron of TIE and IN interceptors during this escort.
 
 # Section 1
+
 BIOGRAPHY
 
 Darnell Reggs, a human male, was a small cog in the Rebel Alliance machine and secured a multitude of victories for them.
 His most treacherous missions began when Rookie One, another rebel pilot, recovered the Corellia Star light freighter.
 
-
-The contents of the freighterís inner recordings highlighted Darth Vaderís plans to create advanced V38 Assaults devices that had invisibility cloaking devices.
- The factory that produced these was subsequently destroyed by Darnell Reggs and his team under Admiral Gial Ackbar.
+The contents of the freighter‚Äôs inner recordings highlighted Darth Vader‚Äôs plans to create advanced V38 Assaults devices that had invisibility cloaking devices.
+The factory that produced these was subsequently destroyed by Darnell Reggs and his team under Admiral Gial Ackbar.
 
 A second mission followed which involved the planet Imdaar in the Dantus Sector.
 It had been scouted out that the Imperial Navy was deploying a new set of TIE phantoms into nearby space.
@@ -28,9 +29,8 @@ The squadron engaged (12) or more TIE/IN Interceptors and managed to heroically 
 
 Despite being outnumbered heavily, this showcased the immense skill of each pilot, and especially Darnell Reggs.
 
-
-
 # Section 2
+
 PERSONALITY & TRAITS
 
 Darnell Reggs was an ideal pilot, neither an exceptional prodigy, nor an incompetent rustbucket.

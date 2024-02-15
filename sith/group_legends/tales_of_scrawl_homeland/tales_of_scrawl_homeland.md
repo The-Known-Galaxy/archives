@@ -1,9 +1,10 @@
 # Article
+
 Scrawl's body was built exactly how a humanoid alligator would look: scales, an elongated snout, but his eyes were unlike any other Kuvok, His eyes were a bright orange while most of Kuvoks eyes were either green, blue, or even sometimes both.
- He wore a brown tattered cloak with steel armor underneath it.
-   
+He wore a brown tattered cloak with steel armor underneath it.
+
 It was raining, the cold rain dropped on Scrawl's snout as he stared into the clouds.
-He had always admired rain, it reminded him that life wasn't so repetitive, it isn't so…..
+He had always admired rain, it reminded him that life wasn't so repetitive, it isn't soâ€¦..
 Dull.
 Hunting day was always his favorite day.
 Kuvoks only hunted on days with rain out of tradition from when the first recorded kill on planet Antro was made on a day of rain.
@@ -49,7 +50,7 @@ The creature arose from the volcano with hunger in its eyes.
 It was the leviathan.
 The creature lunged at them with so much force that the sound rippled in the air and the roar could be heard around the entire planet.
 Scrawl covered Stup and put his hand up in defense.
-To Scrawl's surprise, the leviathan was… frozen in place.
+To Scrawl's surprise, the leviathan wasâ€¦ frozen in place.
 Like some kind of Force was keeping it from moving.
 Scrawl was intrigued, he wondered did he do this?
 Was he the reason it stopped?
@@ -75,7 +76,6 @@ Scrawl took this as a scam after all he didn't believe in oracles or fate.
 She told him if he were to continue the path he is currently on he would suffer for it.
 A life full of hatred, grief, and agony would await him.
 He brushed it off and told the oracle that it was a hoax and stormed out of the mud hut.
-
 
 He arrived at the volcano again and Stup was asleep next to the droid.
 He woke her up for help holding the droid still just in case it rolled and he broke the object inside.

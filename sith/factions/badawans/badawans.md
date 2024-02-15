@@ -1,4 +1,5 @@
 # Overview
+
 The Badawans were Dark Side Acolytes under the rulership of Darth Tyranus in 20 BBY.
 They studied at the Dark Padawan Academy on the planet Mustafar, which aimed to turn the tide of the Clone Wars.
 After being unable to manage the delinquents, their masters, Darth Tyranus, Darth Maul, Asajj Ventress and Poggle the Lesser, sought the aid of Darth Sidious to discipline them.

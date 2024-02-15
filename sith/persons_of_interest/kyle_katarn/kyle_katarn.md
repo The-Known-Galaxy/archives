@@ -1,4 +1,5 @@
 # Introduction
+
 Kyle Katarn, member of the New Jedi Order, was a Force-sensitive rebel who later became a Jedi.
 Originally he was an Imperial officer but ultimately joined the Rebellion.
 For the Rebellion he did various secret tasks, the most important one being the sabotage of the Dark Trooper Project.
@@ -7,6 +8,7 @@ He faced the Dark Side twice and eventually became a Jedi Master.
 Ultimately, after participating in the Yuuzhan Vong war, he became a member of the Jedi High Council.
 
 # Biography
+
 Kyle Katarn, born in 23 BBY, was the son of farmers from the Sullust colony moon of Sulon.
 He spent time with his father in their workshop where they repaired or made machines.
 Katarn joined the Imperial Academy in 5 BBY to help financially and gain knowledge.
@@ -37,7 +39,7 @@ Rosco brought Jan on, and Kyle lifted them up.
 
 Ors introduces Kyle to Mon Mothma, the Alliance leader, who explained his father's truth and the Empire's Death Star.
 Mothma proposed a mission to infiltrate an Imperial facility, to retrieve schematics to identify a weak spot.
- This begins Kyle's career as a Rebel-sympathetic mercenary and spy.
+This begins Kyle's career as a Rebel-sympathetic mercenary and spy.
 Katarn is still haunted by the loss of his father and seeks the one responsible for his death.
 One year after the Battle of Endor, he is contacted by an administrative droid to attend a meeting in Rimmer's Rest on Nar Shaddaa.
 Upon arrival, it is revealed that his father was killed by Jerec, a Dark Jedi with ambitions of restoring the Empire.
@@ -54,14 +56,13 @@ He embarks on a journey to locate the Valley of the Jedi and protect it from a f
 Katarn infiltrates Jerec's tower in Barons Hed and locates the droid, who created a digitized version of the map.
 He defeats Yun, one of Jerec's dark pupils, but is soon attacked and has to escape without either version of the map.
 
-
 In Ruusan, Katarn infiltrated Jerec's outpost and defeated Dark Jedi Maw, who revealed Jan Ors was dead.
 Jerec confronted Katarn, revealing Jan's captured and not dead.
 Katarn refused to join him, but Jerec blasted him with dark side energy trapping him inside.
 Katarn was unconscious, and two remaining Dark Jedi pulled him out.
 Boc, another Dark Jedi, destroyed Katarn's lightsaber before leaving to assist Jerec.
 Katarn defeated Sariss and rescued Ors from the Valley of the Jedi.
- Katarn struck Boc with the ancient dark side technique known as spear of midnight black, revealing his identity as a Jedi.
+Katarn struck Boc with the ancient dark side technique known as spear of midnight black, revealing his identity as a Jedi.
 Kyle Katarn faced Jerec's Dark Master, who had already begun using the power from the Valley of the Jedi.
 Katarn defeated Jerec with a light-side technique that disrupted his connection to the Force.
 Jerec tried to turn Katarn to the dark side by reminding him of his father's murder, but Katarn showed mercy and tossed the Dark Jedi his saber.
@@ -84,26 +85,24 @@ Katarn became the Academy's most respected Jedi Battlemaster, educating many oth
 
 After years of service he became a member of the Jedi High Council and continued to fight for the Order for many more years.
 
-
-
 # Personality and Traits
+
 Kyle appeared to be a cold emotionless person but the truth was he actually was concerned about others well being, even if he was very independent.
 From a very young age he demonstrated his interest in engineering in which he had talent.
 After joining the academy, he was trained in martial arts, piloting and shooting.
 He also demonstrated high capacities in cybernetics.
 His emotionless appearance made him a very respected cadet in the academy.
-During a mission, Kyle learned about his father’s death which made him change.
+During a mission, Kyle learned about his fatherâ€™s death which made him change.
 He no longer cared for the Empire nor his peers.
 He then joined the Rebellion and did various missions with his companion Jan Ors.
-Kyle wasn't very keen on teamwork however he always cared for Jan’s safety.
-They eventually became a couple after Kyle finally understood Jan’s feelings for him.
+Kyle wasn't very keen on teamwork however he always cared for Janâ€™s safety.
+They eventually became a couple after Kyle finally understood Janâ€™s feelings for him.
 He then came to know he was Force sensitive, which he trained by himself.
 This led to him almost falling to the Dark Side various times but Jan brought him back various times.
 He was reluctant to use the Force due to this but ultimately decided to use it as he understood the Force isn't bad, it's only bad depending on the user's objective.
 
-
-
 # Powers and abilities
+
 Kyle was proficient in the use of various weapons in addition to his training in the academy he became capable of using any weapon he found.
 He also was an excellent marksman which made him a that not only in close combat but also in ranged combat.
 His connection with the Force made him form intuition without him knowing.

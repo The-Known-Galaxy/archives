@@ -1,4 +1,5 @@
 # Overview:
+
 Long have we waited.
 Lurking behind the veil of shadows awaiting our time to reveal ourselves once more, preparing to enact a swift retribution across the galaxy.
 All shall know fear, all shall know that the Sith can never be extinguished.
@@ -8,7 +9,7 @@ Our time is now.
 The sword fell with a swift stroke.
 Countless planets going dark, one by one, each filled with the echo of screams.
 It was like a symphony of terror, every scream an instrument in an orchestra of fear.
-By the time the ìpeacekeepersî caught wind, it was already too late.
+By the time the ‚Äúpeacekeepers‚Äù caught wind, it was already too late.
 
 The Jedi awoke to the sound of screaming and flames, the very walls around them collapsing one by one.
 Some tried and failed to retaliate.
@@ -31,6 +32,5 @@ Rather, we would butcher them and leave little breathing.
 Those few who were spared were saved not by mercy.
 We wanted them to tell the rest what happened.
 To spread the tale across their fledgling order.
-
 
 To tell them that the Sith have returned.

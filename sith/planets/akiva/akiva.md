@@ -1,4 +1,5 @@
 # Overview
+
 Akiva, situated in the distant Outer Rim Territories, had a history of affiliation with the Confederacy of Independent Systems.
 It housed a significant droid construction facility underground.
 Following the Clone Wars, the Galactic Empire occupied Akiva, with the Satrapy of Myrra collaborating with the new rulers.
@@ -9,6 +10,7 @@ This successful battle marked Akiva as the first Outer Rim planet to align with 
 Later on, in 34 ABY, Akiva pledged its allegiance to the rising First Order.
 
 # Description
+
 Akiva, located in the Outer Rim Territories, was a hot and humid planet known for its thunderous storms and frequent rainfall.
 The city of Myrra, Akiva's capital, had unique features like "storm ladders" to swiftly evacuate people during flash floods.
 The planet's surface boasted jungles, canyons, and narrow streets navigated by the bala-bala speeders.
@@ -20,9 +22,8 @@ In the past, Akiva was home to the Ahia-Ko, an ancient species that constructed 
 The Ahia-Ko believed the water in the canyons possessed purifying qualities, capable of cleansing sins and improving one's character.
 The water from these canyons was highly valued by members of the Satrapy of Myrra, including Satrap Isstra Dirus.
 
-
-
 # History
+
 During the Clone Wars, Akiva aligned with the Confederacy of Independent Systems, housing a Separatist droid factory in the catacombs of the city Myrra.
 With the rise of the Galactic Empire, the Satrapy of Myrra ruled Akiva indirectly on behalf of the Empire, fostering corruption and a thriving black market.
 The Karyvin clan, an aristocratic family, held significant influence on the planet.

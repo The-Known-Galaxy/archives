@@ -1,4 +1,5 @@
 # Introduction
+
 Carnor Jax was an aspiring Sith Lord and Imperial Sovereign Protector who served as Lumiya's second apprentice, the self-declared Dark Lord of the Sith.
 He was responsible for the death of the last of Palpatine's clones and creating a route to the throne, the elimination of the last Dark Side Prophets on Bosthirda was carried out by Jax and Lumiya and he was also in charge of the Royal Guard's demise.
 All but one of them were put to death.
@@ -6,6 +7,7 @@ The sole survivor, Kir Kanos, would later be his executioner.
 His death left Lumiya without an apprentice for 30 years and with immense pain and suffering.
 
 # Biography
+
 During his youth, Jax served in the Galactic Empire as a stormtrooper and even worked as one of Agent Blackhole's referred to as Blackhole stormtroopers.
 Jax distinguished himself as one of the finest in his squad, and it didn't take long for this to be noticed.
 Jax was then taken from his unit and sent to get prepared to be a Royal Guard.
@@ -43,21 +45,19 @@ In the end, Kanos struck Jax in the chest with his weapon.
 Kanos took off Jax's helmet and informed the deceased Jax that he was unable to wear it.
 As Kanos departed the barren planet, Jax's lifeless body was still lying still in the middle of the Squall, where it all had started.
 
-
-
 # Personality and traits
+
 Carnor possessed an insatiable ambition and during his training his sole goal was to be the best in the class.
 This said, he was aware of his limitations and the importance of having influential partnerships.
-His master’s are testimony of this.
+His masterâ€™s are testimony of this.
 This insatiable ambition made him very capable of recognizing possible menaces, a quality that would later be seen when he was the only one who understood Kir Kanos true danger.
 This ambition came with a consequence for his subordinates.
 They were expected to do everything with perfection and the minimal error would not be tolerated.
 
-
-
 # Powers and abilities
+
 During his time as an stormtrooper he surpassed the best of the best making him rightful to train to become a Royal Guard.
-During his training, he demonstrated mastery in martial arts and the usage of vibroblades, which would eventually lead him to become one of the Emperor’s bodyguards.
-Telekinesis and force sense ability, the two unique abilities he earned after training in the force under Lumiya’s wing.
+During his training, he demonstrated mastery in martial arts and the usage of vibroblades, which would eventually lead him to become one of the Emperorâ€™s bodyguards.
+Telekinesis and force sense ability, the two unique abilities he earned after training in the force under Lumiyaâ€™s wing.
 He had extreme control over diverse objects with his telekinesis and could detect lies with his force sense ability.
 He was considered to be on par with Lord Vader and Darth Sidious.

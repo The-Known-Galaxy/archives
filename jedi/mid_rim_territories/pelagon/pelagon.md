@@ -1,11 +1,12 @@
 # Introduction
+
 Pelagon was a planet located in the Pelagia Province of the Tapani Sector, controlled by the House Pelagia.
 Pelagon was a warm oceanic planet which made it an enjoyable place to live for early human colonists and an attractive sight to see for tourists from off-world.
 Due to the endless ocean of the planet, the colonists had to gather large amounts of raw materials from nearby worlds to construct huge platforms above the ocean where eventually great cities, also known as seascapes, were built.
 With the resources they had gathered over generations, these colonists were able to construct over 20 massive platforms with a large amount of population on each one.
 It is said that down on the bottom of the oceans were ancient ruins that had predicted the arrival of these colonists.
 
-___________________________________________________________________________
+______________________________________________________________________
 
 Section I | The Great Jedi Purge
 Pelagon was always known for its long tradition of providing many Jedi for the Jedi Order.

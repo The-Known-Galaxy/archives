@@ -1,4 +1,5 @@
 # Overview
+
 The lightsaber rifle was a type of rifle made to be worn in the ways of a lightsaber.
 During the first year of the galactic empire, Jocasta Nu used one against Darth Vader and was a Jedi cultural weapon.
 Once the saber was fully loaded into this advanced weapon it would have an overwhelming amount of powerful energy.

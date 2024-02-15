@@ -1,4 +1,5 @@
 # Introduction
+
 The Ones commonly known as the Mortis gods were a family of formidable
 Force wielders that lived on the planet Mortis.
 They were a family of three composed of a dark side user son, a daughter who was won with the light, and a father, who was a balance.
@@ -8,6 +9,7 @@ Their species were called Force Wielders which is a mysterious species with high
 They were considered gods.
 
 # Section 1
+
 The Son was a male Force wielder who was selfish and truly embodied the dark side of the force.
 He was angry, bitter, and arrogant.
 As the father grew weaker he looked for someone to take his place.
@@ -16,17 +18,15 @@ The Son was angry about his father's decisions and wanted to escape Mortis.
 Despite the son's anger, he used this new arrival as an opportunity.
 The Son wanted to turn Anakin to the dark side to help him escape, first starting by converting his Padawan.
 
-
-
 # Section 2
+
 The Daughter was a female Force wielder who was selfless and embodied the light side of the force.
 She was humble and compassionate.
 She also agreed with the Father's goals of keeping a balance in the force.
 Despite her brother's obsession with the dark side she still loved him a lot.
 
-
-
 # Section 3
+
 The Father was a male Force wielder representing a balance of both the light and dark.
 After Anakin declined The Father's offer of taking his spot he ran into a huge problem stopping him from leaving, his padawan had been brought to the dark side by The Son.
 Anakin rushed to where The Son had taken his padawan but at this point, The Son was trying to kill The Father.

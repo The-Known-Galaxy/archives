@@ -1,4 +1,5 @@
 # Overview
+
 A payment dispenser was a flat, gray, square machine that could be bolted onto the lid of a GNK-series power droid.
 The machine had a series of red, yellow, and white lights on the forward face and mixed wires on top.
 On either side of the top externals at the front of the machine, there was a punch disc slot.

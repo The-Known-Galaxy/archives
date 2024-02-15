@@ -1,4 +1,5 @@
 # Overview
+
 Battle Sense was a Force ability only accessible by determined Force practitioners, assumed to be used by both students of the Light and Dark Side of the Force.
 After strenuous months of training with an opal Tasar crystal, a user could utilise it in battle.
 These stones were native to the planet Tasariq, and its people dumbfound about the exact powers they unlocked, some believing they had healing magic.

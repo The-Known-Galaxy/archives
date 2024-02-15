@@ -1,9 +1,11 @@
 # Introduction
+
 The esteemed Mark of the Hero was a powerful emblem that was awarded to an intrepid individual who demonstrated exceptional valor and gallantry during the intense conflict known as the Galactic Civil War.
 This momentous honor was bestowed upon those select few spacers whose unwavering commitment and selfless acts effectively safeguarded the welfare of inhabitants residing in Tatooine's volatile terrain.
 The impressive ring, imbued with immense might, was believed to possess the ability to revive its wearer from the brink of demise.
 
 # Section 1
+
 The Mark of the Hero was originally in the possession of a reclusive Rodian hermit who lived in a squill cave on Tatooine.
 In 1 ABY, a spacer who was exploring the cave met the hermit and expressed their disapproval of the Galactic Empire.
 The hermit asked the spacer to retrieve a squill skull from the mouth of the cave, which they did.
@@ -17,9 +19,8 @@ The third task was to kill a ferocious bladeback boar, which required courage an
 Lastly, the spacer assisted a moisture farmer in distress by rescuing his family from the Sennex slavers.
 The act of altruism demonstrated the spacer's selflessness and compassion.
 
-
-
 # Section 2
+
 After the four tasks were completed, the spacer returned to the hermit and reported their success.
 The hermit was impressed with the adventurer's bravery and heroism and declared them the Hero of Tatooine.
 In gratitude for their efforts, the hermit bestowed upon them four tokens of virtue: one symbolizing intellect; another representing honor; courage; and the last exemplifying altruism.

@@ -1,5 +1,6 @@
 # Biography:
-Disk’s journey began in TSO on July 9, 2022, and has stayed there ever since.
+
+Diskâ€™s journey began in TSO on July 9, 2022, and has stayed there ever since.
 Ever since reaching Adept, he has made many friends and has had a great time here.
 Disk first joined L&J, as he assumed it would be a perfect fit as he had been in Law Enforcement schooling and served in the military in real life.
 He had a fun time here and made many friends, most notably GiannaVanquished, AzraelTrinity, and Unitnetic.

@@ -1,12 +1,14 @@
 # Introduction
-Previously known as a Jeídaii Master, however more recently as a Jedi Master, Rajivari was seen for his knowledge, bravery, and leadership.
+
+Previously known as a Je‚Äôdaii Master, however more recently as a Jedi Master, Rajivari was seen for his knowledge, bravery, and leadership.
 Acting as a famed general, he led an army during the Despot War.
-However, after the fall of the Jeídaii Order in response to the Force Wars, Jeídaii Master Rajivari came to form the Jedi Order, though not as we currently know now, with the rest of the Ashla believers.
-Interestingly enough, he trained the very first Jedi Lore keepers, thus establishing the first-ever incarnation of the Jedi Archives, though known during that period as the ìFount of Rajivari.î However, in irony, he ended up falling towards the dark side; he sought to destroy the very Jedi Order which he founded.
+However, after the fall of the Je‚Äôdaii Order in response to the Force Wars, Je‚Äôdaii Master Rajivari came to form the Jedi Order, though not as we currently know now, with the rest of the Ashla believers.
+Interestingly enough, he trained the very first Jedi Lore keepers, thus establishing the first-ever incarnation of the Jedi Archives, though known during that period as the ‚ÄúFount of Rajivari.‚Äù However, in irony, he ended up falling towards the dark side; he sought to destroy the very Jedi Order which he founded.
 
 # Section 1
+
 Rajivari then gathered several followers and created a set of principles that directly opposes that of the Jedi.
 Again, ironic.
 The one who founded the Jedi principles new decides to create another set of principles opposing the Jedi.
-It could be Rajivariís attempt in trying to reform the Jedi Order in his new perspective.
+It could be Rajivari‚Äôs attempt in trying to reform the Jedi Order in his new perspective.
 In retaliation, unfortunately, the Jedi besieged his fortress in Kaleth, thus ending Rajivari on 25,783 BBY at Tython.

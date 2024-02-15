@@ -1,4 +1,5 @@
 # Overview
+
 The Talz were a sentient species native to the homeworld of Orto Plutonia and Alzoc III, on which they were an undiscovered species until the Clone Wars.
 Talz were large bipeds covered in a thick, shaggy, white fur with sharp talons covering the tips of their five-fingered hands.
 They possess four black eyes, of which the small ones were used as day vision, the larger ones for night vision, and a small proboscis for feeding and communication.

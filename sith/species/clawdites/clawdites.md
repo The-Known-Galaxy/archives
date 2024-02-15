@@ -1,8 +1,9 @@
 # Overview
+
 Natives of Zolan, from the Mid Rim, were a sentient species called the Clawdites, otherwise known as Changelings.
 They were of the few shape-shifting species in the galaxy.
 They had an appearance similar to a reptilian and had evolved from repto mammals.
- They had sunken cheeks with narrow noses and a small mouth.
+They had sunken cheeks with narrow noses and a small mouth.
 They possessed large eyes with slit-like pupils, in which their iris could be gold, yellow, or blue colored.
 Their skin was rough, ranging from green to yellow.
 Their overall facial and bodily features almost fully resembled their genetic ancestors, the Zolanders.

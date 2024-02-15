@@ -1,16 +1,17 @@
 # Introduction
-Younglings, after theyíre taken into the Order usually have to go through 2 progresses: combat and knowledge-focused training.
-As well as the initiations, both of these are made through ìclans/regimensî for each batch of younglings who started in the Jedi Order.
+
+Younglings, after they‚Äôre taken into the Order usually have to go through 2 progresses: combat and knowledge-focused training.
+As well as the initiations, both of these are made through ‚Äúclans/regimens‚Äù for each batch of younglings who started in the Jedi Order.
 After you were placed into a regiment, the first section of the training will be your practice with Vibro-sabers to help you start practicing combat against other lightsaber users and deflection of projectiles.
 During those times they will also learn about basic topics such as the Order's history and the Jedi Code along with it's philosophy.
 
 # Section 1
+
 Through time, after you learn the basics of combat and knowledge in your training regiment, you will start the initiations such as the Crystal Gathering and the construction of your own lightsaber.
-After they succeed in both initiations the Younglings are officially classed as Initiates of the Order and enter into the advanced training of their regiments, including the training of an additional new form of combat, the use of more than one lightsaber, and technics with the Force along with the final preparations for the ìPadawan seasonî which was the nickname Knights and Masters gave to the particular season of the year where Initiates will display their skills.
-
-
+After they succeed in both initiations the Younglings are officially classed as Initiates of the Order and enter into the advanced training of their regiments, including the training of an additional new form of combat, the use of more than one lightsaber, and technics with the Force along with the final preparations for the ‚ÄúPadawan season‚Äù which was the nickname Knights and Masters gave to the particular season of the year where Initiates will display their skills.
 
 # Section 2
-On the last stage, thereís the ìPadawan seasonî which is the most important stage for Initiates, as they have the chance to become Padawans.
-The event works as an ìexhibition ì where Knights gather and judge the potential of the Initiates displaying their combative and Force abilities as well as their overall knowledge/experiences in both areas.
+
+On the last stage, there‚Äôs the ‚ÄúPadawan season‚Äù which is the most important stage for Initiates, as they have the chance to become Padawans.
+The event works as an ‚Äúexhibition ‚Äú where Knights gather and judge the potential of the Initiates displaying their combative and Force abilities as well as their overall knowledge/experiences in both areas.
 At the end of the event, Knights pick their now future Padawans while those who are not chosen, are given a second chance in the future season or be left to grow plants and farm on outer world planets within the Agricultural Corps.

@@ -1,4 +1,5 @@
 # Introduction
+
 The hydration tablet does what is named.
 It is a tablet of water.
 This tablet of water was made to help beings survive when there was no source of food near them.

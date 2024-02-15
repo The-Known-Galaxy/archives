@@ -1,16 +1,17 @@
 # Overview
+
 Tynna, situated within the Tynnani system of the Expansion Region, is a planet that serves as the ancestral home of the Tynnan species.
 The Tynnan species, known for their technological prowess and expertise in starship construction, have made Tynna a renowned hub for advanced engineering within the galaxy.
 
 # Description
+
 Tynna, located on the Shipwrights' Trace in the Tynna sector of the Expansion Region, is a frigid planet characterized by its stunning lakes and sprawling forests.
 As a key business partner of the Corporate Sector, Tynna enjoys considerable wealth and prosperity.
 It is a state-run world where the inhabitants are not compelled to work, reflecting a unique societal structure.
 This combination of natural beauty, economic influence, and a leisure-oriented culture makes Tynna an intriguing and sought-after destination within the galaxy.
 
-
-
 # History
+
 Tynna's history is marked by various significant events.
 It seceded from the Galactic Republic during the Clone Wars but later rejoined before the war's end.
 It was targeted but successfully defended against the Imperial Invasion of Tynna.

@@ -1,4 +1,5 @@
 # Introduction
+
 SoroSuub Corporation made the X-45 sniper rifle sometime before the 2nd year of the clone wars, which is known to be a highly accurate sporting sniper rifle.
 A long computerized targeting scope was attached to the weapon as well as it having a maximum of twenty-five shots a round.
 The X-45 weighed four kilograms and had a maximum range of 500 meters.

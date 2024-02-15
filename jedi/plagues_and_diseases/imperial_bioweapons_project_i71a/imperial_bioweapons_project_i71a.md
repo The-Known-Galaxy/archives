@@ -1,22 +1,22 @@
 # Introduction
+
 Imperial Bioweapons Project I71A was a bioweapon created by Darth Drear using Force Alchemy, which was a Force ability that allowed Sith to use the force against its will to alter the properties of any sort of object or living being.
 The virus had a zombie-like effect on infected individuals, and also had special effects on certain races.
 
 # Section 1
+
 The initial creator of the virus, Darth Drear, intended to create an elixir that would grant him immortality.
 However, his experiments failed, and he died after becoming infected with the virus.
 Over one thousand years following this initial creation, another Sith Lord, Darth Scabrous attempted to recreate the virus for immortality but failed like his predecessor, and his entire academy, once headed by Darth Drear, the Odacer-Faustin Sith academy fell to the virus, which infected all Sith acolytes and masters.
 
-
-Eventually, knowledge of this virus became known to Darth Vader, a few millennia after Scabrous’ venture into the virus.
+Eventually, knowledge of this virus became known to Darth Vader, a few millennia after Scabrousâ€™ venture into the virus.
 However, rather than attempting to create something that would grant him immortality, Vader commissioned a team from the Imperial Biological Weapons Division to recreate the virus and use it as a bioweapon.
 This operation was furtive, and the virus was successfully recreated, this time under the codename Blackwing.
 While this virus was being prepared for field use, however, an accident took place amongst the vessel it was being carried on, the Vector, and unleashed the virus once again, causing it to spread among the crew, almost all of whom became infected.
 The infected took control of the Vector and forced another vessel, the Barge, this time carrying prisoners, to board the Vector and become infected.
 
-
-
 # Section 2
+
 The virus, which was activated by a force-sensitive black orchid, was created through Force Alchemy, as mentioned earlier.
 Because of this, it still possessed some form of consciousness and manipulated the infected to do its bidding.
 As mentioned earlier, individuals affected by the virus became zombie-like.
@@ -44,24 +44,25 @@ However, the virus could also spread through contact with bodily fluids, or the 
 When weaponized, the virus also had a special property; It was able to transmit as an airborne virus.
 This variant of the virus was far more powerful than any other variant and could bypass biohazard gear and stormtrooper armor, which showed the sheer potency and effectiveness of the pathogen.
 
-
-
 # Section 3
+
 Symptoms of infected persons usually took place in two stages, as mentioned earlier.
 
 1.
+
 The first stage of infection was when the virus actually took its toll on the infected.
 However, the severity of it depended on how it was transmitted, and the species it was transmitted to.
-However, symptoms usually started when the host’s skin became discolored and sullen.
+However, symptoms usually started when the hostâ€™s skin became discolored and sullen.
 After this, the virus would attack the body and impair vision and breathing.
 Victims past this stage would then experience hallucinations.
-Some of these were based on personal aspects of the victim’s life, while others were seemingly random visuals that usually involved some sort of symbolism.
+Some of these were based on personal aspects of the victimâ€™s life, while others were seemingly random visuals that usually involved some sort of symbolism.
 The virus could act extremely quickly, or extremely slowly, depending on the method of transmission.
 The virus also had certain interactions with species, an example of which being the wookies, who became extremely aggravated when infected with the virus.
 
 2.
+
 After the virus had taken its toll on the living host, the cadaver would reanimate as a result of the virus forcefully restarting muscle synapses in the brain.
-The result would be a zombie-like creature that existed merely to further the virus’ control and transmit it to other individuals.
+The result would be a zombie-like creature that existed merely to further the virusâ€™ control and transmit it to other individuals.
 The zombies looked sullen and discolored, similar to their pre-reanimation state.
 Physical abnormalities of the zombies also caused them to have a gait that was not normal, and instead of running, they staggered towards prey, which was, most of the time, humans.
 Zombies had a sort of hive mind, and due to them not being alive, they could survive almost any sort of physical torture.
@@ -84,5 +85,5 @@ Complete vaporization also worked on victims in this stage.
 However, the virus still could be used for immortality, though the method was extremely difficult to successfully complete.
 The Sith pursuing immortality would have to complete a dark ritual.
 The ritual required the Sith to first become infected with the virus, then take a Jedi with a high midi-chlorian count.
-Following this, the Sith, who would die of the virus, would then have to cut out the Jedi’s heart with a Sith Sword.
+Following this, the Sith, who would die of the virus, would then have to cut out the Jediâ€™s heart with a Sith Sword.
 Due to the nature of the heart of such a Jedi, once devoured, the Sith would attain ultimate immortality.

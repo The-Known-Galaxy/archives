@@ -1,4 +1,5 @@
 # Overview
+
 Felucia is covered in dense, colorful, and bioluminescent jungles, making it an exotic and strikingly beautiful world.
 These jungles are home to a variety of unique and often dangerous creatures, including giant, carnivorous plants and deadly predators like acklays and nexu.
 The planet's flora is also highly prized for its medicinal properties, and it is the source of many powerful drugs and medicines used throughout the galaxy.
@@ -6,6 +7,7 @@ Felucia has been the site of numerous battles during the Clone Wars, and it was 
 Despite its beauty, Felucia is a dangerous place, and travelers are advised to exercise caution when visiting.
 
 # History
+
 Felucia is a planet located in the Outer Rim of the galaxy, with a long and storied history.
 The planet was once home to an advanced civilization known as the Kumumgah, who built towering cities and developed sophisticated technology.
 However, the Kumumgah eventually died out, leaving behind only ruins and artifacts for later generations to discover.

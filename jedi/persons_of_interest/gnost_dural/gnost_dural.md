@@ -1,9 +1,11 @@
 # Introduction
+
 Gnost-Dural was a male Jedi Master of the Kel Dor species.
 He had served both the Jedi Order and the Galactic Republic.
 He served during both the Great Galactic War and the Cold War with the Sith Empire.
 
 # Section 1
+
 Gnost-Dural was trained by the Jedi Order in the ways of the Force from a very early age, as all Jedi are.
 Ghost-Dural studied at the Jedi Temple on Coruscant.
 During his training as a Jedi, Consular Gnost-Dural kept a journal to record his experiences and thoughts.
@@ -12,14 +14,17 @@ When Gnost-Dural began exploring the history of the Jedi Order, he stumbled upon
 These records consisted of the Infinite Empire, Tython, and the Force Wars.
 His discoveries proved vital to the Order within the following decades.
 As he continued down his journey as a historian, he forged his own green-bladed saber.
-	Gnost-Dural became a Jedi Knight four years after the beginning of his journal.
+Gnost-Dural became a Jedi Knight four years after the beginning of his journal.
 During his Knighting ceremony, he swore to defend the Galactic Republic and uphold the Jedi Code.
 He swore to these things since he felt as though it was his duty to both the Order and the Force.
 Sadly, on the same day he became a Knight, news broke on Coruscant of a bloody assault.
 History remembers this as the first appearance of the resurgent Sith Empire.
 This was the first time they were seen since the Great Hyperspace War, nearly two millennia before this event.
 
-	Gnost-Dural later became a Jedi Master and overseer of the Jedi Archives.
+```
+Gnost-Dural later became a Jedi Master and overseer of the Jedi Archives.
+```
+
 He was then tasked by the Jedi High Council to create a new timeline following the creation of the Treaty of Coruscant.
 During this time his research unearthed multiple factors about the war previously unknown to the Jedi.
 It then served as a basis for a new Jedi Library.
@@ -29,7 +34,7 @@ Dural was confronted by Darth Karrid, his former Padawan turned to the Dark Side
 Dural killed her apprentices, but Darth Karrid managed to capture Dural in the process.
 He was then interrogated by her, but Dural was able to trick Karrid into going to Duros.
 On Duros she fell in the ensuing battle.
-	In 3628 BBY it was discovered by the Sith Empire that Jedi Master Gnost-Dural was alive.
+In 3628 BBY it was discovered by the Sith Empire that Jedi Master Gnost-Dural was alive.
 Gnost-Dural was hiding in a secret Jedi Colony on Ossus, even though Gnost-Dural was long thought to be dead.
 Sith Emperor Vowrawn soon ordered an invasion of Ossus.
 Under the command of Darth Malora and Darth Malgus, this invasion began the Third Galactic War.

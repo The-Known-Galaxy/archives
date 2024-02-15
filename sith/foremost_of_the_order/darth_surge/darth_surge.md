@@ -1,21 +1,22 @@
 # Biography Overview
-Darth Surge, formerly called ìDarth Sorgî was the first Sith Knight under Darth Validus and one of the founding fathers of the Sphere of Expansion and Diplomacy.
-He began training near the Jedi Sanctum, taken unofficially as WieldingDesireís, otherwise known as the butcher of the Jediís apprentice.
-They laid siege together to the famous Jedi Academy, along with the raiding party ìVentarriî, forming a connection to the Dark Side.
-Heís currently one of the most feared and ruthless Dark Councilors, renowned for his dashing quick strikes and his devastating, powerful blows in lightsaber combat.
-To the Jedi, heís one of the most dangerous adversaries there can be.
+
+Darth Surge, formerly called ‚ÄúDarth Sorg‚Äù was the first Sith Knight under Darth Validus and one of the founding fathers of the Sphere of Expansion and Diplomacy.
+He began training near the Jedi Sanctum, taken unofficially as WieldingDesire‚Äôs, otherwise known as the butcher of the Jedi‚Äôs apprentice.
+They laid siege together to the famous Jedi Academy, along with the raiding party ‚ÄúVentarri‚Äù, forming a connection to the Dark Side.
+He‚Äôs currently one of the most feared and ruthless Dark Councilors, renowned for his dashing quick strikes and his devastating, powerful blows in lightsaber combat.
+To the Jedi, he‚Äôs one of the most dangerous adversaries there can be.
 A machine replaces half of his face, giving him a more terrifying look.
 
 # History
+
 Before the birth of the Sith Order in the community, Darth Surge came across The Known Galaxy by joining SilverStallions, a veteran of the Jedi Temple Guard.
 As an hostile in the game, he began an unofficial apprenticeship under WieldingDesire after meeting the first time.
 Together they caused a lot of trouble to the Jedi, and had fun in the process, using the Jedi Sanctum to its full extent to ambush from the shadows, using chandeliers in the archives or any other structure found inside the temple.
-They fought in every possible location in the Sanctum, along with a small raiding party known as ìVentarriî, always yearning for the existence of a Sith Order.
-After some time, Surge stumbled upon the first version of the Sith Order, before it was truly put into use, joining it under the reign of Fedlz, raiding the Jedi alongside Sith Wraith KentuckySquid, TaitusMydrek [TaitusTemenos] and FerrumCaesar [CaesarTemenos].
-
-
+They fought in every possible location in the Sanctum, along with a small raiding party known as ‚ÄúVentarri‚Äù, always yearning for the existence of a Sith Order.
+After some time, Surge stumbled upon the first version of the Sith Order, before it was truly put into use, joining it under the reign of Fedlz, raiding the Jedi alongside Sith Wraith KentuckySquid, TaitusMydrek \[TaitusTemenos\] and FerrumCaesar \[CaesarTemenos\].
 
 # From entering the Order to IC of E&D
+
 Once Darth Surge joined the Sith Order as a Hopeful, he enjoyed the increasing strength and power the Sith were having during raids.
 He knew where he was headed: The Sphere of Sith Philosophy.
 However, he was denied entry there, so on 11/11/2021 he chose to join a private tryout hosted by Darth Kennaex.
@@ -30,31 +31,23 @@ Every time he went on a raid, he became better and better, and after a long time
 Shortly after, on the day 12/11/2021 he earned the rank of Darth and became Darth Sorg, now known as Darth Surge.
 Around this time Darth Kennaex became Hand of the Dark Lord, with Taitus as his successor and Overlord of E&D.
 
-
-
 # Feats and Accomplishments
--First Sith Knight under Darth Validusí reign
 
+-First Sith Knight under Darth Validus‚Äô reign
 
--First Sith Warrior under Darth Validus' reign 
+-First Sith Warrior under Darth Validus' reign
 
--First Wrath of the Dark Lord 
-
+-First Wrath of the Dark Lord
 
 -First Overlord to rally 30+ sphere members
 
-
 -First Accolade of Combat Prowess
 
+-Third Overlord of The Sphere of Expansion & Diplomacy
 
--Third Overlord of The Sphere of Expansion & Diplomacy 
-
-
--First Sith who has been in the same sphere for over a year 
-
+-First Sith who has been in the same sphere for over a year
 
 -Second longest Dark Councilor
-
 
 Accolades
 

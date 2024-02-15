@@ -1,4 +1,5 @@
 # Article
+
 Created many years before the Great Hyperspace War was a Sith artifact named the Helm of Ieldis.
 Whoever wore the dark side imbued artifact witnessed their negative emotions such as grief, regret, anger, and misery and changed them into dark side energies that made many sentient beings overcome in a homicidal frenzy.
 At some point after the destruction of the Sith Empire, the Helm would be hidden on the planet known as Sarrassia by the Grumani Hierophants.

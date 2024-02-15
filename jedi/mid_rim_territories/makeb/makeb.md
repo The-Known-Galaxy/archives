@@ -1,4 +1,5 @@
 # Introduction
+
 In a region of the galaxy remote from significant hyperlanes, Makeb was an oceanic planet located in the Makeb system on the outskirts of Hutt Space.
 Its atmosphere contained massive quantities of electromagnetic interference in its top levels.
 While the planet's gravity was below average, it included anomalies that led to the development of several huge stone pillars over Makeb's surface.
@@ -7,6 +8,7 @@ The pillars and caverns housed Makeb's natural animals as well as several minera
 Isotope-5 is a mineral that can only be found on Makeb.
 
 # Section 1
+
 Because of its separated area, Makeb was not found by the world until the Mandalorian Wars, it was a contention between the Cosmic Republic and the Mandalorian fighter culture that kept going from 3976 BBY to 3960 BBY.
 During the contention, a harmed transport conveying Republic exiles, among them a few rich finance managers, crashed on the planet subsequent to being trapped in the electromagnetic obstruction in Makeb's atmosphere.
 The financial specialist Semako Thalien expected a position of authority among the outcasts as they assembled settlements on Makeb's support points, and the pioneers immediately found that Makeb had significant mineral deposits.

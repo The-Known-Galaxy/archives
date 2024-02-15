@@ -1,4 +1,5 @@
 # Introduction
+
 Byblos is a world located in the Byblos System of the Colonies region.
 Byblos was colonized by Corellians and eventually declared independence from Corellia.
 The world is most known for its technological advancements, more specifically known for being hubs and birthplaces of many technological corporations and companies of the galaxy.
@@ -11,6 +12,7 @@ Byblos is inhabited by humans originating from Corellia with a total population 
 The trade of Byblos features imports of raw materials, luxury items, foodstuffs, and exports of their technology and military hardware.
 
 # Section 1
+
 Byblos joined the Galactic Republic at some point between 25,000 BBY and 22,000 BBY and during the Alsakan Conflicts, supported Coruscant.
 During the Cold War between the Galactic Republic and Sith Empire, Sith Imperial saboteurs harassed and threatened the lives of factory workers on Byblos.
 During the Clone War, Byblos stayed a part of the Republic, falling prey to battles between the armies of the Galactic Republic and Separatists Alliance.

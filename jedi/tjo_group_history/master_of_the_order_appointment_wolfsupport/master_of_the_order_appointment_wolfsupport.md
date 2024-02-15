@@ -1,8 +1,10 @@
 # Introduction
+
 On November 23rd, 2021, Master ValSenko stepped down from the position of Master of the Order (MOTO).
 Following the retirement of Val, Grandmaster Tiberius immediately appointed the new MOTO, WolfSupport.
 
 # Section 1
+
 The appointment of WolfSupport was overshadowed by the loss of Val as MOTO.
 Upon his appointment, WolfSupport had been serving on the Jedi High Council (JHC) since May 29th, 2021.
 Wolf transitioned from the private rotating seat to the permanent Chief of Security seat and he served on the JHC for five months and 25 days.

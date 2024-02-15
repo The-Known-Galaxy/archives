@@ -1,4 +1,5 @@
 # Introduction
+
 A Holocron is a storage device used to store information in holographic form, many contain Jedi and Sith teachings and location of certain individuals and unknown planets.
 These devices are used by both the Jedi and the Sith.
 They can only be opened using the Force; some can be opened if paired with a Memory Crystal, which functions the same as a Holocron.
@@ -6,23 +7,22 @@ If a Jedi Holocron and a Sith Holocron are to be opened together by Force users 
 
 Holocrons are made from a crystalline material with a shape of evenly proportioned polyhedrons.
 Some had the outer shells transparent.
-Jedi Holocrons usually look like a cube, dodecahedron, or cuboctahedron, while the Sith’s have a pyramid shape.
+Jedi Holocrons usually look like a cube, dodecahedron, or cuboctahedron, while the Sithâ€™s have a pyramid shape.
 
 # Section 1
+
 Jedi Holocrons are artifacts of the Jedi containing information and teachings of the Order.
 The information inside the Holocrons rely on who opened them; like an interactive hologram, the Jedi Master who recorded it will emerge and pop out.
 Those who are not a member of the Order are discouraged to have such information as most Holocrons contain the nature and applications of the Force.
 
-
-
 # Section 2
+
 On the other hand, Sith Holocrons function the same as a Jedi Holocron, but containing data related to Sith Teachings together with Sith planets.
 They can only be accessed by someone who uses the Dark Side of the Force.
 The Jedis consider these Holocrons as one of the most dangerous artifacts of the galaxy.
 
-
-
 # Section 3
+
 Many Jedi Holocrons were created throughout centuries, and were kept in the Archives of the Jedi Temple in Coruscant.
 Those that hold more value are locked in the Holocron Vault, which can only be accessed by members of the Jedi High Council.
 Many contain lessons and historical significance.

@@ -1,4 +1,5 @@
 # Introduction
+
 Also known as Jedi Training Droids, the class of Lightsaber Practice Droid was a broad term for a range of droids used to assist Jedi in honing their combat ability against both blaster and saber wielding foes.
 The Jedi Instructor Liam Dentiri was one of the first to use droids to aid in combat training, programming a range of droids and creating various battle scenarios around the grounds of the Tython Temple for apprentices to engage with.
 The Jedi Temple on Coruscant also had similar droids during the waning days of the Republic, with the First Knowledge Quarter boasting a range of droid instructors and combatants.

@@ -1,13 +1,15 @@
 # Introduction
+
 The Builder Forge was a man-made machine designed to monitor the agricultural reformations of a planet.
 During the era of the Infinite Empire, Rakata had installed it on Kashyyyk approx.
 33,598 BBY.
 The device was placed on Kashyyyk due to the lack of production levels the planet had at the time.
 However, due to the machine malfunctioning, the machine continued to work long past when it was due to stop, resulting in overgrowth of the giant Wroshyr trees.
 This also affected numerous species, causing them to evolve at an alarming rate.
-The Builder Forge had the hyperspace coordinates of the Star Forge, which is where Rakata’s power came from.
+The Builder Forge had the hyperspace coordinates of the Star Forge, which is where Rakataâ€™s power came from.
 
 # Section 1
+
 Decades later in 3961 BBY, Darth Revan had discovered the Forge and decided to fit it with a holocron interface which only allowed himself access to the machine, and nobody else.
 He also wiped the Star Map data access history.
 Many people tried to interact with the machine over the years.

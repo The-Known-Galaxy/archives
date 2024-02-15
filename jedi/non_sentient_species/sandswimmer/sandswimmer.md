@@ -1,7 +1,8 @@
 # Introduction
-Found and feared on the planet of Tatooine, the carnivorous insectoid known as the Sandswimmer was widely considered one of the most fierce predators on the sandy planet’s surface.
+
+Found and feared on the planet of Tatooine, the carnivorous insectoid known as the Sandswimmer was widely considered one of the most fierce predators on the sandy planetâ€™s surface.
 Sporting an exoskeleton, this spider creature was able to retain moisture that most beasts would lose due to the intense sun.
-As well as this, the Sandswimmer had long legs assorted with bright green-colored fins along its length, allowing the Sandswimmer to ‘glide’ just underneath the surface of the sand.
+As well as this, the Sandswimmer had long legs assorted with bright green-colored fins along its length, allowing the Sandswimmer to â€˜glideâ€™ just underneath the surface of the sand.
 They did this to sneak up underneath their prey and attack from underneath when the time was right, using their sucker-like mouths to drain the life from their prey.
 
 Typically, the only view people had of the creature were the crests on the ridge of its back that protrude subtly from the sand as well as its eyes.

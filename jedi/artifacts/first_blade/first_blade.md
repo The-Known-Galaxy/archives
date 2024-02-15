@@ -1,6 +1,7 @@
 # Introduction
+
 The First Blade was the first known version of the lightsaber used throughout the galaxy for millions of years.
-The First Blade was crafted by a Je’daii as known to the galaxy as the Weapons Master.
+The First Blade was crafted by a Jeâ€™daii as known to the galaxy as the Weapons Master.
 The device was crafted on the planet Tython and was stored by droids for over a millennium.
 One day Jedi High Council member Rajivari, in the era of the Force Wars, scoured the galaxy for the intentions of handling this weapon.
 When Rajivari found the hilt on Tython, he was deemed worthy to handle the hilt under his wing.

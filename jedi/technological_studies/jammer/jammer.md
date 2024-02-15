@@ -1,4 +1,5 @@
 # Introduction
+
 Jammers are devices used to scramble communications.
 There are several variations of what  a jammer can be, ranging from several different forms or sizes, it can also be installed on starships or crafts.
 An example of this would be the Millennium Falcon.

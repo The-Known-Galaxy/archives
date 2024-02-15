@@ -1,4 +1,5 @@
 # Introduction
+
 Sith Quartermaster Meka Odullu is a developer for The Known Galaxy.
 Meka Odullu, also known as xJennyBeanx, has been developing on the Roblox platform for 10 years.
 Mekas official title on the dev team is Project Manager, but has a full time job outside of TKG as a 3D artist.
@@ -7,9 +8,8 @@ The reason she was drawn to TKG's environment was due to the developers striving
 She became involved with TKG after Nidoxs and Travis had reached out to her directly to inquire about a place for the Jedi, after a long chat and much discussion about their plans with TKG she gave the place file to them.
 That temple ended up being Jedi Sanctum v1.
 Meka had become a Sith Quartermaster by communicating with The Dark Lord Of The Sith, and displayed her interests in working on Crucible Prime.
-Now Meka Odullu works with the Dev team and works tirelessly on The 
+Now Meka Odullu works with the Dev team and works tirelessly on The
 Known Galaxy.
-
 
 Favorite Star Wars Character?
 Yaddle.

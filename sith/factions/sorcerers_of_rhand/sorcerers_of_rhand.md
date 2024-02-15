@@ -1,11 +1,12 @@
 # Article
+
 The Sorcerers of Rhand were a dark side cult that believed in a force greater than the Force, which they referred to as the Dark.
 They would follow the way and the will of the Dark and be granted special powers by it.
 They were the rulers of the Nihil Retreat, a collection of twelve stellar clusters located in the Unknown Regions surrounded by the Perann Nebula.
 
-The Sorcerers called themselves the Rhandites and believed in the One Truth: ìOnly power is real, and the only real power is the power to destroy.
+The Sorcerers called themselves the Rhandites and believed in the One Truth: ‚ÄúOnly power is real, and the only real power is the power to destroy.
 Existence is fleeting.
-Destruction is eternal.î They believed that destruction was the will of the Force; they called this the Way of the Dark.
+Destruction is eternal.‚Äù They believed that destruction was the will of the Force; they called this the Way of the Dark.
 
 They saw destruction as a change to the universe's structure; destruction created a void, the absence of life.
 The void was the foundation of truth.

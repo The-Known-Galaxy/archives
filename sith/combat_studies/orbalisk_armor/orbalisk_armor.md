@@ -1,4 +1,5 @@
 # Overview
+
 The Orbalisk armor was an armament formed by many orbalisks, near unbreakable parasites which inhabited a moon called Dxun which circled Onderon., The Orbalisk had a particularly formidable superficial shell-like outer body that was capable of stopping even lightsabers.
 The parasitic varmints hooked to the body using their thousands of little teeth and foraged off the Dark Side in the host, most often Force Sensitive Darksiders.
 Darth Bane was capable of keeping this armament on for long periods due to the restorative practices of Caleb, who made a deal with Darth Zannah, Bane's Apprentice.

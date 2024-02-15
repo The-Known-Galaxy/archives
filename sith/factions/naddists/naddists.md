@@ -1,4 +1,5 @@
 # Overview
+
 The Naddists were a group of cultists that contained members of The Sith Order.
 They were known to worship the deceased Dark Lord of The Sith, Freedon Nadd.
 The Naddists were commonly affiliated with using Sith Magic and took advantage of it in duels with other Naddists to gain favor of Freedon Nadd.

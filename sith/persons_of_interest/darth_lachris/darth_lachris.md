@@ -1,10 +1,11 @@
 # Overview
+
 Darth Lachris, also known as the Governor of Balmorra, was a female human Sith Lord, who served the Sith Empire during the Cold War and Galactic War.
 She was the former apprentice of the legendary Dark Council member, Darth Marr.
 She killed Lysennius Melchiro, her nemesis and one of the people who posed a threat to her rank as Governor.
 Her main focus after that was to eliminate all rebel insurgencies and crush the Republic forces.
 She trained an apprentice by the name of Lerek Serrus.
-She was later betrayed by her apprentice when the Jedi Consular, the Barseníthor, travelled to Balmorra hoping to ìliberateî them and remove the Empire from power.
+She was later betrayed by her apprentice when the Jedi Consular, the Barsen‚Äôthor, travelled to Balmorra hoping to ‚Äúliberate‚Äù them and remove the Empire from power.
 Lachris was eventually killed by this Jedi and one of the resistance members, Zenith.
 She was talented in the Dark Side of the Force and rose to the rank of Darth quickly.
 Once she became Governor Lachris and her apprentice led their Imperial forces in the name of the Dark Council.
@@ -15,9 +16,10 @@ After learning about this, Lachris sent an Imperial strike team to take down the
 Afterwards, she ordered them to kill Ralon Nys along with his squad and  then to kill the remaining resistance members and after she was successful she finally had the world under her control.
 
 # Balmorra
+
 Lachris assigned her forces many tasks to destroy her enemies and it took a while but eventually she had full control of the planet, or so she thought.
 She did have the planet under her control until the Jedi Consular and his squad came to rescue the President of Balmorra, who Lachris held captive, and with the help of the resistance they killed the powerful Sith Lord leaving Balmorra liberated.
-Lachris, whilst she was duelling the Consular, managed to deflect all of Zenithís blaster shots and then went to duel the Jedi.
+Lachris, whilst she was duelling the Consular, managed to deflect all of Zenith‚Äôs blaster shots and then went to duel the Jedi.
 The Consular had the upper hand for the majority of the battle and left Lachris to die from her wounds.The Jedi and Zenith then freed the Balmorran president, Retheus Galthe.
 Following the death of the skilled Sith Lord Tai Corden, a resistance member, became the new Balmorran president.
 Darth Lachris served as an important asset of the Dark Council on Balmorra and with her death the Empire lost the planet.

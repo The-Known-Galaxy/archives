@@ -1,4 +1,5 @@
 # Overview:
+
 The original Sith enclave was constructed on Koratas, a moon of Dathomir, and named by higher ranking Sith as 'The Jewel of the Dark Lord'.
 A notable achievement of the Sith Order, it was built on the sacrifice and labour of those who pushed themselves to their very being, carving into the rock and building the enclave in reverence of the Dark Lord.
 Their sacrifice would not go unseen, as for each life lost in the ongoing construction, a statue would be built and put up in their honour.

@@ -1,9 +1,11 @@
 # Overview
+
 Togorians were a feline warrior species from the planet Togoria, they were known for often interacting with Mandalorians.
 Physically, they were incredibly large bipeds, averaging 2.2 meters tall for females and 3 meters for males.
 They were covered in gray-to-black black fur with stripes and had an extremely dense bone structure which allowed them to sustain heavy physical hits.
 
 # History
+
 They first appeared on the planet of Togoria, evolving as nomadic hunters.
 Another very widespread species were the winged creatures known as Mosgoths, which  often flew for transportation.
 As they developed over time, Togorian society split between males and females: the males choosing to retain their nomadic lifestyle, and the females wishing to settle down and develop.

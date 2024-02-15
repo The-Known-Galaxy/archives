@@ -1,5 +1,6 @@
 # Section I
-Known as “The Weaver of Nightmares”, Dread Master Raptus was the leader of the six renegade Sith known as the Dread Masters.
+
+Known as â€œThe Weaver of Nightmaresâ€, Dread Master Raptus was the leader of the six renegade Sith known as the Dread Masters.
 The Dread Masters were a powerful group of Sith Sorcerers that induced fear into any man they encountered.
 Raptus wielded a purple lightsaber.
 Raptus believed the Dread Masters were being used by the Empire and the Sith Emperor, eventually deciding that their power as prophets, advisors, and generals was being wasted on an empire with no Emperor.

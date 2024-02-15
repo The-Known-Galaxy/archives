@@ -1,7 +1,8 @@
 # Introduction
+
 Lightsaber combat was not just about different forms, there were also sequences.
 These sequences would used for precisely planning each attack or parry.
-Although they were useful in combat, they were mostly used for training to improve one’s reflexes.
+Although they were useful in combat, they were mostly used for training to improve oneâ€™s reflexes.
 During training sessions, two partners would perform these sequences over and over again, increasing the speed as they went along so they could improve their reflexes and control in drills called Velocities.
 Those who used sequences in actual combat believed in to be better than using individual moves since it did not require as much time.
 They were much more swift and provided more advantages.

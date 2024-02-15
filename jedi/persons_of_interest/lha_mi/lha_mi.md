@@ -1,4 +1,5 @@
 # Introduction
+
 Lha-Mi was a male member of the Talid species.
 Typical of a Talid, he followed a nomadic life and would rather negotiate to find common ground, rather than start quarrels.
 Growing up in the Early Hyperspace Age, he trained himself in the ways of the Force by being a member of the Order of Dai Bendu, which sought to understand the Force and midi-chlorians.

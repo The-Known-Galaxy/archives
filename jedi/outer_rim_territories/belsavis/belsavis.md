@@ -1,12 +1,14 @@
 # Introduction
+
 Belsavis, also known by the name of Plawal, is a planet located in the Ninth Quadrant Bozhnee sector.
 It is in the Outer Rim territories at the end of the Belsavis run.
 The planet orbits two suns and has three moons in its orbit too.
 Belsavis has a planet rotation period of 25 hours with a 412 day orbital period.
 Belsavis is a cold terrestrial planet that includes glaciers and tropical rift valleys.
-While the native species on the planet is the Mluki, multiple species have immigrated to Belsavis such as Humans, Duros, HoíDin and even the former occupant Rakata species.
+While the native species on the planet is the Mluki, multiple species have immigrated to Belsavis such as Humans, Duros, Ho‚ÄôDin and even the former occupant Rakata species.
 
 # Section 1
+
 While the exact date of the planet's discovery is a mystery to historians, Belsavis' earliest recording was during the Infinite Empire reign of the Rakata species.
 They used the planet as a prison colony placing dangerous prisoners around the galaxy there, making their imprisonments last a millennium.
 It was around the year 5000 BBY that the planet had entered an ice age, the inhabitants of the planet had to take refuge in three volcanic rifts for survival.
@@ -20,13 +22,12 @@ This goal was stopped by the Hero of Tython, saving the cold planet of Belsavis.
 Later on in the year 88 BBY, a community by the name of Pletts Well would be established.
 This community was created by Jedi Master Plett, and it was then later nicknamed Plawal.
 
-
-
 # Section 2
+
 The Republic would enter its era of colonization in the year 20 BBY.
 The planet would be the importer of various plants and animals from the planet of Ithor for colonization.
 Jedi Master Plett has hidden himself and a few younglings in Pletts Well as protection from the Great Jedi Purge.
-The ìEye of Palpatineî was sent to bombard and wipe out the town.
+The ‚ÄúEye of Palpatine‚Äù was sent to bombard and wipe out the town.
 This was stopped by Jedi Knights Callisto Ming and Geith Eris, who managed to sabotage the Eye.
 While this did save some of the younglings and the Jedi Master, they were forced to move to another hideout.
 Sadly not all of them escaped.
@@ -35,9 +36,8 @@ Belsavis later entered an era of political and economic events years after the f
 It included the tariff police that were installed on Belsavis to crack down on smuggler activity in 6 BBY.
 Then a little over five years later, the Brathflen Corporation and other fruit companies established domes around Belsavis for harvest.
 
-
-
 # Section 3
+
 The political situation did not end there.
 As of twelve years after the battle of Yavin IV, a large shipment of Tenloss Disintegrator rifles were stolen on Nar Shaddaa.
 While it was known Belsavis had chosen the path of independence over joining the New Republic, they  were later assisted by Luke Skywalker, Leia Organa Solo and Callisto.

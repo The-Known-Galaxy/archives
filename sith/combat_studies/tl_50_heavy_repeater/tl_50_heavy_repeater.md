@@ -1,4 +1,5 @@
 # Overview
+
 The TL-50 Heavy Repeater is a model of heavy blaster rifle manufactured for the Galactic Empire's special forces.
 The TL-50 Heavy Repeater, or just the TL-50 Repeater, was a model of heavy repeating blaster rifle that was capable of unleashing storms of red-colored blaster bolts.
 In addition to firing a barrage of attacks from multiple barrels.

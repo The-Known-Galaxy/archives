@@ -1,4 +1,5 @@
 # Introduction
+
 The magnetic seal, or alternatively known as a magseal or vacuum seal was a technology that was used to secure certain objects and areas.
 The device was most commonly used on doors inside highly secured areas such as prisons.
 The seal was also perfectly capable of securing containers, boxes and hazardous materials.

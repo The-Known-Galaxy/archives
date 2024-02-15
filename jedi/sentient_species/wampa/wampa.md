@@ -1,4 +1,5 @@
 # Introduction
+
 The Wampas were native to the frozen planet of Hoth in the Outer Rim Territories.
 They are known to be ruthless in catching their prey.
 Their diet was essentially anything that they could find on Hoth, most commonly, Tauntauns.

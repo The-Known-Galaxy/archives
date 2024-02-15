@@ -1,4 +1,5 @@
 # Introduction
+
 The Healing Crystals of Fire were one of the Jedi Order's greatest treasures.
 They were kept in meditation chambers at the Jedi Temple on Coruscant and guarded by Jedi Sages.
 The stones were used to completely heal serious wounds.

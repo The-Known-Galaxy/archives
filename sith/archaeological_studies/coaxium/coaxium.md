@@ -1,4 +1,5 @@
 # Overview
+
 Coaxium is a rare element used to fuel hyperdrives and allow a ship to enter hyperspace, it is mainly found on the planet of Kessel, a planet used for mining by the Empire.
 Due to Coaxium's rarity, the element was mainly used by the Empire for its massive fleet.
 Unrefined Coaxium is very unstable and will explode when it turns red which is why most people will buy stabilized Coaxium to avoid danger.

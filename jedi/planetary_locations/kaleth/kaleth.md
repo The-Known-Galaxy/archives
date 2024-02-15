@@ -1,10 +1,12 @@
 # Introduction
+
 Kaleth, or the Temple of Knowledge, was one of the nine temples on Tython's lush and deadly world.
 For many decades, the temple at Kaleth, a massive stone structure with four large square towers, served as a repository of knowledge and wisdom.
 The Je'daii fled Tython after the terrible Force Wars, and others settled in the remains of the great fortress city.
 The temple at Kaleth was in ruins by the time the Jedi Order returned to their ancient homeworld during the Cold War between the Galactic Republic and the rising Sith Empire.
 
 # Section 1
+
 Kaleth was situated within the heart of a gently sloping mountain range in the western Tythos Ridge.
 The gigantic castle was composed of painted stone, organized to make large geodesic circles in the faces of the four square towers, and was accessible by two paths, one of which was known as the Elarian Trail.
 The stone walls of Kaleth crumbled after centuries of being unoccupied, leaving just the lower levels standing.
@@ -12,9 +14,8 @@ The temple-city's entrance remained in the shape of a gigantic stone archway tha
 There were numerous little structures in the region, and stairs that led up to the few remaining stories.
 War droids were still stationed in various halls, ready to attack any invaders.
 
-
-
 # Section 2
+
 A society of Kwa occupied Tython long before the Tho Yor arrived with the first Force-sensitives who would become the Je'daii Order.
 They built temples and monuments on the forested planet.
 The globe eventually became depopulated, and the Kwa temples were abandoned.
@@ -36,9 +37,8 @@ The Jedi Order abandoned Tython at the end of the war, leaving Kaleth and the ot
 Regardless, other Force-wielding civilizations from the system's adjacent worlds would try to recolonize Tython.
 Kaleth became a city of sorts after taking up residence in the old Temple of Knowledge, with successive governments attempting and failing to restore Kaleth to its former glory.
 
-
-
 # Section 3
+
 Following Jedi Master Satele Shan's finding of Tython, the Jedi Order transferred their headquarters to Tython to substitute for the Coruscant Temple that had been devastated at the end of the Great Galactic War.
 When the Jedi discovered Kaleth, they thought it would make an excellent foundation for their new Temple.
 Despite this, the Jedi High Council thought that studying Kaleth from afar would be more beneficial, so they built their new Temple in a nearby valley directly north of the spot.

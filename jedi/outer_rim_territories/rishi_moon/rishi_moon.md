@@ -1,4 +1,5 @@
 # Introduction
+
 Rishi moon is the only moon near the hot climate planet of Rishi.
 They are located in the Outer Rim Territories and reside in the Abrion sector.
 Unlike its planet, the Rishi moon was always a cold environment, hosting only the Neebray and Rishi eel as fauna.
@@ -7,7 +8,8 @@ While the moon had its hardships, it acted as a natural satellite for the people
 It would even be later used as an excellent listening post for the Galactic Republic during the Clone Wars.
 
 # Section 1
-It was during the Clone Wars that this planet would see an interesting conflict between the Confederacy of Independent Systems' very own General Grievous’s army and a Republic listening post.
+
+It was during the Clone Wars that this planet would see an interesting conflict between the Confederacy of Independent Systems' very own General Grievousâ€™s army and a Republic listening post.
 Grievous' plan was to silently attack and secure the outpost.
 Since capturing the moon it would then be unable to send an alert to the Republic of Grievous maneuver towards the nearby planet of Kamino, the clone troopers homeworld.
 While the Generals plan was nearly successful, it was cut down by clone trooper CT-782, going by the name Hevy.

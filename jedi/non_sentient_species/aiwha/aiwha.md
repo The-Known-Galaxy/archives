@@ -1,9 +1,9 @@
 # Introduction
+
 The Aiwha creatures were big creatures with two ginormous wings that could fly and swim.
 The Aiwha species had rubbery waterproof skin, as their skin color was dark green, grey and black in color.
 The Aiwha also had small strong legs that could help them move through the land; however, the Aiwha preferred to land on water.
 Their mouth was big with many sharp teeth and a long tongue, their eye color mostly yellow.
- 
 
 The Aiwha species could fly under the harsh weather of the planet Kamino.
 The Aiwha could swim with ease under the big waves of Kamino's seas, but the origin of the Aiwha is unknown.

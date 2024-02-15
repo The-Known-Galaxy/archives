@@ -1,4 +1,5 @@
 # Introduction
+
 Jedi Shadow's primary purpose was to seek out and destroy Sith artifacts and teachings.
 They mainly consisted of Jedi Sentinel's working directly under the Council of First Knowledge.
 Shadows mostly wear white and black robes adorned with armor and wielded a double-bladed lightsaber.
@@ -7,6 +8,7 @@ Created at some point before, during, or after the Great Hyperspace War and exis
 They usually did this often.
 
 # Section 1
+
 The majority of the Jedi Shadows were veteran Sentinels.
 To understand why the Jedi Order chose the name of Shadow to describe its members, one must realize that the Order did not desire the duties of the Shadows.
 Because of this, Jedi Shadows are mainly described as the shadows of the Order.
@@ -20,9 +22,8 @@ The Jedi Shadows disagreed on how to deal with the threat of the Dark Side.
 Some of them opted for more radical actions against the forces of evil.
 At the same time, some practiced temperness with their duties.
 
-
-
 # Section 2
+
 Due to the secretive nature of the Shadows, their founding date is unknown.
 We are aware that they were in existence around the time of the Great Hyperspace War because they were deployed to eliminate Sith artifacts.
 They continued to operate until the Great Jedi Purge at the end of the Clone Wars.

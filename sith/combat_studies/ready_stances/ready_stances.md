@@ -1,9 +1,11 @@
 # Introduction
+
 Each lightsaber form comes with its own start-up, also known as ready stances.
 However, there were some that were standardized across all lightsaber combat.
 All of the known ready stances were ready, defensive neutral, offensive neutral, and center of being.
 
 # Section One
+
 The first ready stance, ready, was most commonly used amongst the Jedi.
 This stance has many similarities to the Ataru guard.
 When the form was used the dominant foot was held back and the blade was held in a vertical parry position.

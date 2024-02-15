@@ -1,4 +1,5 @@
 # Introduction
+
 Tave was a male member of the Noghri species, born on Tython.
 During his time in the Je'daii Order, he trained in the ways of the Force.
 Upon reaching the rank of Je'daii Master, Tave became the assistant of Lha-Mi, Temple Master of Stav Kesh, the Temple of Martial Arts.

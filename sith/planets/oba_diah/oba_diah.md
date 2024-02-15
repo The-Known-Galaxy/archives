@@ -1,9 +1,11 @@
 # Overview
+
 Oba Diah, a planet in the Outer Rim Territories, served as the home of the Pyke species.
 Positioned at the far end of the Kessel Run, Oba Diah was crucial for the Pyke Syndicate's operations.
 The syndicate oversaw the distribution of spice from Kessel, with Oba Diah housing their stronghold where the spice was managed and dispatched to various parts of the galaxy.
 
 # History
+
 During the Invasion of Naboo, Supreme Chancellor Finis Valorum dispatched Jedi Master Sifo-Dyas and his aide, Silman, to Oba Diah to resolve a conflict within the Pyke Syndicate.
 However, their mission was interrupted, and they were redirected to Felucia.
 The Pykes, hired by the Sith, attacked their vessel, resulting in Sifo-Dyas' death and Silman's capture.

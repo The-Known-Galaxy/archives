@@ -1,9 +1,10 @@
 # Introduction
-Lourna Dee was a green-female of the Twiílek species who had the title ìTempest Runnerî in Nihil, a marauder organization.
+
+Lourna Dee was a green-female of the Twi‚Äôlek species who had the title ‚ÄúTempest Runner‚Äù in Nihil, a marauder organization.
 She was born around 272 BBY and is unknown when she died.
 As she served in Nihil, she earned her title along with the other two, developing more reputation for herself.
 A cruiser she commanded would be named after her in honour.
-Around 232 BBY, she and Millikob would team with their Tempests against Eytaís on Ab Dalis in an attempt to raid the organization.
+Around 232 BBY, she and Millikob would team with their Tempests against Eyta‚Äôs on Ab Dalis in an attempt to raid the organization.
 They would be successful for most of the attack.
 Afterwards, Pan Eyta would host a celebration in the Nihil's Great Hall, even though she partially ruined the raid.
 Marchion Ro would announce a meeting between himself and the three runners, explaining how the usage of any of the described Paths would forever be restricted until the heat from the event died down.

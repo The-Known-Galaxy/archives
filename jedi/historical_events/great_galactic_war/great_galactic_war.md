@@ -1,4 +1,5 @@
 # Introduction
+
 The Great Galactic War dragged on for decades.
 Thousands of Jedi and Sith were slain.
 Countless star systems were ravaged.
@@ -10,6 +11,7 @@ As Jedi and Republic forces fought back, the Mandalorians, under the leadership 
 The war would eventually last 28 standard years.
 
 # Section 1
+
 In 3653 BBY with peace talks commencing on Alderaan, the Sith launched a surprise attack on Coruscant, devastating the planet, killing the Chancellor and nearly destroying the Jedi Temple.
 With Coruscant in their hands, the Sith presented the Republic with the Treaty of Coruscant.
 The Treaty sued for peace but was heavily biased towards the Sith, demanding that the Republic turn over several long-time territories and Republic forces had to withdraw from current battlefields leaving the planets defenseless to Imperial occupation.

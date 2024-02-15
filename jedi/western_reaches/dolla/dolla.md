@@ -1,4 +1,5 @@
 # Introduction
+
 The Dolla system was named after an astronomical object that took place in the area; people often referred to it simply as Dolla.
 The system had a population of 1-10 million habitants and was located in the Western Reaches.
 It was also connected to two different trade routes, those being Anturi Reach and Nothoiin Corridor.

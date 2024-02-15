@@ -1,8 +1,9 @@
 # Introduction
-The Faíathra Gang was a criminal organization that was active during the Cold War and the Galactic Republic.
-Not much is known about this gang due to its mystery and how ìsecretiveî it was.
+
+The Fa‚Äôathra Gang was a criminal organization that was active during the Cold War and the Galactic Republic.
+Not much is known about this gang due to its mystery and how ‚Äúsecretive‚Äù it was.
 It was run by Hutt Voontara Fa'athra on the planet Nal Hutta and like the name suggests, was named after him for honour.
 However, their hangout would be located in Jiguuna on Hutta.
-They would be involved in battles with other gangs such as the Nemíroís forces during a blazing rivalry between Suudaa Nemíro.
+They would be involved in battles with other gangs such as the Nem‚Äôro‚Äôs forces during a blazing rivalry between Suudaa Nem‚Äôro.
 Members of the gang would need to wear a uniform to show their superiority.
 High ranks would wear blue-gray armour while lower ranks would have to wear black or orange-brown armour.

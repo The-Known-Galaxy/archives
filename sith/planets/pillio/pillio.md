@@ -1,4 +1,5 @@
 # Description
+
 Pillio is an aquatic planet located in the Jinata System within the Core Worlds region.
 While the air is breathable, it is also full of water.
 It has a massive coral reef that stretches along the entire planet and is also home to vast amounts of animals and plant life.
@@ -7,6 +8,7 @@ This planet was the main food source of the Jinata system, and profited because 
 Pillio was also the location of one of Emperor Palpatine's observatory.
 
 # History
+
 After the destruction of DS-2, Luke Skywalker felt a calling to the planet Pillio.
 Imperial soldiers also arrived at the planet, including Dek Meeko, who was assigned to destroy Palpatine's observatory.
 While both of these people were on different sides, they came together to search the observatory.

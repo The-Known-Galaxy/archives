@@ -1,4 +1,5 @@
 # Introduction
+
 Ixtlar is a planet located in the Ixtlar system, near the Galactic core.
 The system itself fell to the Confederacy of Independent Systems in 20 BBY after the battle of Ixtlar which was fought between the Republic's fleet and Separatist's fleet which resulted in a tie as a result of both sides showing great strength and determination to win.
 The Ixtlar system later fell under the control of Yuuzhang Vong until resigning from Coruscant in 29 ABY after the end of the Yuuzhan Vong war.

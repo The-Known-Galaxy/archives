@@ -1,4 +1,5 @@
 # Overview
+
 Darth Nihl was a Nagai warlord who would lead raiding parties all across his home planet of Nagi.
 Nihl, as the primary enforcer of Darth Krayt, would serve as the Fist and later the Hand of the Dark Lord.
 Darth Nihl was fond of the old ways of the Sith.
@@ -8,6 +9,7 @@ He was a user of the long-handle lightsaber.
 Darth Nihl would formulate a plan to infiltrate and implode numerous Galactic governments.
 
 # Narrative
+
 Darth Nihl ravaged the Jedi Temple on Ossus, killing most of the Jedi involved in the altercation.
 Most notable of the dead Jedi was Kol Skywalker, a Jedi Master who was the father of Cade Skywalker.
 Nihl would later capture Cade, but the young Skywalker would deceive the Sith Lord.

@@ -1,4 +1,5 @@
 # Overview
+
 Tenn Graneet is a human born before 50 BBY, although his exact birthdate and the planet he was born on are unknown, his actions are what made him stand out.
 Tenn Graneet was one of the best-trained gunners in the Imperial Navy, even serving in the Clone Wars.
 Due to his skills, he was assigned as the Master Chief Gunnery Officer of the Death Star, commanding and operating the space station's superlaser crew.

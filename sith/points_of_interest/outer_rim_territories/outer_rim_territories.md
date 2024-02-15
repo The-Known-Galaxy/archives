@@ -1,4 +1,5 @@
 # Overview
+
 The Outer Rim is the largest and least densely populated region of the galaxy, with most of it's inhabitants being scattered.
 The Outer Rim is home to notable planets such as Tatooine, Geonosis, Mustafar, and Korriban.
 The region is mostly run by crime organizations such as the Hutt Cartel, with them even having their own space called the "Hutt Cartel".

@@ -1,4 +1,5 @@
 # Characteristics
+
 The TIE torpedo bomber, designed by Sienar Fleet Systems for the Galactic Empire's military, was a unique addition to the TIE starfighter series.
 Its distinctive features included twin ion engines, solar collectors, and a bluish-gray color scheme in line with the Empire's aesthetics.
 With its inclined wings like the TIE Advanced x1 prototype, the bomber achieved a balance between speed, maneuverability, and the capacity to carry substantial ordnance.
@@ -10,12 +11,12 @@ Furthermore, the bomber's ordnance bay could be swapped for a passenger cabin, o
 Pilots were provided with ejector seats, life support systems, and flight suits for added protection during emergencies.
 
 # Role
+
 Originating from the TIE/gt model, TIE bombers were crucial for the Empire's anti-emplacement and anti-trap air support.
 Leading the front lines, they were preferred by Star Destroyer captains for carpet bombing to weaken major targets such as capital ships or buildings.
 
-
-
 # History
+
 TIE bombers were utilized by the Empire for various critical missions, including attacking targets like the mobile refinery Forager and suppressing rebel groups.
 They played roles in significant events like the Battle of Yavin, the Battle of Hoth, and the devastating Bombing-of-Mandalore.
 During the Great Purge, TIE bombers were used to destroy Mandalore's surface and cities, while in other instances, they were dispatched to quell insurrections and enforce the Empire's dominance.

@@ -1,4 +1,5 @@
 # Overview
+
 The Jedi Covenant was a secret Jedi organization headquartered on Coruscant during the Old Sith Wars.
 Founded by Krynda Dray after the end of the Great Sith War, she felt it was her fault for not realizing that Exar Kun had fallen to her dark side.
 The Alliance's goal was to use Jedi emissaries as shadows to seek out splinter points that could lead to a Sith resurrection and take the necessary actions to prevent it.
@@ -6,7 +7,8 @@ The Jedi Covenant Hated the Sith with a passion for being a deviation from the C
 They believed that had such an organization existed before the Sith Wars, they could have seen the threat of Exar Kun, who was still a Jedi.
 
 # Organisation
-Watch Circles: 
+
+Watch Circles:
 The Jedi Society consisted of several watch circles specializing in different types of vision.
 His five Masters of the Jedi Tower of Taris, Luciandrei, Q'Anilia, Fern, Zamar, and Larnatey, were known as the First Watch Circle.
 The first four were the Jedi Order's top consul officers, apparently the Covenant's chief forecasters, and Lucian served as his "hand".

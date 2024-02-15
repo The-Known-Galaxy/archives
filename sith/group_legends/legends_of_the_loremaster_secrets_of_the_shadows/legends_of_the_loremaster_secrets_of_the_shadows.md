@@ -1,4 +1,5 @@
 # Overview:
+
 To serve the Dark Lord of the Sith is to be a tool.
 A tool of his passion, a tool of his strength, and a tool of his will.
 None understands this more than his loyal Dark Honour Guard, powerful servants clad in fashionable and sturdy red armour resembling the same colour that most sentient beings bleed.
@@ -22,22 +23,22 @@ More notably, the people who maintained such wisdom were mostly Sith that kept t
 The strict lifestyle of the Guard was wearing him out, as great of a meaning it gave him, learning about Spheres gave the Guardsman more insight into the Sith and how every gear intertwined with another.
 Anything rusted or malfunctional was thrown out and replaced.
 It made him realise there were more uses for his skills and passion other than escorting people capable of defending themselves.
-It was a known fact within the Dark Honour Guard that those who wanted to discharge from it were allowed to if they had served enough time, but kidnapped former Jedi didnít exactly have as much of a luxury to have it so simple for them.
+It was a known fact within the Dark Honour Guard that those who wanted to discharge from it were allowed to if they had served enough time, but kidnapped former Jedi didn‚Äôt exactly have as much of a luxury to have it so simple for them.
 It was still worth the try, in order to further a journey to satiate a new hunger for knowledge, to delve further into the secrets of the Sith.
 A few days and a completed assignment later, the Guardsman spoke to his superior and mentor, Captain Astaroth.
 
-ìConsidering your rank and how long you served, you are eligible for a discharge, but there's no telling whether youíll defect back to the Jedi or not.î
+‚ÄúConsidering your rank and how long you served, you are eligible for a discharge, but there's no telling whether you‚Äôll defect back to the Jedi or not.‚Äù
 
-ìI donít plan to, nor do I want to.
-I have an ambition in the Sith, but itís not with the Guard.î
+‚ÄúI don‚Äôt plan to, nor do I want to.
+I have an ambition in the Sith, but it‚Äôs not with the Guard.‚Äù
 
-ì...
+‚Äú...
 You will be discharged and become a Sith Knight for your service, but any notice of you defecting to the Jedi or performing acts of treason will have you executed.
-Dismissed.î
+Dismissed.‚Äù
 
 If he was lying, Astaroth would have known.
 The latter was excellent at sensing falsities from speech, and not one lie was detected.
-The Guardsman was either a good liar, or speaking the truth, and it was known to the Captain that deception wasnít exactly a strong suit of the Guardsman.
+The Guardsman was either a good liar, or speaking the truth, and it was known to the Captain that deception wasn‚Äôt exactly a strong suit of the Guardsman.
 The unceremoniously knighted man emerged from the quarters of the Dark Honour Guard, no armour on him.
 Simply the everyday attire of a Sith Knight.
 Each step along the stone path of the temple made a presence known, the distant chatter of people were apparent and the presence of the dark side something the Knight was accustomed to.
@@ -45,12 +46,12 @@ He approached a certain section of the temple, where artefacts were on display a
 People who chose to dress in ornate robes and wear metal visages walked around the Sith archives, where all information that was recorded was on public display.
 This was what he desired.
 To contribute to an eternal cause, to be a name in a never-ending scroll of benefactors.
-What kind of journey heíd have along the way, that was his fate to follow.
+What kind of journey he‚Äôd have along the way, that was his fate to follow.
 The Knight approached a man who simply exuded wisdom, power, and leadership quality.
 He briefly explained what he wanted, and what his true purposes were.
 
-ìI seeÖ I like that.
+‚ÄúI see‚Ä¶ I like that.
 Our Sphere is a small one, but those with ambitions like you are needed.
 I welcome you into the Sphere of Ancient Knowledge.
-Iím the 3rd Keeper of Records and the current protector of these archives, Darth Invictus.
-You are now part of the group of people who preserve our history, our traditions, and our secrets.î
+I‚Äôm the 3rd Keeper of Records and the current protector of these archives, Darth Invictus.
+You are now part of the group of people who preserve our history, our traditions, and our secrets.‚Äù

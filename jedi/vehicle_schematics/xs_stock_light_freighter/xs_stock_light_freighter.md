@@ -1,4 +1,5 @@
 # Introduction
+
 The XS stock light freighter, more commonly known as the XS freighter, was a type of starship manufactured by the Corellian Engineering Corporation.
 Armed with two pairs of laser cannons, XS stock light freighters were used for a variety of purposes, including smuggling and deploying soldiers.
 The ship has 2 engines and has a few weapons like explained.
@@ -6,6 +7,7 @@ Despite becoming outdated people still used the XS freighter for many missions a
 These ships were used in the Clone Wars and the Imperial Era, which the Jedi used.
 
 # Section 1
+
 The XS freighter was a relatively small model of the starship, but at the time it wasn't bad.
 The vessels had a small circular shape to them and the cockpit had a blunt end to it.
 The XS flyer had a brightish yellow to it and also some areas were just not painted.

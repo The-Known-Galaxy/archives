@@ -1,4 +1,5 @@
 # Introduction
+
 Charis was a planet with a population over 850 million inhabitants.
 It was located within the Trition Trade Route in the Kathrol Sector.
 This planet was in the middle of five trade routes inside the Outer Rim Territories, those travel routes led to different star systems such as Aaris, Corjain, Ott, Mairne, and Kolatill.

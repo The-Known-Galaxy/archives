@@ -1,5 +1,6 @@
 # Introduction
-Force Stun was a powerful ability, which had the capability to essentially paralyze one’s opponent.
+
+Force Stun was a powerful ability, which had the capability to essentially paralyze oneâ€™s opponent.
 It was used as both a method of retreat and if a Force-user wished to take on an entourage of foes.
 It was mostly used by Jedi and they would barely be conscious whilst performing the maneuver.
 Similarly to Mind Control, if a being had strong enough willpower, they could resist the effects.

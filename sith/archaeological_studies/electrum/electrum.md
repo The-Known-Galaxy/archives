@@ -1,4 +1,5 @@
 # Overview
+
 Electrum itself didn't serve much of a purpose during the Old Republic Era other than being used to signify one's mastery of the Force.
 Electrum was used as a lightsaber modification, making the lightsaber stand out with a golden glow.
 Electrum was once used in the Cold War for the making of mandalorian armor but was soon replaced with other metals like durasteel.

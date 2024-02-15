@@ -1,8 +1,10 @@
 # Introduction
+
 After Order 66 comes into effect, a small group of Jedi, unwilling to live in constant fear, decide to meet and discuss what they can do against the Empire and the Sith.
 However, the Empire is not asleep, and Darth Vader is eager to personally fight any Jedi who can help him find out where Obi-Wan Kenobi, who betrayed him, is hiding.
 
 # Section 1
+
 Darth Vader barely heard the punctuating clatter of clone boots echoing across the front stair leading to the door of the Jedi Temple.
 His mind was too clouded, swirling in a red mist of dark side energy that blinded him, turning his gaze inward as he did battle internally.
 Darth Vader may have won a battle, but Anakin Skywalker was not dead yet.

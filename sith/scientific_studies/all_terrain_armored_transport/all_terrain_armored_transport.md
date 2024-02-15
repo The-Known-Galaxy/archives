@@ -1,12 +1,14 @@
 # Overview
+
 The AT-AT, full name All Terrain Armored Transport, was an important part of the Galactic Empire's fleet of vehicles.
 The Armored Transport was an extremely massive transport that was feared by citizens all over the galaxy.
 The Walker played a role in many Star Wars events, ranging from the Clone Wars to the Second Imperial Civil war.
 Despite the AT-AT being a massive and heavily feared superweapon, it was extremely slow and required many small fighters alongside it for safe transport.
 
 # General Description of Functionality
+
 The AT-AT was a massive armored walking tank.
-It was often considered a ìbehemoth of a war machine.î The walker was specifically designed to replicate ancient beasts of war that conquered the Dark Side of the Force.
+It was often considered a ‚Äúbehemoth of a war machine.‚Äù The walker was specifically designed to replicate ancient beasts of war that conquered the Dark Side of the Force.
 The walker was made to crush and destroy everything in its path, while also serving as a transport for imperial troops and weapons.
 Hundreds of AT-ATs were produced for the Galactic Civil War, and due to their massive size it was often the first weapon on the battlefield.
 

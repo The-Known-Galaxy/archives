@@ -1,17 +1,18 @@
 # Overview
+
 Situated in the Outer Rim Territories, Jelucan was a planet that played a role in the Clone Wars, aligning itself with the Confederacy of Independent Systems.
 However, as the Age of the Empire dawned, the Galactic Empire seized control over Jelucan, annexing it into their domain.
 Notably, this planet served as the birthplace of Thane Kyrell and Ciena Ree, two individuals caught in a fateful love affair that found them on opposing sides of the Galactic Civil War.
 
 # Description
+
 Jelucan, a cold and rocky planet in the Outer Rim Territories, was inhabited by two distinct communities: the valley dwellers known as the First Wavers and the more affluent second wave settlers in urban centers like Valentia.
 Mutual distrust existed between these communities, with the second wavers looking down on the valley dwellers and vice versa.
 Jelucan was also home to non-sentient muunyak species and prized resources like Jelucani fogstone.
 Ridgecrawlers were commonly used for transportation due to the planet's rugged terrain.
 
-
-
 # History
+
 Jelucan's history spans several centuries, beginning with the arrival of the First Wavers around 511 BBY.
 These exiles settled on the planet, maintaining their allegiance to their king despite arriving in a state of poverty.
 Approximately 350 years later, a second wave of settlers arrived and established profitable mining operations, considering the traditions of the initial settlers to be outdated.

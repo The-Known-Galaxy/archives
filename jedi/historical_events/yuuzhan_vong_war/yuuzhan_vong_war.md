@@ -1,4 +1,5 @@
 # Introduction
+
 During the time of relative peace up to 25 ABY, the new Jedi Order seemed to be well and truly established as a force in the galaxy once more.
 The Order now numbered at least 100 Jedi, possibly more, with many Jedi Masters actively training new Padawans.
 During this time Luke Skywalker sought permission from the New Republic to re-establish the Jedi Council.
@@ -12,6 +13,7 @@ The Jedi eventually played a vital role in the resolution of the war, but the co
 The number of Jedi was halved and their mindset became far more severe.
 
 # Section 1
+
 Following the Yuuzhan Vong War, the Jedi academy was moved to Ossus, while the High Council relocated to a newly-constructed Jedi Temple on Coruscant.
 During the Dark Nest Crisis, they numbered over 200 Jedi.
 By the end of the Swarm War, Luke Skywalker officially claimed the title Grand Master of the Jedi Order.

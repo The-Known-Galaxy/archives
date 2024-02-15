@@ -1,6 +1,7 @@
 # Article
+
 The Mask of Lord Momin was a Sith artifact that was worn and sculpted by the Dark Lord Darth Momin.
-It was placed into the hands of the Jedi Order’s archives in the Jedi Temple on Coruscant due to the mask’s immense dark energy.
+It was placed into the hands of the Jedi Orderâ€™s archives in the Jedi Temple on Coruscant due to the maskâ€™s immense dark energy.
 The Mask was a blue helmet created by Darth Momin, using his newly acquired lightsabers.
 In the center of the helmet was a horizontal opening, an enclave in the center connected to the horizontal opening, and a second vertical opening positioned on the elevated faceplate of the mask.
 When individuals were left alone with the mask, they were vulnerable to being corrupted by the dark side of the Force.

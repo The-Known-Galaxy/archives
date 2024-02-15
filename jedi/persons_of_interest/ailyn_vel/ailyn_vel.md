@@ -1,15 +1,17 @@
 # Introduction
+
 Ailyn Vel was a Near-Human and born into the Fett clan in 15 BBY.
 Her parents were Boba Fett and Sintas Vel.
 Although her birthplace is unknown, it is believed that she was born on the planet Concord Dawn.
 Boba Fett was forced to leave her mother and herself at a young age.
 As she grew, Ailyn became a very prosperous bounty hunter much like her father.
-It was her goal to hunt down her father Boba Fett in order to avenge her mother’s death.
+It was her goal to hunt down her father Boba Fett in order to avenge her motherâ€™s death.
 She killed a clone of Jango Fett assuming it was her father.
 Shortly, she took the identity of her father Boba Fett and kept her real identity a secret.
 
 # Section 1
-Ailyn Vel used her father’s identity to receive larger payouts in bounties.
+
+Ailyn Vel used her fatherâ€™s identity to receive larger payouts in bounties.
 Years later, she discovered that her father was still alive, and she made it her mission to kill him again.
 Instead of finding him, she found another Jango Fett clone and killed it, taking its armor.
 However, she found out Boba had died much to her relief.

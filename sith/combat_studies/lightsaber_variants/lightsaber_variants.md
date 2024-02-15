@@ -1,8 +1,10 @@
 # Overview
+
 It is rare for Adepts to construct nonstandard Lightsabers during their visionary experiences on Korriban.
-Often, a variant design doesn’t emerge until much later, after years of experience spent analyzing one’s own fighting style and evaluating deficiencies caused by that first effort.
+Often, a variant design doesnâ€™t emerge until much later, after years of experience spent analyzing oneâ€™s own fighting style and evaluating deficiencies caused by that first effort.
 
 # Variants
+
 Curved-hilt Lightsaber:
 The curved-hilt Lightsaber is perhaps the least radical of all variants.
 Its extended handle accommodates a slight bend seldom exceeding thirty degrees.
@@ -10,7 +12,7 @@ This style is common among practitioners of Form II lightsaber combat, who prefe
 
 Shoto:
 The Shoto is a short saber with a blade extending perhaps a half-meter.
-The Shoto is often wielded in a Jedi’s off hand as a second blade.
+The Shoto is often wielded in a Jediâ€™s off hand as a second blade.
 The guard shoto is carried by means of a perpendicular handle, allowing for spins that put an opponent off balance but put oneself at risk.
 
 Lightclub:
@@ -31,5 +33,5 @@ Both are staff weapons, but the pike has a shaft of saber-resistant metal and a 
 
 Lightwhip:
 The Lightwhip is the most exotic of all weapons that use the crystal energy technology.
-Instead of having a rigid blade, the Lightwhip’s energy tendril is flexible and can be wielded to entangle or cut.
+Instead of having a rigid blade, the Lightwhipâ€™s energy tendril is flexible and can be wielded to entangle or cut.
 Unless you are already an expert with traditional whips, you should not even attempt to hold a Lightwhip.

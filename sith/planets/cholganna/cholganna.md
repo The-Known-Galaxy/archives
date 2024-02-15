@@ -1,4 +1,5 @@
 # Overview
+
 Cholganna was a temperate planet in the Outer Rim.
 Orbited by two moons, the world had at least one continent, Indona, a forest full of different flora and fauna.
 In the jungles, predatory Nexu would hunt several species, like the Arboreal octopus, Bark rat and Reevo, at the top of the food chain.
@@ -8,6 +9,7 @@ Intersected by the Tethyrr River, the labyrinth of vines neighboured a valley.
 An ocean separated Indona from the mountainous terrain.
 
 # History
+
 Sometime before 3678 BBY, the Sith Empire and Abyssin battled in the Skirmish on Cholganna, which saw victory to the Sith.
 Sith Acolyte Teneb Kel spared Abyssin warrior Qawhohl and kept him as his slave.
 Near the end of the Clone Wars, the Sa Nalaor, a Banking Clan Munificent-class star frigate, lost course and crashed on the planet.

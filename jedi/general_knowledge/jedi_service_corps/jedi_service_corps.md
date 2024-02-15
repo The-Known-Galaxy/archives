@@ -1,4 +1,5 @@
 # Introduction
+
 The Jedi Service Corps, is an organization under the Council of Reassignment and was formed during the Old Republic.
 It served as an alternative to progress through Knighthood.
 Those who failed the Initiate or Knight Trials, together with those who were not assigned to a master, were sent to the Service Corps.
@@ -9,23 +10,23 @@ Joining in each of the branches were voluntary but if they failed the Trials, th
 They not only teach and help Initiates to their path to Knighthood but also served importance to the Jedi Order as they helped many star systems in the galaxy.
 
 # Section 1
-The Agricultural Corpsñalso known as AgriCorps, led by the Jedi Masters who work under itñhelp commoners and provide crops to star systems who are experiencing shortages caused by a natural disaster.
+
+The Agricultural Corps‚Äìalso known as AgriCorps, led by the Jedi Masters who work under it‚Äìhelp commoners and provide crops to star systems who are experiencing shortages caused by a natural disaster.
 Initiates who are a member of this branch focused on the Living Force which help support, nourish, and maintain plant growth.
 
-The Medical Corpsñalso known as MedCorps, led by the Circle of Healersñspecializes in aiding the wounded during battles.
+The Medical Corps‚Äìalso known as MedCorps, led by the Circle of Healers‚Äìspecializes in aiding the wounded during battles.
 Those who joined this branch were taught Force healing and those who were no longer qualified to progress through Knighthood will serve as medics.
 
-The Educational Corpsñalso known as EduCorps, overseen by the Librarianís Assemblyñserve as instructors to those who lacked knowledge in the galaxy.
+The Educational Corps‚Äìalso known as EduCorps, overseen by the Librarian‚Äôs Assembly‚Äìserve as instructors to those who lacked knowledge in the galaxy.
 Initiates of this branch were taught how to properly and effectively share information to individuals.
 
-The Exploration Corpsñalso known as ExplorCorps, led by several Jedi Mastersñuncover ancient discoveries and secrets throughout the galaxy.
+The Exploration Corps‚Äìalso known as ExplorCorps, led by several Jedi Masters‚Äìuncover ancient discoveries and secrets throughout the galaxy.
 They served as archaeologists and researchers.
 Members of the branch were taught navigation and researching skills.
 
-
-
 # Section 2
+
 In 19 BBY, the Jedi Service Corps was disbanded during the Great Jedi Purge when Darth Sidious ordered the Republic to kill all the Jedi in the galaxy in accordance with Order 66.
 Survivors of the purge were forced to follow the teachings of the Sith but those who resisted were immediately killed.
 
-By the end of the Galactic Civil War, when Luke Skywalker rebuilt the Jedi Order, he did not reconsider to reform the Jedi Service Corps but instead he used the information from guidebook ìThe Jedi Path: A Manual for Students of the Forceî to the Order.
+By the end of the Galactic Civil War, when Luke Skywalker rebuilt the Jedi Order, he did not reconsider to reform the Jedi Service Corps but instead he used the information from guidebook ‚ÄúThe Jedi Path: A Manual for Students of the Force‚Äù to the Order.

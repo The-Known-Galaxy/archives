@@ -1,4 +1,5 @@
 # Introduction
+
 The Jedi Order had been around for thousands of years, having seen countless external conflicts, internal rifts, and near extinction on more than one occasion.
 One might ask, "How did the Jedi Order come to be?" This would be best told by going to the beginning of the Order, to the Order's precursor, and how it came to be.
 The Jedi Order was an organization that originated from the Je'daii Order, which was founded on Tython and consisted of mostly Force-sensitive species.
@@ -8,6 +9,7 @@ The Tho Yor were nine vessels that had existed far before the Order did, with no
 Of these nine vessels, eight were found outside of Tython, with the last being a much larger vessel, serving as some sort of rallying point for the other seven.
 
 # Section 1
+
 While it was unknown when these vessels were created, it was known when they were activated.
 In the year 36,453 BBY, the Tho Yor suddenly came to life across the galaxy, collecting various Force-sensitive peoples.
 This ranged from Selkath, Wookiees, Dathomiri, Twi'leks, Humans, Sith (species), Iktochi, Cathar, Zabrak, Miraluka, Devaronians, Noghri, Koorivar, Krevaaki, Sullustans, and a plethora of other species.
@@ -17,9 +19,8 @@ During this time, a Force storm appeared due to the imbalance on the planet.
 Shortly after the Force Storm had quieted down, the eight Tho Yor traveled to different locations on Tython where each vessel delivered its Force-sensitive passengers.
 This led to the building of many separate temples and communities across the planet.
 
-
-
 # Section 2
+
 On the continent of Thyr, a Tho Yor came to a stop above a large cavern.
 There, the newly formed Je'daii Order established the temple of Qigong Kesh, where advanced Force abilities were taught.
 On Masara, the Temple of the Arts, known as Bodhi, was built.
@@ -37,13 +38,12 @@ Elsewhere on Talss, the temple of Padawan Kesh was established.
 This temple housed the Je'daii Academy.
 Lastly, under the largest of the Tho Yor, the tower-temple of Akar Kesh, or Temple of Balance, was constructed.
 
-
-
 # Section 3
+
 The Tho Yor were present for the entirety of the Je'daii Order, but their purpose was not known until the end of the Order's life.
 After much meditation, two purposes were found for the Tho Yor.
 Firstly, it was discovered that the symbol on the sides of the Tho Yor could be used to breach the Chaos Wall of the Chasm, which housed the Kwa Holocron and an infinity gate.
 After finding the Kwa Holocron, the Tho Yor's second purpose was found; to serve as a weapon via channeling large amounts of the Force into them.
 This was found out at a critical time of the Order's life, as they were being attacked by the Infinite Empire.
 This second purpose was shown to a Je'daii wanderer named Tasha Ryo.
-From the infinity gate's Gatekeeper, A'nang had shown the Je’daii how to weaponize the Tho Yor, using them to destroy multiple Rakatan ships after the Infinite Empire attacked.
+From the infinity gate's Gatekeeper, A'nang had shown the Jeâ€™daii how to weaponize the Tho Yor, using them to destroy multiple Rakatan ships after the Infinite Empire attacked.

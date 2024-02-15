@@ -1,12 +1,14 @@
 # Introduction
-The Kíloríslugs were a race of carnivorous worm-like creatures that originated from the swamps of Noeíhaíon.
+
+The K‚Äôlor‚Äôslugs were a race of carnivorous worm-like creatures that originated from the swamps of Noe‚Äôha‚Äôon.
 They were a dangerous invasive species that plagued numerous sites on the planets Korriban and Taris.
 These aggressive vermiforms could swallow a man whole and were capable of producing venom, which made extermination efforts difficult among highly infested areas.
 They boasted multiple pincer legs and a large tubular mouth riddled with concentric rows of teeth.
 These hunters had an excellent visual perception and sense of smell.
-The presence of kíloríslugs were known since the Great Galactic War and have since been included as a holomonster for the strategy game dejarik.
+The presence of k‚Äôlor‚Äôslugs were known since the Great Galactic War and have since been included as a holomonster for the strategy game dejarik.
 
 # Section 1
+
 The beasts were widely regarded as pests as their queens could lay hundreds of eggs at a time with a rapid incubation period.
 Starship pilots were acquainted with these species as they were known to proliferate in the dark and unsanitary conditions of a spacecraft.
-The sound of a group of eggs hatching is known as ìa Huttís cry,î which was derived from a tragedy during a Huttís yearly gladiatorial tournament where a hunter and the Hutt were devoured by hundreds of kíloríslugs.
+The sound of a group of eggs hatching is known as ‚Äúa Hutt‚Äôs cry,‚Äù which was derived from a tragedy during a Hutt‚Äôs yearly gladiatorial tournament where a hunter and the Hutt were devoured by hundreds of k‚Äôlor‚Äôslugs.

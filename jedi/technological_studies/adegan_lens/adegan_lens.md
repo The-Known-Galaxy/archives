@@ -1,4 +1,5 @@
 # Introduction
+
 Following the end of the Jedi Civil War, between 3955 BBY and 3951 BBY, conflicts between the remnants of the Sith Empire and the weakening Galactic Republic sprouted in what would become known as the Dark Wars.
 The First Jedi Purge and the Sith Civil War would also encompass much of this time period.
 During the Dark Wars, lightsabers would sometimes be spotted containing Adegan lenses.

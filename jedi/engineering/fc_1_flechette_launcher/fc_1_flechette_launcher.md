@@ -1,8 +1,9 @@
 # Introduction
+
 The FC-1 flechette launcher was an anti-infantry and anti-vehicle weapon designed and produced by Golan Arms.
 The weapon was alternatively known as the FC11 flechette launcher, but in either case was used extensively by numerous governments and factions after the Galactic Civil War.
 Originally, was designed to launch numerous varieties of canisters containing razor sharp durasteel flechettes at close to medium range.
-Moreover, it's canisters would burst after a preset distance as determined by the weapon’s highly advanced range finder system.
+Moreover, it's canisters would burst after a preset distance as determined by the weaponâ€™s highly advanced range finder system.
 The weapon had four primary tubes which could all be fired in quick succession in addition to two reserve tubes closer to the rear of it.
 Furthermore, it usually detonated its canisters after approximately ten meters though settings existed which allowed it to detonate on impact at a cost in effectiveness.
 The anti-infantry canisters were filled with hundreds of individual projectiles, while the anti-vehicle variants contained far fewer projectiles which were capable of piercing the relatively thin armor used by most light vehicles in the time period which it was deployed in.

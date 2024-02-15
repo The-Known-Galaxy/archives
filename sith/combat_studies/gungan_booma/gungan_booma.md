@@ -1,4 +1,5 @@
 # Overview
+
 The booma was a weapon on Naboo Used by the Gungan Army.
 The booma was made up of a blue material found deep in Naboo's oceans.
 If thrown hard enough this blue ball would turn into an explosive mass of destruction.

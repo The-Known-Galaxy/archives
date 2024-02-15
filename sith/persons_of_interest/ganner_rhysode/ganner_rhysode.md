@@ -1,12 +1,14 @@
 # Introduction
+
 Ganner Rhysode was a Jedi Knight and member of the New Jedi Order, whose sole wish throughout his life was to be a hero, and his confidence was proof of that.
 He was one of the main figures during the Yuuzhan Vong War.
 He suffered an injury during Yuuzhan Vong's invasion of the galaxy and a scar was left as a reminder for him to stay humble.
 Ganner was tasked with finding Jacen Solo, who he managed to help escape by sacrificing himself.
 He became one with the Force and held off hundreds to let Solo escape.
-According to Soloís Master vision, Ganner died a legend becoming a figure known as The Ganner.
+According to Solo‚Äôs Master vision, Ganner died a legend becoming a figure known as The Ganner.
 
 # Biography
+
 Ganner Rhysode, born Force-sensitive, was recruited to attend the Jedi Temple on Yavin 4 and there he developed his skill.
 He was considered a promising Jedi Knight and was attracted to Jedi Master Kyp Durron, who believed in using the Force to fight injustice.
 He saw himself as a leader of a new generation of Jedi Knights who would deliver justice without being restricted by the old Jedi code.
@@ -46,7 +48,7 @@ They withdrew through the training warren, where the voxyn were trained to hunt 
 The team fought through the training warren, battling against the Yuuzhan Vong's slaves and voxyn.
 They eventually escaped the warren, but were ambushed by the voxyn.
 Rhysode helped hold the passage, but Besa and Drark were killed, and Anakin Solo was badly wounded.
- The voxyn queen escaped, and Anakin Solo gave himself over to the Force.
+The voxyn queen escaped, and Anakin Solo gave himself over to the Force.
 They withdrew and had Sebatyne track the queen while they holed up.
 They were interrupted by Anor and Vergere, who offered to guide them to the escaping voxyn queen.
 Solo killed the queen near Jaina's crashed ship, while the others captured the frigate Ksstarr.
@@ -54,7 +56,6 @@ Jacen was captured, and Rhysode had to flee with the survivors of the team.
 
 Rhysode attended Anakin Solo's funeral and joined Han and Leia Organa Solo in the Millennium Falcon for the Jedi base at Eclipse.
 They eventually traveled to Borleias, where General Wedge Antilles led the world's defense with the Skywalkers.
-
 
 Rhysode heard a rumor that Jacen Solo was alive on Coruscant.
 He shares this with Jaina Solo, who dismisses it as nonsense.
@@ -70,18 +71,16 @@ He decides to use his lifelong dream of being a hero and holds back the Yuuzhan 
 Rhysode challenges the Yuuzhan Vong in single combat, defeating them in large groups.
 He eventually remembers his desire to act as a hero and destroys the senate dome and tank beast with infantry support.
 
-
-
 # Legacy
+
 Ganner's last stand made it possible for Solo to flee the planet and escape the Yuuzhan Vong army.
 This sacrifice was later proved to be essential during the war as Solo, later killed the leader behind Yuuzhan Vong and made them leave Coruscant intact.
-Gannerís sacrifice was made a myth even by Yuuzhan Vong, îan invincible Jedi giant called the Ganner who guarded the gate to the land of the dead, keeping the dead from leaving to harm the livingî and was named a liberator for the shamed ones as part of the Jeedai heresy.
+Ganner‚Äôs sacrifice was made a myth even by Yuuzhan Vong, ‚Äùan invincible Jedi giant called the Ganner who guarded the gate to the land of the dead, keeping the dead from leaving to harm the living‚Äù and was named a liberator for the shamed ones as part of the Jeedai heresy.
 His sacrifice was not only remembered by Yuuzhan Vong.
 He had the highest kill count in the war and the Jedi named the conference room in Ossus and a squadron after his name.
 
-
-
 # Personality and traits
+
 Rhysode was confident from a very young age, even more after becoming a Jedi and an Adult.
 His expertise in the Force and his good looks made this confidence rise even higher.
 Since childhood, he always wanted to be a hero and impress others with his power.
@@ -91,9 +90,8 @@ His arrogance and confidence were struck after a certain mission during the Yuuz
 From that point on he started respecting his fellow peers, not underestimating his opponents, and accepting there are better Jedi than him.
 Ganner eventually decided to change his appearance as proof of his change, now letting his beard grow and becoming a true adult.
 
-
-
 # Powers and abilities
+
 Ganner had a natural connection with the Force and his unknown usage of it during his youth made him have a very casual approach to it.
 His expertise lay in telekinesis and mind tricks however he was also capable of using the Force as a shield or to make a controllable bubble around him.
 During his mission to save Jacen Solo, he entered the state of Oneness with the Force and used his rage to kill hundreds of Yuuzhan Vong warriors and destroy multiple structures to let Solo escape.

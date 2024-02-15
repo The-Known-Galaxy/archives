@@ -1,7 +1,8 @@
 # Introduction
+
 Vendaxa was a planet that served as a homeworld for a non-sentient species, called Acklay.
 It could be found inside the Expansion Region within the Vendaxa system.
-This planet’s surface was mostly covered in large plains, forests and huge lakes.
+This planetâ€™s surface was mostly covered in large plains, forests and huge lakes.
 The Acklay were not the only creatures that could be found roaming on the planet, there were also Lemnais and Vendaxan land squids.
 However, Acklay is the most known of the three creatures.
 Even though the planet was quite beautiful, barely anyone chose to live there due to the dangers of the local wildlife.

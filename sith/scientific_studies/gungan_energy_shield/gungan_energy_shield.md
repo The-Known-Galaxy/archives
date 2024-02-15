@@ -1,4 +1,5 @@
 # Description
+
 The Gungan energy shield is a personalized model of a standard handheld energy shield, commonly manufactured by the Otoh Gunga Defense League.
 Standard energy shields use hydrostatic bubble technology.
 This shield would have a screen of energy that was useful for deflecting blaster fire and other physical weapons.

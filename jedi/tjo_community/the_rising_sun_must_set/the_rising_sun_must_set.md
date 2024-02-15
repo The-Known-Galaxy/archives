@@ -1,4 +1,5 @@
 # Introduction
+
 I still remember the laughter I shared back in Coruscant, simpler times when my only obligations were to attend Master Yoda's training sessions to channel our force abilities.
 We became accustomed to a routine; a day anew was spent in devotion to the betterment of our connection to the Force.
 I stood in awe as the Masters walked past me in the halls; I could not utter a word to them.
@@ -95,7 +96,6 @@ Hurrying to Master Rath Lo, I presented my orange crystal; their expression was 
 While assembling my lightsaber hilt to reflect my endeavors, a dark metallic body with a white gradient symbolizing the impact on the galaxy I wish to compel, I asked my Master what the implications of an orange crystal are.
 It became clear that I had received the privilege of bearing the title of Jedi but that my morals were now in question for all to see; I had violated a balance between the dark and light side of the Force.
 My mind ridicules me; this knowledge resonates with me to no foreseeable end.
-
 
 I missed Coruscant, my Master, and I would continue awaiting the sunrise, but now I have cause to force combat instruction.
 At the age of 23, we embarked on countless assignments throughout the galaxy; I neared my Knighthood Trials.

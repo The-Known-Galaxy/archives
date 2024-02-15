@@ -1,10 +1,12 @@
 # Overview
+
 The use of this Ability was to torture people.
 The casters would make the victim relive all of their trauma, even if it was only a little.
 They soon realised that once someone had undergone such torture, they would have a very small but significant increase in efficiency and intelligence.
 This ability, due to its effect on people was called Torture by Chagrin.
 
 # History
+
 Torture by Chagrin was a Force ability that was used over the millennia by few Dark Side groups, including the Order of the Sith Lords.
 It consisted of mentally reaching into the victim's mind and forcing them to relive their worst memories.
 The victim would experience their most painful and embarrassing memories, causing them physical pain.

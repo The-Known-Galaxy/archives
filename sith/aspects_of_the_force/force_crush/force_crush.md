@@ -1,4 +1,5 @@
 # Overview
+
 Force Crush was a Force ability that originated from the Dark Side of the Force, being a derivation of the ability known as Force Grip.
 Force Crush was known primarily for its violent form of usage and execution, barely being used by the Jedi, as only a bare few used this technique only against droids, however it was a common ability to be used by the Sith on every being.
 The way Force Crush was executed towards an objective was by first using the ability of Force Grip by lifting the target into the air using the Force, then the body of the target will begin to implode as it's being crushed by the Force while it is lifted in the air.

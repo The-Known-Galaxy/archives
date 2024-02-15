@@ -1,4 +1,5 @@
 # Appearance
+
 The Jenet are a species of humanoid rodents who were often not liked by humans because of their features, causing them to adopt a more scavenger-like nature.
 
 Despite being shunned away from one of the largest species, the Jenet have a remarkable memory and can remember events, words and movements from events they had witnessed weeks and even months into the past.
@@ -11,7 +12,7 @@ More marveled feats included their strength, resulting in their enhanced ability
 Lastly, the Jenet are very flexible creatures, capable of squeezing through gaps as small as twelve centimeters via dislocating their lengthier limbs and some of their cranial plates.
 
 The Jenet are originally from the planet Garban within the Tau Sakar system.
-They evolved into impressive survivalists as they systematically drove their largest predators to extinction, an important part of their history they refer to as ìThe Great Conquestî.
+They evolved into impressive survivalists as they systematically drove their largest predators to extinction, an important part of their history they refer to as ‚ÄúThe Great Conquest‚Äù.
 They accomplished this with their average height of 1.4 - 1.6 meters, which accompanied well with their strengths.
 The Jenet were seen to walk on their toes rather than their whole wedge-shaped foot.
 Each of their limbs ended in four elongated fingers or toes with the hands having the exception of opposable thumbs.
@@ -19,6 +20,7 @@ Each one of their digits lined with sharp claws.
 However, this did not impact their preferred transportation method of scurrying around.
 
 # Society
+
 Jenets are temperamental and obsessed with any form of trivialities, which caused many species to recognize them as obnoxious with their urge to be right in every instance.
 Despite their technological advances on their homeworld and elsewhere, the Jenet are still heavy scavengers.
 Nothing they came across ever left them though, with all items either being kept in their homes or within a community warren, also known as a Community Heap.
@@ -38,9 +40,8 @@ This unfortunately began a chain of people believing the Jenet would make false 
 Despite these strifes back and forth, the galaxy shared with them most of the technology available at the time, leading to most Jenet being better off than many other species on average.
 Regardless, most Jenet did not work technology-focused jobs, instead opting for manual labor and places where their memory could be of use.
 
-
-
 # History
+
 The Jenets evolved from rodent prey animals on Garban.
 Using the ancient trash piles the Jenet had cultivated in the past, archaeologists hypothesized that the species had developed sentience rather than starting out with it.
 Early Jenets lived in caves underground.

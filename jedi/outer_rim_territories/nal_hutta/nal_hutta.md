@@ -1,4 +1,5 @@
 # Introduction
+
 Nal Hutta, also known as Hutta, was the home planet of the Hutt race.
 It was located in the Outer Rim Regions.
 It was a hot planet full of marshes and swamp forests.
@@ -14,6 +15,7 @@ Some were able to adapt and survive; some shared the fate of their predecessors.
 The same goes for Nal Hutta flora; it was completely wiped out by Drengir and turned into swamps and jungles.
 
 # Section 1
+
 Nal Hutta was not always the swamp it was.
 It once had hundreds of cities and villages on its surface that were filled with life.
 It was one of the largest metropolises in the Outer Rim Region.

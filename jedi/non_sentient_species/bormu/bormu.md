@@ -1,4 +1,5 @@
 # Introduction
+
 Bormus are large herbivorous creatures that live on the planet Balmorra.
 Bormus travel together in herds and are gentle and friendly towards civilians.
 Although they are a very calm and peaceful species, Bormus are able to, when threatened, join together and defeat the attacker.

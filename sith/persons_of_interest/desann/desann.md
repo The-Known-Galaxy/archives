@@ -1,9 +1,11 @@
 # Introduction
+
 Desann was a powerful Dark Jedi who rose to prominence during the tumultuous era of the Galactic Civil War.
 Known for his menacing appearance and formidable combat skills, Desann became a key adversary for the New Jedi Order and the Jedi Knight Kyle Katarn.
 Hailing from the planet Dathomir, Desann's journey led him down the dark path of the Force, where he would ultimately become a threat to the fragile balance between light and dark in the Star Wars universe.
 
 # Biography
+
 Desann was born on the harsh and mysterious world of Dathomir, a planet dominated by the Nightsisters and their dark arts.
 However, he would not align himself with his native culture.
 Instead, Desann sought power and mastery of the Force, ultimately becoming a Dark Jedi.
@@ -17,9 +19,8 @@ The two became bitter adversaries, engaging in numerous duels and confrontations
 Desann's ruthlessness and mastery of the dark side posed a significant threat to Katarn and the Jedi Order as a whole.
 It was through their clashes that Desann's true malevolence and dedication to his dark cause were revealed.
 
-
-
 # Powers and Abilities
+
 Desann's proficiency in lightsaber combat was unmatched.
 He wielded a red-bladed lightsaber with deadly precision, using it to strike down his enemies with a relentless and aggressive style.
 Desann's mastery of various lightsaber forms, combined with his physical strength and agility, made him a formidable opponent in combat.

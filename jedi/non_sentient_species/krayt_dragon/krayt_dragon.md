@@ -1,11 +1,13 @@
 # Introduction
+
 The Krayt Dragons were large, reptilian beasts native to the Outer Rim planet of Tatooine.
 They had a carnivorous diet, and were ferocious amongst the vast sand dunes of the Planet.
 The Krayt Dragons came in two species; the first being the smaller of the two and more commonly encountered, the Canyon Krayt Dragon.
 The second was far rarer and much more feared, the Greater Krayt.
 
 # Section 1
-The Krayt Dragons were sand-residing, and were able to ìswimî through the dunes, although an old Tatooine Myth speaks of a single Greater Krayt with large wings that was capable of flight.
+
+The Krayt Dragons were sand-residing, and were able to ‚Äúswim‚Äù through the dunes, although an old Tatooine Myth speaks of a single Greater Krayt with large wings that was capable of flight.
 Their size was famously known amongst natives of Tatooine, and they were revered as the apex predators of the planet.
 The Krayt Dragons came in a variety of Brown skins, with yellow eyes and a head of Horns.
 The Greater Krayts possessed many unique features; Five pairs of legs totalling to Ten legs, a large whip-like tail and an elongated neck.

@@ -1,4 +1,5 @@
 # Overview
+
 Translation Talismans were mystic devices created by the Dark Jedi to understand the language of the Sith species.
 
 King Ommin possessed one of these and lent it to Satal Keto.

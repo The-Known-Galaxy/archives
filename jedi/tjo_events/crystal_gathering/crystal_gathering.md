@@ -1,4 +1,5 @@
 # Introduction
+
 This is where you prove yourself worthy of Knighthood.
 It is where you show the Jedi of the Order why you belong here and why you should progress.
 Unlike the others, this event takes place on the Crystal caves of Ilum.
@@ -8,4 +9,5 @@ This will be the Lightsaber color you use as a Jedi here.
 If you die or get trapped, you fail.
 
 # Section 1
+
 The currently available colors within a Crystal Gathering are: Blue, Green, Cyan, Yellow, Orange, Purple and White.

@@ -1,4 +1,5 @@
 # Introduction
+
 The Shelsha sector was a sector of the Colonies region which was over fifty lightyears in diameter.
 It was composed of 11 planets, Shelkonwa being its capital world.
 The Shelsha sector was home to only two native sentient species, including the Mungra.
@@ -8,9 +9,10 @@ The Imperial Star Destroyer Reprisal, Imperial Army garrisons on Minkring and Ch
 
 Pirates were a serious problem in the area, particularly the BloodScar gang.
 After Vilim Disra turned her in, the Galactic Empire held Leia Organa imprisoned for a time in 0.5 ABY.
-During this time, the Teardrop massacre also occurred, wherein an entire town in the sector was destroyed due to the Galactic Empire’s suspicion of planet Teardrop harboring a Rebel Alliance cell.
+During this time, the Teardrop massacre also occurred, wherein an entire town in the sector was destroyed due to the Galactic Empireâ€™s suspicion of planet Teardrop harboring a Rebel Alliance cell.
 
 # Section 1
+
 Shelkonwa was the Shelsha sector's capital planet.
 It was located in the Shelkonwa system.
 Makrin City, its capital, housed the governor's palace of Shelkonwa.

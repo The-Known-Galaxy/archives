@@ -1,9 +1,11 @@
 # Introduction
+
 Yinchorr is a terrestrial planet orbiting one sun under the Yinchorri system, located in the Expansion Region by the Fellwe sector, containing rocky deserts and small seas with 1% surface water.
 Native species of the planet consist of the Yinchorri, a sentient turtle-like species with green skin and immune to telepathic Force abilities.
-Notable locations include the Imperial Base, Imperial Royal Academy, the Squall, and the city ìTol-Kachornî.
+Notable locations include the Imperial Base, Imperial Royal Academy, the Squall, and the city ‚ÄúTol-Kachorn‚Äù.
 
 # Section 1
+
 The planet is the homeworld of the reptilian species called the Yinchorri.
 The species would slowly form rival city-states.
 Over time, Tol-Kachorn would emerge as the strongest city-state.

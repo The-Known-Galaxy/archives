@@ -1,8 +1,8 @@
 # Introduction
+
 The Kivans were peaceful and kind people, native to the Planet Kiva.
 The Kivans were known by many as artists and architects, as they had lots of knowledge.
-“A beautiful civilization thrived on Kiva” - Kivan Wraith, soon to end in such chaos and sadness.
-
+â€œA beautiful civilization thrived on Kivaâ€ - Kivan Wraith, soon to end in such chaos and sadness.
 
 When life on Kiva was cleaned off from an experiment, they appeared as dark shadows with red eyes.
 A lot of this was blamed on many people, not knowing who started the experiment.

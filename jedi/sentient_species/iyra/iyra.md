@@ -1,6 +1,7 @@
 # Introduction
+
 Iyra, a species of sentient cephalopods.
-They were from the water planet F’tral.
+They were from the water planet Fâ€™tral.
 They each had four limbs that spread from the radially symmetrical body.
 The Iyra had a mouth, and had one eyestalk that grew for each tentacle.
 As they grow older, they get more limbs and eyes.
@@ -11,9 +12,10 @@ If an Iyra was careless enough to lose a tentacle through an accident or combat,
 The lowest caste was composed of four-armed Iyra, who were responsible for raising the young.
 
 # Section 1
+
 The Iyra had round bodies with tentacles around the base of their body.
 They were covered in rubbery skin and could change colours, the change of the colour of their skin helped them camouflage at times, they could blend themselves as the environment around them.
-They didn’t change into only one color but many, they could have stripes, patterns and many more in the individual’s control.
+They didnâ€™t change into only one color but many, they could have stripes, patterns and many more in the individualâ€™s control.
 An Iyra had at least four tentacles which were flexible, elongated body structures that were in a conical shape which flattened out at the undersides of their tentacles.
 They had two rows of suction cups that lined up at the bottom of each tentacle, which allowed the appendages to serve as fine manipulators.
 Each tentacle was paired with one eyestalk, which had a sclera and a pupil, which was also protected by heavy lids.

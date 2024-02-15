@@ -1,4 +1,5 @@
 # Introduction
+
 During the height of the Old Republic and the outbreak of the New Sith Wars, Jedi were often seen wearing Jedi battle armor, which was a light-weight and extremely flexible full-body suit that allowed Jedi to move freely and without them having to face restrictions in their lightsaber forms, however, this armor still restricts Jedi in their movement more so than their traditional robes.
 After the Ruusan Reformation, the Jedi Order had opted to no longer wear their armor as the Sith have been believed to have gone extinct.
 

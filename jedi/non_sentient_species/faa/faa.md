@@ -1,4 +1,5 @@
 # Introduction
+
 The Faa, also known as Faynaa, were a fast moving non-sentient scalefish species that were native to the Mid Rim planet known as Naboo, and were well known to the Gungans.
 Alongside with six other scalefish species, the Faa lived in the waters mainly around the city of Otoh Gunga, which was built beneath Lake Paonga.
 They have also been known to be found in the Naboo Abyss, and were found often being preyed upon by the large Colo Claw fish, as well as the Opee Sea killers.
@@ -8,6 +9,7 @@ They also had large tail fins that were usually colored with orange and white, w
 The species usually inhabited themselves in small crevices, usually being in underwater rocks, also allowing for decent hiding spots to catch their prey from.
 
 # Section 1
+
 Faa were usually only found in deep waters.
 They were also very attracted to bright lights, thus leading them to hibernate around the underwater city of Otoh Gunga.
 A school of Faa could consist of  thirty scalefish, which proved to be extremely dangerous to lonesome unwitting creatures.

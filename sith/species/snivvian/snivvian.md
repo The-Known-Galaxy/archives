@@ -1,4 +1,5 @@
 # Appearance
+
 Snivvian are mammal-like creatures with humanoid features.
 They are native to the planet Cadomai Prime and they were often called snaggletooths due to their protruding jaws and short fangs.
 They come from a planet that is cold weather based, but have evolved to have thicker skin and less fur.
@@ -7,6 +8,7 @@ Most Snivvians preferred to speak basic but knew quite a few secondary languages
 Some refused to speak any other language than their native one due to symbolic, subtextual, and fashionable reasons.
 
 # Society and culture
+
 Snivvians were some of the most known in art and writing.
 Since the air is extremely cold, Snivvians spend long periods of time inside.
 During these times, Snivvians perfected their artistic abilities such as art, painting, and writing.

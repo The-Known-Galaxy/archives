@@ -1,12 +1,14 @@
 # Overview
+
 The Tionese War began around 24,000 BBY and ended at approximately 23,900 BBY.
 It ended in Republic victory and the dissolution of the Honorable Union of Desevro and Tion.
 Major skirmishes involved the Battle of Coruscant and Abhean.
 
 # Origins of the War
+
 After the demise of Xim the Despot to the Hutts in their wars, the Tionese were oppressed by the Hutts.
 This oppression led to a lack of technological advancements, meaning that the Tionese were falling behind other civilisations.
-Furthermore, the Hutts committed the ìDevouringî of several Tionese expansions in the Kiirium Reaches.
+Furthermore, the Hutts committed the ‚ÄúDevouring‚Äù of several Tionese expansions in the Kiirium Reaches.
 This assault on the Tionese was a result of the Tionese trying to ally with the powerful, industrial Galactic Republic.
 
 The Galactic Republic was formed in 25,000 BBY by the Core Worlds.
@@ -15,9 +17,8 @@ This was discovered by the Tionese when Republic scout ships were encountered tr
 This led Desevro leaders to persuade the rest of the Tionese states to go to war with the wealthy, unprotected Republic, as they were seen as an easy target.
 The Jedi saw this alliance of Tionese states amass battle fleets and warned the newly founded Republic of possible Tionese action; this advice was ignored, and the Republic was caught unaware when the attacks began.
 
-
-
 # History of the War
+
 The first act of war occurred down the Perlemian Trade Route, where the Tionise were successful in capturing Abhean, Roche, Lantilles, and Tirahann.
 They were met with little to no resistance, as the Republic was severely under defended.
 These captured planets spurred the Republic into mass production of battleships to create fleets to protect.
@@ -30,9 +31,8 @@ These actions only angered the Republic which adopted a total war doctrine.
 Key Tionese worlds and Deservo were pounded with pressure bombs and bombardment from the Republic battle fleets, and the offer of unconditional surrender by Deservo was ignored; the attacks continued.
 This was the tactic used to try and get the other Tionese states to surrender through intimidation.
 
-
-
 # Afterrmath of the War
+
 The Jedi were appalled by the treatment of Deservo and removed themselves from the Republic, yet still offered protection in particular locations.
 The Honorable Union of Deservo and Tion joined the Galactic Republic by 23,900 BBY, except for the independent Deservo, and became a standard sector of the Republic.
 

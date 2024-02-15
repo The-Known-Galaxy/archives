@@ -1,25 +1,26 @@
 # Introduction
+
 Force Choke was a very notable ability which was used mainly by users of the Dark Side or those who identified themselves as Sith.
-This ability was also known as ìForce Gripî.
+This ability was also known as ‚ÄúForce Grip‚Äù.
 This ability would allow the user to telekinetically choke the victim while usually making a clenched fist gesture.
 This was a quite advanced technique of telekinesis, which was most seen by the Sith or Dark Side users.
 On some occasions, Jedi or other light side Force Sensitives would use this technique, or other moves which were quite similar.
 Force Choke was relied on and fueled mainly from dark emotions such as hatred, anger, or fear.
 The more they were inclined on the dark side, the stronger the grip on the user was.
-Force Choke was such a powerful ability, that it could crush someoneís throat if wanted to, or stop airflow to the lungs.
+Force Choke was such a powerful ability, that it could crush someone‚Äôs throat if wanted to, or stop airflow to the lungs.
 Users that were strong with this ability were able to make their victim levitate in the air, while choking them.
 Sometimes, this method was used as a torturing method, in order to gain information from their enemies, or to make someone obey the person who was choking them.
 
 # Combative Purposes
+
 During combat, the ability to Force Choke a victim would be very effective when fighting one-on-one.
-Most of the time a Sith would use the ability to make them fly towards their saberís blade, killing them with it.
+Most of the time a Sith would use the ability to make them fly towards their saber‚Äôs blade, killing them with it.
 Popular users who would use this method would be Asajj Ventress, in which she did this to a Clone Trooper during the Clone Wars.
 Whilst fighting a Force Sensitive who possessed a lightsaber, this could be used to make them start to choke, dropping their lightsaber in the process, which would make them quite vulnerable considering they would not have a weapon to defend themselves besides the Force.
 Some users were very strong with this ability that they could choke multiple victims at once, or even choke them from very far away.
 
-
-
 # Popular Users
+
 Many popular Sith used this method of telekinesis in order to defeat their opponents, or just to make them suffer.
 Some users who were shown to use this ability to a great level were Anakin Skywalker, who would later become Darth Vader.
 Darth Sidious, who would hold the role of the Emperor for a while.

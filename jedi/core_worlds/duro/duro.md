@@ -1,4 +1,5 @@
 # Introduction
+
 Duro, also called Duros, was a Core World planet located in the Duro system.
 It was known for being one of the most polluted and depopulated worlds.
 Being the homeworld to the Duros species, the planet itself was mostly empty or just abandoned due to most of the population living in one of the twenty cities orbiting.

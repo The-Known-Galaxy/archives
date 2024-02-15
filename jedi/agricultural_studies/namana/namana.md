@@ -1,10 +1,12 @@
 # Introduction
+
 Namana was located on Bakura and was known to be grown on a tall and straight tree trunk with a pale yellowish color.
 The tree grew tall and adorned with drooping branches that had beautiful flowers budding at the ends.
 This native tree was also known for the fruit that it grew.
-The fruit on the tree has been used for producing and exporting products — while being known for being slightly addictive when you eat one.
+The fruit on the tree has been used for producing and exporting products â€” while being known for being slightly addictive when you eat one.
 
 # Section 1
+
 Imports containing Namana were very popular amongst the Bakurans.
 The trees attracted local birds and cratsch, which are ferret-like predators that fed on birds attracted to the Namana trees.
 When the birds ate the fruit, they immediately fell to the forest floor, which made them easy targets for the predators around them.

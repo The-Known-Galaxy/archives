@@ -1,9 +1,11 @@
 # Overview
+
 The Imperial Inquisition was a division under Imperial Intelligence with only Force-sensitive members called Inquisitors, meaning "truth officers".
 Ruling under the Emperor, the Inquisitors acted as the highest ranking Adepts, meaning they were higher than ranks such as the Prophets of the Dark Side and the lesser Dark Jedi.
 Reporting ONLY to the Emperor, they were only outranked by a portion of the Empire's ranks.
 
 # Section I
+
 Established sometime around 19 BBY, the Inquisitorius was composed of Inquisitors hunting Jedi who survived Order 66.
 Those who were deemed worthy of Inquisitor were put under numerous grueling tasks.
 The first task was a test and examination done to evaluate the intelligence of the candidate, then the second being a personal test by the Grand Inquisitor.

@@ -1,4 +1,5 @@
 # Overview
+
 Vilim Disra, a Human male politician, held significant positions within the Imperial Remnant.
 By 19 ABY, he served as the Grand Moff and was responsible for the Braxant sector.
 Additionally, Disra held a seat in the Council of Moffs.
@@ -8,6 +9,7 @@ Their goal was to prevent Fleet Admiral Gilad Pellaeon, the Supreme Commander at
 Prior to this, Disra had been a member of the Central Committee of Grand Moffs, supporting Trioculus's claim to the Imperial throne.
 
 # Value
+
 Vilim Disra embarked on his career as the Chief Administrator of the Shelsha sector.
 In 3 BBY, he served under Governor Barshnis Choard but eventually betrayed him when Choard sought to secede from the Galactic Empire.
 Disra collaborated with Choard and a mercenary named Caaldra to unite pirate gangs under the BloodScars and prepare them to target specific Imperial installations.

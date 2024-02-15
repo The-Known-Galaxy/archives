@@ -1,4 +1,5 @@
 # Overview
+
 Sith Troopers were an infantry division of the Sith Imperial Military.
 Serving during the time of the Jedi Civil War, the majority of Sith Troopers were actually traitorous Republic soldiers while others were volunteers from worlds conquered by the Sith.
 To ensure weakness was eliminated from all troopers, enlistees were subject to merciless Sith training schemes, turning them into formidable and fearsome soldiers.
@@ -10,6 +11,7 @@ Sith Troopers were often seen as expendable by their superiors, such as when Dar
 Following the Jedi Civil War, most Sith Troopers fell under the command of the Sith Triumvirate, later participating in the battles of Onderon and Telos IV.
 
 # Equipment
+
 Sith troopers were outfitted with unique reflective armour, coloured either black, red, or white with padding underneath and a visor to conceal their faces.
 This armour did not have any distinct indication of rank, so higher-ranked soldiers often wore red or copper armour to show their rank.
 

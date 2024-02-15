@@ -1,9 +1,11 @@
 # Overview
+
 Onimi was a male from the Yuuzhan Vong species.
 He was a Shamed Shaper and, other than another mystery individual and a questionable exception, the sole Force-sensitive member of his kind.
 At the Battle of Yuuzhan'tar, Onimi turned out to be the actual force behind the Yuuzhan Vong.
 
 # Biography
+
 Onimi, a member of the Elite, was a shaper.
 He gradually acknowledged that the eighth cortex, which was meant to bear the wisdom required to survive the decades of conflict that the Yuuzhan Vong had consigned themselves to, was hollow.
 Onimi was recognized as a Shamed One after adding yammosk tissue to his brain, taking the shape of a psychologically and physically warped, crazy beast.
@@ -19,19 +21,17 @@ He encouraged him to embrace him as a familiar, turning him into a trickster for
 Taking advantage of this new connection, he took an active role in deciding the species' new home.
 All in the shadows with the hope of returning to a position that was once his.
 
-
-
 # The Court of the Supreme Overlord
+
 Onimi wasn't solely a trickster.
 Under an alias, he collaborated with Nen Yim, another Vong, to develop the eighth cortex and new technologies for the Yuuzhan Vong.
 When the invasion wasn't going the way he intended, he took matters into his own hands.
 Nen was tasked with introducing information into the cortex, while Onimi interfered with the court of Shimrra.
-Nevertheless, he didn't have knowledge of war, and the warmaster's mistakes weren´t for him to blame.
+Nevertheless, he didn't have knowledge of war, and the warmaster's mistakes werenÂ´t for him to blame.
 Their invasion of Coruscant was a failure, which led to their extermination by the now-named Galactic Alliance.
 
-
-
 # Revelation
+
 During the Battle of Yuuzhan'tar, when Luke Skywalker and the Solo twins infiltrated Shimrra's quarters, Onimi directed the biologically modified Slayer soldiers as they sought to repel the Jedi.
 Their defeat made Onimi flee without a choice.
 Jaina, one of the Solo twins, pursued him to the throne room but was swiftly incapacitated.
@@ -48,9 +48,8 @@ However, this led to Onimi's connection to the Force being lost and his resistan
 These events caused his body to collapse and turn into a pool of toxic residue.
 His death and the loss of his connection caused the citadel to tremble and inevitably fall.
 
-
-
 # Legacy
+
 Jacen's confrontation with Onimi had profound implications for Solo in the future.
 Jacen's perception of oneness with the Force gave him the same concept as the Unifying Force doctrine itself: he had transcended good and evil, light and dark.
 This event drove his mentality through the floor, leading him to lose his Jedi ways.

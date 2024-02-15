@@ -1,4 +1,5 @@
 # Introduction
+
 The Exoboar was a dangerous non-sentient creature native to planet Makeb.
 These creatures had a somewhat weak eyesight, but extremely strong hearing.
 Exoboar could be recognized from its black tough skin and yellow glowing eyes.

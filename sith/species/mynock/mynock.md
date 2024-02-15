@@ -1,4 +1,5 @@
 # Appearance
+
 Mynocks are silicon based lifeforms that can be found attaching themselves to spacecraft to leech the power from within them, across the entirety of the galaxy.
 These creatures could also absorb physical material from ships, resulting in a breach in the hull that could lead to catastrophic damage if not tended to in a timely manner.
 Mynock had a pair of bat-like wings with which they used to fly through the vacuum of space, something only very few creatures could do.
@@ -12,6 +13,7 @@ Their small size in nature made them perfect prey for other silicon based lifefo
 They were also a popular last resort meal for shelters and colonists, who would convert their flesh to bioplasma.
 
 # Culture
+
 As Mynocks were usually considered pests by most, the word quickly became a common insult used throughout the galaxy.
 Since the Mynock were able to avoid most attacks with swift efficiency, the Jedi had named an entire lightsaber combat form after it, Form III.
 Mynocks had little charisma being non-sentient so people found irritating would be considered Mynocks by nature.

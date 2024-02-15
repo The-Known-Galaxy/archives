@@ -1,4 +1,5 @@
 # Introduction
+
 The Jedi Archives is a collection of knowledge containing journalism and huge amounts of research.
 These findings date back to the Old Republic when the Jedi Order was founded.
 The Jedi Order's Librarian's Assembly was in charge of keeping and maintaining the Archives.
@@ -7,6 +8,7 @@ A majority of the archives were kept open to the public so research and studying
 It was strictly prohibited to take archived entries out of the archives.
 
 # Section 1
+
 The Jedi Archives was a two-story chamber containing a vast variety of Holocrons, holobooks, artifacts, and data rooms with computers as far as the eye could see, as well as an outer area that surrounded the room with a vast collection of storage devices utilized by the Jedi Order.
 The room was organized into eight halls, four of them being the main halls.
 4 more halls were added later.
@@ -17,9 +19,8 @@ Besides the rest of the main halls, there were hundreds of small rooms used as s
 With the addition of this, there were turbolifts seen in the Jedi temple for fast and easy travel from the Analysis Room to the other floors.
 In addition to this, there were also 20 busts of the famous 20 Jedi Masters who lost their way in the order and were a symbol of the failures of the Jedi.
 
-
-
 # Section 2
+
 The First Hall was seen and known as the first entrance to the Archives, hence the name.
 It had massive wooden doors that were hand-carved by the founders of the Jedi Order.
 The First Hall contained journal entries from many famous Jedi Masters.
@@ -27,17 +28,15 @@ These entries varied between topics like how they taught their padawans or how t
 The famous Jedi, like Mace Windu, Quinlan Vos, and many others, would occasionally record the findings they made on their journeys and then later return them to the Archives for study.
 The findings, however, were restricted to the Jedi Masters and High Council, with the only exception being padawans with the Chief Librarian's permission to review these topics.
 
-
-
 # Section 3
+
 The Rotunda found in the Archives was the access point to the Archives from the rest of the temple.
 It was seen as a part of the main entrance, with the most foot traffic entering in the First Hall, where it was located.
 The main terminal in the Rotunda allowed Jedi to access and see maps, and information regarding the Archives to find their destination.
 The large centerpiece was a database section utilized by the Chief Librarian of the Jedi Order to keep holo-books in order.
 
-
-
 # Section 4
+
 The Second Hall was responsible for containing data relating to math, and science.
 These articles are comprised of studies relating to hyperspace, engines, blue-glowing stacks and various floor plans of Republic and Separatist government buildings, along with several designs for weapon systems.
 A different section in the hall had hallways leading towards the Holocron Vault.
@@ -49,11 +48,10 @@ as well as multiple sections filled with plants and shrubs.
 Around the year 990 BBY, a Sith Lord by the name of Darth Zannah raided the fourth hall disguised as Jedi Nalia Adollu and studied the crustaceous orbalisks, a species she sought to learn about in order to save the life of her master, Darth Bane.
 With the Chief Archivist not suspecting a Sith Lord in a disguise, the Archivist gave her a reference disk to discover the removal of a text written by a doctor by the name of Osaf Hamud.
 
-
-
 # Section 5
+
 The Jedi Archives' staff was managed and overseen by the Council of First Knowledge, but the Archives itself was managed by the Chief Librarian.
-The Chief Librarian was responsible for organizing members of the Librarian’s Assembly in order to run the archives, update the archives, and keep them.
+The Chief Librarian was responsible for organizing members of the Librarianâ€™s Assembly in order to run the archives, update the archives, and keep them.
 Additional droid employees in the Archives were employed, such as JN-66 and SP-4, both droids being responsible for analysis.
 The droids, in a sense, mindlessly wandered the archives, assisting Jedi that were lost or in need of help.
 These droids were bought by the Jedi Order to assist with Jedi Temple matters, as there were various other SP-4 droids and JN-66 droids in the rest of the temple.
@@ -63,11 +61,10 @@ The quarters of the Chief Librarian was a separate office located in a section o
 During the early stages of the Archives, Barra-Rona-Ban, who was the Chief Librarian at the time, had a tight, compact space with a desk overflowing with piles of notes.
 The office also contained a terminal with a large screen that allowed the Chief Librarian to view anything in the archives at will.
 
-
-
 # Section 6
+
 The Archives contained many separate study rooms with dozens of desks and holo-terminals for research.
-Some of these rooms were meant to be used for days and didn’t require any sleep.
+Some of these rooms were meant to be used for days and didnâ€™t require any sleep.
 The Chief Archivist would often give briefings to Jedi that were going on missions in these rooms.
 These rooms were designed to allow members of the Security Force to work without being noticed.
 During the Clone Wars, the security of the archives was changed in order to get a tighter grip on the security of the archives, with more Temple Security Force members patrolling the archives 24 hours a day, seven days a week, to preserve and protect the data.

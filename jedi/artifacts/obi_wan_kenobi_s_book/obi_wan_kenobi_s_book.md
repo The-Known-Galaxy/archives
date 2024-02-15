@@ -1,5 +1,6 @@
 # Introduction
-Ben Kenobi’s Book was discovered by the one and only Luke Skywalker.
+
+Ben Kenobiâ€™s Book was discovered by the one and only Luke Skywalker.
 This pronounced journal was found within Kenobi's hut on Tatooine.
 This specific book was actually left there to be found by Luke Skywalker, which it was.
 Kenobi set it up with a fingerprint which only a Skywalker could open.

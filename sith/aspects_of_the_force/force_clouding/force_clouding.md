@@ -1,4 +1,5 @@
 # Overview
+
 Force clouding is a Force ability employed by the Sith to disguise themselves as Dark Side users to the Jedi and other users of the Force.
 Force Clouding works with the wielder using the ability to pull their dark powers into themselves and adopting a mask of manipulation to disguise themself from any Jedi.
 This mask of illusion would let any Sith who has mastered the ability to go out in public without the people in the Sith surroundings knowing whether or not they are a Sith or just a normal person.

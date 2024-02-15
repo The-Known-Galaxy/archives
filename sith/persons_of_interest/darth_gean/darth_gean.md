@@ -1,4 +1,5 @@
 # Overview
+
 Darth Gean was a Twi'lek Sith apprentice of the Dark Lord of the Sith, Darth Gravid, who gave her the name Darth Gean.
 She was strong enough in the Force to shatter through her Master's Force barricades around his stronghold.
 In taking her apprentice, Gean continued the Rule of Two, a regulation that confined the Sith to a single Master and apprentice.

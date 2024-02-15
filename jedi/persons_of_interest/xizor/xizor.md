@@ -1,9 +1,11 @@
 # Introduction
+
 Xizor, a Falleen male, was the head of Xizor Transport Systems and one of the most influential and affluent members of the crime syndicate known as the Black Sun during the rule of the Galactic Empire.
 Xizor, known for his lavish tastes and money, was most well known for having a huge palace built in the middle of the bustling and expensive city of Coruscant.
 He was a master manipulator and ambitious schemer who was always looking to enhance his authority and influence across the galaxy.
 
 # Section 1
+
 Xizor's ascension within the Black Sun began long before the Clone Wars.
 He was already a powerful member of the criminal organization when the war broke out, and he carefully waited out the galaxy-wide struggle.
 Once the conflicts ended and Palpatine imposed a new Order, Xizor rapidly became close to the newly-proclaimed Emperor.
@@ -15,9 +17,8 @@ Xizor's collaboration with Perhi successfully restructured the Black Sun and hea
 The competition heated up when Kaird set Xizor up to buy a stolen hypergem from a Metellos leader.
 Xizor, however, had set up Kaird to come up with the idea and when Xizor bought the hypergem, he took it to Underlord Perhi as a symbol of his loyalty and to turn Kaird in.
 
-
-
 # Section 2
+
 Xizor was given one final job to complete for Perhi, believing he had all but secured the post of Vigo: find and rescue the droid 10-4TO.
 The robot was being pursued by both the Galactic Empire and a fledgling resistance movement known as the Whiplash, and Perhi desired control of it as a negotiating chip to ensure that the government did not interfere with his organization's criminal operations.
 Nevertheless, obtaining the droid was not Perhi's goal for the trip; rather, he was preparing Xizor for assassination by Kaird, who constituted less of a danger to the Underlord's control.
@@ -34,9 +35,8 @@ Kaird managed to escape Xizor's clutches and seek vengeance.
 He hired bounty hunter Boba Fett to assassinate Xizor, but the Falleen outmaneuver Fett and capture him.
 Xizor then used Fett as leverage to pull Kaird into a trap, ultimately killing him.
 
-
-
 # Section 3
+
 Xizor's win over Kaird solidified his status as the Black Sun's leader, but it also made him a target of the Galactic Empire.
 Palpatine considered Xizor as a possible adversary and his criminal empire as a danger to his  power.
 This culminated in a battle between Xizor and the Emperor, which ultimately led to Xizor's demise.
@@ -50,20 +50,14 @@ Vader challenged Xizor to a lightsaber duel during the meeting.
 Xizor, although a master of unarmed fighting, was no match for Vader's mastery of the Force and the lightsaber, and he was quickly vanquished.
 Vader then took advantage of the situation to frame Xizor for an assassination attempt on the Emperor, and Xizor was later murdered by the Imperial fleet.
 
-
-
 # Section 4
+
 Xizor's time in the galaxy was brief, but he made a lasting impression.
 Among the galaxy's people, Xizor is largely regarded as one of the most intriguing and complicated enemies.
 His cunning, charm, and ferocity have made him an unforgettable adversary.
 Xizor's power and influence are well-known as the leader of the legendary criminal organization Black Sun, and his activities have had a lasting impact on countless lives across the galaxy.
 The legend of the Black Sun has continued to ripple throughout the galaxy in the years since his downfall, proving Xizor's enduring impact.
 
-
-
 # Section 5
-
-
-
 
 # Section 6

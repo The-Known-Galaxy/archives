@@ -1,32 +1,31 @@
 # Introduction
+
 With its vast landscapes, from its numerous oceans to its sprawling cities, Corellia was one of the most notable planets in the galaxy.
 Located in the Core Worlds region, Corellia was known for its advanced technology and thriving economy, making it a center for trade and commerce.
 The planet was also known for its shipyards, which have produced many of the galaxy's most famous vessels.
 It was the homeworld of many famous figures in galactic history, including Han Solo, Wedge Antilles, and Garm Bel Iblis.
 
 # Section 1
+
 Corellia's culture was heavily influenced by the diversity of its population, including Humans, Drall, and Selonians.
 Despite their differing origins, the people of Corellia shared a strong sense of individualism and love for adventure, which was reflected in their affinity for starships and space travel.
 Galactic Basic Standard was the primary language spoken on Corellia, allowing for communication between its inhabitants.
 The majority of Corellia's population lived on farms or in small towns, but its cities were characterized by bustling streets, towering skyscrapers, and advanced technology.
 Corellians valued hard work and entrepreneurship, with many starting their businesses in the planet's thriving markets.
 
-
 The planet's economy was heavily influenced by piracy and smuggling, which led to the development of a strong and modernized navy capable of combating such activities.
 The navy also specialized in the development of powerful starships, such as the CR90 Corvette, the Corellian Gunship, and the Corellian Dreadnaught.
 The Corellian people were known for their exceptional skills in starship construction and piloting, possessing a reputation for being some of the best pilots in the galaxy, due in part to their rigorous training and hands-on experience with starships.
 
-
-
 # Section 2
+
 One of the most famous locations on Corellia was Coronet City, the planet's capital and largest city.
 The Corellian Museum of Heritage, located in Coronet City, was a popular attraction for visitors, showcasing the planet's rich history and culture.
 Another notable location was the Shipyards of Corellia, which produced some of the most iconic starships in galactic history.
 Other notable locations included the Northern Range, a vast mountainous region that is home to many species of wildlife; and the Port Towns, a network of coastal settlements known for their thriving fishing industry.
 
-
-
 # Section 3
+
 Corellia has played an important role in galactic politics since its early days as one of the founding members of the Galactic Republic.
 As a result of its position as a major economic and industrial power in the galaxy, Corellia was a major contributor to the Republic's early growth and expansion.
 Over time, however, the planet became increasingly independent and self-reliant, leading to a long-standing tradition of political involvement and activism.

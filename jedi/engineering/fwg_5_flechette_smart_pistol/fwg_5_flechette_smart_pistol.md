@@ -1,4 +1,5 @@
 # Introduction
+
 The FWG-5 Flechette Smart Pistol was a handheld flechette pistol designed and manufactured by Malaxan Firepower Incorporated during the Galactic Civil War.
 A second version of the weapon with an unknown designation was also manufactured using a skeletal construction and lighter materials.
 The weapon was designed to mimic the power of a weapon like the BlasTech DL-44 heavy blaster pistol.

@@ -1,29 +1,29 @@
 # Introduction
+
 In November 2020, KennaexMalvern became a member of the Order.
-He joined the Order on the old map Sanctum because of his friends Barseníthor PrimeSicarius and former Guardian EternalBlades.
+He joined the Order on the old map Sanctum because of his friends Barsen‚Äôthor PrimeSicarius and former Guardian EternalBlades.
 They showed Kennaex around the Jedi Sanctum and showed him the combat.
 After that, KennaexMalvern became hooked on the Order.
 As of April 2023, he is the Master of the Order, with the Jedi High Council Leadership and Excellency award.
 
 # Section 1
+
 KennaexMalvern used to be a Jedi Sentinel while he was in the Temple Guard under the command of KingBurayden.
 During his tenure, he achieved the rank of Captain and Paladin in the Temple Guard.
 There were only a few Paladins at the time, so Kennaex took the self-proclaimed title of Paladin Captain VexillumUsh.
 After that, Kennaex left the Temple Guard in hopes of becoming a Jedi Master in the group.
 He ended up as the first Gate Master of Ossus.
 
-
-
 # Section 2
+
 He did everything within six to seven months.
-ìI went through many straw hat designs before Ossus was released.î When KennaexMalvern was a Temple Guard Captain, his primary responsibility was hosting tryouts and maintaining the activity of the Temple Guards, implementing new structures, and getting the group to hold their own.
+‚ÄúI went through many straw hat designs before Ossus was released.‚Äù When KennaexMalvern was a Temple Guard Captain, his primary responsibility was hosting tryouts and maintaining the activity of the Temple Guards, implementing new structures, and getting the group to hold their own.
 At the time of Kennaex being a Gate Master, his duty was to repel the forces of the Sith alongside the Jedi Peacekeepers.
 
-
-
 # Section 3
-The master of Kennaex was Barseníthor PrimeSicaries.
+
+The master of Kennaex was Barsen‚Äôthor PrimeSicaries.
 He introduced Kennaex to the group and led him to where he is now.
-ìThe most chill person I have ever had the pleasure to meet.î Kennaex trained six Padawans himself.
+‚ÄúThe most chill person I have ever had the pleasure to meet.‚Äù Kennaex trained six Padawans himself.
 He was short-lived; he eventually retired and took a break from Roblox for about five to six months.
 Luckily he is back now and serves as Master of the Order.

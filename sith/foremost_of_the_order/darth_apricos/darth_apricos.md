@@ -1,10 +1,12 @@
 # Biography Overview
+
 Darth Apricos joined the Sith Order in April 2022.
 His master was Darth Gladius, a former member of the Inner Circle of the Sphere of Defense and Security.
 Apricos currently serves as a member of the Inner Circle of the Sphere of Ancient Knowledge, overseer of the Loremasters.
 Darth Apricos has had many apprentices during his journey in the Sith Order.
 
 # History
+
 Darth Apricos joined the Known Galaxy as a Jedi on September 11, 2021.
 Darth Apricos started playing Known Galaxy out of curiosity and interest in Star Wars games.
 Apricos grew up in the Jedi Order through the Jedi Service Corps.
@@ -19,9 +21,8 @@ He also tried the Sphere of Law and Justice, but as with the previous Spheres, h
 Eventually, Apricos joined the Sphere of Ancient Knowledge.
 Where he still serves as overseer of the Loremasters.
 
-
-
 # Miscellaneous
+
 TKG JOINDATE: 11/09/2021
 TSO JOINDATE: XX/04/2022
 
@@ -35,9 +36,8 @@ CURRENT RANKS: Darth
 
 DC | Activity Accolade
 
-
-
 # Quote from Darth Apricos
+
 "We are what we repeatedly do.
 Excellence, then, is not an act but a habit."
 

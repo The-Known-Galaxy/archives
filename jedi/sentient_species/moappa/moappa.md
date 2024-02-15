@@ -1,4 +1,5 @@
 # Introduction
+
 The Moappa is one of the most intelligent species that lives in the seas of Mon Calamari.
 They formed a sentient group of intelligence from the mindless creatures.
 There were millions of these glowing creatures in the ocean, they were seen as harmless at first.
@@ -6,6 +7,7 @@ When threatened, they would form into large groups forming enormous group organi
 If one dies, they would be easily replaced.
 
 # Section 1
+
 Moappa were a primitive invertebrate species.
 An individual Moappa had a cone shaped head with several small tentacles at the base with one large tentacle at the centre of the base.
 They were a glowing light pink species with a delicate appearance.

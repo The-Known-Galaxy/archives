@@ -1,4 +1,5 @@
 # Description
+
 The Ebon Hawk was a smuggler and dynamic-class freighter ship which was commanded by the famous Dark Lord of the Sith, Darth Revan.
 It was originally constructed on the planet of Transel.
 Before Revan, it switched many owners, after some time, the ship took a trip to Korriban and was sold to Darth Revan.

@@ -1,4 +1,5 @@
 # Introduction
+
 Archways located in the ruins outside the city of Satikan on the planet Asation were called hypergates.
 Two archways ended on the planet Gree, others on the worlds Te Hasa, Malanose and Licha In.
 It is unknown to this day where the remaining ones are located.

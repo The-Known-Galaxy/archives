@@ -1,10 +1,12 @@
 # Introduction
+
 The Battle of Alderaan took place in the year 3667 BBY, during the Great Galactic War between the Galactic Republic and the Reborn Sith Empire on the surface of Alderaan.
 Alderaan was one of the founders of the Galactic Republic.
 It symbolized the archetype on which the early republic was founded.
 The planet's location was unfavorable for military operations, but the Empire wanted to weaken the morale of the Republic by destroying one of its favorite worlds.
 
 # Section 1
+
 The Great Galactic War had been underway for a long time, and the Empire continued its offensive.
 The imprisonment of the six Sith Lords and the loss of their powers angered the Dark Council.
 Therefore, it was decided to launch the invasion of Alderaan to weaken the morale of the Republic and avenge the loss of the Dread Masters.
@@ -15,9 +17,8 @@ That is why Republic Special Forces and some others were on the planet.
 Furthermore, Jedi Knight Salete Shan was also visiting Alderaan to investigate rumors about the influence of the Sith on local nobility.
 Darth Malgus was unaware of the presence of other Republic forces and began the attack.
 
-
-
 # Section 2
+
 The attack was preceded by an orbital bombardment, which destroyed several cities and many military facilities.
 The vast majority survived thanks to the shields activated when enemy ships were sighted.
 Then came the landing of the imperial forces led by Darth Malgus himself.
@@ -29,9 +30,8 @@ The remnants of the Republican forces and the Jedi fled to the ruins of the citi
 The enemy also managed to capture the royal family and some of the nobility who supported the Republic.
 Upon learning about the attack Republic began to mobilize reinforcements to take back the Planet, however Republican High Command thought that the planet was lost and the battle was over.
 
-
-
 # Section 3
+
 Despite the initial defeat, the Republic troops gathered in the woods of Alderaan, waiting for orders and preparing for battle.
 Among them was an elite unit, the Havoc Squad, led by Captain Malcolm.
 During that time, the Imperial troops approached the capital and Organa Castle.

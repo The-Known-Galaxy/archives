@@ -1,4 +1,5 @@
 # Introduction
+
 The Ataraxia was a starcruiser used by the Galactic Republic, built before the year 232 BBY.
 It was commanded by Jedi Master Jora Malli during the Battle of Kur.
 The Ataraxia was eventually taken over by Nihil Tempest Runners during the destruction of Starlight Beacon, and later reclaimed by the Jedi before 90 BBY.

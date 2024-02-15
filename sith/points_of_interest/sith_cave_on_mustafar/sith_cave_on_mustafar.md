@@ -1,10 +1,12 @@
 # Overview
+
 Mustafar was a luxuriant and forested terrestrial world, flourishing with life through the Bright Star.
 Some stories argued that due to a cataclysmic battle between the Sith and the Jedi factions millennia before the Empire, the planet had become a burning wasteland.
 During the Clone Wars, it acted as the final redoubt of the Separatist Council until Darth Sidious slaughtered the council by using the newly appointed Apprentice Darth Vader.
 This planet also performed as the battle between Anakin Skywalker and Obi-Wan Kenobi,  effectively ending the Wars.
 
 # Sith Cave's construction and purpose
+
 Vader's Castle was a fortress above the Sith Cave of Mustafar; Vader would use this fortress as his base of operations to carry out missions from his master.
 This fortress contained a Bacta Tank which Vader would use to rest and heal inside.
 The construction of the Fortress took 2 years due to the complications in the battle between Mustafrians, which ended when Darth Vader used the Dark Side of the Force to rain Lava on them.

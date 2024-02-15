@@ -1,4 +1,5 @@
 # Overview
+
 Throughout the duration of the Galactic Civil War, the underworld consortium and criminal syndicate of Tyber Zann undermined Rebel and Imperial operations.
 It grew in strength and wealth during the conflict, becoming a significant nuisance and threat to both the Empire and the Rebel Alliance.
 
@@ -6,6 +7,7 @@ When Tyber Zann discovered Palpatine's vaults and defeated Jabba the Hutt and Pr
 Much of the Zann Consortium's technology was acquired from the black market and its Defilers, who traveled to hostile systems and established unlawful outposts for piracy and sabotage.
 
 # Formation & Dissolution of the Pre-reformed Zann Consortium
+
 Before 0 ABY, the Zann Consortium had been established.
 Under the leadership of the criminal kingpin Tyber Zann, the movement spread wickedness and corruption throughout the galaxy and allied with the Black Hole Pirates.
 Jabba the Hutt, his partner, taught Zann a great deal.
@@ -18,9 +20,8 @@ Kamino served as headquarters for a brief time, but the Kaminoans had few resour
 As soon as the Consortium decided to act, Fen dispatched soldiers from Kamino to Ryloth.
 He led the Consortium to victory over the Imperial forces on Ryloth, the only obstacle to utilizing the planet, and then hid until Tyber Zann was ready.
 
-
-
 # Post-reformed Zann Consortium: Accumulation of Power
+
 The Consortium's only asset was the Palace on Ryloth and a few mercenary soldiers.
 Zann had Fen kill the Imperial Governor on Honoghr to proclaim the Zann Consortium's return to the galaxy.
 Shola was targeted for racketeering, followed by Mandal Hypernautics raids.
@@ -55,9 +56,8 @@ The item led her to a Sith mausoleum containing thousands of carbonite-frozen so
 
 Admiral Natasi Daala's fleet emerged from the Maw Installation and launched a succession of attacks against the New Republic in 11 ABY, many years after the Zann Consortium fleet had been defeated.
 
-
-
 # Consortium's Military Units
+
 ~ CONSORTIUM ARMY ~
 Infantry:
 Defiler

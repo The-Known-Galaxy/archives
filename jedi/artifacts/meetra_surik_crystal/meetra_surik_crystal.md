@@ -1,4 +1,5 @@
 # Introduction
+
 The Meetra Surik Crystal was a crystal that had formed a strong connection with Meetra Surik, a Jedi.
 Through this connection, the crystal took Surik's characteristics, and thus strengthened her powers.
 When Surik was banished from the Jedi Order after the Jedi Civil War due to her involvement in the Mandalorian Wars, she started searching for Jedi Master Vrook Lamar.
@@ -6,6 +7,7 @@ Because of this, she later discovered the crystal formation in a crystal cave on
 By using the crystal in the lightsaber, it ensured that only Surik could use it and immediately strengthened all the components inside.
 
 # Section 1
+
 The Meetra Surik Crystal belonged to the natural Crystal Cave formations of planet Dantooine.
 It was able to absorb excess energy from Force-sensitive individuals.
 Through its connection to the Jedi, Meetra Surik, and her Force, it subsequently gained its strength.
@@ -15,9 +17,8 @@ After Surik took it out of the cave, it turned into a light white color.
 As Surik became strong with the Force, the bright color turned into radiant light.
 By inserting it into the lightsaber, the crystal strengthened other crystals and components that the lightsaber possessed, and henceforth it could only be used by Surik.
 
-
-
 # Section 2
+
 In 3951 BBY, Meetra Surik and her companions arrived on Dantooine in search of the Jedi Master, Vrook Lamar.
 While on Khoonda for an informational visit, the captain of the Khoonda militia informed her of attacks by the insectoid Kinrath on local settlers.
 Surik then offered her help to destroy the Kinrath hive.

@@ -1,4 +1,5 @@
 # Introduction
+
 Zenith had been part of a resistance cell on Balmorra until it was infiltrated and eliminated by Imperial spies.
 After this incident, he traveled through Balmorra in search of members who were carrying out their guerrilla tactics against the Imperials occupying the planet.
 For years Zenith carried out this activity, which gave him a great hatred for the Empire, and especially for the Sith governor, Darth Lachris.

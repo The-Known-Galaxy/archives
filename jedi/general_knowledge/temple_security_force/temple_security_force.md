@@ -1,4 +1,5 @@
 # Introduction
+
 Founded before 3656 BBY, the Temple Security Force or TSF for short was the policing force of the Jedi Temple and the surrounding precinct on Coruscant.
 The security force had non-Force-sensitive officers and soldiers, as well as Jedi Peacekeepers and Jedi Temple Guards among their ranks.
 The Peacekeepers, while outside of performing their normal duties, acted as snipers or brutes for the Temple Security Force.

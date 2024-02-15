@@ -1,4 +1,5 @@
 # Overview
+
 Darth Anathel was a human male Sith Lord who served the reconstituted Sith Empire as the Overlord of the Sphere of Sith Doctrine throughout the Cold War.
 During his time in the Sith Empire, Darth Anathel developed a powerful rivalry against Darth Xarion, who later ascended to Dark Councillor as well.
 Due to their enragement with each other, they travelled to the Stygian Caldera nebula so they could duel.

@@ -1,4 +1,5 @@
 # Introduction
+
 Purkoll is a city found on the temperate planet Skako Minor.
 It is home to the Poletec and the headquarters of the Techno Union, a commerce guild comprised of numerous technology enterprises.
 During the Clone Wars, the Purkoll facility carried out numerous experiments, the most notable of which being the ones done on ARC trooper Echo.

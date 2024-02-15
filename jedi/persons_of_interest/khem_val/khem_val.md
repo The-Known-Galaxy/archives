@@ -1,4 +1,5 @@
 # Introduction
+
 Khem Val was known as the greatest shadow assassin on Urkupp until Tulak Hord challenged him to a fight, which he won.
 Since then, Val has fought alongside his master's apprentice, Ortan Cela, and companion, Veshikk Urk, devouring a great many Jedi in Yn and the Battle of Chabosh.
 Because of the great amount of conquest Hord produced, Val feasted all the more, creating a bond between the two.
@@ -10,6 +11,7 @@ So now he had to serve the acolyte, who later became known as Darth Nox, the hei
 As the acolyte's power grew, Darth Zash called back her apprentice.
 
 # Section 1
+
 Arriving, Zash told her that she would soon die, and therefore planned to take the body of her student.
 As Zash completed the ritual and was about to transfer her spirit into her apprentice's body, Khem Val attacked her to save his ruler, and so with slipped the spirit of Zash into Val and had to share the body from now on.
 The spirit of Aloysius Kallig saw this as a betrayal of Tulak Hord, and promised to expel Khem from his body one day.
@@ -18,9 +20,8 @@ Kallig told Khem about Zash's plan; she tried to replicate the ritual with a Rak
 When the ritual began, Val proved too powerful, and eventually, Zash was the one who was pulled into the box.
 Through the time of the Eternal Empire, Khem had earned the respect of Ak'ghal Usar, for his service to Tulak Hord.
 
-
-
 # Section 2
+
 Khem Val saw Kallig as not capable of carrying on the legacy of Tulak Hord and planned to devour him.
 But in time he began to respect his master and changed his mind.
 Val went from being a servant to a devoted enforcer of Kallig.

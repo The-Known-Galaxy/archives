@@ -1,4 +1,5 @@
 # Overview
+
 Obroa-skai, a planet located in the Obroa-skai system of the Inner Rim, was renowned for its libraries and medcenters.
 During the Clone Wars, one of its medcenters purchased a fleet of Sephi flyers from Thustra for emergency evacuations.
 It was also home to Galen Walton Erso, who served as a teacher at a college on the planet.

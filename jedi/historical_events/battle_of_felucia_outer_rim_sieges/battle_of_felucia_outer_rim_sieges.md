@@ -1,16 +1,17 @@
 # Introduction
+
 The Battle of Felucia, a significant engagement during the Clone Wars, took place as part of the Outer Rim Sieges.
 Initially, the mission to retake the planet from the Separatist forces was assigned to the 182nd Legion of the Grand Army of the Republic.
 However, when contact was lost with the legion, the renowned 501st Legion, consisting of elite clone troopers, was dispatched to investigate their disappearance.
 
 # Section 1
+
 Earlier in the Clone Wars, General Grievous led a devastating assault on Felucia, securing the planet for the Confederacy of Independent Systems.
 Jedi Masters Plo Koon and Obi-Wan Kenobi, along with Jedi Knight Anakin Skywalker and his Padawan Ahsoka Tano were sent on a mission to save the planet from Separatist control.
 However, overwhelmed by the numerically superior enemy forces, the clone troopers and Jedi were forced to retreat, ultimately failing in their mission.
 
-
-
 # Section 2
+
 The battle commenced with the arrival of the 182nd Legion, initiating an assault on the Felucian blockade established by the CIS.
 Although they encountered mild resistance, the real challenges awaited them on the planet's treacherous surface.
 Felucia's nightmarish topography, characterized by dense foliage, endless jungles, and hazardous spores, made ambushes commonplace and hindered the use of heavy support vehicles.
@@ -29,9 +30,8 @@ Leading the 501st contingent, Secura exhibited her exceptional skills with dual 
 She successfully retrieved a power cell from the crashed gunship, further augmenting the Republic's firepower and causing havoc among the advancing Separatist tanks.
 With renewed vigor, the Republic troops destroyed six Anti-Vehicle turrets that had been inflicting damage, further pushing forward.
 
-
-
 # Section 3
+
 As the battle progressed, the focus shifted to the hunt for Presidente Shu Mai, the influential leader of the Commerce Guild, who was believed to be holding Jedi Knight Barriss Offee captive.
 With Secura at the forefront, the Republic forces set their sights on the Nigkoe Detention Facility, where Offee was thought to be imprisoned.
 Engaging the formidable Gossam Commandos in fierce combat, the clone troopers, under the command of Clone Commander Bly, successfully secured the facility, allowing Secura to free Offee and her Selonian Padawan, Zonder.
@@ -41,9 +41,8 @@ A squadron of Republic ARC-170 starfighters effectively neutralized the threat p
 However, their hopes of capturing Presidente Shu Mai were dashed when they discovered that her personal ship had departed days before their arrival, and the compound appeared devoid of any recent activity.
 Despite their disappointment, the Republic forces pressed on, gathering vital intelligence about the ongoing attack on Coruscant.
 
-
-
 # Section 4
+
 As the Battle of Felucia reached its climax, tragedy struck in the form of Order 66.
 This sinister protocol, secretly embedded within the clone troopers by Supreme Chancellor Palpatine, commanded them to turn against their Jedi commanders.
 The unsuspecting Jedi, including Aayla Secura and Barriss Offee, suddenly found themselves facing betrayal from the very soldiers they had fought alongside.

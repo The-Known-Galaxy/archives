@@ -1,9 +1,11 @@
 # Introduction
+
 The Church of the Force worshiped the Force and believed the Jedi Order's restoration was crucial for balance.
 Prominent members like Lor San Tekka played pivotal roles.
 During the High Republic Era, the Church had a presence in the Convocation of the Force.
 
 # Description
+
 Emerging during the Galactic Empire era, the underground Church of the Force adhered to Jedi Order ideals.
 Despite Imperial prohibition, it functioned as a spiritual counterpart to the Jedi Order, anticipating the Jedi's return.
 Members prioritized nature over modern technology, even creating tech to enhance this connection.
@@ -11,9 +13,8 @@ A key ritual involved returning objects, like kyber crystals, to their original 
 Addar and others once undertook a pilgrimage to Christophsis.
 The Church was headquartered at Jedha's Temple of the Kyber.
 
-
-
 # History of the Church of Force
+
 High Republic Era (around 382 BBY):
 Represented by Kilan T'Dara at the Jedha's Convocation of the Force, the Church had a section in the Temple of the Kyber.
 Resamond Saous served as prefect, with Keth Cerepath as adjunct.

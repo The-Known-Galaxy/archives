@@ -1,9 +1,9 @@
 # Introduction
+
 Castell was an industrial planet located on the edge of the Colonies region near the Core Worlds.
 The Colonies was a region between the Inner rim and the Core worlds of the galaxy.
 It was composed mostly of industrial worlds.
 The planets in this system were mostly extremely wealthy both in terms of money and resources.
-
 
 The planets of the Colonies were amongst the first planets to be colonized outside the Core Region of the galaxy.
 Many worlds inside the Colonies were also the founding members of the Galactic Republic.
@@ -12,10 +12,11 @@ These planets were used for the production of food and metal used for the produc
 Many planets were left bare and ravaged by the extensive mining operations in this region.
 
 # Section 1
+
 Castell was discovered by other sentient beings between 27500-25000 BBY.
 When the first Galactic Republic was formed, it was amongst the first worlds to join the newly formed regime.
 During the Civil war, the planet was taken over by the New Sith Order.
-Castell faced decades of depression during the later half of the ìGolden age of the Republicî.
+Castell faced decades of depression during the later half of the ‚ÄúGolden age of the Republic‚Äù.
 Due to this depression, Castell joined the Commerce guilds.
 When the Commerce guilds became the seperatist forces, Castell remained under seperatist control until the beginning of the Outer Rim Sieges.
 Following the disbandment of the Commerce guilds, Castell was absorbed by the newly formed Galactic Empire.

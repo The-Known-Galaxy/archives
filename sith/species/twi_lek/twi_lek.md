@@ -1,22 +1,23 @@
 # Overview
-Twiíleks are an omnivorous humanoid species originating from the planet Ryloth.
-The Twiílek species have some distinctive features which change their appearance compared to other species.
-These features include colorful skin that spans a rainbow of colors and two pairs of tentacles on their head that grew from the base from their skulls called ìLekkuî.
-Lekku were advanced organs mostly used to communicate among other Twiíleks but were also used for cognitive functions.
-Many female Twiíleks were often used as slaves and dancers because of their beauty.
+
+Twi‚Äôleks are an omnivorous humanoid species originating from the planet Ryloth.
+The Twi‚Äôlek species have some distinctive features which change their appearance compared to other species.
+These features include colorful skin that spans a rainbow of colors and two pairs of tentacles on their head that grew from the base from their skulls called ‚ÄúLekku‚Äù.
+Lekku were advanced organs mostly used to communicate among other Twi‚Äôleks but were also used for cognitive functions.
+Many female Twi‚Äôleks were often used as slaves and dancers because of their beauty.
 
 # Appearance
-The Twiílek species have distinctive features on their body which changes their appearance compared to other species.
 
-The most noticeable feature of a Twiílek is their Lekku.
+The Twi‚Äôlek species have distinctive features on their body which changes their appearance compared to other species.
+
+The most noticeable feature of a Twi‚Äôlek is their Lekku.
 Lekku, also known as Brain Tails, are the tentacle-like organs which protrude down the back of the skull and connect to some parts of the Twi'lek's brain.
-If ever pulled or harmed in any way it would give the Twiíleks immeasurable pain due to the fact that the Brain Tails were highly sensitive, if ever grabbed forcefully, the Twiíleks would go through so much pain it could easily incapacitate them.
-Although many adult Twiíleks have Lekku, the newborns arenít born with it, they grow during childhood.
-
-
+If ever pulled or harmed in any way it would give the Twi‚Äôleks immeasurable pain due to the fact that the Brain Tails were highly sensitive, if ever grabbed forcefully, the Twi‚Äôleks would go through so much pain it could easily incapacitate them.
+Although many adult Twi‚Äôleks have Lekku, the newborns aren‚Äôt born with it, they grow during childhood.
 
 # Culture
-Twiíleks are considered very polite beings, they have various traditions that include politeness.
-When a Twiílek(s) meets a stranger or a guest for the first time, it is a tradition to greet them with a gift as a welcome to their homes.
-But if the Twiíleks welcome a group of strangers and guests, the Twiíleks would throw and would dance the Twiíleks traditional dance as a way of entertainment.
-This is only one of the acts of kindness and politeness out of many the Twiíleks do to strangers.
+
+Twi‚Äôleks are considered very polite beings, they have various traditions that include politeness.
+When a Twi‚Äôlek(s) meets a stranger or a guest for the first time, it is a tradition to greet them with a gift as a welcome to their homes.
+But if the Twi‚Äôleks welcome a group of strangers and guests, the Twi‚Äôleks would throw and would dance the Twi‚Äôleks traditional dance as a way of entertainment.
+This is only one of the acts of kindness and politeness out of many the Twi‚Äôleks do to strangers.

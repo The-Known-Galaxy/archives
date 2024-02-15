@@ -1,4 +1,5 @@
 # Introduction
+
 The M1-4X Advanced War Droid was a droid designed by the Galactic Republic however during the prototype stages the project was abandoned.
 Later in the Cold War a team of defectors from the Republic Special Task Force led by Captain Andrik saved one of the M1-4X Advanced War Droids and attempted to activate the droid on the planet Nar Shaddaa with the intention to use the droid against the Republic.
 After learning this information, Havoc Squad was sent by the Republic to deal with the traitors.

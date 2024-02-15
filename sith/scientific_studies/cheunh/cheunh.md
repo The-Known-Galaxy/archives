@@ -1,4 +1,5 @@
 # Article
+
 Cheunh is the official language of the Chiss Ascendancy, it is the native language of the Chiss species and is known both as Cheunh in its written and spoken form.
 Cheunh is a complex language that involves and has great importance in syntax and pronunciation; Cheunh words related to one another could be combined together in order to form a larger whole.
 Pronunciation is incredibly important, even minor differences in pronunciations could change the meaning of a word or sentence entirely.

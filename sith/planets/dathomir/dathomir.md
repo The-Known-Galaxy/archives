@@ -1,6 +1,6 @@
 # Article
-Dathomir was a planet located in the Outer Rim territories, it is host to a variety of fauna and sentient species such as a race of Zabraks.
 
+Dathomir was a planet located in the Outer Rim territories, it is host to a variety of fauna and sentient species such as a race of Zabraks.
 
 The planet has a red appearance and is home to multiple temples.
 Within this planet resides tribes of Night Sisters and Night Brothers which are themselves Zabraks and Dathomirians.
@@ -13,4 +13,4 @@ Mother Talzin was the main leader of the tribes, managing to stay alive long eno
 
 In the time after the Republic, the Empire established garrisons with light armaments, however as the Empire fell, the garrisons were abandoned.
 
-The planet is known for it’s dark side properties and ambiance, Shadows of dead Night Sisters reside in it and with enough time spent on it, a Jedi will be driven to madness.
+The planet is known for itâ€™s dark side properties and ambiance, Shadows of dead Night Sisters reside in it and with enough time spent on it, a Jedi will be driven to madness.

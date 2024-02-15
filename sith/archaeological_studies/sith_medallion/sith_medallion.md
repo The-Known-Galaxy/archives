@@ -1,4 +1,5 @@
 # Overview
+
 The Sith Medallion was a medal that was given to force-sensitives during the Jedi Civil War, that impressed students at the great Sith Academy on Korriban, and proved worthy to study the secrets of the Dark Side.
 These medallions had a meaning, it symbolized their acceptance into the Academy.
 However, it was not the last step of entering the Sith Academy.

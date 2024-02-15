@@ -1,4 +1,5 @@
 # Introduction
+
 Zayne Carrick, a member of the Jedi Order, was a human male and padawan during the Mandalorian Wars.
 His abilities as a Force-Sensitive were mediocre at best, and he lacked the confidence to ever become a true Jedi.
 His bad luck made him see something he shouldn't have and hence commenced a galactic manhunt for him.
@@ -7,6 +8,7 @@ During his manhunt, he met Jarael, a girl who would later become his companion.
 He would solve various problems throughout the universe and eventually return to Coruscant, where he would continue living and developing his relationship with Jarael.
 
 # Biography
+
 Zayne, a young Jedi Knight, was discovered by an unknown Jedi Knight and brought to the Jedi Order.
 He was accepted to the Jedi Academy on Dantooine, where he was trained by Master Vandar.
 However, his Jedi abilities did not advance as far as hoped.
@@ -26,7 +28,7 @@ They encounter the aging mechanic "Camper" and his friend Jarael, who attack Zay
 
 They descended to the rogue moon to find clues to the Padawan Massacre, revealing the destroyed droid that might have had information about the Masters' murder of their Padawans.
 However, before they could locate its information, Lucien Draay and the forces of the Republic descended to the moon's surface to capture Zayne.
- Zayne returns to Taris, where he encounters Mandalorian ships and a Mark II assault droid.
+Zayne returns to Taris, where he encounters Mandalorian ships and a Mark II assault droid.
 He discovers a Hidden Bek hideout, where Brejik and gang members attack Zayne.
 The Mandalorians arrive, and Zayne and the Hidden Bek gang retreat.
 During their conversation, Zayne encounters a Twi'lek girl named Mission Vao, who reveals she has a pet.
@@ -107,9 +109,8 @@ Eventually, they end up finishing the mission and rescuing Jarael.
 They, together, returned to Coruscant to return Jarael to her family.
 Zayne returned to his planet for a few days but ultimately came back for his beloved.
 
-
-
 # Personality and Traits
+
 He was very dedicated to the Order but was unsure about his position.
 He believed in the Order's ideals and was willing to sacrifice himself for his peers.
 However, both times he faced death, he willingly surrendered to evict it.
@@ -117,13 +118,12 @@ He did not like using violence; he was capable of doing his missions without suf
 With time, he grew and matured, making him more confident and decisive in battle.
 His confidence even grew bigger after he lied to Malak by kissing Jarael and making him believe she would join them.
 
-
-
 # Powers and abilities
+
 From a young age, Zayne's clumsiness, and inaptitude with the Force were clear; however, he possessed the ability to make friends, something that would help him in the future.
 During his training as a padawan, he learned a very rare skill: a natural connection to the Living Force.
 He also had the possibility of foreseeing the future very clearly.
-Unlike most Jedi, whose capacity was limited from the moment they were born due to Midichlorians, Zayne didn´t possess that limit.
+Unlike most Jedi, whose capacity was limited from the moment they were born due to Midichlorians, Zayne didnÂ´t possess that limit.
 His natural connection to the Living Force made him capable of continuously becoming stronger.
 He even learned to use telekinesis.
 However, his very poor starting point in the Force, made him unable to properly train with lightsabers and never actually learn properly.

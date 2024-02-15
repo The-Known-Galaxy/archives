@@ -1,5 +1,7 @@
 # Introduction
+
 Jakku was once a planet full of life and green lands, but the planet would grow into a desert wasteland full of quicksand and lack of life, the planet consisted of very few towns and cities because of its harsh environments and lack of livable options, the main outpost was called Niima Outpost and it was one on the only towns and outposts in the entire galaxy, because of this it was a spot for scavengers and townspeople to rest and pay scraps of possible rare items for food and water, the townspeople was full of worshipers of the church of the force, a very religious group despite being apart of the most dangerous desert planet in the galaxy.
 
 # History
+
 During the time of Emperor Palpatine's rule over the galaxy and his Galactic Empire reigned supreme across the planets, Jakku was the only planet Palpatine sought to use as a base for his contingency plan in case he should ever fall to the war, during his time on a ship that was escorting passengers he found a boy named Galli who he took in as his protege, and used to guard and be the one to activate the contingency plan should palpatine ask of it, through them they constructed the Jakku Observatory which was Palpatine's secret stash of Sith artifacts and secrets that were to be destroyed should Palpatine request it, after the Battle of Yavin Palpatine became worried after the Death Star was blown to bits, leading to Galli being instructed to destroy the observatory and keep Palpatine's plans away from the Rebels.

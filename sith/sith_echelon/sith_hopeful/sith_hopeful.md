@@ -1,9 +1,11 @@
 # Introduction
+
 Sith Hopeful, also called Prospective Sith, was a common term used by the inhabitants of Korriban to refer to those that desired to join the Sith Academy to be further enlightened in the teachings of the Dark Side.
 Many Hopefuls aspired to join the Sith Academy to escape their potentially poor lifestyle whilst others were Jedi that aspired to join after their fall to the Dark Side.
 For a Sith Hopeful to enroll in the Sith Academy, they first had to obtain a Sith Medallion.
 
 # History
+
 The Sith Academy was established on Korriban during the Jedi Civil War.
 This allowed for an influx of Sith Hopefuls wishing to eventually craft their own journey throughout the galaxy as a Sith.
 For a Hopeful to be accepted into the Sith Academy, a Sith Medallion had to be bestowed upon them as a result of their outstanding performance.

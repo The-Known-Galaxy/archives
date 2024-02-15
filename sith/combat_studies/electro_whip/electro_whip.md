@@ -1,4 +1,5 @@
 # Overview
+
 The Electro Whip or Shock Wip had a medal grip which had metal wires 4 meters long.
 When activated via the button the generated battery in the whip would send electricity through the metal wire.
 People who wielded this electrified weapon usually wrapped their enemy in before activating it.
@@ -11,6 +12,7 @@ You could buy this weapon for roughly around 1,200 credits.
 The purpose of this tool was not only for combat but for torture as well.
 
 # List of Users:
+
 -the Galactic Republic
 -Mistryl Shadow Guards
 -Zygerrian Slave Empire

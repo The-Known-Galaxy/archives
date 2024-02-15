@@ -1,4 +1,5 @@
 # Introduction
+
 Kreia, a member of the Jedi Order, was a female Jedi Master and Historian who dreamed about creating a new Jedi Order.
 Due to her unconventional ways and the lessons she taught Darth Revan, formerly Jedi Knight Revan, the Jedi Council decided to banish her from the Order.
 In her search for the true ways of the Force, she stumbled upon the Dark Side, which she promptly accepted.
@@ -10,6 +11,7 @@ The plan took a twist when Kreia once again became Darth Traya, but Surik, the e
 However, their efforts would result in nothing as the entire galaxy entered once again a new war.
 
 # Biography
+
 Kreia, a Jedi historian and consul, is a member of the Jedi Society who has sought to uncover the mysteries of the galaxy through meditation.
 However, his teachings were considered odd by fellow Jedi Revan.
 In 3964 BBY, Revan returned under Kreia's tutelage and sought his advice on the Jedi Council.
@@ -40,7 +42,6 @@ Kreia found a way to make the galaxy deaf to the Force and harnessed her former 
 Meetra Surik regained consciousness and attempted to escape the mining facility, discovering and recruiting Kreia and Atton Rand.
 The Republic warship Harbinger arrives and Kreia tells Surik that it is under enemy control.
 The trio board the Harbinger to retrieve the code, desperate to escape death.
- 
 
 Upon boarding, they encounter a scarred man who has betrayed Kreia and tells her that the battle is his alone.
 Kreia draws her weapon, telling the exiles that this battle is hers and that she is not powerless.
@@ -66,9 +67,8 @@ She also asks Surik to make her choice without regret.
 After Surik told her she would follow Revan like a decade ago, Kreia finally surrendered her life to the Force.
 His body was destroyed shortly afterwards when the Mass Shadow Generator was last activated by Bao-Dur's remote.
 
-
-
 # Personality and Traits
+
 Due to her connection with the Force, she did not use her natural sight but instead the one given by the Force, which caused her eyes to become fully white.
 This changed when Kreia became Darth Traya, when her eyes became pitch black and her skin pale.
 Her beliefs were quite different than those of her peers.
@@ -77,9 +77,8 @@ However, with time, she loved one person, Meetra Surik, the exile and the only p
 Her ways of understanding the Force caused a lot of problems for the Jedi Council, making them exile her.
 Kreia's teachings made her apprentices more open-minded and powerful in the Force, but they also made them more independent and less collaborative with the Jedi Order.
 
-
-
 # Powers and abilities
+
 Kreia was a prodigy at both the Force and combat.
 In the Force, she was capable of utilizing almost all powers available, including: Force horror, Force speed, Force Crush, Force cloak, energy resistance, Force scream, Force lightning, Force choke, and the mind trick.
 She could also control beasts, use the Force channel, be an expert in Dark healing, and possess the extremely rare ability to see Shatterpoints.
@@ -87,4 +86,4 @@ Her connection with the Force was so deep that she could foresee events that wou
 Her expertise wasn't limited to this, as she also knew how to maintain breath control.
 Her capacities permitted her to use telekinetic lightsaber combat, wielding three lightsabers at the same time.
 The forms she mastered were Shii-Cho, Makashi, and Soresu.
-In addition, Kreia mastered Tr‡kata, a form that utilized the lightsaber's capacity to turn on and off in seconds.
+In addition, Kreia mastered Tr√†kata, a form that utilized the lightsaber's capacity to turn on and off in seconds.

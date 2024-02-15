@@ -1,4 +1,5 @@
 # Introduction
+
 The Blazing Chain was a group of Force-using individuals who were not affiliated with the Jedi Order or any side of the Force.
 They were raiders, taking from fearful civilians on planets in the Unknown Region.
 They ran into Sith fleeing from the Great Sith War.

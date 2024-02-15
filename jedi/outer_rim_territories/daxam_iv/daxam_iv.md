@@ -1,4 +1,5 @@
 # Introduction
+
 A planet known as Daxam IV could be found among many other worlds in the Outer Rim Territories.
 This planet was near the edge of its binary star system.
 Daxam IV only had two hyperspace lanes, one leading to Rior and other one to Azzameen Station.

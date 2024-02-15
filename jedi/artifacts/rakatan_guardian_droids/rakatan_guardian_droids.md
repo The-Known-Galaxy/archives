@@ -1,4 +1,5 @@
 # Introduction
+
 The Rakatan guardian droid was a battle droid invented and created by the Rakata species, a very intelligent and resourceful Sentient species.
 The Rakatan guardian droid was constructed on planet Lehon, during the height of the ?nfinite Empire (36,453 BBY - 25,200 BBY).
 The droid was equipped with a Sensor, a blaster, a carbonite projector, a flamethrower, and a Shield projector.

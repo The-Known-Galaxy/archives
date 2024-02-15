@@ -1,10 +1,11 @@
 # Introduction
+
 Vanqor was a planet located in the Outer Rim Territories, it had rocky crystalline terrain that was mostly mountainous which often included cave systems both inside and under the planetary surface.
 Even though Vanqor is considered an uninhabited planet due to its lack of resources and proper land, it does however serve as a home for bloodthirsty creatures known as Gundarks.
-The closest planet to Vanqor was Florrum from only six parsecs away, which allowed Hondo Ohnaka’s pirate crew to perform quick scavenging runs from Florrum to Vanqor from time to time.
+The closest planet to Vanqor was Florrum from only six parsecs away, which allowed Hondo Ohnakaâ€™s pirate crew to perform quick scavenging runs from Florrum to Vanqor from time to time.
 It is recommended to not stay on Vanqor after dark since Gundarks tend to hunt for food during that time.
 
-___________________________________________________________________________
+______________________________________________________________________
 
 Section I | Gundarks
 Gundarks are carnivorous beasts native to planet Vanqor.

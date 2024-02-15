@@ -1,4 +1,5 @@
 # Overview
+
 Tralus is a planet located in the Corellian system with an almost identical planet next to it named Talus.
 Tralus is an extremely diverse planet containing mountains, forests, and bodies of water.
 It is home to many species, with the majority being sentient.

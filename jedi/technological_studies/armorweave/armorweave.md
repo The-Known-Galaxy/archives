@@ -1,4 +1,5 @@
 # Introduction
+
 Armorweave is a flexible, cloth material that was used in clothing and accessories as light and mobile armor.
 The cloth could absorb blaster bolts and back up lightsaber attacks with mediocre resistance.
 The cloth could be tailored with various outfits from suits to capes as the main choices.

@@ -1,9 +1,11 @@
 # Overview
-A Force-imbued blade was a type of sword used by the Je’daii Order and the ancient followers of the Bogan around 36,453 BBY.
-This blade was eventually replaced by the Forcesaber circa 25,793 BBY, but its use wasn’t discontinued, as it was utilized until the end of the First Great Schism in 24,500 BBY.
+
+A Force-imbued blade was a type of sword used by the Jeâ€™daii Order and the ancient followers of the Bogan around 36,453 BBY.
+This blade was eventually replaced by the Forcesaber circa 25,793 BBY, but its use wasnâ€™t discontinued, as it was utilized until the end of the First Great Schism in 24,500 BBY.
 
 # Information
-This sword could only be crafted by initiates of the Je’daii Order, but the process to build one was later taught to the students of the Chatos Academy.
+
+This sword could only be crafted by initiates of the Jeâ€™daii Order, but the process to build one was later taught to the students of the Chatos Academy.
 In order to create a Force-imbued blade, the Initiate had to select a metal, preferably a high-carbon one.
 The most used metal was durasteel, but Madog steel could also be used to make a Force-imbued blade.
 During this process, the Force could manifest to reinforce the metal, preparing it so the crystal could be put in the blade.

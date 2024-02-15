@@ -1,4 +1,5 @@
 # Article
+
 Also known as the Moon Hat, the Shadow Crown was a dark side artifact researched for many years into the dark side and Sith lore by Cronal.
 Of crystalline origin, the Crown once worn by a mortal being whom Cronal could choose to inhabit to extend his existence, rather than the Darth Sidious direction of manipulating a clone body to cheat death.
 Cronal submitted his devotion to the Way of the Dark using the Shadow Crown.

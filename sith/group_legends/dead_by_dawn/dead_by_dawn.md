@@ -1,4 +1,5 @@
 # Article
+
 Jark was on a ship for a mission along with some other stormtroopers.
 They were sent to the planet Atlas for a guarding mission.
 For Jark this was nothing new, he has been on several guarding missions and none are eventful.
@@ -23,8 +24,8 @@ This was so that the target would be kept safe during the day and be followed an
 They had arrived at the coordinates and saw a steel-made vault door embedded into the mountain.
 The door had a slot on it.
 They approached the door and proceeded to knock twice and someone opened the latch and asked for the password.
-Jark went up and muttered the phrase ¨Nark¨.
- The door had opened and 3 personnel waited at the opening.
+Jark went up and muttered the phrase Â¨NarkÂ¨.
+The door had opened and 3 personnel waited at the opening.
 They filled them in on the schedule for the target for the next couple of days.
 They went to their quarters and had begun setting their bags and supply in the storage boxes.
 Jark and Krat took the night shift and stood outside the door waiting till the clock hit nine am.
@@ -37,7 +38,7 @@ He yanked Krat out of the vent.
 All that was left was mangled meat and legs.
 Jark felt sick to his stomach.
 His stomach was so heavy it felt like his stomach was made of carbon steel.
- It was turning like a windmill.
+It was turning like a windmill.
 He ran before the monster tried to return and take him along with his dismembered friend.
 Along running in the halls he could hear the banging of the monsters running with him above.
 Fear flooded his mind.
@@ -58,7 +59,7 @@ They could still hear the rambling of these monsters.
 Just then the emergency sequence came in and all the doors were sealed shut, flashing red lights and smoke spewing out of the vents like a fog machine.
 Anon began to freak out uncontrollably and started to shoot.
 The rest ducked down telling him nothing was there and that he needed to calm down.
-But he kept screaming ¨THERE IN MY HEAD I CAN HEAR THEM.¨ Just then Slag shot Anon in the heart with his blaster rifle.
+But he kept screaming Â¨THERE IN MY HEAD I CAN HEAR THEM.Â¨ Just then Slag shot Anon in the heart with his blaster rifle.
 He claimed that he was a threat and it was the best course of action.
 Jark reluctantly agreed but he never wanted Anon dead.
 On the back of the bed was a flat metal rod.
@@ -72,12 +73,11 @@ As they were crawling they heard noise from the opposite side of the vent.
 They quickly hopped into a different room as they heard another monster dragging somebody through the vents.
 It was non-stop screaming.
 This was a nightmare that come to life.
- They ran through the corridors and slid into the cafeteria where they found a man with no arms.
+They ran through the corridors and slid into the cafeteria where they found a man with no arms.
 They went to assist him but the loss of blood was getting to him.
 He told them the only way out is through the main exit.
 They looked on their holo map and it wasn't too far.
 It was time to leave this personal hell.
-
 
 They headed down to the opened door when Slag was grabbed by something that was being slid into the next room.
 Jark started to spray out of panic and the unseen beast and accidentally shot Slag.
@@ -96,7 +96,7 @@ Its skinny flexible body.
 The teeth were so sharp they could have been swords.
 The creature had a black mist surrounding it that could just make you sick.
 They stood there looking each other in the eyes.
- They both ran at each other both with the intent to kill.
+They both ran at each other both with the intent to kill.
 The monster jumped at him.
 Jark smacked him away with his shield and pierced his leg to the ground with his spear.
 The demon struggled to get up.

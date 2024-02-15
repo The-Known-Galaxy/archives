@@ -1,4 +1,5 @@
 # Introduction
+
 Also known as Force Seeing or Combat sense, Force Sight was a common Force ability that was derived from Force Sense.
 It caused the user to enhance their ability to see beyond walls and in darker areas, which improved their spatial perception and visual awareness.
 The Miraluka relied on this ability greatly, seeing it as a way to make up for their physical blindness.

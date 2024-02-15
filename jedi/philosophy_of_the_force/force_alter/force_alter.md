@@ -1,4 +1,5 @@
 # Introduction
+
 Alter was an advanced Force ability that was only taught to Jedi Knights who had mastered the Control and Sense Force powers.
 It involved the manipulation of objects, beings and environments.
 Non-trained Force-sensitives who came across these abilities often caused disastrous events.

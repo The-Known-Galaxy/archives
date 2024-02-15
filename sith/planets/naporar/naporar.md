@@ -1,4 +1,5 @@
 # Article
+
 Naporar is the home planet of the Nuruodo Family, Naporar serves as the headquarters of the Chiss Expansionary Defense Force and holds the highest authority and priority on all military-related affairs.
 As such they have the highest priority and authority on all affairs and issues related to the Ascendancy's household and colonial phalanxes; Naporar was also home to the Expansionary Fleet complex, which was a training complex for the Chiss Expansionary Defence Force.
 

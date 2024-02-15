@@ -1,4 +1,5 @@
 # Introduction
+
 Juvan was a medicinal substance kind of like in the bacta tank, it had healing properties.
 The healing properties of this substance made it useful during the High Republic Era.
 It would be replaced by bacta by 232 BBY.

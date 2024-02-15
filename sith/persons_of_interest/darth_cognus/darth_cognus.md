@@ -1,4 +1,5 @@
 # Overview
+
 A few years following the conclusion of the New Sith Wars, a female Iktotchi assassin, The Huntress, emerged.
 Over a successful five-year stint, she secured employment with the royal guard of Doan.
 Outstanding performance in this role led to an extended contract, now at the behest of Princess Serra who sought Darth Bane's capture.
@@ -7,19 +8,19 @@ Plans for her departure were postponed following an unexpected bond with Bane.
 Inside the prison, she crossed paths with Dark Jedi Set Harth, who suffered humiliation yet was allowed to escape.
 Darth Bane arrived shortly thereafter, and following The Huntress' request for him to impart the ways of the Dark Side, accepted her as his apprentice.
 As Darth Cognus on Ambria, named for her prescient abilities, her training commenced.
-Darth Zannah, Bane’s other apprentice, traveled to the planet to challenge him for the title of Sith Master.
+Darth Zannah, Baneâ€™s other apprentice, traveled to the planet to challenge him for the title of Sith Master.
 Later, Cognus ascended to the role of Sith Master and secretly mentored an apprentice, who was eventually dispatched adhering to the "Rule of Two".
 
 # Early life
+
 An Iktotchi assassin, she possessed abilities far more refined than those of her peers.
 She honed her skills in telepathy and precognition, developing foresight greater than any other and eventually mastered the ability to manipulate visions and glimpse possible futures.
 Her career as an assassin was exemplary; she completed every mission without fail and rarely suffered injuries.
 
-
-
 # Doan missions
+
 The Huntress was engaged by the Royal family of Doan for two separate contracts.
-The first was to assassinate a mining organization leader, partially responsible for Princess Serra’s husband's death.
+The first was to assassinate a mining organization leader, partially responsible for Princess Serraâ€™s husband's death.
 Upon arrival in Doan, The Huntress identified a Jedi among them.
 Leveraging surprise, she swiftly shot down Gelba, the leader.
 Subsequently, she tackled the rest of the miners, and a Jedi weakened by her force-suppression ability.
@@ -34,7 +35,7 @@ Furthermore, she was equipped with Senflax, a substance meant to immobilize Bane
 In Darth Bane's absence, The Huntress infiltrated his residence.
 As her companions kept watch outside, she thoroughly surveyed the estate, committing every detail to memory.
 She deactivated all the mansion's security measures, encompassing those protecting a small outbuilding at the property's rear.
- The Huntress ventured inside, initially mistaking the structure for an armory, only to find it was a library teeming with educational materials—from datapads to aged parchment scrolls.
+The Huntress ventured inside, initially mistaking the structure for an armory, only to find it was a library teeming with educational materialsâ€”from datapads to aged parchment scrolls.
 She stumbled upon the Dark Lord's holocron, although its significance eluded her.
 She decided to seize it before commencing her thorough examination of the estate.
 With everything in place, the plan progressed.
@@ -46,17 +47,15 @@ After dealing with several more mercenaries, Bane confronted The Huntress, only 
 Caught off guard during the flash grenade chaos, The Huntress seized the opportunity to slash him before pushing him down.
 With Bane now unconscious, the contract was nearly fulfilled.
 
-
-
 # Dark Lord of the Sith
+
 At a certain point, Darth Cognus took on an apprentice named Darth Millennial.
 A three-eyed human, Darth Millennial did not regard the "Rule of Two" as beneficial to the Sith.
 He believed that this rule put the Sith at a disadvantage against the Jedi due to their numbers, a conviction which ultimately forced him into exile.
 Despite his exile, he managed to establish the Dark Force religion, while Cognus upheld Bane's "Rule of Two".
 
-
-
 # Personality and traits
+
 Characterized by red skin, yellow-colored irises, sharp teeth, plump fingers, shoulder horns, chin tattoos, and black robes, these were all features that defined Darth Cognus.
 She took pleasure in misery and torture, which she believed enhanced her prowess in the Force.
 Despite her grace and elegance, she was known for her sadistic tendencies.
@@ -64,9 +63,8 @@ She showed no recognition of the difference between 'good' and 'bad'.
 She was inexpressive, cold, restrained, and displayed no interest in material possessions.
 Her intelligence was unparalleled, and her chosen Sith name managed to surprise even Darth Bane.
 
-
-
 # Powers and abilities
+
 From the outset, her abilities greatly outshone those of her fellow Iktotchi.
 Her abilities in telepathy and precognitive vision, honed from a young age, allowed her to organize her visions and perceive both the future and the past.
 These powers, coupled with her keen perception and innate ability to manipulate others' potential to use the Force, rendered her one of the potentially most dangerous Sith in history.

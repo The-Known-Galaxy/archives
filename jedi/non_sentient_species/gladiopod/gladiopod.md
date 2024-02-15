@@ -1,4 +1,5 @@
 # Introduction
+
 The creature known as "Gladiopod", is classified as a non-sentient being native to Umbara.
 The Gladiopod had a total of eight glowing red eyes, as well as four spiked legs.
 They also lived in groups, presumably for numerical advantages.

@@ -1,7 +1,9 @@
 # Overview
+
 The Order of the Loremaster was a division formed from the Sphere of Philosophy, and held the duties of writing articles to expand the Sith Archives, along with the maintenance of said archives.
 
 # Rank Structure
+
 Scholar
 This rank was obtained by passing the entrance exam for the Order of the Loremaster, which could be attempted after attaining the rank of Knight in the main group.
 The entrance exam was based on general questions and had an article writing task that needed to be successfully completed.
@@ -33,9 +35,8 @@ Only one person could hold this rank at once.
 They ruled over the Order of the Loremaster, taking a managerial role similar to the current Overlords of spheres.
 Having this position would grant the holder an Inner Circle position in the Sphere of Philosophy.
 
-
-
 # History
+
 This division was formed some time after the Sphere of Ancient Knowledge and the Sphere of Philosophy merged, leaving only Sith Philosophy, on March 1 2022.
 Its purpose was to continue the duties of the Sphere of Ancient Knowledge, meaning the expansion and maintenance of the Sith Archives was continued.
 

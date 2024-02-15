@@ -1,4 +1,5 @@
 # Description
+
 The Dynamic-class freighter was a starship designed by a subsidiary of the Core Galaxy Systems on the planet Transel.
 It was designed during the period of the Mandalorian Wars.
 The ship was easy to add changes to, it had built-in blaster cannons and shields, making it technologically advanced.

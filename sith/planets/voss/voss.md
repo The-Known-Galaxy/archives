@@ -1,4 +1,5 @@
 # Overview
+
 As the name implies, Voss is a terrestrial planet in the Voss system located in the Allied Tion of the Outer Rim Territories.
 Initially, only one specie lived on Voss and they were known as the Gormaks until the ancient Sith arrived on Voss, where they would steal valuable resources till the Jedi came to fight them off.
 The Jedi would help the native species by teaching the Gormak tribes how to use the Force.
@@ -8,6 +9,7 @@ As a result, the Voss established the city of Vosh-ka, which established a stron
 The Voss society became Force-Sensitives for guidance, as the Voss Mystics were gifted with Force vision, they would also perform beautiful healing rituals to heal fatal grave wounds.
 
 # Cold War
+
 Throughout the Cold War between the Mighty Sith Empire and The Galactic Republic, the terrestrial planet Voss would be discovered by the two Powerful factions (again).
 They both tried to ally with the Voss people, to benefit from the Force Visions for an advantage during the war.
 Though, the Voss would resist the conquest by making the Imperials frustrated.

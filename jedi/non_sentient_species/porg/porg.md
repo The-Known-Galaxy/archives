@@ -1,8 +1,9 @@
 # Introduction
+
 The Porg is a sea bird native to the planet Ahch-To in the Unknown Regions.
 The Porgs are fairly territorial and primitive species.
 They had short orange legs with webbed feet, two gray feathered wings, and orange markings around their spherical glassy eyes.
-Their real name is a mystery, but Luke Skywalker, during his exile, chose the name of ìPorgî for the curious creatures.
+Their real name is a mystery, but Luke Skywalker, during his exile, chose the name of ‚ÄúPorg‚Äù for the curious creatures.
 The Porg in their early years are essentially furballs and have yet to develop their two short wings.
 Their diet was mostly that of fish, occasionally eating any carcass they could find on the island.
 They were fairly passive and only attacked when threatened.

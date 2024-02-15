@@ -1,4 +1,5 @@
 # Overview
+
 The Dread Fortress was the base of the Dread Masters, a faction created by Vitiate, a group of six Sith Lords, who were prophets and generals to the Sith Emperor.
 However, once the Sith Empire and the Republic found their whereabouts, they went to the fortress and fought off the remaining five Dread Masters.
 The Dread Masters made a last noble stand defending their fortress and lives.

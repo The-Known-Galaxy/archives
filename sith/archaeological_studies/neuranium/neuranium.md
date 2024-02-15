@@ -1,4 +1,5 @@
 # Overview
+
 Neuranium was the dark metal used in the sculpture of the Chancellor's mansion in the Senate building on Coruscant, where Darth Sidious' lightsaber was sheltered.
 It was also used to craft lightsabers.
 Neuranium was a metallic substance used for radiation safety and was one of the heaviest and densest metals in the galaxy.

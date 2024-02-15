@@ -1,4 +1,5 @@
 # Overview
+
 Universal Translators are electronic devices used mostly by traders and politicians to be able to translate languages and communicate without having to worry about the language barrier.
 A Universal Translator cannot function without a language chip; the language chip is a chip that contains a language of choice.
 The translator has helped species communicate with other species to resolve any issues through diplomatic means.

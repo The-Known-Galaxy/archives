@@ -1,4 +1,5 @@
 # Introduction
+
 The Foundations of Combat training is the second training of the three younglings training hosted by the Jedi Academy.
 In this training, younglings learn critical fundamentals of lightsaber combat.
 Using their vibrosabers that were issued to them after their Basic Newcomer Training, younglings go through a series of activities with the host to familiarize themselves with the combat system.

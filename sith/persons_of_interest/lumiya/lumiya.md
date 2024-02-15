@@ -1,18 +1,19 @@
 # Overview
+
 Shira Elan Colla Brie, also known as Lumiya, was a Force-sensitive Human who later switched sides and joined the Dark Lady of the Sith after serving the Galactic Empire.Palpatine was born on the Imperial Center at the time when his control over the bulk of the galaxy was at its height.Brie pledged her support for the imperial New Order's ideology.
 The young woman's advancement in a variety of Imperial-sponsored programmes, including her enrollment in the Intelligence Academy of Carida, was hastened as a result of the Sith Lord Darth Vader, Palpatine's chief enforcer, becoming aware of this.
 
 # History
+
 After graduating with the greatest honours and being promoted to the rank of major by Darth Vader, Brie was assigned a top-secret mission to infiltrate the Rebel Alliance and either assassinate or cause the exclusion of Rebel hero and Jedi Luke Skywalker among his peers.
 However, the same events that brought disgrace upon Skywalker also left Brie gravely crippled and perilously close to death.
 When Darth Vader discovered her, he gave her cybernetic substitutes that closely resembled his own.
 Brie then began getting training from Vader in the evil side of the Force while posing as Lumiya, Dark Lady of the Sith.
 
-
 The Emperor's Hands were trained assassins who reported directly to Palpatine, and Lumiya was one of them while she studied covertly as Lord Vader's Shadow Hand.She set out on a journey to the planet Ziost, where she made her own lightwhip.
 However, during that journey, both Palpatine and Darth Vader were killed in combat at Endor, and as the most prominent of their students despite her incomplete training, she assumed the title of Mistress of the Sith.
 She apprenticed Flint, a former stormtrooper, and supported the extragalactic Nagai species' conflict with their mortal Tof adversaries out of a desire for vengeance against Luke Skywalker and the Alliance for the deaths of her Sith Masters.
- 
+
 Early in her campaign, The Sith Lady experienced a crucial setback that necessitated the replacement of her armour.
 It also saw the debut of a triangle headgear, which, together with her lightwhip, later became her identifying feature.
 While still assisting the Nagai, she faced up against her sworn adversary, Jedi Knight Luke Skywalker, and ultimately fell short.
@@ -24,7 +25,6 @@ The Dark Lady built a fleet while she was concealed in order to launch an attack
 After the strange passing of her first pupil, she once more collaborated closely with Imperial Intelligence and took on Carnor Jax, a former member of the Imperial Royal Guard.
 The final remnants of the Prophets of the Dark Side cult were destroyed by Lumiya and Jax working together.
 In response to a potential threat to the Sith Order, she then tasked him with infiltrating the Imperial Ruling Council while she personally negotiated with Imperial Regent Ysanne Isard for more resources.
-    
 
 Jax attempted to betray Lumiya, but his fledgling ambitions drove him astray.
 Kir Kanos, a fellow former Royal Guardsman, assassinated Jax, leaving the Dark Lady without an apprentice once more.

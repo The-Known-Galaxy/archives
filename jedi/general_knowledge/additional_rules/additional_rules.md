@@ -1,4 +1,5 @@
 # Introduction
+
 Some useful information for those who are new to the Order or just need a refresher on some guidelines.
 We ask that you do not ignite your saber outside of the Self-Discipline chamber.
 We also ask that you do not go on the hostile team while there is a non-group member on it.

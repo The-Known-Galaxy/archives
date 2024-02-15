@@ -1,4 +1,5 @@
 # Overview
+
 The GEMINI were a piece of technological ingenuity created by the Iokath species.
 In appearance, these sentient humanoid droids exhibited feminine features with distinct red sensors for eyes.
 They were wrapped around in a silver framework.
@@ -6,6 +7,7 @@ A showcase of the scientific marvel was their ability to communicate via a hivem
 GEMINI Captains commanded the Fleet's warships via a specific frequency, allowing them to transmit information to each other even after their physical droid bodies were destroyed.
 
 # Encounters with SCORPIO
+
 During the Iokath Civil War, the creators drove the Eternal Fleet and GEMINI droids into Wild Space to save their creations from the conflict.
 However, both technologies were eventually captured by Eternal Emperor Valkorion.
 His son, Arcann, finally succeeded him and launched the Eternal Empire conquest.
@@ -14,9 +16,8 @@ Due to their common creator, SCORPIO had intended to examine GEMINI droids to de
 Once the Alliance captured the Prime, the calculative intelligence enacted a plan, the GEMINI trap; by infiltrating the GEMINI frequency, GEMINI droids were set free from their leader.
 In another deceitful plot, SCORPIO surrendered the Eternal Throne to Arcann's sister, Vaylin, and became a possession of the Alliance.
 
-
-
 # New Possession
+
 Having free will came at the detriment of the droids since they were hesitant to face their opponents without fear.
 In response, Vaylin rebooted the GEMINI Captains to their factory settings using a purifier drone, eliminating their free will and returning them and the Eternal Fleet to the command of the Throne.
 The newly dubbed Eternal Empress destroyed several Alliance strongholds with even more power than ever.
@@ -26,9 +27,8 @@ The Alliance stopped the massacre from occurring, and its commander could take h
 The Eternal Throne was subsequently moved to the Alliance base on Odessen.
 Later, he would use them to find a hostile presence on Iokath.
 
-
-
 # End of GEMINI
+
 Unbeknownst to him, a single droid, GEMINI 16, managed to stay under the radar of the Alliance and avoided capture, still having free will.
 Knowing it was vulnerable to outside control, it was determined to destroy the Eternal Fleet and the GEMINI network.
 After encounters with the Order of Zildrog on the planet Zakuul, the rogue robot tracked down another Iokath creation, Zildrog, on the planet Nathema.

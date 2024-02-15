@@ -1,4 +1,5 @@
 # Overview
+
 ChampaaiTemenos  joined in late November and attended the first ever E&D tryout.
 He passed alongside Nov_Kalazar and BasilieusTemenos.
 Champaai had a successful and enjoyable time in E&D, and eventually became a Lord.
@@ -9,7 +10,7 @@ Shortly after Caesar granted him the title of Darth.
 D&S was in shambles and it was doomed from the beginning due to the lack of people in leadership positions.
 I helped fix that problem and shortly after it prospered.
 
- Caesar wanted to kaggath KennaexMalvern for Hand of the Dark Lord as he was not doing his job properly.
+Caesar wanted to kaggath KennaexMalvern for Hand of the Dark Lord as he was not doing his job properly.
 He was one of his loyal men that helped him through thick and thin.
 (Fun fact: if we lost the kaggath Kennaex would have demoted everyone that was Lord+ to ASK for 2 weeks as a punishment.) Champaai became the Overlord when Caesar won the Kaggath and wanted to increase D&S their value within our community.
 This was not liked by other spheres and a mutiny was being orchestrated.
@@ -24,21 +25,21 @@ But, he unretired 3 months after a lot of his old friends came back and he found
 ChampaaiTemenos currently serves as an Interrogator under the Sphere of Law and Justice.
 
 # Kaggath History:
+
 ChampaiTemenos have also participated in many kaggaths:
- [WON]  SurexisTemenos vs ChampaaiTemenos
- [WON] OmegaVanquished vs ChampaaiTemenos 
-[LOST] ChiIIPain vs ChampaaiTemenos 
-[LOST] Brolion1 vs ChampaaiTemenos
- [WON] CaesarTemenos vs KennaexMalvern 
-[WON] Leviuchicha2 vs Worlock365
- [WON] HissingScorpion vs ChiIIPain
+\[WON\]  SurexisTemenos vs ChampaaiTemenos
+\[WON\] OmegaVanquished vs ChampaaiTemenos
+\[LOST\] ChiIIPain vs ChampaaiTemenos
+\[LOST\] Brolion1 vs ChampaaiTemenos
+\[WON\] CaesarTemenos vs KennaexMalvern
+\[WON\] Leviuchicha2 vs Worlock365
+\[WON\] HissingScorpion vs ChiIIPain
 
 Beware of Darth Hyvar.
 
-
-
 # Statements:
-Darth Invictus (LuciferTemenos) Statement: ìChampaai was my inspiration to play TKG, heís a great leader, mentor, and an amazing friend - I am truly grateful for him.î
 
-DarthNaile (VeneficusTemenos): ìHe's a great friend who has been constantly motivating me to do my best.
-He is one of the people I am grateful of calling a friend and the reason why I am where I am nowî
+Darth Invictus (LuciferTemenos) Statement: ‚ÄúChampaai was my inspiration to play TKG, he‚Äôs a great leader, mentor, and an amazing friend - I am truly grateful for him.‚Äù
+
+DarthNaile (VeneficusTemenos): ‚ÄúHe's a great friend who has been constantly motivating me to do my best.
+He is one of the people I am grateful of calling a friend and the reason why I am where I am now‚Äù

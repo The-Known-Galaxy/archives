@@ -1,4 +1,5 @@
 # Introduction
+
 General Hux is a First Order officer, young, ambitious, and cruel.
 He has absolute confidence in his soldiers and the way they are trained.
 His father held a high position in the former Imperial Academy, and Hux is very proud of his background.
@@ -8,15 +9,15 @@ The same Kylo Ren has a low opinion of Hux as a warrior.
 Hux, in turn, being a rational person, does not understand well the mystical part of the First Order that Kylo Ren represents.
 
 # Section 1
+
 Hux's authority as a general extends beyond the military; he is also the Commander-in-Chief of Starkiller Base and can issue orders regarding the use of its destructive weapons but only after Snoke approves of this decision.
 Hux was still a child when the Empire and the New Republic signed a truce agreement.
 His father left the Academy on Arkanis and was one of those Imperials who went into self-imposed exile in the Unknown Regions (which the Empire was secretly exploring).
 Hux grew up with the legends of the great Imperials and how the Empire saved the Galaxy from the horror of the Clone Wars.
 Hux firmly believes that the galaxy must be saved from itself, as the New Republic is too weak to prevent the coming chaos.
 
-
-
 # Section 2
+
 Any stormtrooper knows that getting caught by Captain Phasma while violating the First Order Charter is a real punishment in every sense.
 Even this is preferable to catching the general's eye.
 Dinner?

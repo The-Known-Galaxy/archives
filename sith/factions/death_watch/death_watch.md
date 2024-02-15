@@ -1,6 +1,6 @@
 # Death Watch
-The Death Watch were a known terrorist cell of Mandalorians who were known for their violence, however said violence followed the true Mandalorian Culture.
 
+The Death Watch were a known terrorist cell of Mandalorians who were known for their violence, however said violence followed the true Mandalorian Culture.
 
 The Death Watch opposed the Pacifist Mandalorian Duchess known as Satine Kryze, although it did not stop her Sister from joining the Death Watch, Bo Katan Kryze, who also believed in the old Mandalorian ways of the Warriors.
 
@@ -14,10 +14,10 @@ After the take over, Death Watch arrested all criminals, including the Siths in 
 In 19 BBY, the Death Watch group was formed into the Mandalorian Super Commando after a Taung Blood Duel between Maul and Pre Vizsla, with Maul being the winner Death Watch was reformed, but with Bo Katan Kryze running off with her Night Owls, Marking the formal end of the Death Watch.
 
 # Mando'a:
-Mand’alor - Sole Ruler
 
+Mandâ€™alor - Sole Ruler
 
-Blood Taung Duel: 
+Blood Taung Duel:
 
 A duel to the death to show the greatest Warrior, the winner shall take whatever title the defeated challenger had.
 It is part of the Mandalorian Tradition.

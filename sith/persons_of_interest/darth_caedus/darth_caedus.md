@@ -1,4 +1,5 @@
 # Overview
+
 Darth Caedus, born Jacen Solo, was a human male Sith born to parents Leia Organa and Han Solo in 9 ABY.
 Early in his life, Jacen found himself the target of several kidnapping plots due to the fame of his parents.
 At the age of 14, he and his sister Jaina Solo attended the Jedi Praxeum on Yavin 4.
@@ -7,7 +8,7 @@ He befriended many people throughout the galaxy, including Tenal Ka Djo, a Hapan
 
 Following the outbreak of the Yuuzhan Vong War, the young Jacen found himself in the middle of a personal crisis.
 Jacen objected to the idea of using violence to fight violence, but he felt obligated to volunteer for the Strike Team against the voxyn queen.
-During the mission to defeat the queen, Jacen’s younger brother Anakin Solo was killed, forcing him to lead the attack himself.
+During the mission to defeat the queen, Jacenâ€™s younger brother Anakin Solo was killed, forcing him to lead the attack himself.
 The mission was a success and he managed to eliminate the threat before being taken captive by the Yuuzhan Vong.
 
 Solo spent nearly a full year in captivity, facing harsh torture for weeks at a time.
@@ -17,6 +18,7 @@ He eventually escaped before rejoining the war effort against the Yuuzhan Vong.
 In the final battle of the war, Solo defeated Onimi, a Yuuzhan Vong who had taken control over the mind of Supreme Overlord Shimrra Jamaane.
 
 # History
+
 Following the end of the war, Jacen Solo set out in search of mentorship from various force sects around the galaxy.
 His travels led to him meeting Luminya, who later revealed herself to be a former apprentice of Darth Vader.
 He also met the Mind Walkers, with whom he trained for a while.

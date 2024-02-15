@@ -1,4 +1,5 @@
 # Overview
+
 Csilla is primarily known for being the homeworld of the legendary Chiss.
 Csilla was an extremely cold planet consisting of glaciers and snowy wastes.
 This planet was located in the deep Chiss Space and was the capital planet for the Chiss Ascendancy.
@@ -6,6 +7,7 @@ It is a terrestrial planet that resides within the Unknown Regions and occupies 
 It imported resources including food, luxury items, technology, and other valuables from planets to distribute within the Chiss Ascendancy.
 
 # Section I
+
 Csilla held relatively standard gravity and had a frigid climate.
 It was orbited by three moons, and the entire planet was covered in icy structures like glaciers and caves.
 These glaciers were extremely blue due to the hydrosphere of the planet, which contained a very high mineral content.

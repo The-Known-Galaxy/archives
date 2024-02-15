@@ -1,4 +1,5 @@
 # Overview
+
 Chagrians were a sentient, amphibious lifeform of tall stature with horns and blue skin native to the planet of Champala.
 They are most notable for their long, thick tentacles that wrap down from their heads and over their shoulders, as well as horns from their heads.
 Mas Amedda was the Vice-Chair of Supreme Chancellor Finis Valorum and most recently, Sheev Palpatine.
@@ -14,6 +15,7 @@ Chagrians have a very bad sense of taste due to the fact that they are so accust
 All Chagrians possess a set of horns from their head tentacles protruding the tips, but male Chagrians also possess a set of horns straight up from their foreheads or cranium.
 
 # Lifestyle/Culture
+
 Champala was a planet of great wealth, allowing many of its occupants to have many expenses.
 Meaning, many Chagrians faced equality in their daily lives, having little want for anything, and having mostly everything they could need, such as medical needs, social equality, and higher education.
 Chagrians were rarely motivated by anything, apart from encountering something that they are unknown to, such as poverty, prejudice, or homelessness.

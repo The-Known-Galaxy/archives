@@ -1,10 +1,12 @@
 # Introduction
+
 Dromund Fels was an arid planet that settled the fourth planet in the Dromund system, which is a system in the Sith Worlds.
 This planet was in the Outer Rim Territories and was orbited by one moon and sun.
 
 Surprisingly, this arid planet could sustain life.
 
 # HISTORY/DISCOVERINGS
+
 Dromund Fels was ruled by the time of the Old Sith Empire before its collapse.
 Before 3954 BBY, this planet was reclaimed by the reconstituted Sith Empire.
 Darth Igrol, a sith pureblood, decided to reside in his homeworld on Dromund Fels instead of the Empire's capital of Dromund Kaas, Kaas City.

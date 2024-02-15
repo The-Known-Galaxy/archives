@@ -1,8 +1,10 @@
 # Introduction
+
 Sith Lord is a rank of the Sith Order held by the most powerful lords of the Dark Side, somewhat equivalent to the titles of Jedi Master and Jedi Lord.
 While the elite of their Order, the Lords were also the aristocracy of the Sith Empires, where they ruled their domains and commanded entire personal armies in the wars with the Galactic Republic and the struggle with each other for the mantle of the Dark Lord.
 
 # Section 1
+
 The title Dark Lord of the Sith was originally designated the ruler of the Sith Empire; it was later used by the leaders of the Dark Order.
 Before Lord Kaan, there was only one Dark Lord at a time the head of the Order; however, in the Brotherhood of Darkness, this title was held by several Sith at once.
 It was this form that was applied to both sexes; however, Lumiya called herself the Dark Lady.

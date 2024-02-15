@@ -1,4 +1,5 @@
 # Introduction
+
 Dakshee was a planet in the Colonies region, being the capital of the Barma Sector.
 The planet was in a stage of never-ending conflict with the Galactic Empire.
 This was because the people of Dakshee believed that the rules enforced by the Imperials were unjust.

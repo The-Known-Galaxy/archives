@@ -1,4 +1,5 @@
 # Description
+
 Teneniel Djo was a skilled warrior and powerful Force user, known for her expertise in combat and leadership.
 As the Witch-Queen of the Nightsisters and later the Queen Mother of the Hapes Consortium, she was a fierce defender of her people and held significant influence in her respective communities.
 In addition to her combat skills, Teneniel was a wise and experienced strategist, and her tactical abilities helped her to navigate complex political situations.
@@ -8,6 +9,7 @@ She suffered the loss of her mother, her husband, and ultimately, her own life a
 Nonetheless, Teneniel's legacy lived on through her daughter, who succeeded her as Queen Mother and continued to uphold the values of leadership and protection that Teneniel held dear.
 
 # Biography
+
 Teneniel Djo was a highly skilled warrior and a powerful Force user from the planet Dathomir.
 She was born in 6 BBY and grew up learning the ways of the Nightsisters, a clan of witches who wielded the dark side of the Force.
 In 8 ABY, Teneniel's mother, Zalem, was killed during a battle with the Imperial Remnant.
@@ -24,9 +26,8 @@ She taught her daughter everything she knew and was proud of her achievements.
 However, Teneniel's life came to a tragic end in 25 ABY when she was assassinated by her own niece, Alema Rar, who had been corrupted by the dark side of the Force.
 Her death caused a great deal of turmoil within the Hapes Consortium, and Tenel Ka succeeded her mother as Queen Mother.
 
-
-
 # Personality and traits
+
 Teneniel Djo was known for her strong personality and unwavering commitment to her people and loved ones.
 She was a fierce warrior, skilled in both combat and the use of the Force, and her leadership was marked by wisdom and tactical ability.
 Teneniel's strong will and determination were tempered by her compassion, and she cared deeply for the well-being of those around her.

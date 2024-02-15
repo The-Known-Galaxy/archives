@@ -1,4 +1,5 @@
 # Overview
+
 Governor Wilhuff Tarkin, or Grand Moff Tarkin, was a human male that served within the high ranks of the Galactic Empire.
 During the era of the Empire, most high ranking officials were granted their own squad of Death Trooper guards by Emperor Palpatine.
 Tarkin, being one of the highest ranking officials in the entire Empire, was granted this honour.

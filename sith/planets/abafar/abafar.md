@@ -1,4 +1,5 @@
 # Description
+
 Abafar was a hot desert world located in the Sprizen sector within the Outer Rim.
 It was a very bland planet with nothing as far as the eye can see, quite featureless besides a few urban settlements.
 Although the planet couldn't be seen by the naked eye from space, the Galactic Republic's scanners could see it.
@@ -10,6 +11,7 @@ Due to the atmosphere being thin, the reflection of the sun made the sky orange,
 Abafar, due to its lack of biodiversity, had a species of flightless birds, Void Striders, that traveled in packs but were not bothered by droids or other species.
 
 # History
+
 At around 20 BBY, the Galactic Republic's D-Squad, led by Meebur Gascon, crashed on Abafar after following a lost trade shuttle.
 Afterwards, Meebur had an outbreak of lunacy, forcing all the droids to go by themselves.
 The rest of the D-squad found the town Pons Ora; they found a clone commando that led them to a Separatist's base so they could steal a shuttle and escape the vacant planet of Abafar.

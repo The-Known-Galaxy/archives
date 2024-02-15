@@ -1,4 +1,5 @@
 # Overview
+
 Mnemotherapy, which was also known by the name of vein routing, was a Force technique primarily made so its user was capable of seeing their opponent's memories and erasing them.
 This technique was mainly developed by the Theran Listeners and Luke Skywalker was taught this technique.
 Sometime later he used an extremely powerful version of it to be able to free Callista Ming from Abeloth grasp.

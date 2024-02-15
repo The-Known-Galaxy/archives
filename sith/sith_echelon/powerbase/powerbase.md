@@ -1,4 +1,5 @@
 # Overview
+
 In its purest sense, powerbases are a system of people and resources upon which Sith can call to pursue their own interests, such as the conquest of a world or the uncovering of ancient artifacts.
 A powerbase typically consists of Sith or members of the Imperial military who have sworn their loyalty to the leader of the powerbase or assets such as armies and estates.
 

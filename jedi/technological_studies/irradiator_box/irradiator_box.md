@@ -1,4 +1,5 @@
 # Introduction
+
 The Irradiator box is a small sterilization containment unit made for easier transport compared to its original model, the Irradiator Booth.
 The Irradiator box was created by Synthtech Medtech Corporation.
 It was made to clean smaller objects like tools from bacteria and viruses that came into contact with the item.

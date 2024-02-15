@@ -1,4 +1,5 @@
 # Introduction
+
 The Hive Virus is one of the many viruses that plague the Galaxy.
 It is also one of the few weaponised by the Empire.
 The Hive Virus attacks the victim's brain driving them insane.
@@ -7,6 +8,7 @@ After the Clone Wars, medical sciences advanced to a point where most of the Gal
 Despite it being a naturally occurring virus, many governments and criminal organisations weaponised it into world killing weapons.
 
 # Section 1
+
 One strain of the Virus has a habit of sitting dormant in victims for an extended period, infecting people without showing any symptoms.
 The Virus will then activate like a hive and change the perception of all the victims, driving them mad.
 During the Katana Fleet's maiden voyage, a few crew members picked up the Hive Virus on one of the stops.

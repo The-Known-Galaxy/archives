@@ -1,5 +1,6 @@
 # Overview
-Darth Nurin was a female human Sith Lord who served in the reconstituted Sith Empire’s Imperial Fleet.
+
+Darth Nurin was a female human Sith Lord who served in the reconstituted Sith Empireâ€™s Imperial Fleet.
 She spent most of her time in the Operations Center on the Ziost Shadow.
 Nurin was said to have a single apprentice, the Zabrak Sith Lord Velnine.
 Her most notable task was when she helped aid the Empire by trying to convince the Tion Hegemony to ally with them and during this time a Doctor named Lorrick released a deadlier version of the Rakghoul Plague which he created as a weapon.

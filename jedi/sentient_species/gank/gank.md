@@ -1,10 +1,11 @@
 # Introduction
-shown in both the Movies and the TV series, “Star Wars: The Clone Wars”.
+
+shown in both the Movies and the TV series, â€œStar Wars: The Clone Warsâ€.
 
 # Section 1
-shown in both the Movies and the TV series, “Star Wars: The Clone Wars”.
 
-
+shown in both the Movies and the TV series, â€œStar Wars: The Clone Warsâ€.
 
 # Section 2
-shown in both the Movies and the TV series, “Star Wars: The Clone Wars”.
+
+shown in both the Movies and the TV series, â€œStar Wars: The Clone Warsâ€.

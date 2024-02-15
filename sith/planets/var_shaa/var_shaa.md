@@ -1,4 +1,5 @@
 # Overview
+
 Var-Shaa, a terrestrial planet located in the Mid Rim, is a fascinating subject of scientific inquiry and a promising destination for future interstellar exploration and settlement.
 Boasting a wealth of natural resources and unique geological features, Var-Shaa's surface is characterized by sprawling fjordlands, canyons, and vast oceans, interspersed with rivers, while the peaks of rocky outcrops are adorned with lush vegetation.
 The planet's atmosphere is hospitable to humans, adding to its appeal as a potential site for colonization.
@@ -8,6 +9,7 @@ The mountain peaks, covered in lush vegetation, suggest the potential for agricu
 The compatibility of Var-Shaa's atmosphere with human habitation presents an exciting prospect for further exploration, with the possibility of establishing a sustainable human presence on the planet.
 
 # History
+
 The establishment of the Var-Shaa dockyard by the Galactic Empire during its reign served as a crucial waypoint for the Imperial Navy, facilitating the Empire's operations in the region.
 However, after the Rebel Alliance emerged victorious in the Battle of Endor in 4 ABY, the New Republic launched a surprise attack on the dockyard.
 Defended by an Imperial force led by Titan Leader Varko Grey, the Var-Shaa dockyard became the site of a heated battle between the Empire and the New Republic.
@@ -18,9 +20,8 @@ Grey's maneuvers ultimately caused the X-wing pilot to crash into a rock formati
 Meanwhile, the fleeing Overseer eventually returned to Var-Shaa, where Grey was eventually rescued.
 Despite the loss of the Var-Shaa dockyard, the Battle of Var-Shaa serves as a significant event in the ongoing conflict between the Galactic Empire and the New Republic, highlighting the strategic importance of the dockyard during the Imperial reign.
 
-
-
 # Conclusion
+
 In conclusion, Var-Shaa is a planet of immense geological and biological diversity, with its massive fjordlands, canyons, and rivers making it a prime site for exploration and potential settlement.
 Furthermore, its breathable atmosphere and rich natural resources make it a potentially valuable asset to any interested parties.
 The Battle of Var-Shaa serves as a significant event in the ongoing conflict between the Galactic Empire and the New Republic, highlighting the strategic importance of the Var-Shaa dockyard during the Imperial reign.

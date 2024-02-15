@@ -1,23 +1,23 @@
 # Overview
+
 Pagodon is a planet situated in the Mid Rim, notable for its captivating geographical features.
 The planet is characterized by towering cliffs, deep canyons, and stunning vistas, creating a visually striking environment.
 
 # Description
+
 Pagodon boasts a remarkable landscape composed of towering cliffs that soar into the sky, forming an impressive spectacle.
 The cliffs are comprised of a diverse range of rock types, including sedimentary, igneous, and metamorphic formations, resulting in a visually diverse panorama.
 Additionally, the planet features an intricate network of deep canyons, carved by ancient rivers and erosion, further enhancing its aesthetic appeal.
 Pagodon's geological formations have been shaped over millions of years due to tectonic activity, bestowing upon it a distinct and unparalleled natural beauty.
 
-
-
 # History
+
 Throughout its history, Pagodon has remained relatively unaffected by significant galactic conflicts or pivotal historical events.
 However, its exceptional natural features have attracted explorers, adventurers, and nature enthusiasts who seek to witness its unspoiled splendor.
 The planet's untouched beauty has enticed countless individuals, beckoning them to experience its extraordinary landscapes firsthand.
 
-
-
 # Inhabitants
+
 Pagodon is sparsely populated, primarily inhabited by the indigenous species known as the Pagodoneans.
 The Pagodoneans have adapted to the challenging environment of the planet, showcasing remarkable resilience and resourcefulness.
 They have established small settlements dispersed across Pagodon, harmoniously coexisting with their surroundings and diligently preserving the planet's natural allure.

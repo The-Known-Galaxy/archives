@@ -1,4 +1,5 @@
 # Overview
+
 Bravis Sith was a collection of Sith within the Bravis system of the Outer Rim before 1032 BBY.
 Very little is known about them, but being members of the Old Sith Empire, individuals were seen in distinct dark apparel.
 This featured a pitch-black hooded cloak, red on the underside, over a dull suit, topped off with kitted boots and gloves.

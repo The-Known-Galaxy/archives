@@ -1,34 +1,31 @@
 # Introduction
+
 Abeloth is a female humanoid, the Bringer of Chaos and the Mother of the Sith.
 According to legend, Abeloth was once a mortal being who gained immortality through drinking from the Well of Power and bathing in the pool of Knowledge.
 However, her immortality came at a cost, as this corrupted her body and mind, turning her into a monstrous creature with immense powers.
 
 # The story of Abeloth
-Abeloth was first introduced in the novel ìFate of the Jedi; Outcastî.
+
+Abeloth was first introduced in the novel ‚ÄúFate of the Jedi; Outcast‚Äù.
 In this novel, she is revealed to be the source of a strange and deadly illness that is spreading trough out the galaxy.
 The Jedi Order along with their allies the Galactic Alliance, launch a desperate mission to find and stop Abeloth before she can cause any more harm.
 
-
-Abelothís backstory is explained throughout the ìFate of the Jediî series.
+Abeloth‚Äôs backstory is explained throughout the ‚ÄúFate of the Jedi‚Äù series.
 According to the novels, Abeloth is an immortal monstrous creature with immense powers.
 She gained these powers through drinking from the Well of Power and bathing in the Pool of Knowledge.
 These powers she gained include the ability to shapeshift into various forms and control elements.
 
-
-
 # Abeloth as a Villan
+
 Abeloth is a formidable and dangerous adversary for the Jedi and their allies.
 Her powers and her corrupted mind and body make her a difficult opponent to beat.
 She is portrayed as unpredictable and difficult to control, which adds to the danger she poses.
 
-
-
-Abelothís motivations and actions are complex.
+Abeloth‚Äôs motivations and actions are complex.
 Her immense powers caused her to be detached from humanity.
 She also harbors a deep anger towards the Jedi and their allies, which fuels her desire for revenge.
 
+# Abeloth‚Äôs impact on the galaxy
 
-
-# Abelothís impact on the galaxy
 Her story serves as a cautionary tale about the danger of unchecked power.
-Abelothís immense powers and unpredictability make her a memorable and fascinating villain.
+Abeloth‚Äôs immense powers and unpredictability make her a memorable and fascinating villain.

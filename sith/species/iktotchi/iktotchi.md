@@ -1,10 +1,12 @@
 # Overview
+
 The Iktotchi species were a horned sentient species native to the moon of Iktotch, a satellite which orbits the planet Iktotchon in the Expansion Region.
 Iktotch was known to have very harsh environments and windy days, normal days in Iktotch were, what in many inner circle planets would be considered a natural disaster.
 
 # Biology and Appearance
+
 Iktotchi were known to have very thick and resistant skin due to the windy nature of their place of origin.
-Both genders possessed curved cranial horns which from a visitor’s point of view made them seem as aggressive.
+Both genders possessed curved cranial horns which from a visitorâ€™s point of view made them seem as aggressive.
 The males had bigger horns than the females had and the horns had the capacity to regenerate if damaged.
 They had limited dexterity due to the sheer size of their hands and their oversized fingers.
 Their hands were said to be 1.5 times bigger than those of humans.

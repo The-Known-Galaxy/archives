@@ -1,4 +1,5 @@
 # Introduction
+
 Vestara Khai, born to the Sith Tribe, is a Force-sensitive female Human born on Kesh in 27 ABY.
 She became an apprentice in the Sith Tribe and was taught by Lady Olaris Rhea.
 During her time as a Sith, Vestara was a member of the strike team sent to recover a Ship and kill Jedi Grand Master Luke Skywalker.
@@ -16,6 +17,7 @@ She was betrayed by her employers and left for dead.
 However, she managed to convince Mandalorian Mirta Gev to join her, and the two women escaped from the monolith.
 
 # Biography
+
 Vestara Khai, a Force-sensitive female Human, was born on Kesh in 27.5 ABY to Sith Saber Gavar Khai and Lahka Khai.
 She was part of the Lost Tribe of Sith, descendants of the survivors of a group that crashed there in 5000 BBY.
 In 37.5 ABY, Vestara participated in a competition to obtain a reptavian uvak and named her uvak Tikk.
@@ -59,15 +61,14 @@ The Skywalkers return to the Jade Shadow with Stadd, whom the Klatooinians turn 
 Luke sends a recording of Vestara's conversation with her father to the protocol droid C-3PO for translation.
 Luke shows the transcript to his son, who is upset that the Sith are planning to betray the Jedi and that Vestara hoped to turn him personally to the dark side.
 
-After Various travels, betrayals, and fights, Vestara wasn’t sure which side was good.
+After Various travels, betrayals, and fights, Vestara wasnâ€™t sure which side was good.
 She loved Ben and respected the ideals the Jedi have, but her roots in the Sith didn't let her decide.
 She ended up following her heart and joining the Jedi Order, where she did various missions and fought Sith.
 In those missions, she killed both Taalon and her father.
 Even after doing all this, she wasn't truly trusted and eventually fled to the unknown regions, leaving everyone behind, even her love, Ben.
 
-
-
 # Personality and Traits
+
 Vestara Khai has light brown hair, dark brown eyes, and fair-colored skin.
 She is considered beautiful by other humans, including Ben Skywalker.
 Vestara's father taught her to use her emotions as weapons to achieve her goals.
@@ -78,9 +79,8 @@ She uses her time on Dathomir to prepare her Tribe and keep the Skywalkers from 
 She flirts with Ben and attempts to use their attraction to acquire information from the Jedi.
 Vestara holds great respect for her father, Gavar, but is upset that he neglected to tell her the Sith's true motives and grew angry when he grew angry at her for assisting Ben in the capture of Stadd on Klatooine.
 
-
-
 # Powers and abilities
+
 Vestara is known for her strong connection to the Force and ambition to rise through the ranks of the Tribe.
 She created a new Sith armada.
 During her travels offworld, Vestara became an experienced assassin and learned to fly ships under the Sith Meditation Sphere.

@@ -1,4 +1,5 @@
 # Overview
+
 The Joint Chiefs were members of a council that guided the Galactic Emperor, Palpatine.
 They served as a council of important figures, who dedicated themselves to serving the Galactic Empire.
 The Joint Chiefs were made up of the highest ranking Officers of the Empire, both Naval and Military Officers.

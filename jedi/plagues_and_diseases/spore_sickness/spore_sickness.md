@@ -1,4 +1,5 @@
 # Introduction
+
 Fungi-like plants found only on the planet Drongar released dangerous spores that would float and spread far around the area.
 Once one fell under the influence of these deadly spores, they had the so-called Spore Sickness.
 The primary damage was mostly done to the lungs of the victim.

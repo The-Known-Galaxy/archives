@@ -1,10 +1,12 @@
 # Introduction
+
 The Elite Council was the ruling body that oversaw the Chirq Council.
 Which was a criminal organization that was active on Corellia during the Galactic Civil War.
 The Elite Council was made up of nine members, Markus Glider, Zuld Mar-Shayal, Braganti Hooge, Koran Lassk, Janos Zarbo, Mathazar Zayet, Rallyn Secura, Crale Forte, and Atlan Dubreas.
 It was based in two bunkers that were located near the city of Doaba Guerfel.
 
 # Section 1
+
 Around 1 ABY, the Corellian Security Force began an investigation that involved the Chirq Council.
 Captain Vitala Baize was able to successfully get a CorSec agent into the organization.
 She assumed that the identity of the Council member was Trins Evnar.

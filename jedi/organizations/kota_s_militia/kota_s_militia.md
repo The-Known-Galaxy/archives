@@ -1,10 +1,12 @@
 # Introduction
+
 When the Clone Wars broke out, Jedi Master Rahm Kota refused to have anything to do with the Grand Army of the Republic because he did not trust the Clone Wars and formed his own combat unit, which he recruited from the planetary militias, mercenaries and abandoned separatists.
 So when Order 66 was given there were no clones on him to kill him.
 After the republic was transformed into an empire, Kota and his militia repeatedly attacked imperial targets.
 Their last known confrontation took place at the TIE fighter aircraft manufacturing facility in Nar Shaddaa.
 
 # Section 1
+
 The militia saboteurs formed the backbone of the Kota militia.
 His equipment consisted of a blaster rifle and frag grenades.
 They were moderately trained and used in small groups to attack quickly and then disappear.

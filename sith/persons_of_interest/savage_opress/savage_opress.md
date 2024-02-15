@@ -1,4 +1,5 @@
 # Overview
+
 Savage Opress was a Dathomirian Zabrakn as well as a Nightbrother who grew into a Sith Lord alongside his younger brother.
 He was personally selected by Asajj Ventress to become her servant following her severe test selection.
 Mother Talzin and her Nightsister enchantresses used their dark magic to bestow Opress with frightening abilities, placing him underneath their rule.

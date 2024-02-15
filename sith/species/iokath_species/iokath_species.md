@@ -1,4 +1,5 @@
 # Overview
+
 Before the Eternal Empire, a species constructed an illusive ecosphere in the Unknown Regions using their ingenuity and the elements harvested from a solar system.
 The planet was soon dubbed Iokath.
 Since the name of said species has been lost to time, they are now called the Iokath species.
@@ -10,6 +11,7 @@ In some cases, they even provided help for survivors of their tests to rebuild w
 Eventually, in the later era of their species, the Iokath species relied on simulations to carry out tests.
 
 # Technological Demise
+
 Their technology developed exponentially over time.
 An example of this was the creation of the Eternal Fleet and GEMINI droid captains, a deadly combination that featured cloaking technology, full automation, and an overwhelming arsenal.
 Ironically, the Iokath species were also responsible for creating the Gravestone, a massive combat frigate able to destroy the Eternal Fleet.

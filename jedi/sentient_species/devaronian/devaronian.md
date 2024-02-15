@@ -1,4 +1,5 @@
 # Introduction
+
 Devaronians, humanoid sentient species that originated from the planet Devoran.
 They spoke Devaronese and Galatic basic.
 They were Carnivores so their diet consisted primarily of meat and almost no plants.
@@ -12,11 +13,12 @@ There were only two genders of them male and female, males had horns and no hair
 Devaronians had a higher average force sensitive population than most sentient species.
 
 # Section 1
+
 On the planet Devoran they lived in a matriarchal society.
 Females had most of the power and influence in society and in government.
-It was thought that males weren’t actually exempt from rising in power, they just preferred not to and were often nomads instead.
+It was thought that males werenâ€™t actually exempt from rising in power, they just preferred not to and were often nomads instead.
 They explored different places while staying loyal to their family at home.
 Though lots of them were force sensitive, the Jedi or Sith way never really applied to their society so there were very few that ended up trained in the force.
 Their passion for exploring was very strong as they were known to create their own hyperdrive systems without input from any outside populations.
 Due to this, it was likely that you would encounter a few of them during your own travels.
-However, since The Clone Wars, they aren’t seen as often.
+However, since The Clone Wars, they arenâ€™t seen as often.

@@ -1,4 +1,5 @@
 # Section I
+
 Jerec was a Miraluka, who served the Jedi Order as one of its key archaeologists and masters.
 Jerec was discovered by Jocasta Nu while she herself was still a Jedi Knight.
 He was taken back to the Jedi Temple, where overtime he would come to serve Jocasta as her Jedi Padawan.

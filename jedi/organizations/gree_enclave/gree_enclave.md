@@ -1,8 +1,10 @@
 # Introduction
+
 The Gree Enclave or also known as Gree Empire is a very isolated empire within the Outer Rim Territories.
 This empire controlled its planet as well as some others like Asation, Licha In, Lonatro, Malanose, and Te Hasa.
 
 # Section 1
+
 The Gree Enclave was one of the most ancient predated civilizations known, they did not join in on the Galactic Republic.
 Traveling in this region of space in the Empire, they would use a network of hypergates, allowing instant travel between two destinations with the use of hyperspace.
 At one point in Gree history, they came into conflict with the Kwa.

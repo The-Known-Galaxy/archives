@@ -1,4 +1,5 @@
 # Overview
+
 Bao-dur was a Zabrak Jedi and dedicated engineer from the planet Iridonia.
 He served under the revanchist jedi known as general Meetra Surik in the time of the Mandalorian Wars, and toward the end of Dark Wars.
 He was an excellent inventor and was in control of the design, construction, and activation of the dangerous Mass Shadow Generator.
@@ -6,6 +7,7 @@ Years after the bloody wars he assisted general Meetra Surik to stop the echo in
 And he always carried a spherical remote that he built as a child.
 
 # Personality
+
 He was usually a mild-mannered man of few words but appreciated small things in life, and had a blithely sarcastic sense of humor.
 He was a person that loved the beauty of nature and liked being kind and seeing the kindness of others.
 Though, he hated to see greedy and malicious people harming others, and never hesitated to confront them to stop their evil actions.

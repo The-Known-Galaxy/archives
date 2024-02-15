@@ -1,7 +1,8 @@
 # Article
+
 During a time when the Sith were powerful, Darth Atrius owned a pair of crossguard lightsabers, Atrius used the sabers to slay many opponents and claim the victories that resulted from their deaths.
-However, over time, the sabers began to become corrupted by the Sith Lord’s rage, causing any individual who wielded the sabers to fall into a frenzy.
-Upon the Sith Lord’s death, the sabers were lost.
+However, over time, the sabers began to become corrupted by the Sith Lordâ€™s rage, causing any individual who wielded the sabers to fall into a frenzy.
+Upon the Sith Lordâ€™s death, the sabers were lost.
 After the Battle of Yavin, the Galactic Empire would hire a smuggler named Sana Starros to attain the crossguards.
 She tracked down the sabers and retrieved them, however, she was a double agent who was hired by a crime boss named Hradreek to fulfill the same task.
 She attempted to deceive each of the two, handing one of the two sabers to each of them to hopefully receive the credits from both buyers.

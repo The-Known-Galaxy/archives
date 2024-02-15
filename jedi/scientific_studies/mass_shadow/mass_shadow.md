@@ -1,7 +1,8 @@
 # Introduction
+
 The name of this entity is in itself self-explanatory.
-Alike to oneís own shadow, large entities in space such as planets, stars and gas giants have their own shadows.
-The only difference is that these ìmass shadowsî leave hyperspace signatures which could physically impede or damage spaceships that attempt to travel through them.
+Alike to one‚Äôs own shadow, large entities in space such as planets, stars and gas giants have their own shadows.
+The only difference is that these ‚Äúmass shadows‚Äù leave hyperspace signatures which could physically impede or damage spaceships that attempt to travel through them.
 
 These gravity wells occurred throughout space both spontaneously and naturally.
 Comets had them as well, but to a much smaller scale.
@@ -10,6 +11,7 @@ Due to their dangerous nature, astromech droids and navigation computers had the
 This prevented most ships from being ripped apart by mass shadows.
 
 # Section 1
+
 Surprisingly, a Jedi General named Meetra Surik and Lieutenant Bao-Dur collectively made an artificial gravity well generator which was an absolute monolith of a tool in destroying millions of Mandalorian and Republic soldiers during the Mandalorian wars.
 
 The ethicacy of this has been questioned due to the devastation that it wreaked upon thousands of cruisers that were devoured by its gravity, but according to Surik, the ends justify the means.

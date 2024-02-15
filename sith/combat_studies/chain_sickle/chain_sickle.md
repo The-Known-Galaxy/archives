@@ -1,4 +1,5 @@
 # Introduction
+
 The chain-sickle is a melee weapon with a cylindrical handle that was mainly used by the nightsisters and nightbrothers on Dathomir.
 The sickle had a cord that adorned a sharp blade at the end.
 At a quarter of the length of the cord, there was a second grip for another hand to be used.
@@ -7,6 +8,7 @@ At the end of the cord, near the blade, were small studded spikes that aligned t
 These spikes were able to inflict damage even if the target had evaded the initial blade strike.
 
 # Section One
+
 Jedi Master Thame Cerulian fought against three wielders of the chain-sickle on the planet of Filve.
 He managed to survive, but just by the skin of his teeth.
 Another instance of when this weapon was used was when Count Dooku betrayed Asajj Ventress.

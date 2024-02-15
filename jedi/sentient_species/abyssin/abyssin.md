@@ -1,4 +1,5 @@
 # Introduction
+
 The Abyssin species was a sentient humanoid species that lived on the planet Byss.
 By the time of the First Galactic Empire, several Abyssin resided on the planets Phaeda and Dubrava.
 Scaling up to around 2 metres, they exhibited a greenish-tan skin colour topped with brown or white hair and a distinctive singular eye.
@@ -12,6 +13,7 @@ Tribes often clashed against each other in a fight for resources, called the Bro
 The tradition was that the victorious tribe would claim the warriors of the losing tribe.
 
 # Section 1
+
 The Brooding often led to violent encounters with space-faring species, especially at times of scarce resources.
 Even though this showcases the aggressive nature of the species, Abyssin tribes did collaborate peacefully through trade, if both parties had enough resources.
 When Abyssin individuals became elderly and lost their regenerative power, they would either volunteer themselves to die in the desert or by their tribe.

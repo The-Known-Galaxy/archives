@@ -1,10 +1,12 @@
 # Introduction
+
 The Luxury 3000 was around 50 meters long.
 With a dual pair of engines that extended from the main hull area.
 Each of the engines had a hyperspace ability and a sublight.
 The craft had an observational deck, a dining area, five cabins for guests, escape pods, a bridge, and a docking unit.
 
 # Section 1
+
 The Luxury 3000 was commissioned by SoroSuub.
 It was said that the Luxury 3000 was put into use as early as the era of the Clone Wars.
 The Luxury 3000 was a part of the visit to Naboo by the Supreme Chancellor.

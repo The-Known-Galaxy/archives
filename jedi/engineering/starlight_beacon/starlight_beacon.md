@@ -1,4 +1,5 @@
 # Introduction
+
 A space station known as Starlight Beacon, or alternatively the Starlight Station was built by the Galactic Republic under the supervision of the Supreme Chancellor Lina Soh.
 The price of this station was increased greatly due to the size and location of it.
 This station could be found inside the Outer Rim Territories.
@@ -10,7 +11,6 @@ Many individuals arrived  at this event from across the galaxy for the effort an
 Many high-ranking Jedi could be seen at the event, including those that rarely left Coruscant at that time, such as Grand Master Yoda.
 A Jedi Temple was built inside the station, it was designed by a Jedi architect known as Oaki Hidalla.
 At that time it was the largest area that held Jedi outside the Coruscant.
-
 
 Jedi Master Jora Malli was given the task to oversee the temple on the station but was killed quickly after receiving this information.
 Avar Kriss continued in her place.

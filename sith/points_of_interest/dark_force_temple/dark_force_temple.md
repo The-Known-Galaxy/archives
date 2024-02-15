@@ -1,8 +1,10 @@
 # Overview
+
 The Dark Force Temple was a Sith Temple located on Dromund Kaas, the capital of The Reconstituted Sith Empire.
 The temple structure was so orientated in The Dark Side that it became an historical dark side nexus.
 
 # History
+
 The Temple was constructed after the fall of the Sith Empire following the Great Hyperspace war.
 While its old history has been lost, it was rediscovered by the Sith during the Light and Darkness war.
 Darth Millennial, a Sith Apprentice who rejected Darth Bane's Rule of Two, found the site that the Temple would come to be inhabited again.

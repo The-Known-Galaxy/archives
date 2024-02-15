@@ -1,4 +1,5 @@
 # Introduction
+
 INTRODUCTION
 Lehon is known under a much more famous name, Rakata Prime.
 This unknown world was once the homeworld of the infamous Rakata species.
@@ -6,8 +7,9 @@ They kept this planet hidden from their many foes, and it acted as the capital o
 This makes the planet a remarkable treasure trove of Rakatan history and ruins.
 
 # Section 1
+
 DESCRIPTION
-ìThis planetís a technological graveyard.î - Canderous Ordo
+‚ÄúThis planet‚Äôs a technological graveyard.‚Äù - Canderous Ordo
 
 Between 35,000 - 25,200 BBY the Rakata used this as their homeworld.
 The Rakata, a species motivated by conquest and destruction, and characterised by extremely advanced technology, had enslaved hundreds of species during this period.
@@ -21,35 +23,32 @@ The Rakata were not even defeated by enemies but rather their own civil wars whi
 Furthermore, the Rakata were unfortunate enough to encounter a plague that rendered them non-force-sensitive.
 This is something that they had used to exploit other species, and without these abilities, they no longer held an edge in combat.
 
-
-
 # Section 2
+
 Rampant cannibalism ensued on Rakata Prime and many of their other worlds which essentially devoured the planet.
-Now, itís nothing other than an archaeological phenomenon covered in jagged ruins and scarred remains.
+Now, it‚Äôs nothing other than an archaeological phenomenon covered in jagged ruins and scarred remains.
 
 The remaining Rakata fled into the underground of Rakata Prime in an attempt to preserve themselves.
 
-
-
 # Section 3
+
 JEDI CIVIL WAR
 Many years later, during the Galactic Republic period, remnants of the Rakata resurfaced.
-This included clans such as ìThe Oneî.
+This included clans such as ‚ÄúThe One‚Äù.
 The Elders who resurfaced, who remembered their past history, constructed a guard to defend the Temple of the Ancients which held all of the Rakatan technology secrets.
 
 Furthermore, the planet interestingly enough, had a disruptor field.
-This EMPíd the ships that entered the atmosphere and sent them crashing into the surface which acted as defence.
+This EMP‚Äôd the ships that entered the atmosphere and sent them crashing into the surface which acted as defence.
 Overtime, species like rancors and gizka began breeding on the planet since ships with them in their cargo had left them on the planet.
 
 Revan visited the planet twice, the first time to steal technology and the second to disable the disruptor fleet and destroy the star forge.
 
 The Republic and the Sith also engaged in large battles on the planet, and later the Jedi celebrated a victory with Revan and others being awarded the Cross of Glory.
 
-
-
 # Section 4
+
 POST-CIVIL WAR
-The planet was now littered with even more ruins and broken spaceships following these battles and the Republic decided to make Lehon and itís system a historical site.
+The planet was now littered with even more ruins and broken spaceships following these battles and the Republic decided to make Lehon and it‚Äôs system a historical site.
 This protected it from being part of civil wars ever again.
 
 At first it was prohibited from the public to prevent Rakatan secrets from being stolen, but this hope was shattered when Revan returned for a third time in 3638 BBY.
@@ -59,6 +58,6 @@ He was however defeated by Republic and Sith loyalists.
 Later on, Sterla, a Horizon Guard Scout Commander, ventured to Rakata prime to create a star fortress strong enough to erode the Eternal Alliance.
 However, they were defeated by the neighboring guards.
 
-Even further on, Darth Bane in 1000 BBY visited the planet to find Darth Revanís Sith Holocron.
+Even further on, Darth Bane in 1000 BBY visited the planet to find Darth Revan‚Äôs Sith Holocron.
 He realised the planet was dripping in dark side energy, and surprisingly, even moreso than Korriban.
 He was one of the first to uncover this as much of Rakata Prime had been kept secret from the public by the Jedi.

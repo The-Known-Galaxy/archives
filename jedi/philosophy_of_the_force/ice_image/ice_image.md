@@ -1,4 +1,5 @@
 # Introduction
+
 Ice Image was a Force Ability created by the descendants of exiled Jedi and Dark Jedi on the planet Kesh.
 These Force-users were known as the Doomed and they developed this special ability.
 Ice Image allowed beings to witness ongoing events on planets they were on and was used to monitor the Lost Tribe of the Sith.

@@ -1,4 +1,5 @@
 # Overview
+
 The Ceremonial Rally is a event that happens every time at the end of the month.
 It is hosted by the Dark council, specifically the Overlords of spheres.
 There are lines that are sorted by spheres - the members must go in rank order within the line.

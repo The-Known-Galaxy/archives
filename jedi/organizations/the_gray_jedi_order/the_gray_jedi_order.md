@@ -1,14 +1,15 @@
 # Introduction
+
 The Jedi Order was founded in 25,000 BBY.
-This sect was studying only the light side of the Force.The Gray Jedi Order was a sect that was founded in 132 BBY after itís separation from The Jedi Order.
+This sect was studying only the light side of the Force.The Gray Jedi Order was a sect that was founded in 132 BBY after it‚Äôs separation from The Jedi Order.
 The Gray Jedi Order was different from the normal one in many forms like: philosophy, Force studying, robes, ETC.
 
 The Gray Jedi Order was created by force users who believed that the both sides of the Force should be used.
-Itís first leader under the function of Kage:  Leor Danal.
+It‚Äôs first leader under the function of Kage:  Leor Danal.
 
 # Section 1
-Skills of The Gray Jedi:
 
+Skills of The Gray Jedi:
 
 The Gray Jedi were learning both sides of the Force.
 At the mastery of their learned skills they could be almost unbeatable.
@@ -18,12 +19,11 @@ For example: A Gray Jedi could combine forms like Soresu and Juyo.
 
 They could use the Force to bring over planets/places balance between the both sides of the Force with meditation.
 
-
-
 # Section 2
-Quote: 
+
+Quote:
 
 A quote of the Gray Jedi Master Dade Leviathan:
 
-ìBalance of The Force is necessary for the universe to thrive.
-Without balance, everything falls apartÖwe are charged with maintaining this balance, which is how we realize the truth: all parts are needed to create a wholeÖî
+‚ÄúBalance of The Force is necessary for the universe to thrive.
+Without balance, everything falls apart‚Ä¶we are charged with maintaining this balance, which is how we realize the truth: all parts are needed to create a whole‚Ä¶‚Äù

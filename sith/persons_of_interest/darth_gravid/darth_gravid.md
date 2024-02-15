@@ -1,4 +1,5 @@
 # Overview
+
 Darth Gravid was a human who reigned as the Dark Lord of the Sith around 533 BBY.
 He held a collection of Sith lore and retained the knowledge of Essence Transfer, which allowed a Force-user to reposition their consciousness into another body.
 During his selection as a Sith Lord, Gravid accepted a Twi'lek female as his apprentice, aponting her Darth Gean.

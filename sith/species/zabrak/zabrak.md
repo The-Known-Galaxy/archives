@@ -1,4 +1,5 @@
 # Introduction
+
 The Zabraks were species that look similar to humans, besides for a few major body features that identified them as a separate species.
 They were native to the planet Iridonia which was located in the Mid Rim.
 Their main distinctive features were their heads perstruting from the top of their heads.
@@ -10,6 +11,7 @@ During a Rite of Passage to adulthood, Zabraks would get facial tattoos which wo
 Or, it could represent something personal to them.
 
 # Sub-Species
+
 Depending on what type of Zabrak they were, their skin tone could vary from gray, to black, to brown or even blue.
 Some settled on the planet Dathomir, where the females were in charge.
 They were known as the Nightsisters.
@@ -21,18 +23,16 @@ Their skin could vary from red, to orange, or even yellow.
 Female Iradonian Zabraks usually had smaller horns than those that males would have.
 Dathomirian Zabracks lacked the horns that the rest of their species had.
 
-
-
 # Allegiances
+
 Many of the Zabrak species were loyal to the Galactic Republic, but were soon opposed by the Galactic Empire.
 Most of the Zabraks joined the Rebel Alliance, hoping to bring back the Republic.
 Although, not all Zabraks showed their loyalty to the Republic.
 Individual Zabraks could be found across the galaxy from having jobs such as bounty hunters to mercenaries.
 Most of the Force-sensitive Zabraks joined the Jedi Order during the Galactic Republic.
 
-
-
 # Notable Zabraks
+
 Some of the notable members who joined the Jedi Order were, Eeth Koth, Zubain Ankoni and Agan Kolar.
 Eeth Koth and Agan Kolar eventually had the chance to join the Jedi High Council, which they accepted during the later years of the Jedi Order.
 Agam Kolar would eventually join Mace Windu and the other Jedi High Council in order to arrest the Supreme Chancellor, who was actually the Sith Lord named Darth Sidious.

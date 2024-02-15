@@ -1,4 +1,5 @@
 # Overview
+
 Vanquo was a resource-rich planet most notably mentioned within the Mandalorian Wars.
 The planet was mountainous in nature, which enabled large-scale mining operations.
 Major settlements contained a substantial civilian population.
@@ -7,6 +8,7 @@ Vanquo had a refugee problem in the early Mandalorian Wars as the planet was som
 Vanquo would eventually be a target of the Mandalorian Neo-Crusaders, where it would be successfully conquered.
 
 # History
+
 Vanquo is worthy of recognition for its role in the Mandalorian Wars.
 The planet was one of the first worlds within the Core that was contested by Mandalore.
 The threat of conquest forced the Galactic Republic to form the Jebble-Vanquo-Tarnith line.

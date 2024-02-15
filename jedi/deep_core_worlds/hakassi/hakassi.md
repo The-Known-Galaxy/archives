@@ -1,6 +1,7 @@
 # Introduction
+
 Hakassi was a planet located in the Deep Core area.
-In the times of the Galactic Empire the planet was under imperial control in High Admiral Treuten Teradoc’s post campaign: he fled to the planet Hakassi and made the planet his main capital.
+In the times of the Galactic Empire the planet was under imperial control in High Admiral Treuten Teradocâ€™s post campaign: he fled to the planet Hakassi and made the planet his main capital.
 After a short period Hakassi was most likely abandoned by imperial control in 12 ABY.
 In the times of 16 ABY the planet belonged to the New Republic.
 The planet was a major shipyard for the New Republic, producing new ships for the fleet to use.

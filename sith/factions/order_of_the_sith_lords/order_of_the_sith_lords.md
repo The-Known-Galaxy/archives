@@ -1,4 +1,5 @@
 # History
+
 The Order of the Sith Lords was assembled roughly one thousand years before the fight of Yavin by a Sith Lord called Bane.
 Darth Bane's line persisted, and eventually produced Darth Ramage, a scientist who saved his life's work in a Sith Holocron.
 The guiding code of the Order was the Rule of Two, which was produced by Bane through the education of Darth Revan's Holocron.
@@ -7,6 +8,7 @@ Darth Palpatine eventually completed it and destroyed the Jedi Order and replace
 Only a small number of Jedi and people who supported the Republic survived though they soon perished at the hands of the Inquisitors who spanned the Inner and Outer Rims to kill any remaining Jedi.
 
 # Members
+
 -Darth Bane
 -Darth Zinnah
 -Darth cognus

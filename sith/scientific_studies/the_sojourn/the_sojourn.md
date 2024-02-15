@@ -1,4 +1,5 @@
 # Overview
+
 Sojourn was an MPO-1400 Purgil-class Star Cruiser used during the First Order's War of resistance.
 Sojourn was one of the five starships in its class, along with Halcyon, Idyll, Wonderlight, and Starling.
 The Star Cruiser model was the Purgil-class MPO-1400 Starcruiser.

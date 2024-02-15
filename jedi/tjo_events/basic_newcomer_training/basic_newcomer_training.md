@@ -1,4 +1,5 @@
 # Introduction
+
 The Basic Newcomer Training, otherwise known as BNT, is a training for Force Sensitives within the Jedi Order.
 The Jedi Academy manages the training, which consists of three sections.
 The training instructs new Force Sensitives about the rank structure, whilst having a tour starting in the spawn room.
@@ -8,6 +9,7 @@ After the first laws, the class will go through the rest of the laws while movin
 Where the host can decide to either let the attendees write a Law Summary or do a Law Questionnaire.
 
 # Section 1
+
 The Basic Newcomer Training is expected to be around 30 to 40 minutes long.
 However, they can be either longer or shorter depending on the circumstances.
 Basic Newcomer Trainings are widely considered the most crucial Youngling training in the Jedi Order because of its educational value to new group members.

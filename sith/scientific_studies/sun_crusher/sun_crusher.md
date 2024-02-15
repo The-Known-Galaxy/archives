@@ -1,4 +1,5 @@
 # Overview
+
 The Sun Crusher was one of the deadliest superweapons to ever be seen.
 Not only was it nearly indestructible, but it was so powerful that it could destroy entire star systems regularly.
 It is so strong that it has survived hits from things like an Imperial-class Star Destroyer, a hit from the Death Star, and a war during the Skirmish of Maw, which all of these events left the Sun Crusher in need of no repair.
@@ -8,6 +9,7 @@ It has a history in many areas of the galaxy, even stumbling into Han Solo, Chew
 The superweapon is also strong enough to withstand environments like caves from the gas giant Yavin.
 
 # Section I
+
 The Sun Crusher gained its extremely large shielding due to its Quantum Crystalline armor.
 This material was so strong that it was recorded reflecting turbolaser hits without even gaining a scratch.
 When being shot, it created a vortex look that indicated it was charging.

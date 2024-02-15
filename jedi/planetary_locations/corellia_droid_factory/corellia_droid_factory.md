@@ -1,17 +1,18 @@
 # Introduction
+
 During the Clone Wars, the Confederacy of Independent Systems created a secret droid factory on Corellia called the Corellia Droid Factory.
 Some major events took place in the Corellia Droid Factory, sparking other events to occur afterwards.
 
 # Section 1
+
 During the Clone Wars, the Confederacy of Independent Systems created a secret droid factory on Corellia called the Corellia Droid Factory.
 The Corellia Droid Factory was located in the Bindreg Hills, a remote and mountainous region of Corellia.
 The factory was dug into the mountain and consisted of a network of passageways and rooms.
 A natural cave provided the entrance to the underground facilities.
 The factory, which was built to produce enormous quantities of battle droids like B1-Series battle droids, B2 super battle droids, and droidekas, was fully automated.
 
-
-
 # Section 2
+
 During the Clone Wars, the Confederacy of Independent Systems constructed the Corellia Droid Factory in preparation for a possible invasion of Corellia.
 During the conflict, a Separatist squad infiltrated the planet Corellia, which was aligned with the Galactic Republic, and built the factory in complete secrecy.
 The Confederacy's goal was to mass-produce and deploy combat droids to create mayhem on the ground while the Separatist troops attacked the planet's defenses from orbit.
@@ -22,9 +23,8 @@ The facility was finally discovered by the droid IG-88 two decades later, during
 The assassin droid intended to exploit the factory to mass-produce combat droids for his revolutionary droid army.
 As a result, IG-88 turned on the factory and began producing battle droids.
 
-
-
 # Section 3
+
 After receiving reports of hostile Clone Wars-era battle droids active in the Bindreg Hills in 1 ABY, the Corellian Security Force found the issue.
 Lieutenant Varias led a team from Coronet to investigate, which included Officers Savas, Hirka, Kener, and Mener, as well as many Corellian Security Force troopers.
 The unit discovered that the factory was fully operating and that it existed.

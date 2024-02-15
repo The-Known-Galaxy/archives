@@ -1,11 +1,13 @@
 # Overview
+
 The Exogorth were a sentient species made almost entirely from silicone and resided in hollow spaces within asteroids located in the depths of space.
-Exogorths were colloquially known as ‘space slugs’.
+Exogorths were colloquially known as â€˜space slugsâ€™.
 Exogorths typically reached maturity at 10 meters in length and were able to reproduce by splitting in half.
 On the rare occasion an Exogorth was incapable of splitting in half, it was capable of growing up to the size of 900 meters in length.
-Space slugs of this capacity were known for swallowing starships whole and house entire ecosystems within their innards due to the space slug’s vast size.
+Space slugs of this capacity were known for swallowing starships whole and house entire ecosystems within their innards due to the space slugâ€™s vast size.
 
 # Additional Sections
+
 Exogorths were well-known for burying themselves within asteroids of any size until they would burrow themselves within the asteroid until completely hidden.
 The space slugs feed off stellar energy emissions, mineral-rich deposits from the asteroid, floating space debris, and other creatures such as mynocks.
 Exogorths remained primarily dormant once burrowed due to the lack of available food sources in space.

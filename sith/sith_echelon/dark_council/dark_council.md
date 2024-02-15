@@ -1,4 +1,5 @@
 # The Beginning
+
 When the Sith Emperor established his new Empire on Dromund Kaas in 4980 BBY, he also gathered the twelve wisest and most powerful Sith Lords who had accompanied him and had accomplishments during their long exodus and created the Dark Council.
 As he began to withdraw into seclusion, the Dark Council gradually took over the day-to-day running of the new Empire, and every Councilor assumed control over a side of the Empire.
 Darth Zavakon, the Councilor who chose to adopt the sphere of ancient knowledge as his domain, soon discovered that his underlings were denying to share the knowledge they gathered from ancient ruins across the fledgling Empire, and he decided to pair a bunch of disciplined officers from the Imperial Military with civilian experts in archaeology and history for an expedition into an ancient Sith complex.
@@ -6,15 +7,15 @@ The combined group's findings far surpassed that of the Sith who had searched th
 Impressed, the eleven other Councilors agreed to Zavakon's proposal and allowed him to officially make the Imperial Reclamation Service.
 
 # The Middle
+
 During the primary centuries of the Empire's existence, Dark Councilor Darth Lokess summoned her fellow Dark Councilors to a gathering and convinced them to hitch her plot to destroy the Sith Emperor.
 the opposite eleven Sith Lords agreed to hitch Lokess' cause, but once they gathered on the steps of the Imperial Citadel so as to confront the Emperor, all eleven died instantly during a flash of sunshine.
 Lokess was locked within the depths of the Citadel by the Emperor, who tortured her until her death.
-Around 4043 BBY, members of the Dark Council—Darths Qalar and Victun—declared a Kaggath upon one another.
-the traditional Sith duel ripped apart the Citadel, and also the two were summarily executed by the opposite ten Councilors after they called a draw.[11] At the order of the Council, both Qalar and Victun's family lines were exterminated, and therefore the two Councilors' resources were employed in the development of the new Citadel.
-
-
+Around 4043 BBY, members of the Dark Councilâ€”Darths Qalar and Victunâ€”declared a Kaggath upon one another.
+the traditional Sith duel ripped apart the Citadel, and also the two were summarily executed by the opposite ten Councilors after they called a draw.\[11\] At the order of the Council, both Qalar and Victun's family lines were exterminated, and therefore the two Councilors' resources were employed in the development of the new Citadel.
 
 # The End
+
 Several years before 3954 BBY, the Dark Councilors Darth Nyriss and Darth Xedrix joined with two other Council members to create a conspiracy with the aim of unseating the Emperor and preventing him from attacking the Republic again.
 When the Emperor began to grow suspicions, Nyriss arranged for assassination attempts upon herself to draw away suspicion.
 Nyriss then led Lord Scourge, the Sith who the Emperor had selected to research, through a series of tests and manipulations to work out whether he could join the conspiracy, and she or he recruited him to their cause by showing Scourge the Emperor's ravaged homeworld of Nathema after the Sith Lord killed Xedrix.

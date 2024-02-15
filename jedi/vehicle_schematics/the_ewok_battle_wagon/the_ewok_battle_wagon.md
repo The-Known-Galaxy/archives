@@ -1,13 +1,15 @@
 # Introduction
+
 The Ewok battle wagon was the mode of transportation that the Ewoks used once engaged in battle.
 The wagon was one of their many inventions that suited their small stature and was made from wood and rope which was abundant on their home planet.
 The Ewoks were a short, furry, and tribal race native to the Forest Moon of Endor.
 The Ewoks were quite territorial, often capturing trespassers no matter the size wielding spears.
 They were members of a polytheistic religion in which they praised multiple Gods, often connected to the forests in some way.
-Their species wasn’t as advanced as the normal species in the rest of the Galaxy, and they were isolated on their moon, having no connection with the rest of the Galaxy.
+Their species wasnâ€™t as advanced as the normal species in the rest of the Galaxy, and they were isolated on their moon, having no connection with the rest of the Galaxy.
 The battlewagon was seldom used due to the peacefulness of their moon, but it was surprisingly deadly.
 
 # Section 1
+
 The main weapon was a battering ram made out of a severed tree log in which inflicted mass damage to any attackers.
 Erpham Warrick, the greatest Ewok Warrior of all-time invented this, along with a plethora of other inventions.
 The wagon was controlled via four stone wheels, making it a far more sturdy vehicle.

@@ -1,4 +1,5 @@
 # Introduction
+
 The Antarian Rangers were made up of just over a thousand members of various species who volunteered to join the organization.
 It wasn't uncommon for people who had failed to become Jedi to join the Rangers.
 They completed a full ranger "scout" training and were then assigned to a specific sector or Jedi.
@@ -16,6 +17,7 @@ Ranger Captain, Rangers who are ready to be leaders of a troop.
 Ranger-General, were the leaders of the entire organization.
 
 # Section 1
+
 About 600 years before the Clone Wars, the Rangers were founded by Coruscanti Jedi Knight Marus Timpel and the former student and businessman Gotal Kaskutal.
 Timpel told his friend Gotal that he was frustrated with the Jedi Order's lack of resources, and Kaskutal offered to use funds and his own resources to create an organization to help the Jedi.
 From this idea, the Antarian Rangers were born.

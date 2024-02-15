@@ -1,5 +1,6 @@
 # Section I
-Styrak, also known as the ìCorrupter of Darvannisî, was the third member of the Dread Masters, whose power was almost on par with that of Raptus.
+
+Styrak, also known as the ‚ÄúCorrupter of Darvannis‚Äù, was the third member of the Dread Masters, whose power was almost on par with that of Raptus.
 Styrak was notable for travelling to the planet of Darvannis alone, causing his own death which will rupture the Dread Masters greatly in their cause.
 He will die alongside his pet, a Kell Dragon and many Dread Guards accompanying him.
 Once he travels to Darvannis, he will begin to corrupt various members of Mercenary and Cartel groups to defend him against the Republic and Empire.

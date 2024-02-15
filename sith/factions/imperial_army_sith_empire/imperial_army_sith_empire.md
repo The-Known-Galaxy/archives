@@ -1,8 +1,10 @@
 # Overview
+
 The Sith Imperial Army was a military group founded in 4980 BBY by the True Sith.
 This army participated in important events such as the Cold War, the Galactic War, and the Great Galactic War.
 
 # Information
+
 Like any other military group, the Sith Imperial Army possessed a rank structure.
 At the bottom of it, we could find the Private rank, a position given to people who recently joined the army.
 Following this rank, we find the Specialist position, a rank given to senior soldiers.

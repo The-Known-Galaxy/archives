@@ -1,5 +1,6 @@
 # Introduction
-Myrkr is a terrestrial planetñhome of the Neti speciesñlocated in the Inner Rim.
+
+Myrkr is a terrestrial planet‚Äìhome of the Neti species‚Äìlocated in the Inner Rim.
 The planet is mainly covered by forests, consisting of unique trees with high metal content, and low mountains.
 The Neti left Myrkr at some time before 4000 BBY and initiated a colony on planet Ryyk.
 Other native species can also be found such as the non-sentient Ysalamiri and Vornskr, which are both known to have the ability to control the Force.
@@ -8,6 +9,7 @@ In the capital city of Myrkr, a small town called Hyllyard City served as the bi
 Smugglers, malcontents, and fugitives from other star systems mainly settled on the planet to perform smuggling operations and illegal activities.
 
 # Section 1
+
 In 3963 BBY during the Mandalorian Wars, a battle occurred.
 The Republic Forces and the Mandalorians fought to the brim, experiencing casualties of over 2,000 in one night.
 As a result, the Republic managed to acquire a Neo-Crusader shock armor, a Mandalorian armor worn by the Shock Troopers, and studied it.
@@ -17,18 +19,18 @@ Due to the high metal content present on the planet, they used it as a place for
 Although the planet may be an interesting planet, people usually ignore it.
 
 Since Ysalamiri are known to have the ability to repel and suppress the Force, a crime syndicate, Zann Consortium, infiltrated the planet during the Galactic Civil War.
-They utilized the Ysalamiriís interesting way of controlling the Force by training Vornskrs and building cages for them and using it for their Mobile Defense Unitsña vehicle capable of doing a variety of tasks.
+They utilized the Ysalamiri‚Äôs interesting way of controlling the Force by training Vornskrs and building cages for them and using it for their Mobile Defense Units‚Äìa vehicle capable of doing a variety of tasks.
 
-In 9 ABY, a smuggling base called ìMyrkr Baseî was built by Talon Karrdeña male smugglerñ that served as a base of operations for Karrdeís organization.
-Imperial forces moved on to the planet to acquire more of the Ysalamiri during Grand Admiral Thrawnís campaign.
+In 9 ABY, a smuggling base called ‚ÄúMyrkr Base‚Äù was built by Talon Karrde‚Äìa male smuggler‚Äì that served as a base of operations for Karrde‚Äôs organization.
+Imperial forces moved on to the planet to acquire more of the Ysalamiri during Grand Admiral Thrawn‚Äôs campaign.
 
 The sentient species, Yuuzhang Vong, also conquered the planet and utilized Vornskrs and Xyn to create the Voxyn which were a hybrid of the two species.
 They were designed to hunt every Force-sensitive they see.
 The Baanu Rass worldship, manufactured by the Yuuzhan Vong Empire, was orbiting around Myrkr and cloned the Voxyn.
-Later, the Myrkr Strike Teamña team of Jedi led by Anakin Soloñinfiltrated the worldship to eliminate the Voxyn.
+Later, the Myrkr Strike Team‚Äìa team of Jedi led by Anakin Solo‚Äìinfiltrated the worldship to eliminate the Voxyn.
 Anakin Solo was killed and Baanu Rass was successfully demolished.
 The Domain Lah worldship then orbited around the planet.
 
-During the Second Galactic Civil War, Jacen Solo, together with Tahiri Veila, used a Force ability known as the flow-walkingñan ability that allows the user to see and alter the past and the futureñto recall the Myrkr mission.
+During the Second Galactic Civil War, Jacen Solo, together with Tahiri Veila, used a Force ability known as the flow-walking‚Äìan ability that allows the user to see and alter the past and the future‚Äìto recall the Myrkr mission.
 Jacen only used this power not to see the past but to manipulate Tahiri to be loyal to him.
 They were able to revisit the mission and Tahiri managed to kiss Anakin one last time before his death.

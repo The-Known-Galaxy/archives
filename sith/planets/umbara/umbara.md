@@ -1,5 +1,6 @@
 # Overview
-Umbara was a planet of the expansion region and due to its lack of sunlight, it was often called the “Shadow World ''.
+
+Umbara was a planet of the expansion region and due to its lack of sunlight, it was often called the â€œShadow World ''.
 The planet was located in the Ghost Nebula sector and had its connections  cut off with most of the galaxy.
 It resulted in the development of advanced technology that was very impressive compared to the galactic standards of the time.
 Umbara had a variety of animals and a very aggressive plant life.
@@ -7,6 +8,7 @@ The planet was known for its doonium which was a resource that was used to const
 Umbara was also well known for having several moons in its orbital system.
 
 # History
+
 Umbara was actively contributing to the Galactic Republic but always prioritised its homeworld over the Galactic government.
 Despite its reputation for deceit and self-serving schemes, Umbara remained loyal to the Republic during the Separatist Crisis and the Clone Wars.
 Represented by Senator Mee Deechi, Umbara initially supported increased military spending.
@@ -15,9 +17,8 @@ In response, the Republic launched an invasion led by Jedi Generals Obi-Wan Keno
 The clones faced the advanced technology and militia of the Umbarans, including heavy cannons, assault tanks, hover tanks, and starfighters.
 Despite challenges, the Republic forces eventually reclaimed Umbara.
 
-
-
 # Society and Culture
+
 Umbara's society was ruled by a council named the Rootai.
 It compromised members of the highest caste who were considered royalty.
 Umbarans, also known as the Shadow People, were a near-human species characterised by their pale bluish skin and colourless eyes.
@@ -28,9 +29,8 @@ Umbarans had achieved great technological advances, particularly in military tec
 Their advanced weapons and vehicles were difficult for non-Umbarans to operate.
 They also had their own native language called Umbarese.
 
-
-
 # Imperial Era
+
 During the early months of the Imperial Era in 19 BBY, the Galactic Empire dealt with surviving the resistance, including Umbara.
 Eventually faced with a debt and no way to pay the Empire, Umbara was one of many worlds that surrendered its remaining independence, fully placing the planet under the power of the Empire.
 The pirate and insurgent leader Nightswan started an uprising in Umbara in order to promote the Imperial takeover of Umbara's mining and refining sector.

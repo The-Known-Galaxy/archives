@@ -1,4 +1,5 @@
 # Introduction
+
 Sand People Carving was an ancient monument, which was chiseled in the walls of a cave located in northern Jundland on Tatooine.
 The murial depicted that the planet was once a prosperous and fertile planet with four races inhabiting it.
 The murial itself was chiseled in four parts, with each part depicting one race.
@@ -11,6 +12,7 @@ It is speculated that the planet which was once so fertile and prosperous in the
 This disaster ultimately created the desert which completely engulfed the planet.
 
 # Section 1
+
 During 3653 BBY Jedi Master Eriz Vossan traveled to Tatooine in order to experience Jawan culture.
 However this cultural trip would soon come to an end as Eriz was just a handful of the Jedi who was subcome by the dark plague which was created by Vivicar.
 After this encounter, Eriz would become obsessed with the idea of finding the species able to survive the planet's harsh conditions.

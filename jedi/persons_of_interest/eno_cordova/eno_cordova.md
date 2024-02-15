@@ -1,4 +1,5 @@
 # Introduction
+
 Eno Cordova was a human male with white har.
 Eno Cordova was a student of ancient history and an explorer at heart.
 His services to the Jedi Order made him go all across the galaxy, he met new species and saw strange cultures.
@@ -6,6 +7,7 @@ He also met one of the famous Wookiees, Wookiee Chieftain Tarfful of Kashyyyk.
 After he attained a reputation as a scholar, he was granted the rank of Jedi Master and took on a padawan named Cere Junda.
 
 # Section 1
+
 Eno had interests in ancient civilizations, with this he would travel and try to find ancient artifacts.
 After encountering the ruins of one of the Zeffo's temples on the planet Othorto, he became obsessed with the species Zeffo and their creations.
 Zeffo is a planet where the Zeffo would live and create huge statues dedicated to their species sages.

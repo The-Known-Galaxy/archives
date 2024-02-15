@@ -1,4 +1,5 @@
 # Introduction
+
 Warren Sedoru was a human male born several decades before 3681 BBY.
 He was trained as a Jedi and quickly gained high standing in the Order.
 When the Empire recaptured Korriban and began the Great Galactic War, Sedoru was one of the first few Jedi to lead counterattacks.

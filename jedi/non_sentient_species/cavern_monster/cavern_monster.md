@@ -1,4 +1,5 @@
 # Introduction
+
 Cavern monsters were a non-sentient species that hailed from the planet of Ventooine.
 Being extremely aggressive, these monsters attacked other living creatures on sight.
 They were also used as tools by the Satabs during their reign to execute or punish their enemies.

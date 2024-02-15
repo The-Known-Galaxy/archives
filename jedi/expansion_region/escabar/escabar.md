@@ -1,4 +1,5 @@
 # Introduction
+
 A Desert planet known as Escabar could be found in the Expansion Region inside the Escabar System.
 Due to extremely warm temperatures and lack of resources, Escabar had barely any population.
 Living conditions on this planet were harsh and unforgiving, however, scavenger species known as Borcatu could be found roaming on the planet's surface.

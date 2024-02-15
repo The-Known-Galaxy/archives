@@ -1,6 +1,7 @@
 # Introduction
+
 The Order of Revan was a group of followers who followed the Force user Revan.
-The organization was a cult of followers who followed Revan’s philosophy, in hopes of becoming enlightened.
+The organization was a cult of followers who followed Revanâ€™s philosophy, in hopes of becoming enlightened.
 The Order of Revan was founded once a human by the name of Tani found ancient records on Revan.
 The event happened much before The Cold War between the Galactic Republic and The Sith Empire.
 Revan was a force user that had been both a Sith and a Jedi.
@@ -8,17 +9,17 @@ She learned about how Revan confronted the Sith Emperor and believed he had emer
 She believed the throne of The Sith Empire rightfully belonged to Revan.
 
 # Section 1
+
 Tani afterwards would found the Order of Revan, also known as The Revanites.
 The Order was widely popular due to them recruiting from all races, no matter what species they were.
-The group based all their teachings and beliefs on Revan’s philosophies.
+The group based all their teachings and beliefs on Revanâ€™s philosophies.
 The Order would grow at such a rapid rate, it even caught the attention of the Dark Council.
 The Council sought to end the Order.
 Consequently, the Revanites had to flee from Kaas City, a city located on Dromund Kaas.
 This forced the members to find  refuge in the jungles of Dromund Kaas.
 
-
-
 # Section 2
+
 The Revanites built a compound in the jungle.
 In their base of operations was a cave.
 In this cave, members would often go to worship Revan.

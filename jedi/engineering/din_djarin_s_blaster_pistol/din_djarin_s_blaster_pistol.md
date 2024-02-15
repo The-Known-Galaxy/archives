@@ -1,5 +1,6 @@
 # Introduction
-Din Djarin’s blaster pistol was a model IB-94 blaster pistol made by BlasTech Industries.
+
+Din Djarinâ€™s blaster pistol was a model IB-94 blaster pistol made by BlasTech Industries.
 It had a purpose of short-ranged combat and the only known owner was Din Djarin the Mandalorian.
 During the time era of around 9 ABY, the Mandalorian bounty hunter Din Djarin used this blaster pistol on a group of thugs in a cantina on the planet of Pagodon.
 In the mission to retrieve an asset for the Imperial Remnants, he used this blaster against a group of Speeder bike gangs.

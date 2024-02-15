@@ -1,4 +1,5 @@
 # Overview
+
 Cadinth was an originally beautiful planet, just like many of the planets in the Kingdom of Cron sector.
 Unfortunately, this planet and many others around it had their natural beauty stripped through industrialization and wastefulness of off-planet companies.
 Cadinth was the capital world of the Kingdom of Cadinth planets.

@@ -1,4 +1,5 @@
 # Introduction
+
 Rukh was a male Noghri warrior who served as the personal bodyguard and later the assassin of Grand Admiral Thrawn.
 He was raised while his planet was in chaos and destruction because of a planetary invasion.
 Rukh was fiercely loyal to the Thawns empire, which claimed to be restoring his planet back to normal.
@@ -7,6 +8,7 @@ Thrawn travelled the galaxy with Rukh by his side protecting him at all times.
 They travelled around in the Imperial II-Class Star Destroyer Chimaera.
 
 # Section 1
+
 Rukh soon learned that Thrawn wasnt restoring his planet at all.
 It was just a trick to keep Rukh with the galactic empire.
 In reality Thrawn was keeping his planet in poor health so they would keep on obeying the Galactic Empires orders.

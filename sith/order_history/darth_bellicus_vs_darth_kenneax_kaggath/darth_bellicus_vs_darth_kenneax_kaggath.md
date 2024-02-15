@@ -1,10 +1,12 @@
 # Overview
+
 The rank kaggath between caesartemenos and kenneaxmalvern would take place on february 27th, 2o22.
 Caesar would become victorious in a 3-0 sweep dominating both combat and lore portions; making it unnecessary to use the other two parts of the kaggath.
 Shortly following this, kenneax would retire and become a sith wraith.
 while former D&s overseer caesartemenos took up his new mantle of hand of the dark lord.
 
 # History:
+
 Caesar v kenneax would entail the great sphere of defense and security vs the hand and his dark honor guard, after the declaration from Caesar to the hand, the kaggath would be set for February 27th, 2022.
 Caesars powerbase would consist of, centurion warrior renavusmorningstar, brolion1, darth champaaitemenos, purposemalvern, unforcetemenos, taitustemenos, and zynxlucifer, an 8v8 powerbase struggle against kenneaxMalvern and his 7 dark honor guard.
 The punishment if Caesar and his powerbase lost would be a three week temporary demotion for all lords+, and if kenneax lost, he would have his rank stripped and transferred to caesar.

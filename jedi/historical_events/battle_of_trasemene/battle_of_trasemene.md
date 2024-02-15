@@ -1,4 +1,5 @@
 # Introduction
+
 After the end of the Clone Wars in 19 BBY, a Sy Myrthian senator of the Confederacy of Independent Systems (CIS) named Toonbuck Toora kept on fighting against the Republic and the newly formed Galactic Empire.
 She managed to create an army of Confederate forces and began her rebellion against the Empire.
 This rebellion was called the Sy Mythrian Insurrection.

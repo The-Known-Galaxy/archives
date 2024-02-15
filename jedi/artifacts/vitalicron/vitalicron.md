@@ -1,4 +1,5 @@
 # Introduction
+
 The Vitalicron, a different and more useful form of a holocron, was used by the Voss species, a humanoid species that lives on the Planet Voss.
 The Vitalicrons were used in the Cold War era, as it can contain memory and/or visions of those who were able to use it.
 They did rituals and healing practices at their Shrine of Healing.

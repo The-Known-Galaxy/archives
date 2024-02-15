@@ -1,19 +1,20 @@
 # Introduction
+
 Greater Javin, or the Javin Sector, was a region of space in the Outer Rim Territories.
-Greater Javin consisted of three other subsectors — Javin, Anoat, and Yarith.
+Greater Javin consisted of three other subsectors â€” Javin, Anoat, and Yarith.
 The region thrived economically throughout the Galactic Republic and Galactic Empire era.
 Throughout the system, there would be a large number of trade routes.
 This means that the area of space surrounding Greater Javin was open and safe for hyperspeed travel.
 
 # Section 1
+
 The Corellian Trade Spine was a trade route that ran through Greater Javin.
 The route would begin on the planet Corellia and end on Duro.
 The trade route was controlled by the Figg family, a family of hyperspace explorers that originally opened Greater Javin to hyperspace travel.
-However, Separatists would relentlessly raid the trade route during the Clone Wars, and the same would happen during the Galactic Civil War as Nym’s pirates would raid it then.
-
-
+However, Separatists would relentlessly raid the trade route during the Clone Wars, and the same would happen during the Galactic Civil War as Nymâ€™s pirates would raid it then.
 
 # Section 2
+
 Throughout the Galactic Civil War, many planets within Greater Javin would become Rebel home planets, a place of safety and comfort for the Rebellion.
 One of these planets would include Hoth, an ice body located within the Anoat sector of Greater Javin.
 Hoth would temporarily become the headquarters of the Alliance to Restore the Republic.

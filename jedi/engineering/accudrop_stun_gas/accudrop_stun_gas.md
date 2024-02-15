@@ -1,6 +1,7 @@
 # Introduction
+
 Accudrop Stun Gas was a gas that had varying effects on different species.
-It could slow one’s reaction time down or render a person unconscious.
+It could slow oneâ€™s reaction time down or render a person unconscious.
 Depending on the species that had inhaled gas, which was the method of transmission.
 Accudrop would dissipate in seconds after it was released in the air.
 Gas was used in Locris Syndicated Securities and was delivered by Type 12-B Hollow-Tip Rockets, a rocket that saw use up to the time of the New Republic.

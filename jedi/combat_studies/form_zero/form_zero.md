@@ -1,4 +1,5 @@
 # Introduction
+
 Once a Youngling had persevered through the icy winds of Ilum, retrieved their Crystal and built their Lightsaber, the first thing they were taught was form 0.
 It was not a form like the others.
 Form 0 is a way of handling situations, a principle.

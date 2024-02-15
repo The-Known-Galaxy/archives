@@ -1,4 +1,5 @@
 # Introduction
+
 The Ministry of Ingress was an immigration organization founded for as long as the republic itself has existed.
 The purpose of this organization was to supervise and administer all immigration and refugee services.
 

@@ -1,4 +1,5 @@
 # Introduction
+
 Markus Andarius Thul was a member of the House of Thul, a noble house of Alderaan which was founded 3.5 thousand years before the beginning of the Galactic Empire.
 Before the Aldeeran civil war, Markus was a very powerful member of the house.
 His drive to conquer his homeworld became more apparent when he allied himself with the Sith, hoping they would help him achieve his dream of ruling Alderaan.

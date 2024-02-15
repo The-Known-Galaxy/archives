@@ -1,4 +1,5 @@
 # Introduction
+
 The Hammer was an Imperial class I Star Destroyer that was produced by Like a typical Star Destroyer, it spanned 1,600 meters and was accompanied by TIE/line starfighters.
 the Imperial Navy of the Galactic Empire.
 Like a typical Star Destroyer, it spanned 1,600 meters and was accompanied by TIE/line starfighters.

@@ -1,4 +1,5 @@
 # Introduction
+
 Brentaal IV, also known as just Brentaal, was a Core World planet in the Brentaal System and Bormea sector.
 It was said that it occupies the most valuable spot in the entire galaxy due to it being close to the most major hyperlanes, the Hydian Way and Perlemian Trade Route.
 This would make it serve as a checkpoint for trafficking and a major commerce hub as it entered the Republic around 22,000 BBY.

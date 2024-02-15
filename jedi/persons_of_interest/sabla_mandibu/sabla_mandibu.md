@@ -1,4 +1,5 @@
 # Introduction
+
 Sabla-Mandibu was an accomplished Jedi Master and member of the Council of Reconciliation and well known Seer of the Jedi Order.
 She was a Female of the Miraluka species.
 Mandibu was well known for her knowledge of Holocrons and ability to Analyse them.
@@ -8,6 +9,7 @@ Her main emphasis in her three chapters were on the Virtue of Jedi Consulars and
 She was able to leave a lasting impression on the Order from her many services, her words being passed down through many generations of Jedi.
 
 # Section 1
+
 She served during the times after the Ruusan Reformations and helped greatly with rebuilding the Jedi Academy.
 After this war was when she took her seat on the Council of Reconciliation.
 She acted as a link between the Galactic Republic and Several political factions throughout the galaxy.

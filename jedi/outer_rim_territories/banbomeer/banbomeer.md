@@ -1,4 +1,5 @@
 # Introduction
+
 A planet known as Bandomeer could be found inside the Outer Rim Territories, located within the Meerian sector on the Braxant Run, while also being part of the Hydian Way.
 This planet served as a homeworld for the Meerian race.
 Most of its terrain consisted of deserts, mountains and oceans.

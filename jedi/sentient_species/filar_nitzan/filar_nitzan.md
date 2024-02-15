@@ -1,5 +1,6 @@
 # Introduction
-Entities that fell under the name of ìFilar-Nitzanî were often described as truly frightening.
+
+Entities that fell under the name of ‚ÄúFilar-Nitzan‚Äù were often described as truly frightening.
 Their actual size was hard to determine considering their amorphous characteristics.
 They had an inherent ability to shrink anywhere down from a couple cm to a few meters.
 They acted as gaseous black clouds that could move in between and around large objects in an incredibly stealthy manner.
@@ -12,10 +13,11 @@ They were fairly slow creatures but still had the ability to mould their shapes 
 The only downside is that these creatures are unable to interact with solid objects unless they have immense physical strength, and even then they can only lift a small blaster.
 
 Due to their nature, many consider the Filar-Nitzan to be simply myths, relegated to the Space planet DNX-N1.
-Their names of ìcloud demonsî and ìgas devilsî are just that, names.
+Their names of ‚Äúcloud demons‚Äù and ‚Äúgas devils‚Äù are just that, names.
 However, Xenobiologists and the rebel alliance who have personally encountered these species either as infiltrators or onlookers, have a much different opinion.
 
 # Section 1
+
 These beings are gaseous and sentient.
 Their appearance can be described with a wide range of vocabulary but it ultimately boils down to them being shards of air and smoke.
 
@@ -27,9 +29,8 @@ Some Filar-Nitzan were taught a skill called energy diffusion which lessened the
 The creatures are limited in number, and have no known reproductive abilities.
 Interestingly enough, the Kaminoans have managed to clone a few before.
 
-
-
 # Section 2
+
 Filar-Nitzan exclusively expressive emotions with their eyes and had no other means to do so.
 Vacander was the only known Filar-Nitzan with a name and known characteristics.
 He was a free-spirited and calm individual according to reports.
@@ -40,13 +41,12 @@ It is unknown whether this is because of their inherent ability to remain in hid
 Vacander was a well known Galactic Republic spy who consistently pried into Rebel Alliance operations.
 Interactions with this Filar-Nitzan specifically, and others found in the galaxy are always described as horrific and traumatic.
 
-This stereotype has not actually been confirmed since the very appearance of a Filar-Nitzan is scary, but itís not proven whether or not theyíre actually violent creatures.
+This stereotype has not actually been confirmed since the very appearance of a Filar-Nitzan is scary, but it‚Äôs not proven whether or not they‚Äôre actually violent creatures.
 
 In later years, many Filar-Nitzan could be found on Keyorin in the Outer Rim Territories.
 
-
-
 # Section 3
+
 In conclusion, these are a very rare and very misunderstood species.
 We have much to learn and study before we can understand their true nature.
 The Jedi should consider contacting one and discovering if they can be force-sensitive, since this would make an exceedingly powerful Jedi and a notable asset to the Republic.

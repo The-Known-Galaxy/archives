@@ -1,4 +1,5 @@
 # Overview
+
 The Marksman-H Combat Remote, also known as the Seeker Droid and Training Remote, was a remote control used in military training.
 It was manufactured by Industrial Automaton and was equipped with a non-lethal blaster that deflected damage from its target, though the price of it was just 350 credits.
 Fast-moving and unpredictable remote controls were commonly used by gunners to improve reaction time and aiming.

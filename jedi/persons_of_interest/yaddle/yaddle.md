@@ -1,4 +1,5 @@
 # Introduction
+
 Yaddle was a Force sensitive female born in 509 BBY that was the same species as Yoda, a Jedi Master and High Council member during the last years of the Jedi Order and Republic.
 Her padawan, Oppo Rancisis was a Thisspiasian male that joined the Jedi High Council with his master during the invasion of Naboo.
 
@@ -7,6 +8,7 @@ After the battle of Naboo, she took a less active role and was no longer in the 
 During her past life she trained many padawans including Oppo Rancisis, her latest former padawan.
 
 # Section 1
+
 She devoted most of her time in the archives, despite this she was an active Jedi in the field of combat.
 Yaddle one day caught 12 year old Qui Gon Jinn practicing with his lightsaber late at night, which she then ordered him to go to bed.
 Before the demise of Qui Gon Jinn his dying wish was that Anakin Skywalker would be trained at the Jedi Temple.

@@ -1,9 +1,11 @@
 # Introduction
+
 The yalaran were a sentient species located on the Wild Space planet, Yalara.
 Jedi Master Broden Kel Verdox was worried the yalarans would not be ready to integrate into the galaxy at their state, and cloaked their planet.
 Despite being hidden, an elite group of Nahgri commandos travelled to Yalara and slaughtered the Yalarans proceeding to guard the device after the eradication of the primitive species.
 
 # Section 1
+
 Yalarens, despite being classified as sentient, were a very primitive race compared to the other space faring species.
 They had only reached a technological advancement that was hardly noteworthy.
 Later around 14 ABY, a holocron was opened revealing the location of this planet once again to Tionne Solusar, a Jedi scholar.

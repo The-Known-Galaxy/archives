@@ -1,4 +1,5 @@
 # Introduction
+
 The sham known as the Cold War came to an inevitable end and the Galactic War erupted on a galactic scale but was even more brutal than any other war in the past.
 The Jedi Order quickly mobilized to compete with the Sith Empire and various third parties, all of whom were at their peak and with many mighty heroes.
 Engaging each other in full-scale war once again, Sith and Republic forces clashed, while the constant specter of betrayal loomed over everyone.
@@ -9,5 +10,6 @@ The Dread Masters of the Sith Empire would be freed, and the destructive nature 
 After a long, drawn-out conflict, the Jedi Order and the Galactic Republic proved victorious and the Sith Empire of old was finally defeated.
 
 # Section 1
+
 The Jedi Order would return to Coruscant, abandoning Tython indefinitely, and rebuild the Jedi Temple slowly with financial aid from the recovering Republic.
 A new era of peace began but was to be short-lived.

@@ -1,4 +1,5 @@
 # Introduction
+
 Kiffu was a planet that was in the Inner Rim inside of the galaxy.
 It was the home to a sentient species, known as the Kiffar.
 It was located inside the Kiffu sector and in the Azurbani sector.
@@ -6,9 +7,8 @@ The atmosphere was type 1, which was breathable.
 The two types of fauna on the planet were a spark-dragon and a static tree.
 The people of the planet spoke the galactic basic standard.
 
-
 The world of Kiffu was a larger world compared to Kiffex.
-When both of the worlds got near each other, large lightning storms occurred around Kiffu’s atmosphere.
+When both of the worlds got near each other, large lightning storms occurred around Kiffuâ€™s atmosphere.
 The natives learned to control the lightning, so they could utilize the electrical energy from the storms.
 
 During 3663 BBY the planet was taken and turned into a place for the Sith Empire to abide in.
@@ -19,6 +19,7 @@ During the Clone Wars, the planet was captured by the Confederacy of Independent
 Energy spiders were sometimes smuggled into the planet from Kessel.
 
 # Section 1
+
 Kiffex was also another planet located inside of the Inner Rim inside of the galaxy.
 This planet was smaller than the sister planet, Kiffu.
 It was also located in the Azurbani sector.

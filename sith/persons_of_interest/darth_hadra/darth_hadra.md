@@ -1,7 +1,9 @@
 # Overview
+
 Darth Hadra was a female Human Dark Lord of the Sith of the reconstituted Sith Empire who served as a member of the Dark Council during the Cold War.
 
 # History
+
 Darth Hadra had murdered her opponents and enemies to achieve her position.
 A rival of Darth Mekhis, Hadra presided over Dromund Kaas in addition to the Sphere of Technology.
 Hadra got her position on the Dark Council after a Republic Strategic Information Service operation resulted in Mekhis's disappearance.

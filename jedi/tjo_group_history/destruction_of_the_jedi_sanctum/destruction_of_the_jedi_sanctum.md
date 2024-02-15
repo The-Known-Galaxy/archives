@@ -1,4 +1,5 @@
 # Introduction
+
 The Jedi Sanctum was an illustrious temple made by the Jedi Order.
 It had survived for many years, with its habitation having taken place long before the construction of the Great Jedi Library on Ossus.
 While there was no intention of migrating, there was a sudden assault by the Sith Order.
@@ -13,6 +14,7 @@ A line of Jedi jumped over the main line, flanking the Sith on the front line an
 A blow to the Sith occurred, but all that resulted from the flank was a boost in morale for the Sith, gaining an undying passion and level of vigor above the Jedi.
 
 # Section 1
+
 The tides turned in favor of the Sith once more.
 Unable to push back against the Sith forces, the Jedi stood their ground, knowing that this day would likely be their last.
 Only being able to hold the line whilst the rest of the Jedi escaped.
@@ -23,7 +25,7 @@ The battle of the Jedi Sanctum lasted six hours, however, in the end, the streng
 Many of the most respected Jedi would fall valiantly, protecting their kin, and many surviving Jedi would mourn the loss of their most trusted friends, mentors, and students.
 In celebration of victory, the Dark Lord Vermened made a display of his power and strength in the Force by causing an earthquake in the area for miles.
 The Temple would begin to crumble from the inside, with the entrance being blocked by the shattered roof within, the exterior stayed standing and was left in a fragile state.
-The result of the Temple’s destruction would mark the rebirth of the Sith Order and the journey to their former glory.
+The result of the Templeâ€™s destruction would mark the rebirth of the Sith Order and the journey to their former glory.
 For the Jedi Order, it would mark a new age, a new start, and in time, it would mark the beginning of a newfound war.
 The Jedi would come to inhabit the Great Jedi Library of Ossus.
-It was rumored that the Jedi Sasnctum’s structure still stands, buried beneath land and stone.
+It was rumored that the Jedi Sasnctumâ€™s structure still stands, buried beneath land and stone.

@@ -1,4 +1,5 @@
 # Introduction
+
 Boles Roor, a pod racing legend, was a Sneevel.
 He used a Bin Gassi Racing Engines Quadrijet 4-Barrel 904E pod.
 Roor was notorious for having a lack of clothing throughout his entire life.
@@ -7,6 +8,7 @@ Roor hired multiple mechanics, but he put no effort into his podracer other than
 This lack of commitment resulted in combustion chamber issues along with subpar parts.
 
 # Section 1
+
 In 32 BBY, Boles Roor took part in the infamous Boonta Eve Classic.
 The night before the race, the cocky Sneevel wagered against the rookie Ben Quadinaros.
 Roor believed that Quadinaros would not even have the courage to enter the race.

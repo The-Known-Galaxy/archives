@@ -1,4 +1,5 @@
 # Introduction
+
 Rig Nema was a female consular Jedi who served as a physician at the Jedi Temple on Coruscant.
 When the Clone Wars prevailed, Nema had one of her most special patients: Grandmaster Yoda.
 He was treated by her because he claimed to hear the voice of Qui-Gon Jinn in his head, who was assassinated by Darth Maul.
@@ -20,6 +21,7 @@ When Nema had left the room, Yoda explained to Anakin that he had to get out of 
 When Nema and Windu returned, they only saw Yoda flying away with R2-D2 in his starfighter.
 
 # Section 1
+
 Rig Nema was a Halaisi with golden eyes and yellow skin.
 She was very good at her job, checking her patients several times to be sure, monitoring all vital signs at all times, and reporting to any relatives or friends.
 She did not shy away from more dangerous procedures like the withdrawal ritual as long as it would help her patients.

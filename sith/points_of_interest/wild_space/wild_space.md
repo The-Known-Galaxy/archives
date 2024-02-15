@@ -1,4 +1,5 @@
 # Overview
+
 Wild Space was the name given to the separation of the galaxy from the Unknown Regions.
 It was the frontier of galactic society and fringed the Outer Rim Territories.
 The name given to this area has changed many times over the years and held all of the unexplored areas.

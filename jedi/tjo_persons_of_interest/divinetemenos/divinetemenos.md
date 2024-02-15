@@ -1,4 +1,5 @@
 # Introduction
+
 DivineTemenos was a well-known member of the Jedi Order who was renowned for his dedication and leadership.
 Some may have known DivineFallout by many names, such as DivineFallout, Divine, or RyugaLucifer.
 Divine joined the Jedi Order on the 14th of January 2021 because of a friend.
@@ -6,6 +7,7 @@ He achieved not only the position of Councilor of Reassignment but also Jedi Gua
 Unfortunately for Divine, he did not receive any Jedi High Council awards.
 
 # Section 1
+
 Divine passed his Jedi Knighthood trials on the 28th of January, hosted by Jedi Master KennaexMalvern, also known as VexillumUsh.
 Divine barely passed the trials with a score of 30 out of 37 because he was not as good with English as he is now.
 He was very interested in becoming a Jedi Guardian, so Divine decided to become a Jedi Peacekeeper.
@@ -19,20 +21,18 @@ Divine served in the community for quite some time, and he believed that he has 
 He had two goals, the first one was to join the Jedi Assault Team, and the second one was to become a Jedi Master.
 Fortunately, he completed these goals.
 
-
-
 # Section 2
+
 After his time in the Temple Guard, Divine wanted to join the Jedi Assault Team.
 He joined the Jedi Assault Team on the 17th of October 2021.
 He participated in multiple raids within the Jedi Assault Team, and it was one of the things he enjoyed the most in the Jedi Order.
 However, before Divine joined the Jedi Assault Team, he first became a Jedi Lightsaber Instructor on the ninth of September 2021; not long after that, Divine was granted the rank of Jedi Instructor on the 21st of November.
 Divine was very eager to get the rank of Jedi Master while being a Jedi Weapon Specialist.
-However, he was ìa bit childish,î and he ìdid not have the maturityî to become a Jedi Master.
+However, he was ‚Äúa bit childish,‚Äù and he ‚Äúdid not have the maturity‚Äù to become a Jedi Master.
 Luckily DivineTemenos had Senior Councilor of Reassignment PrimeSicarius as his role model.
 
-
-
 # Section 3
+
 Once DivineTemenos was finally granted the rank of Jedi Master on the 28th of April 2022, he became more mature and acted as a good role model.
 It was more than one year before he joined the Jedi Order; Divine has been here longer than some of the Jedi High Councilors.
 At the time of the year, Divine was Head Weapon Specialist, hosting Practice Raids and Advanced Combat Trainings with his Weapon Specialists, which he had a lot of fun in.

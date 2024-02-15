@@ -1,13 +1,15 @@
 # Overview
+
 During the latter years of the New Sith Wars, a struggle between the Galactic Republic and the Sith, Zodoh was a Hutt criminal lord who made money by providing slaves and weapons to the Sith located in Hutt Space.
 He sought to increase his power in the Sith-ruled Grumani area.
 His fleet of Stormdriver starships constituted the foundation of Zodoh's strategies.
- Zodoh tested his new weapon on the planet Aquilaris Minor in the Daimanate, an area of space ruled by the Sith Lord Daiman, as a show of strength to the Sith Lords present there, but was forced to end the operation early due to Jenn Devaad's activities.
+Zodoh tested his new weapon on the planet Aquilaris Minor in the Daimanate, an area of space ruled by the Sith Lord Daiman, as a show of strength to the Sith Lords present there, but was forced to end the operation early due to Jenn Devaad's activities.
 Darknell was assaulted by Zodoh, but Devaad and Kerra Holt, a Jedi Knight, stopped him.
 As a result of the destruction of the Voracious, the Stormdriver fleet was rendered inoperable, leaving Zodoh adrift in empty space.
 After the conflict, Daiman's troops discovered Zodoh wounded but still alive and brought him before the Sith Lord, who used a tiny Stormdriver to wreak retribution by dehydrating the Hutt.
 
 # Biography
+
 The Hutts seized the opportunity when the comm-relays in Hutt Space failed, leaving the Sith Lords operating in that region of the galaxy dependent on the Hutt clans to convey supplies and manpower.
 A Republic task force was once entirely kidnapped by Zodoh's tribe on the planet Daalang when the local populace deserted them.
 The Alderaanian Baron Lemayne-led Grace Command, which provided aid to those stranded in Sith space, managed to free a small group of captives after five years of imprisonment, among them Captain Jenn Devaad.
@@ -23,9 +25,8 @@ Exactly in time for the Hutt to see Devil Squadron leave for the Malakite-occupi
 Flying one of his Intruder-class starfighters, Zodoh let Devil Squadron see him as they made their way to the location of their upcoming leap into hyperspace.
 Devaad led Devil Squadron in pursuit of the Hutt, disregarding Holt's advice to exercise care in order to get revenge for her time spent in captivity.
 
-
-
 # Personality and traits
+
 Zodoh was a masculine Hutt with brown skin and orange eyes.
 As was typical of his species, Zodoh was involved in crime, especially the fabrication of armaments and the trade in slaves, but he saw himself as a businessman serving his customers.
 Zodoh has trouble trusting people.
@@ -39,9 +40,8 @@ His willingness to utilize Deluge to enslave whole people and his use of Stormdr
 Zodoh was willing to sacrifice a large portion of its billion-person population in order to conquer Darkknell.
 The Hutt was shrewd and persistent, nevertheless, and was prepared to tolerate minor setbacks in order to accomplish long-term goals.
 
-
-
 # Skills
+
 Unlike the majority of his kind, Zodoh was an athletic combatant.
 The Hutt had a jetpack that allowed him to fly and armor covering his upper torso.
 He preferred utilizing his favorite weapon, an ancient Mandalorian axe, to combat his opponents.

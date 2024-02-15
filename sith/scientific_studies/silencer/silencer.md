@@ -1,4 +1,5 @@
 # Overview
+
 The Silencer is a superweapon used by the Sith Empire during the Old Republic Era, it had the power to decimate fleets due to its rapid recharging.
 Although unintentional, the Harrower-class Dreadnought's design was compatible with the Silencer.
 Instead of a hangar bay, the Sith Empire utilized the design of the Harrower-class Dreadnought and replaced the hangar bay with the Silencer.

@@ -1,4 +1,5 @@
 # Introduction
+
 Over the generations, Ossus had continued to thrive as a Jedi fortress world, holding many treasures and knowledge in Odan-Urr's massive archives known as the Great Jedi Library.
 The Jedi High Council began to take a more active role in the operations of the Order, and Four Masters oversaw the construction of a massive Temple on Coruscant to house members of the Order responsible for working directly with Republic representatives.
 At the height of Ossus' heyday in 3996 BBY, the talented and curious Jedi Exar Kun, having learned about the Golden Age of the Sith, traveled from Ossus to Dxun where he found the tomb of Freedon Nadd.
@@ -9,6 +10,7 @@ When word of this unsettling turn of events reached the Jedi High Council, a con
 During the conclave, the secret dark side society called the Krath attacked the Jedi with war droids.
 
 # Section 1
+
 Led by Aleema and Satal Keto, the Krath were able to kill the legendary Master Arca Jeth, who died while saving his student Ulic Qel-Droma's life.
 When the Krath were repelled, the Jedi regrouped and returned to Ossus.
 Seeking retribution for his masters death Qel'Droma planned an unsanctioned mission to infiltrate the Krath in an attempt to destroy them from within.
@@ -19,9 +21,8 @@ United, the Dark Lords waged war on the Republic, luring young Jedi from Ossus a
 Elsewhere, Qel-Droma defeated Mandalore the Indomitable, the leader of the Mandalorians, and with their leader defeated the Mandalorian Crusaders agreed to join the Sith.
 Qel-Droma's Krath and Mandalorian forces laid siege to Coruscant in an all-out attack at the heart of the Republic.
 
-
-
 # Section 2
+
 Jedi forces on the capital were few as their temple remained as just a small hermitage but infighting between Qel-Droma and Aleema Keto allowed for the Republic to score a victory through the capture of Qel-Droma and the retreat of his forces.
 In the custody of the Republic, Qel-Droma was tried before the Galactic Senate on Coruscant for war crimes.
 During the hearing, Dark Lord Exar Kun walked into the Senate Hall and executed the Chancellor before a shocked audience and later struck down the wise Master Vodo-Siosk Baas.
@@ -31,9 +32,8 @@ Aware of their impending doom, the Jedi desperately tried to save as many of the
 In a stunning move, Exar Kun and Ulic Qel-Droma arrived on Ossus as the Jedi scattered in an effort to loot the Great Jedi Library.
 In the upper levels, Master Ood Bnar buried several priceless artifacts just before the Sith arrived.
 
-
-
 # Section 3
+
 As the Sith attempted to strike him down, Bnar called on the Force to transform his body into that of a tree, a technique that came naturally to the Neti.
 Meanwhile, Qel-Droma dueled his brother Cay and killed him in his anger.
 When confronted with the finality of his actions, Qel-Droma's will was shattered and was then cut off from the Force by the Jedi Nomi Sunrider.
@@ -45,9 +45,8 @@ With both Sith Lords defeated and the Mandalorian Crusaders defeated on Onderon,
 With many great Masters dead and the fortress world of Ossus uninhabitable, Master Nomi Sunrider called a conclave on Exis Station to formally address the Order and begin the healing process.
 With the entire Order in attendance, Sunrider accepted the leadership role within the Order and set to rebuild the High Council.
 
-
-
 # Section 4
+
 Additionally, the headquarters of the Jedi was to be relocated to Coruscant, with major expansions on the existing enclave there to accommodate the entire Order.
 Relics and texts which had been stored at Exis Station after the destruction of Ossus would be transported to Coruscant as a new Jedi Archives was compiled within the Temple.
 In addition to her work in rebuilding the Order, Master Sunrider ordered the creation of an underground city on the planet Yavin 4 to aid the recovery of the planet's ecology as well as to ensure that Kun's spirit never returned again.

@@ -1,4 +1,5 @@
 # Overview
+
 Located on Ashas Ree, this temple contained a relic with an immense power source.
 Traps were rumored to be scattered around the Sith temple.
 Pressure plates scattered around the floor and on the relic itself would be found guarding this powerful item.

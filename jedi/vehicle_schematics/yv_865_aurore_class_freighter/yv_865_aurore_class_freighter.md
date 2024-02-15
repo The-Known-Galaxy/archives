@@ -1,28 +1,27 @@
 # Introduction
+
 The YV 865 Aurore-class Freighter, produced and manufactured by CEC (Corellian Engineering Corporation), was a highly durable Freighter often used by the Zygerrian Slave Empire.
-Because of this correlation they were often called ìZygerrian slave shipsî.
+Because of this correlation they were often called ‚ÄúZygerrian slave ships‚Äù.
 
 # Section 1
+
 The Freighter measured 52.3 meters in length, 42.33 meters in width and 16.44 meters in height.
 It had a maximum atmospheric speed of 900 KPH (Kilometers per hour) and featured a class one Hyperdrive.
 It was minimally armed, with only two medium laser cannons and a grappling turret.
 
-
-
 # Section 2
-The YV 865 Aurore-class Freighterís crew and passenger capacity was quite large.
-Itís crew capacity was a Pilot, an optional Co-pilot, an Engineer, Comms/Sensor operator, a Loadmaster and a gunner.
+
+The YV 865 Aurore-class Freighter‚Äôs crew and passenger capacity was quite large.
+It‚Äôs crew capacity was a Pilot, an optional Co-pilot, an Engineer, Comms/Sensor operator, a Loadmaster and a gunner.
 Its crew capacity was 15 passengers, and 100 prisoners.
 Its ration capacity could last for two months.
 
-
-
 # Section 3
+
 The YV 865 were very large and bulky freighters, with a very spacious cargo hold that in the case of the Zygerrians, was used for slave trafficking.
 Despite its large crew capacity, the vessel could be flown by a single individual, and had one escape pod in case of emergency.
 
-
-
 # Section 4
-The Freighter was used in the time of the clone wars by the  Zygerrian Empire for slave transport, and one such freighter named ìDelta-T-3î was used to transport the captured Jedi Master Obi Wan Kenobi, Captain Rex of the Republic Army and a Republic citizen named Gupat Roshti to the facility on Kavado.
-The shipís use wasnít limited to the Slave Empire, used across the galaxy, and years later used by the Mining Guild as well.
+
+The Freighter was used in the time of the clone wars by the  Zygerrian Empire for slave transport, and one such freighter named ‚ÄúDelta-T-3‚Äù was used to transport the captured Jedi Master Obi Wan Kenobi, Captain Rex of the Republic Army and a Republic citizen named Gupat Roshti to the facility on Kavado.
+The ship‚Äôs use wasn‚Äôt limited to the Slave Empire, used across the galaxy, and years later used by the Mining Guild as well.

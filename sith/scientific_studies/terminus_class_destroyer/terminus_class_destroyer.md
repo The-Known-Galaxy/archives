@@ -1,4 +1,5 @@
 # Overview
+
 The Terminus class Destroyer was mostly used by the Sith Empire during the Cold War and Galactic War alongside the Harrower class Dreadnought as a capital ship.
 Although it was classified as a capital ship, the ship's firepower was nothing in comparison to any other capital ship at the time, which is why it was mostly used as a support-type ship by the Imperial Navy.
 Because of how easy it was to produce a Terminus class Destroyer, the ship was mostly stationed on captured planets to save more capable ships for skirmishes.

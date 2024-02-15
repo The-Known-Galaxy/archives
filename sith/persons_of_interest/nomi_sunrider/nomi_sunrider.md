@@ -1,16 +1,18 @@
 # Introduction
+
 Nomi Sunrider, member of the Jedi Order during the Galactic Republic, was a Jedi Master, who later became the Jedi Grand Master.
 She married Andur Sunrider, a man native to her same planet and she had a daughter with him whose name was Vima.
-During one of Andur’s missions he was ambushed and killed leaving Nomi in great depression.
+During one of Andurâ€™s missions he was ambushed and killed leaving Nomi in great depression.
 Nomi became a padawan under Jedi Master Thon and participated in a mission to aid Ulic Qel-Droma in which they succeeded.
 Qel-Droma later developed a romantic relationship with Nomi but ultimately fell to the Dark Side.
 Nomi participated throughout the Great Sith War, fighting against Exar Kun and his once loved Qel-Droma.
-The war came to an end with Exar Kun’s death and Nomi win over Qel-Droma, who she left alive due to her personal feelings.
- She later returned to the Order, where she continued climbing the ranks until eventually becoming the Grand Master nearing the time of the Conclave on Exis Station.
+The war came to an end with Exar Kunâ€™s death and Nomi win over Qel-Droma, who she left alive due to her personal feelings.
+She later returned to the Order, where she continued climbing the ranks until eventually becoming the Grand Master nearing the time of the Conclave on Exis Station.
 
 # Biography
-A young Nomi Da-Boda marries Andur Sunrider and adopts his husband’s surname.
-At the start she was continuously surprised by her husband’s connection with the Force but he assured her she also had it.
+
+A young Nomi Da-Boda marries Andur Sunrider and adopts his husbandâ€™s surname.
+At the start she was continuously surprised by her husbandâ€™s connection with the Force but he assured her she also had it.
 They lived together on the planet of Darada and then moved to H'ratth after being invited by Master Chamma.
 There she gave birth to her daughter Vami and after various years, Andur learned everything he could.
 
@@ -84,7 +86,6 @@ The trial ends when Exar Kun, Mandalore, and a legion of Massassi warriors arriv
 Sunrider begs Qel-Droma to renounce his allegiance, but Qel-Droma warns her that if she doesn't stop interfering, she will be forced to hurt her.
 Qel-Droma and his allies leave Coruscant to continue their war of conquest.
 
-
 Sunrider and her daughter Vima visited Master Thon on Ambria for healing and training.
 However, the peace was disrupted when agents of Exar Kun, Oss Wilum and Crado, arrived and called forth deadly hssiss to kill the three Jedi.
 Sunrider, Sylvar, and Thon defended each other, eventually killing all of the hssiss and capturing Oss Wilum.
@@ -113,10 +114,9 @@ Sunrider and her daughter witness the final stages of the fight, and Qel-Droma's
 Sunrider holds Qel-Droma's body and there realizes that her daughter's love showed Qel-Droma the path to redemption.
 After Qel-Droma's death, Sunrider and her daughter return to the Republic with a new commitment to the Force, helping them accept their destinies.
 
-
-
 # Legacy
-No information is known about Nomi’s end however the newer generations of Jedi were taught about her heroic acts.
+
+No information is known about Nomiâ€™s end however the newer generations of Jedi were taught about her heroic acts.
 Her personality and knowledge were stored in the Noetikon of Light, one of three Noetikons which was stolen and then recovered by an unknown Jedi Consular.
 Luke Skywalker reestablished the Jedi Order after Emperor Palpatine's death and the destruction of the second Death Star.
 He seeked Force-sensitives to join him on Yavin 4 to study at his Jedi Praxeum.
@@ -124,27 +124,25 @@ Tionne, a silver-haired woman, had found ancient data plaques from Exis Station,
 She played the speech and sang ballads about the ancient Jedi.
 In 22 ABY, Tionne and Master Ikrit discover an antique ship on Vjun, named the Sunrider after Nomi Sunrider, symbolizing Ikrit's decision to give up his lightsaber.
 
-
-
 # Personality and traits
+
 Nomi, experienced love throughout her whole life.
-Firstly, falling in love with a fellow Jedi, Andur Sunrider and with whom she’ll eventually get married.
+Firstly, falling in love with a fellow Jedi, Andur Sunrider and with whom sheâ€™ll eventually get married.
 Their love brought to the world a beautiful daughter named Vima.
 After the loss of his husband and grief that lasted various years, she met another young Jedi, however as fate would have it, he fell to the Dark side and the two men who Nomi had loved had abandoned her.
-Her love wasn´t just for men as her daughter was Nomi’s most precious gift.
+Her love wasnÂ´t just for men as her daughter was Nomiâ€™s most precious gift.
 Nomi had protected her daughter even during the Sith War but when Vima got into her teenage years she decided to seek training from the man who brought happiness to her mother when sadness was all she could see.
 Qel-Droma trained her even after Sunrider had gone to see if she was safe and indeed she was.
 They both bonded like father and daughter and eventually Vima left to go to her mother's side once again.
-During Qel-Droma’s path to redemption he was killed and they both felt it, leaving the two women of his life in grief and pain.
-
-
+During Qel-Dromaâ€™s path to redemption he was killed and they both felt it, leaving the two women of his life in grief and pain.
 
 # Powers and abilities
-Nomi’s potential as a Force sensitive was clear from a very young age however the Jedi Order didn't pick her for unknown reasons and it wasn't until her husband insisted that she started her training as a Jedi.
-Her connection, under Master Thon’s tutelage, deepened to the point in which she could make her enemies kill themselves, by using the very rare and acquiring the extremely difficult achievement of mastering the art of battle meditation.
+
+Nomiâ€™s potential as a Force sensitive was clear from a very young age however the Jedi Order didn't pick her for unknown reasons and it wasn't until her husband insisted that she started her training as a Jedi.
+Her connection, under Master Thonâ€™s tutelage, deepened to the point in which she could make her enemies kill themselves, by using the very rare and acquiring the extremely difficult achievement of mastering the art of battle meditation.
 She was also capable of disabling Sith spells and illusions, using Force deflection and using Tutaminis.
 Later, after changing of Master, under Master Urr tutelage,  she learned the rare ability of combating a Sith use of the Force by  essentially cutting them off from the Force targeting the users midi-chlorians and she did it with only a single session of training.
 But perhaps her most unique and powerful ability was that of conjuring pure raw light out of her own warmth for those she cared about.
-At the start her usage of the lightsaber was pretty poor but after her Husband’s death her skills with it just kept getting better.
+At the start her usage of the lightsaber was pretty poor but after her Husbandâ€™s death her skills with it just kept getting better.
 She improved so much that at a certain point she was considered to be a master at all forms.
 Nevertheless, she always expressed her preference using the Force over a lightsaber in a fight against a Sith.

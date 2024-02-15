@@ -1,4 +1,5 @@
 # Overview
+
 Located in the Akkadese Maelstrom, Kessel was a planet known for hosting its many spice mines.
 Despite its infamy for Spice mines, the southern hemisphere of this planet is a green area home to lush sanctuaries.
 During eras like the Galactic Empire, Kessel had many of its mines running through slave trades and labor.

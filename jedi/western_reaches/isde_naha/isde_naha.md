@@ -1,4 +1,5 @@
 # Introduction
+
 Isde Naha was located in the Western Reaches.
 The planet was native to the Clan of the Toribota and their enclave.
 Isde Naha was the capital planet in the Yarith sector, located in the Greater Javin area.

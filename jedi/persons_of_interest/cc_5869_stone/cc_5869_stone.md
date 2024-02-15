@@ -1,5 +1,6 @@
 # Introduction
-CC-5869, also called “Stone”, was a clone trooper commander that served as a Coruscant Guard within the Grand Army of the Republic.
+
+CC-5869, also called â€œStoneâ€, was a clone trooper commander that served as a Coruscant Guard within the Grand Army of the Republic.
 He worked within the Diplomatic Escort Group, which meant that he was tasked with protecting and escorting Republic officials and diplomats during dangerous assignments.
 He, just like every other clone trooper, was created and trained on Kamino.
 Stone was trained in both armed and unarmed combat, reconnaissance, and military tactics.

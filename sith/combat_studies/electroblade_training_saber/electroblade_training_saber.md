@@ -1,4 +1,5 @@
 # Overview
+
 The Sith were holders of many weapons but a common tool to many students looking to become a future Sith Lord was the training saber, (electroblade training saber) and was used throughout the teachings of the Sith Academy through the Hopefuls and the Acolytes.
 The training saber was mostly used so the Hopefuls and Acolytes would not feel tempted to strike down the other students in training duels or anywhere they were located in the Sith Academy.
 The blade was known to have a traditional hilt but also obtained many metal wires that were protected by metal that could withstand another training saber, these wires would connect all through the hilt to the tip of the blade which is where the electric field takes place.

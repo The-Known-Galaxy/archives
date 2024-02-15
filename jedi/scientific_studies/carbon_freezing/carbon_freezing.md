@@ -1,4 +1,5 @@
 # Introduction
+
 Carbon-freezing is the process of encasing fragile and precious materials, including sentient beings,  in frozen carbonite in preparation for transportation.
 Such a process would be used to encase highly pressurized gasses such as tibanna so that they could be safely transported from one place to the other.
 

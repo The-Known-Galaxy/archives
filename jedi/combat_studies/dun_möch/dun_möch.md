@@ -1,35 +1,34 @@
 # Introduction
-Dun Mˆch was a combat tactic used in conjunction with Lightsaber combat.
-Dun Mˆch took place in the form of taunting, distraction and doubt.
-The Sith aimed to dominate an opponentís spirit, hence they incorporated it heavily into their Lightsaber combat doctrine.
-(Quote: ìMaster Kenobi, you disappoint me.
-Yoda holds you in such high esteemÖ Surely you can do better!î - Count Dooku)
+
+Dun M√∂ch was a combat tactic used in conjunction with Lightsaber combat.
+Dun M√∂ch took place in the form of taunting, distraction and doubt.
+The Sith aimed to dominate an opponent‚Äôs spirit, hence they incorporated it heavily into their Lightsaber combat doctrine.
+(Quote: ‚ÄúMaster Kenobi, you disappoint me.
+Yoda holds you in such high esteem‚Ä¶ Surely you can do better!‚Äù - Count Dooku)
 
 # Section 1
-Dun Mˆch commonly used verbal taunts to expose the opponentís hidden fears, weaknesses or doubts, making the opponent lose their concentration.
+
+Dun M√∂ch commonly used verbal taunts to expose the opponent‚Äôs hidden fears, weaknesses or doubts, making the opponent lose their concentration.
 Mental attacks would also be utilized, making the opponent less precise and effective.
-(Darth Bane in his writings marked that Mind Shard, a dark side mental ability, can be improved if used in conjunction with Dun Mˆch - Book of Sith)
-
-
+(Darth Bane in his writings marked that Mind Shard, a dark side mental ability, can be improved if used in conjunction with Dun M√∂ch - Book of Sith)
 
 # Section 2
-Dun Mˆch could be quite deadly, especially to Jedi, since concentration was a vital part to use the Force.
-Dun Mˆch used the Force as a form of psychological warfare.
-Many notable Sith have utilized Dun Mˆch including Darth Bane, Darth Traya, Darth Nihilus, Darth Sion, Darth Tyranus, Darth Maul, Darth Vader and Darth Sidious.
-Dun Mˆch was also utilized both in its regular form and inverse form by some Jedi including Luminara Unduli, Galen Marek, Luke Skywalker and Jaina Solo to name a few.
 
-
+Dun M√∂ch could be quite deadly, especially to Jedi, since concentration was a vital part to use the Force.
+Dun M√∂ch used the Force as a form of psychological warfare.
+Many notable Sith have utilized Dun M√∂ch including Darth Bane, Darth Traya, Darth Nihilus, Darth Sion, Darth Tyranus, Darth Maul, Darth Vader and Darth Sidious.
+Dun M√∂ch was also utilized both in its regular form and inverse form by some Jedi including Luminara Unduli, Galen Marek, Luke Skywalker and Jaina Solo to name a few.
 
 # Section 3
-If not carefully used, Dun Mˆch could backfire on the user, as Darth Sidious comments on Baneís writings (Book of Sith).
+
+If not carefully used, Dun M√∂ch could backfire on the user, as Darth Sidious comments on Bane‚Äôs writings (Book of Sith).
 A famous example of this is the duel of Obi-WanKenobi and Anakin Skywalker versus Count Dooku.
 After Obi-Wan was incapacitated, Dooku taunted Anakin about his fear and Anakin not using his anger.
 This taunting prompted Anakin to attack viciously, until he had Dooku at his mercy, and killed him.
 
-
-
 # Section 4
-As mentioned before, some Jedi used an inverse form of Dun Mˆch, famously used by Luke Skywalker on the Second Death Star against Darth Vader.
+
+As mentioned before, some Jedi used an inverse form of Dun M√∂ch, famously used by Luke Skywalker on the Second Death Star against Darth Vader.
 Young Luke tried to remind Vader that he still has good within him.
 Luke was successful, and redeemed Anakin Skywalker.
 This technique was also used by Revan to redeem Bastila Shan.

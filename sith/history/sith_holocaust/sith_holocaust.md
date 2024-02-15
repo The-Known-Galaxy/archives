@@ -1,4 +1,5 @@
 # Overview
+
 The Sith Holocaust, otherwise known as the Post-Great Hyperspace War Counterinvasion was a mass genocide carried out by the Galactic Republic on all Sith-occupied worlds.
 Following the Great Hyperspace War, the first major conflict between the Sith Empire and the Galactic Republic, unrest and paranoia became rampant within the Republic.
 Despite the Sith losing the war and being unable to commit any other offensive attacks against Republic space, many within the Republic did not believe this was enough.

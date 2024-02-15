@@ -1,10 +1,12 @@
 # Overview
+
 Chikarri are a sentient rodent species.
 They were bipedal, digitigrade, and extremely agile.
 By nature, they are very intuitive and are able to disassemble complex pieces of technology with ease.
 This made them extremely valuable as technicians and mechanics all across the galaxy.
 
 # Characteristics
+
 They resembled humanoid squirrels.
 They had short, squat bodies covered in thick fur and a large, bushy tail.
 They had claws on all four of their limbs, making them exceptional climbers with great balance.

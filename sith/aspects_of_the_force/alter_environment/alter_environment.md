@@ -1,9 +1,11 @@
 # Introduction
+
 Alter Environment is a way of manifesting the Force by manipulating nature.
 With this ability, you can create things such as Force Whirlwinds, and fogs.
 The Alter Environment manifestation needed a mastery of basic force abilities, such as Force pull and Force push, since it relied on them.
 
 # Description
+
 With the Alter Environment force skill, you could manipulate temperatures.
 The temperature manipulation could be used in combat to freeze your enemies to death or light them on fire.
 You could also manipulate air pressure with this, which links this ability and the Force push together.

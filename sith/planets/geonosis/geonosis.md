@@ -1,4 +1,5 @@
 # Overview
+
 Geonosis is a desert planet known for its harsh climate and rocky terrain.
 It is home to the insectoid Geonosians, who are skilled in advanced technology and droid manufacturing.
 The planet played a pivotal role in the Clone Wars, serving as the site of the first major battle between the Republic and the Separatists.
@@ -6,6 +7,7 @@ Geonosis is also known for its deadly wildlife, including the acklay, reek, and 
 Despite its dangerous reputation, Geonosis continues to be a popular destination for those, who are drawn to its unique creatures and technology.
 
 # History
+
 History
 
 Geonosis is a planet with a rich and tumultuous history.

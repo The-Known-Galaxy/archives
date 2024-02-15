@@ -1,13 +1,15 @@
 # Overview
+
 The story of Lord Nyax was an old Corellian tale, that was a part of a greater collection of Corellian mythos.
 A tale that was told to boys and girls, that he would come to kidnap them in their sleep to foster compliance and obedience, more so towards misbehaving kids.
 As time passed, the tale of Lord Nyax would become synonymous with Darth Vader, due to his secret mission of kidnapping children with Force-Sensitivity on Corellia, and would eventually spread from the planet to the wider galaxy.
 
 Throughout galactic history, other beings had their identity assimilated to that of the evil spirit.
 During the Galactic Civil War, a Corellian cult, known as the Cult of Lord Nyax, carried out acts of horrendous terror, including terrorism, against the local Correllian population in the name of their Lord.
-During the Yuuzhan Vong Invasion, the Dark Side Adept Irek Ismaren had assumed the identity of Lord Nyax, after hearing his name in the minds of his victims he’d tortured.
+During the Yuuzhan Vong Invasion, the Dark Side Adept Irek Ismaren had assumed the identity of Lord Nyax, after hearing his name in the minds of his victims heâ€™d tortured.
 
 # History
+
 In times that were considered ancient by 27 ABY, the evil entity known as Lord Nyax was referred to by Corellian parents to their children in order to frighten them into more compliant behavior.
 Lord Nyax was described as being either a pale ghost-like figure or a man shrouded in a dark cloak with sickly yellow eyes, a hooked nose, sharp teeth, and long nails.
 The entity's depiction shared many similarities with the appearance of the Galactic Emperor and Dark Lord of the Sith, Palpatine, and also shares these similarities with the appearance one takes with the cosmetic effects of Dark Side corruption.

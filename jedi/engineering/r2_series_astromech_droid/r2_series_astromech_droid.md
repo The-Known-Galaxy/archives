@@ -1,4 +1,5 @@
 # Introduction
+
 R2 units were one of the most popular astromech droids produced by Industrial Automaton, a company that developed droids.
 The droids, which were about 1 meter tall and had domed heads, were programmed to perform many tasks.
 One of their most successful models in the series was a droid known as R2-D2.

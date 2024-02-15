@@ -1,4 +1,5 @@
 # Overview
+
 Lol was a planet known for its extremely dull, boring, and lifeless characteristics.
 It was found after a starship pilot crash-landed on the planet, where he shortly after discovered a special ore on the planet that could be used to assist in Durasteel making.
 Thinking of the riches he could claim behind this planet, he decided to try and claim the planet, where he named it after the god of death.

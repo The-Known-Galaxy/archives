@@ -1,13 +1,12 @@
 # Article
-The Chiss were a tall, blue-skinned near-human species hailing from their home planet of Csilla within the Unknown Regions.
-The Chiss are distinguishable by their blue skin, red eyes and black hair; the Chiss’ red eyes would grow darker depending on the amount of oxygen surrounding them.
-The Chiss were unknown to the rest of the galaxy; only a few would know about their existence or refer to them as the people of better known Chiss, such as Thrawn.
 
+The Chiss were a tall, blue-skinned near-human species hailing from their home planet of Csilla within the Unknown Regions.
+The Chiss are distinguishable by their blue skin, red eyes and black hair; the Chissâ€™ red eyes would grow darker depending on the amount of oxygen surrounding them.
+The Chiss were unknown to the rest of the galaxy; only a few would know about their existence or refer to them as the people of better known Chiss, such as Thrawn.
 
 The Chiss were an offshoot of humanity from early expansions into the Galaxy; it is believed that their physical form changed because of living underground and being exposed to glacial minerals.
 Their appearance was easy to identify and usually made them stand out in larger crowds of humanoids; full-grown Chiss would grow between 1.6 and 2.1 meters with 1.7 meters, later 1.85 meters being the average.
 Chiss had a higher metabolism, and this was noticeable in their physical shape; they were next to the physical features almost similar to humans, Chiss had a more pliant vocal system which was noticeable in their native language of Cheunh.
-
 
 Yet, the Chiss had an accelerated growth rate compared to humans, allowing them to reach maturity much faster.
 Chiss at the age of 10 would be physically comparable to a human at the age of 20, in turn, this became part of their emotional and cultural imprint; this, resulted in the Chiss usually being more mature and intellectually advanced than their human counterpart.

@@ -1,11 +1,13 @@
 # Introduction
-Rish Synataís ship was a golden and dark-red themed starship owned by the Frenk actress Risha Synata.
-The shipís notable features included a large open-space hangar bay, as well as an enormous statue of the actress.
+
+Rish Synata‚Äôs ship was a golden and dark-red themed starship owned by the Frenk actress Risha Synata.
+The ship‚Äôs notable features included a large open-space hangar bay, as well as an enormous statue of the actress.
 The starship contained exhibits featuring non-sentient species, such as opee sea killers and gundarks, and a luxurious reception hall filled with portraits and posters of the actress, emphasizing her many talents and achievements.
 The vessel had numerous guest rooms, some with viewports looking out into space.
-Aurebesh markings representing Synataís initials could be found throughout all parts of the ship.
+Aurebesh markings representing Synata‚Äôs initials could be found throughout all parts of the ship.
 
 # Section 1
-Synataís starship had a theater and casino, as well as an extensive (although debatably accurate) museum of galactic history.
-Named ìMadam Synataís Genius of a Thousand Faces Museum,î the exhibit contained dioramas of planets and locations, as well as depictions of well-known senators and Jedi.
+
+Synata‚Äôs starship had a theater and casino, as well as an extensive (although debatably accurate) museum of galactic history.
+Named ‚ÄúMadam Synata‚Äôs Genius of a Thousand Faces Museum,‚Äù the exhibit contained dioramas of planets and locations, as well as depictions of well-known senators and Jedi.
 While most of the ship was lavishly decorated, a hidden metallic viewing deck dedicated to the cause of the Confederacy of Independent Systems existed, along with a droid control center, utilizing LEP-series service droids as servants.

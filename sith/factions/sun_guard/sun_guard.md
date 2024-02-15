@@ -1,4 +1,5 @@
 # Introduction
+
 The Sun Guard was a Thyrsian mercenary company and one of the most feared in the galaxy, centered on the planet Thyrsus in the Thyrsus system.
 Formed from the rebellious Thyrsian special forces sometime after 1154 BBY, the Sun Guard fought the Echani of the Echani Command in numerous skirmishes before the Pact of Almera in 899 BBY confirmed Thyrsus's independence.
 Earning fame as a mercenary unit, the Sun Guard became rivals of the Mandalorian warriors, though the group was ultimately subverted by the Sith under the influence of the Order of the Sith Lords.
@@ -12,6 +13,7 @@ The Sun Guard transitioned from being a special-forces unit in the Thyrsus milit
 This piece delves into their transformation, principles, and unique organizational structure.
 
 # Origins and Early Philosophy
+
 The Sun Guard finds its roots as a special-forces unit within the Thyrsus military, incorporated into its rank structure.
 In contrast to their Echani forebears, the Thyrsians upheld a male-dominated system, emphasizing armor and bladed combat.
 During its inception, the Sun Guard drew spiritual significance from the sun.
@@ -32,9 +34,8 @@ Advancement relied solely on military heroism, while cowardice led to immediate 
 In its early philosophy, the Sun Guard epitomized unwavering dedication to valor and military prowess.
 While they distanced themselves from religious fervor during their mercenary phase, the allure of Sith influence brought a mystic dimension to their identity.
 
-
-
 # Becoming Mercenaries
+
 As they expanded beyond Thyrsus, the Sun Guard capitalized on its unparalleled combat skills and restructured itself into a mercenary group similar to the Mandalorians, relinquishing religion as its primary motivation.
 They offered their services for a price and undertook missions that had defeated others before them.
 
@@ -55,9 +56,8 @@ Advancement relied solely on military heroism, while cowardice led to immediate 
 
 The Sun Guard's journey from their origins in the Thyrsus military to becoming feared mercenaries exemplified their adaptability, resilience, and unwavering dedication to their philosophy of valor and military prowess.
 
-
-
 # Formation and early history
+
 Early History of the Sun Guard:
 
 Thyrsus, a planet inhabited by the near-Human Echani species, was one of the Six Sisters within the Echani Command, governed by a female council.
@@ -91,9 +91,8 @@ About a century before the rise of the Galactic Empire, Thyrsus' culture develop
 During this pivotal period, the hidden Order of the Sith Lords exploited the Thyrsian belief, encouraging Sith interpretations of Jedi beliefs and propagating the notion that the Sun Guard might fulfill the prophecy.
 Succumbing to the allure of Sith influence, the Sun Guard transformed into a Sith cult, drawn towards the enigmatic ways of the dark side of the Force.
 
-
-
 # In the service of Darth Plagueis
+
 During the last century of the Republic, the Muun Dark Lord of the Sith, Darth Plagueis, enlisted a company of silver-armored Echani Sun Guards to provide security at his residence on the moon Sojourn.
 These Sun Guards replaced the Iotran Brandsmen who previously defended the world.
 Additionally, a contingent of Echani Sun Guards protected members of Damask Holdings, a company led by Plagueis in his public persona as "Hego Damask," a powerful financier.
@@ -116,9 +115,8 @@ Plagueis hired replacements from Thyrsus and stationed some Sun Guards to protec
 Over the years, Damask became increasingly reclusive, and the Sun Guards' duties were limited to escorting visitors and maintaining ground-based turbolasers.
 Plagueis left Palpatine to his own devices, and the Sun Guards informed Palpatine of his master's erratic behavior.
 
-
-
 # Agents of Lord Sidious
+
 At some point before 32 BBY, Darth Sidious, a Sith Lord, utilized his influence to consolidate the Sun Guard in the Thyrsus system under his command.
 These elite guards were assigned to protect his stronghold on Coruscant, eliminating any underdweller who approached too closely.
 
@@ -139,11 +137,10 @@ Many Thyrsians supported the Emperor and saw the Royal Guard as the rightful suc
 However, some Sun Guards viewed Palpatine's actions as detrimental to their traditions and sought to restore their organization's reputation and honor.
 
 After Palpatine's death in 4 ABY, Thyrsus became an isolationist world.
-Yet, during the Yuuzhan Vong War of 25–29 ABY, a new generation of Sun Guards emerged, defending Thyrsus against the extragalactic Yuuzhan Vong and striving to uphold their organization's ancient traditions and honor.
-
-
+Yet, during the Yuuzhan Vong War of 25â€“29 ABY, a new generation of Sun Guards emerged, defending Thyrsus against the extragalactic Yuuzhan Vong and striving to uphold their organization's ancient traditions and honor.
 
 # Equipment and Techniques
+
 Members of the Sun Guard wore distinctive helmets, resembling those of the Republic's Senate Guard, which likely served as inspiration for the latter.
 The advanced visor of the Sun Guard helmet allowed them to image thermal data, infrared, and ultraviolet wavelengths, enhancing their surveillance and sniping capabilities.
 The Sun Guard armor, characteristically black, was renowned for its resistance to damage without impeding their mobility.

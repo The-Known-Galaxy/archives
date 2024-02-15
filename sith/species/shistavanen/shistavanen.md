@@ -1,8 +1,10 @@
 # Overview
+
 Colloquially referred to as Wolfmen due to their lupine appearance, they were a bipedal sentient species.
 They were humanoid, with their distinguishing traits being lupine appearance, enhanced senses, and increased speed and strength.
 
 # Characteristics
+
 They first appeared on the planet Uvena Prime, in the Uvena system.
 While they evolved naturally, many of their attributes were caused by the intervention of unknown genetic engineers in the past.
 Like most canine species, they had pronounced muzzles, sharp claws, long pointed teeth, and pointed ears set on top of their heads.

@@ -1,4 +1,5 @@
 # Introduction
+
 Serra Keto was a female Jedi Knight who served the Jedi in the upcoming years before the Great Jedi Purge.
 She was the Padawan of the renowned Jedi Battlemaster Cin Drallig and was considered his prized pupil.
 Like her master, Keto was famous for her talents as a lightsaber wielder and was a selfless Jedi who was willing to sacrifice herself on several occasions.

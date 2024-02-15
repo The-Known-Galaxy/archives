@@ -1,4 +1,5 @@
 # Section One
+
 Formerly known as Companion Aurek, the Rishi Maze was one of seven satellite dwarf galaxies that orbited the galaxy.
 The name of the satellite came from the planet Rishi, which was where hyperspace travel to the Rishi Maze started.
 However, the formal name for the maze derived from Aurek, the first letter in the Aurebesh alphabet.

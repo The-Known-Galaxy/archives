@@ -1,4 +1,5 @@
 # A Rapid Ascension
+
 Darth Penumbra was a Dark Councillor and Overlord of the Sphere of Law & Justice (L&J).
 She started off as a Hopeful, just like all Sith, she then ascended her way through the ranking system of the Sith.
 Before that, she had to achieve the rank of Adept.
@@ -10,6 +11,7 @@ However, after becoming a Sith Knight, Penumbra decided to remain there for a wh
 She joined the L&J a little while earlier and she would remain there for the rest of her time within the Order.
 
 # Dedication to Laws and Justice:
+
 Once she became Sith Knight, Penumbra dedicated a lot of her time to the Sphere of Law & Justice.
 She desired to become an Inquisitor but remained a Sith Knight for a while longer.
 After waiting a long time, Penumbra decided it was time to ascend to Inquisitor.
@@ -28,5 +30,5 @@ She also had a lot of apprentices during her time in the Sith Order.
 The ones that passed were Erelil, ORN_Xarr95, KelubPanik, Yamota_Kaminishi, Konstyentyn, and Aryajaal, She taught each to the best of her abilities and helped them ascend to Sith Knight.
 Now, Penumbra recently retired and is a Sith Elder, not long after being challenged to a humiliation Kaggath.
 She was very busy so she had to forfeit the Kaggathand retire as Dark Councillor and Overlord.
-She also didn’t believe the reasoning behind the Kaggath was acceptable.
+She also didnâ€™t believe the reasoning behind the Kaggath was acceptable.
 During her time in the Order, she also achieved many accolades, such as Activity Accolade, Leadership Accolade, and Defender of the Order.

@@ -1,4 +1,5 @@
 # Overview:
+
 The loud yelling and banter of crowds gathered among the sacred throneroom of Darth Validus, a space nobody was normally allowed in.
 The Dark Honour Guardsmen stood solemnly at each corner and each entrance, it was a time of merit and honour.
 Members of each Sphere were given accolades for their efforts and contributions, some recognised for their combat prowess, others for their involvement in events.
@@ -16,21 +17,18 @@ As Darth Validus sat on the throne, peering down on the masses with his single e
 The eight most powerful Sith in the galaxy were all gathered.
 The Dark Lord cleared his throat and began to speak, every Sith went silent in both fear, reverence, and respect.
 
-ìIt is now time for the promotion of members to be announced.
-I believe Darth Nˆdt should be the first to share the news.î
+‚ÄúIt is now time for the promotion of members to be announced.
+I believe Darth N√∂dt should be the first to share the news.‚Äù
 
 Darth Validus peered down at the hooded Dark Councilor, his arms crossed and his stare over the lines of people intent.
-His eyes met Shokuís, once a new Curator taken under Darth Invictusí now an experienced member of the Sith who others confided in for guidance.
+His eyes met Shoku‚Äôs, once a new Curator taken under Darth Invictus‚Äô now an experienced member of the Sith who others confided in for guidance.
 A true successor for the lost Keeper of Records.
-Darth Nˆdt spoke loudly and clearly for all to hear, to listen in on who would be promoted in Ancient Knowledge.
+Darth N√∂dt spoke loudly and clearly for all to hear, to listen in on who would be promoted in Ancient Knowledge.
 
-
-
-
-ìIt is indeed an honour and a pleasure for me to announce not a new Lord, but a new Darth of Ancient Knowledge.
+‚ÄúIt is indeed an honour and a pleasure for me to announce not a new Lord, but a new Darth of Ancient Knowledge.
 He has shown resilience, he has taken initiative, and he has proven himself to be a worthy replacement for his predecessor.
 ShokuMatsu, I hereby grant you the title of Darth and name you Darth Gallius.
-Go forth and preserve the secrets of the Sith, destroy our enemies, and bring glory to the Sphere of Ancient Knowledge as the new Keeper of Records.î
+Go forth and preserve the secrets of the Sith, destroy our enemies, and bring glory to the Sphere of Ancient Knowledge as the new Keeper of Records.‚Äù
 
 Silence still filled the room for a few seconds, until thunderous cheering and applause was made in honour of the new Darth.
 Members of other Spheres, people who appreciated him, his comrades, and his supporters all celebrated in support.

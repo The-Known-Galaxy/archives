@@ -1,4 +1,5 @@
 # Overview
+
 Darth Qalar was a female Dark Lord of the Sith who was of Pureblood or human race.
 She served the reconstituted Sith Empire as Dark Councillor.
 Darth Qalar and Darth Victun, a fellow Dark Councillor, fought each other in one of the most brutal humiliation Kaggaths and destroyed one of the Imperial citadels on the hidden planet of the Sith Empire, Dromund Kaas, which infuriated the Emperor.

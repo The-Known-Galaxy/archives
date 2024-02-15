@@ -1,4 +1,5 @@
 # Overview
+
 Located on the volcanic planet of Mustafar was an ancient Sith temple in the Gahenn Plains.
 The temple was built on top of a cave, which housed a special and unique Dark Side locus.
 This temple was destroyed sometime before the Clone Wars.

@@ -1,6 +1,7 @@
 # Description
+
 The Dagger of Mortis, also known as the Mortis Dagger was a mysterious weapon that was located on the planet, Mortis.
-The Dagger was The Father’s, who was a god-like being who believed in a balance in the Force.
+The Dagger was The Fatherâ€™s, who was a god-like being who believed in a balance in the Force.
 As long as The Father was alive his children would have immense power.
 Because of this, he used The Dagger to control the two siblings, a son, and a daughter.
 The siblings were total opposites; The Son was a Dark Side user and The Daughter was a Light Side user.

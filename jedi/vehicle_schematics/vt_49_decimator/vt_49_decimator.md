@@ -1,4 +1,5 @@
 # Introduction
+
 VT-49 Decimator was seen to be either a symbol of pride and progression, or a show of destruction and doom, depending on which side of its laser cannons you were on.
 The VT-49 Decimator, also known by the nickname Decimator, was a heavily armed transport ship.
 The main users of the ship were the Imperial Navy of the Galactic Empire.
@@ -8,8 +9,9 @@ The creators of the Decimator were the leading ship manufacturers of the galaxy,
 The company would sell the ship for the high pricing of 160,000 credits.
 
 # Section 1
-To continue on the decimator’s features, the military Assault Ship could play the role of both reconnaissance and a force to protect the perimeter of Imperial fleets.
-The decimator’s interior included a navigation computer, a six-passenger seating, and minimum of two crewmen to operate the ship, allowing an optional two gunners system for a total of 10 souls on board at a time.
+
+To continue on the decimatorâ€™s features, the military Assault Ship could play the role of both reconnaissance and a force to protect the perimeter of Imperial fleets.
+The decimatorâ€™s interior included a navigation computer, a six-passenger seating, and minimum of two crewmen to operate the ship, allowing an optional two gunners system for a total of 10 souls on board at a time.
 The heavy ship even allowed for the capacity of up to 80 tons (75,000 Kg) for cargo and a month of consumables.
 The exterior of the Decimator is a force to be reckoned with.
 The 38 meter ship included a maximum atmospheric speed of 975km/h, with a class one hyperdrive rating.

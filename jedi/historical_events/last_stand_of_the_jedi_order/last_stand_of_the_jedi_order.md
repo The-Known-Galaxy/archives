@@ -1,4 +1,5 @@
 # Introduction
+
 After the battle over Coruscant concluded, the Jedi learned from Anakin Skywalker that Palpatine was in fact Darth Sidious, the Dark Lord of the Sith, and had been responsible for the war to begin with.
 Mace Windu led a group of Jedi Masters to arrest Sidious, but Sidious managed to kill all four Masters with the help of Anakin Skywalker, who fell to the dark side and became Darth Vader.
 This was later propagandized by Palpatine as an attempted coup by the Jedi and provided the reason for the start of the Great Jedi Purge in which most of the Jedi were killed.
@@ -8,6 +9,7 @@ Then, Sidious sent Vader to Mustafar to wipe out the last of the Confederacy's l
 Order 66 was successful in wiping out 99% of the entire Order and wiping out the High Council, officially concluding the Order's position as the dominant Force tradition in the galaxy and destroying nearly all of their temples and academies across the galaxy.
 
 # Section 1
+
 In a final attempt to save the Republic and the Jedi Order from complete extinction, Jedi Masters Yoda and Obi-Wan Kenobi, two of the most notable survivors of Order 66, embarked on a desperate mission to destroy the Sith.
 Master Kenobi went to fight Darth Vader on Mustafar while Yoda went after Darth Sidious within the bowels of the Senate building.
 Vader was defeated, losing much of his organic limbs after suffering grievous lightsaber injuries, necessitating the majority of Vader's body being kept in a mobile life-support system to keep him alive.

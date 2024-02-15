@@ -1,4 +1,5 @@
 # Overview
+
 A human who worked as the amiable steward of Sith mythology for the Lost Tribe of Sith.
 Born and raised during the turbulent Time of the Rot.
 Hilts wanted to bring the Tribe back together by utilizing the knowledge of the past as a historian.
@@ -13,6 +14,7 @@ Takara Hilts, a daughter from their marriage, was subsequently born.
 Later generations would refer to Grand Lord Hilts' rule as the "Hilts Restoration," and it was seen as a period of peace, stability, and restoration.
 
 # Biography
+
 Varner Hilts was a male Human who resided on the isolated planet Kesh in Wild Space and belonged to the Lost Tribe of Sith, a clan of stranded Human Sith.
 That blade had been used in an attempt to kill a certain faction leader by Hilts' father, but the dagger's sheath was left unfastened.The Tribe's homeland, Keshtah Minor, had been destroyed by civil war for more than 960 years when it was finally put an end by the passing of Grand Lord Lillia Venn in 3960 BBY.
 Only on Testament Day, a festival celebrated every 25 years during which the Testament of Yaru Korsin, the founder of the Lost Tribe, was read, could the many Sith groups come together harmoniously.
@@ -46,9 +48,8 @@ Boats also weren't effective.
 Then 25 years of investigation later, the solution became clear: Airships fueled by hydrogen.
 During the next years he would suffer plenty of setbacks and new enemies would appear but with the emergence of new allies, his immense intelligence, his powerful wife and confidence, he was capable of overcoming all obstacles and giving back its old glory to the Lost Tribe of the Sith.
 
-
-
 # Personality and traits
+
 Varner Hilts was distinguished from other Sith by his calm demeanor and his sense of logic.
 He had a passion for history and was one of the Tribe's most well-known authorities on the old Tapani language, which was spoken by the Tribe's ancestors.
 Hilts had no interest in either politics or conflict, in contrast to many of his Sith brethren.
@@ -59,9 +60,8 @@ Varner Hilts shared this yearning for a female companion, but prior to 3000 BBY 
 Hilts got married to Iliana after being promoted to Grand Lord.
 Iliana's power ambitions were to be restrained, and she was to be shielded from her previous adversaries, notably Korsin Bentado, by this marriage.
 
-
-
 # Skills
+
 Varner Hilts was not adept at utilizing the Force to defend himself or to engage in lightsaber battles.
 He was also warned as a young man that no one would stand next to him for fear of unintentional amputation due to his subpar lightsaber abilities.
 Despite having undergone the same training as his Sith peers, he had only ever used his Force abilities to deflect pieces of falling debris.

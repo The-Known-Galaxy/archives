@@ -1,16 +1,16 @@
 # Description
-Mandíalor the Ultimate was known as the First Mandalorian to found the Mandalorian Neo-Crusaders, he was also from the Taung Species.
 
-Mandíalor the Ultimate sought revenge from the Sith after their betrayal and the Crusade gave a reason to re-unite the now scattered Aliit of Mandalorians, which all of them answered to the call that Mandíalore the Ultimate had sent to them.
+Mand‚Äôalor the Ultimate was known as the First Mandalorian to found the Mandalorian Neo-Crusaders, he was also from the Taung Species.
 
-The Taung nearing extinction, Mandíalor the Ultimate was the last ìIdentifiedî Taung Mandíalor, although it did not stop him from leading the Neo-Crusaders to near victory, almost ending the Republic.
+Mand‚Äôalor the Ultimate sought revenge from the Sith after their betrayal and the Crusade gave a reason to re-unite the now scattered Aliit of Mandalorians, which all of them answered to the call that Mand‚Äôalore the Ultimate had sent to them.
 
-However, Mandíalor the Ultimate was defeated in single combat by the Jedi Knight Revan.
+The Taung nearing extinction, Mand‚Äôalor the Ultimate was the last ‚ÄúIdentified‚Äù Taung Mand‚Äôalor, although it did not stop him from leading the Neo-Crusaders to near victory, almost ending the Republic.
+
+However, Mand‚Äôalor the Ultimate was defeated in single combat by the Jedi Knight Revan.
 Ending their crusade and almost bringing the Mandalorian people to their death and close destruction.
 
+Mando‚Äôa:
 
-Mandoía:
-
-Mandíalor - Sole Ruler
+Mand‚Äôalor - Sole Ruler
 
 Aliit - Clan

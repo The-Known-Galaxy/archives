@@ -1,4 +1,5 @@
 # Introduction
+
 Tahiri Veila, a Jedi Order member, is a Force-sensitive female Human born on Tatooine during the decades following the Empire's demise and the formation of the New Republic.
 She became a Jedi knight but would eventually fall to the Dark Side and become an apprentice to Darth Caedus, the Dark Lord of the Sith.
 During her time as a Jedi, Tahiri became very good friends with fellow Jedi initiate Anakin Solo.
@@ -11,6 +12,7 @@ After a successful year, she was accused of a certain assassination but escaped 
 After a brief service, she joined the Order once again.
 
 # Biography
+
 Tahiri, born on Tatooine, was raised as a Tusken Raider and had a pet bantha named Bangor.
 She was adopted by the tribe's leader Sliven and later found by a Jedi Master.
 She was brought to Luke Skywalker's Jedi Praxeum on Yavin 4 at nine standard years old.
@@ -195,26 +197,24 @@ Veila escaped and required help from Han and Leia Solo.
 She was eventually sent to Jagged Fel, the Imperial Remnant leader.
 Despite being framed for Gilad Pellaeon's assassination, the Imperial-Alliance conspiracy was destroyed.
 
-
-
 # Personality and Traits
+
 Tahiri was known to be optimistic and very free-minded.
 She respected the Tusken culture but felt irritated about certain clothes they wore, being footwear her main phobia.
 She maintained the tradition of walking barefoot even during adulthood.
 During her training she met a fellow initiate, Anakin Solo, with whom she became best friends and eventually would love him, however before she could reveal those feelings, Anakin was killed in the Yuuzhan Vong War.
-During this period she changed completely due to being captured and tortured in addition to Anakin’s death.
+During this period she changed completely due to being captured and tortured in addition to Anakinâ€™s death.
 Her happy and full of emotion personality faded away and a cold emotionless Tahiri was born.
 With time her depression grew and denying him a kiss the last time she saw him haunted her throughout her whole life.
-Anakin’s loss caused her to fall to the Dark Side, and her constant grief made her very vulnerable and psychotic.
+Anakinâ€™s loss caused her to fall to the Dark Side, and her constant grief made her very vulnerable and psychotic.
 Eventually, she managed to maintain more control but never really recovered and always kept Anakin in mind and the kiss she didn't give him.
 
-
-
 # Power and abilities
+
 As a Jedi knight, Tahiri was proficient in both the usage of Force techniques and saber combat.
 She could also combine saber combat with martial arts to maintain enemies at a distance.
 As it was typical in the New Jedi Order, she also had a blaster pistol.
-Surprisingly she mastered Tràkata and became a force in saber-to-saber combat.
+Surprisingly she mastered TrÃ kata and became a force in saber-to-saber combat.
 When she became a Sith, her style changed and her abilities were trained to peak condition.
 She became much more aggressive and her abilities were enhanced by the emotion she felt due to her loss.
 She also had natural resistance, as she could endure extreme pain but continue fighting.

@@ -1,4 +1,5 @@
 # Introduction
+
 Gossans were a small saurian species native to the planet Casell in the colonies region of the Galaxy.
 Averaging over slightly 1 meter in height they were quite wrinkly and they had very shriveled heads and thin necks.
 Physical appearances were considered important on the planet of Gossams, for they needed to know who was female and male.

@@ -1,4 +1,5 @@
 # Overview
+
 Bamayar IX was an emerald and turquoise gas planet.
 The gas giant is assumed to be located within the Mid Rim due to the planet Bamayar which shares its name.
 Due to high atmospheric pressure, the skies of this gas giant were often sparkled with lightning storms.

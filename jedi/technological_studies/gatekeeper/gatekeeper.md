@@ -1,4 +1,5 @@
 # Introduction
+
 The Gatekeeper was the artificial personality that served as an interface for Jedi and Sith holocrons.
 Constructed with advanced hologram technology, they resembled the being they were based upon, with neural scans being used to create a baseline personality that reflected its model, and in certain cases allowing the gatekeeper some semblance of sentience.
 The Chamber of Speech, an ancient temple located within the Ruins of Kaleth on Tython relied on a Gatekeeper to preserve historical items, and when the terminal began to break, the Gatekeeper worked with a Jedi to preserve some of the knowledge it had recorded.

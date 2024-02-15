@@ -1,4 +1,5 @@
 # Introduction
+
 An extremely rare and expensive coin was made in Canto Bight, they named it the Contonarive crown coin.
 It was a beautifully handcrafted gold coin that had carvings on it.
 During the Imperial rule, the Baron Administrator of Cloud City, Lando Calrissian held the coin in his possession.

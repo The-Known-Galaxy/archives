@@ -1,4 +1,5 @@
 # Article
+
 The Scepter of Ragnos was a Sith artifact of great power once belonging to a Dark Lord of the Sith known as Marka Ragnos of the ancient Sith Empire.
 The sword could siphon and store dark side energy within itself, then release it onto individuals to make them Force-Sensitive.
 The sword would be created by Marka Ragnos around 5000 BBY, the weapon consisted of a forked crest.
