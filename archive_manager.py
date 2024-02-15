@@ -4,6 +4,7 @@ import shutil
 import json
 import toml
 import re
+import mdformat
 
 # config variables
 ARCHIVE_FILE_SUFFIX = "_archives"
@@ -54,6 +55,13 @@ argument_parser.add_argument(
     dest="destructive",
     help="During archive generation, if base folders already exists, it deletes them before starting any work. Does nothing on its own. Dangerous option to use.",
 )
+argument_parser.add_argument(
+    "-f",
+    "--format",
+    action="store_true",
+    dest="format",
+    help="Formats all the archive entries.",
+)
 arguments = argument_parser.parse_args()
 
 
@@ -99,6 +107,16 @@ def process_markdown(original_markdown_content: str):
             ),
         ),
     ).strip()
+
+
+def find_markdown_file(path: str):
+    """Finds a markdown file in the directory at the given path."""
+    if not os.path.isdir(path):
+        return None
+
+    for file_name in os.listdir(path):
+        if file_name.endswith(".md"):
+            return os.path.join(path, file_name)
 
 
 def generate_archive_directories():
@@ -211,5 +229,71 @@ def generate_archive_directories():
                         entry_file.write(process_markdown(article_data["content"]))
 
 
+def format_archives():
+    """Formats all archives. Additionally, fixes any unidentified Unicode characters resulting from JSONEncoding from ROBLOX"""
+    # first, identify all archive folders
+    archive_folders = []
+    for file_name in os.listdir(os.getcwd()):
+        # ignoring hidden directories
+        if os.path.isdir(file_name) and not file_name.startswith("."):
+            archive_folders.append(file_name)
+
+    if len(archive_folders) == 0 and arguments.verbose:
+        log_warn("No archive folders to format.")
+        return
+
+    # then iterate through all folders, categories and entry folders, to find the entry markdowns
+    for archive_index, folder in enumerate(archive_folders):
+        if arguments.verbose:
+            log_info(
+                f"Formatting {folder}[{archive_index}/{len(archive_folders)}] archives..."
+            )
+
+        archives_folder_path = os.path.join(os.getcwd(), folder)
+        categories = os.listdir(archives_folder_path)
+        total_categories = len(categories)
+        for category_index, category in enumerate(categories):
+            if arguments.verbose:
+                log_info(
+                    f"\tFormatting category [{category_index}/{total_categories}]<{category}>"
+                )
+
+            category_folder_path = os.path.join(folder, category)
+
+            entries = os.listdir(category_folder_path)
+            total_entries = len(entries)
+            for entry_index, entry in enumerate(entries):
+                entry_folder_path = os.path.join(category_folder_path, entry)
+                entry_markdown_file_path = find_markdown_file(entry_folder_path)
+
+                # then format
+                if entry_markdown_file_path is not None:
+                    if arguments.verbose:
+                        log_info(
+                            f"\t\tFormatting category <{category}> entry [{entry_index}/{total_entries}]<{entry}>"
+                        )
+
+                    # pre-format encoding check
+                    # reading file contents
+                    file_contents = None
+                    with open(
+                        entry_markdown_file_path, "r", encoding="utf-8"
+                    ) as entry_file:
+                        file_contents = entry_file.read()
+
+                    # encoding
+                    # file_contents = file_contents.encode(encoding="utf-8")
+                    with open(
+                        entry_markdown_file_path, "w", encoding="utf-8"
+                    ) as entry_file:
+                        entry_file.write(file_contents)
+
+                    # format
+                    mdformat.file(entry_markdown_file_path)
+
+
 if arguments.generate:
     generate_archive_directories()
+
+if arguments.format:
+    format_archives()
