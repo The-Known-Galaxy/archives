@@ -5,6 +5,7 @@ import json
 import toml
 import re
 import mdformat
+import time
 
 # config variables
 ARCHIVE_FILE_SUFFIX = "_archives"
@@ -39,9 +40,10 @@ argument_parser.add_argument(
 argument_parser.add_argument(
     "-v",
     "--verbose",
-    action="store_true",
-    dest="verbose",
-    help="Adds more-informative intermediate program outputs.",
+    action="count",
+    default=0,
+    dest="verbosity",
+    help="Adds more-informative intermediate program outputs. Can be specified multiple times for more verbosity.",
 )
 argument_parser.add_argument(
     "-g",
@@ -143,6 +145,19 @@ def get_index_key(entry_data) -> int:
     return entry_data["index"]
 
 
+def only_directories(path_prefix: str, directory_list: list):
+    """Prunes the list of directory children, leaving only the directories in the list."""
+    files_to_remove = []
+    for file in directory_list:
+        if not os.path.isdir(os.path.join(path_prefix, file)):
+            files_to_remove.append(file)
+
+    for file in files_to_remove:
+        directory_list.remove(file)
+
+    return directory_list
+
+
 def generate_archive_directories():
     """
     Generates the entire archive structure and all necessary files from given archive describing files it finds (currently supporting lua or json).
@@ -157,7 +172,7 @@ def generate_archive_directories():
                 break
 
     if len(archive_files) == 0:
-        if arguments.verbose:
+        if arguments.verbosity >= 1:
             log_info("No archive files found. Exiting.")
         return
 
@@ -165,7 +180,7 @@ def generate_archive_directories():
     for i in range(0, len(archive_files)):
         file_name = archive_files[i]
         if not file_name.endswith(".json"):
-            if arguments.verbose:
+            if arguments.verbosity >= 1:
                 log_info(f"Converting {file_name} to JSON.")
             file_root, file_type = os.path.splitext(file_name)
             new_name = f"{file_root}.json"
@@ -180,21 +195,21 @@ def generate_archive_directories():
 
             # cleaning existing base directory if one already exists and destruction option is supplied
             if arguments.destructive and os.path.isdir(base_name):
-                if arguments.verbose:
+                if arguments.verbosity >= 1:
                     log_warn(
-                        f"Destructive option applied. Deleting {base_name} archives before re-generating."
+                        f"Destructive option applied. Deleting {base_name} archives before re-generating..."
                     )
                 shutil.rmtree(base_name)
 
             # making base directory
             os.makedirs(base_name, exist_ok=True)
 
-            if arguments.verbose:
-                log_info(f"Creating category directories for {base_name} archives")
+            if arguments.verbosity >= 1:
+                log_info(f"Creating category directories for {base_name} archives...")
 
             for category_name, category_data in archive_data["categories"].items():
                 processed_category_name = sanitise_file_name(category_name)
-                if arguments.verbose:
+                if arguments.verbosity >= 2:
                     log_info(
                         f"\tCreating category [{category_name}] ({processed_category_name})"
                     )
@@ -215,7 +230,7 @@ def generate_archive_directories():
                 # creating entry markdown files
                 for article_name, article_data in category_data["articles"].items():
                     processed_article_name = sanitise_file_name(article_name)
-                    if arguments.verbose:
+                    if arguments.verbosity >= 3:
                         log_info(
                             f"\t\tCreating article [{article_name}] ({processed_article_name})"
                         )
@@ -256,31 +271,36 @@ def generate_archive_directories():
 
 def format_archives():
     """Formats all archives. Additionally, fixes any unidentified Unicode characters resulting from JSONEncoding from ROBLOX"""
+    start_time = time.perf_counter()
     archive_folders = find_archive_folders()
 
-    if len(archive_folders) == 0 and arguments.verbose:
+    if len(archive_folders) == 0 and arguments.verbosity >= 1:
         log_warn("No archive folders to format.")
         return
 
     # then iterate through all folders, categories and entry folders, to find the entry markdowns
     for archive_index, folder in enumerate(archive_folders):
-        if arguments.verbose:
+        if arguments.verbosity >= 1:
             log_info(
-                f"Formatting {folder}[{archive_index + 1}/{len(archive_folders)}] archives..."
+                f"Formatting {folder} [{archive_index + 1}/{len(archive_folders)}] archives..."
             )
 
         archives_folder_path = os.path.join(os.getcwd(), folder)
-        categories = os.listdir(archives_folder_path)
+        categories = only_directories(
+            archives_folder_path, os.listdir(archives_folder_path)
+        )
         total_categories = len(categories)
         for category_index, category in enumerate(categories):
-            if arguments.verbose:
+            if arguments.verbosity >= 2:
                 log_info(
                     f"\tFormatting category [{category_index + 1}/{total_categories}]<{category}>"
                 )
 
             category_folder_path = os.path.join(folder, category)
 
-            entries = os.listdir(category_folder_path)
+            entries = only_directories(
+                category_folder_path, os.listdir(category_folder_path)
+            )
             total_entries = len(entries)
             for entry_index, entry in enumerate(entries):
                 entry_folder_path = os.path.join(category_folder_path, entry)
@@ -288,22 +308,33 @@ def format_archives():
 
                 # then format
                 if entry_markdown_file_path is not None:
-                    if arguments.verbose:
+                    if arguments.verbosity >= 3:
                         log_info(
                             f"\t\tFormatting category <{category}> entry [{entry_index + 1}/{total_entries}]<{entry}>"
                         )
                     mdformat.file(entry_markdown_file_path)
 
+    if arguments.verbosity >= 1:
+        end_time = time.perf_counter()
+        log_info(
+            f"All archives formatted! (took {(end_time - start_time):.4f} seconds)"
+        )
+
 
 def generate_meta():
     """Generates a single meta file for each set of archives, explaining their contents and using the existing meta files as sources of truth."""
+    start_time = time.perf_counter()
+
     archive_folders = find_archive_folders()
 
-    if len(archive_folders) == 0 and arguments.verbose:
+    if len(archive_folders) == 0 and arguments.verbosity >= 1:
         log_warn("No archive folders to generate meta files for.")
         return
 
     for archive in archive_folders:
+        if arguments.verbosity >= 2:
+            log_info(f"Generating meta files for {archive} archives...")
+
         # parsing all categories
         archive_path = os.path.join(os.getcwd(), archive)
         categories = os.listdir(archive)
@@ -319,7 +350,7 @@ def generate_meta():
 
             # ensuring the category has a meta file
             if not os.path.exists(category_meta_file_path):
-                if arguments.verbose:
+                if arguments.verbosity >= 1 and os.path.isdir(category_path):
                     log_warn(
                         f"[{category_path}] does not have a {META_FILE_NAME}. Skipping category."
                     )
@@ -340,7 +371,7 @@ def generate_meta():
 
                 # ensuring the entry has a meta file
                 if not os.path.exists(entry_meta_file):
-                    if arguments.verbose:
+                    if arguments.verbosity >= 1:
                         log_warn(
                             f"[{entry_path}] does not have a {META_FILE_NAME}. Skipping entry."
                         )
@@ -390,6 +421,15 @@ def generate_meta():
             os.path.join(archive, META_FILE_NAME_JSON), "w"
         ) as new_meta_json_file:
             json.dump(archive_meta_data, new_meta_json_file, indent=None)
+
+        if arguments.verbosity >= 2:
+            log_info(f"{archive.capitalize()} archive meta files created.")
+
+    if arguments.verbosity >= 1:
+        end_time = time.perf_counter()
+        log_info(
+            f"Meta file creation done! (took {(end_time - start_time):.4f} seconds)"
+        )
 
 
 if arguments.generate:
