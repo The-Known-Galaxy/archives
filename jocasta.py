@@ -6,6 +6,7 @@ import toml
 import re
 import mdformat
 import time
+import math
 
 # program meta variables
 TOOL_VERSION = "0.6.0"
@@ -18,6 +19,7 @@ META_FILE_NAME_JSON = "meta.json"
 ENTRY_FILE_NAME = "entry.md"
 
 TRUNCATION_SEQUENCE = "..."
+PROGRESS_BAR_CHARACTER = "#"
 
 COLOUR_SEQUENCE = {
     "RESET": "\033[0m",
@@ -317,6 +319,30 @@ def only_directories(path_prefix: str, directory_list: list):
     return directory_list
 
 
+def create_ascii_progress_bar(progress: float = 0, length: int = 10) -> str:
+    """
+    Creates a progress bar out of ASCII art.
+    Example: `[####  ]`
+    """
+    # clamping progress between 0 and 1
+    progress = max(0, min(progress, 1))
+    number_of_progress_characters = math.floor(progress * length)
+    return f"[{PROGRESS_BAR_CHARACTER * number_of_progress_characters}{' ' * (length - number_of_progress_characters)}]"
+
+
+def conditional_progress_bar_prefix(
+    should: bool = True, progress: float = 0, length: int = 10
+) -> str:
+    """
+    Creates a progress bar, based on a condition, meant for adding it as a prefix to text.
+    """
+
+    if should:
+        return create_ascii_progress_bar(progress=progress, length=length) + " "
+    else:
+        return ""
+
+
 def generate_archive_directories():
     """
     Generates the entire archive structure and all necessary files from given archive describing files it finds (currently supporting lua or json).
@@ -357,7 +383,7 @@ def generate_archive_directories():
             if arguments.destructive and os.path.isdir(base_name):
                 if arguments.verbosity >= 1:
                     log_warn(
-                        f"Destructive option applied. Deleting {base_name} archives before re-generating..."
+                        f"Destructive option applied. Deleting {colour('PINK', base_name)} archives before re-generating..."
                     )
                 shutil.rmtree(base_name)
 
@@ -369,11 +395,21 @@ def generate_archive_directories():
                     f"Creating category directories for {colour('PINK', base_name)} archives..."
                 )
 
-            for category_name, category_data in archive_data["categories"].items():
+            categories = archive_data["categories"].items()
+            total_categories = len(categories)
+            categories_made = 0
+            for category_name, category_data in categories:
                 processed_category_name = sanitise_file_name(category_name)
                 if arguments.verbosity >= 2:
+                    progress_bar = conditional_progress_bar_prefix(
+                        arguments.concise_output and arguments.verbosity == 2,
+                        categories_made / total_categories,
+                    )
                     log_info(
-                        f"\tCreating category [{category_name}] ({processed_category_name})"
+                        f'\t{progress_bar}Creating category "{category_name}" <{processed_category_name}>',
+                        replace_last=(
+                            arguments.concise_output and arguments.verbosity == 2
+                        ),
                     )
 
                 # making category directory
@@ -390,12 +426,19 @@ def generate_archive_directories():
                     toml.dump(category_data["meta"], meta_file)
 
                 # creating entry markdown files
-                for article_name, article_data in category_data["articles"].items():
+                articles = category_data["articles"].items()
+                total_articles = len(articles)
+                articles_made = 0
+                for article_name, article_data in articles:
                     processed_article_name = sanitise_file_name(article_name)
                     if arguments.verbosity >= 3:
+                        progress_bar = conditional_progress_bar_prefix(
+                            arguments.concise_output, articles_made / total_articles
+                        )
+
                         log_info(
-                            f"\t\tCreating article [{article_name}] ({processed_article_name})",
-                            replace_last=True,
+                            f"\t\t{progress_bar}Creating article [{article_name}] ({processed_article_name})",
+                            replace_last=arguments.concise_output,
                         )
 
                     # creating directory
@@ -431,6 +474,9 @@ def generate_archive_directories():
                     ) as entry_file:
                         entry_file.write(process_markdown(article_data["content"]))
 
+                    articles_made += 1
+                categories_made += 1
+
     if arguments.verbosity >= 1:
         end_time = time.perf_counter()
         log_success(f"All archives created. (took {end_time - start_time:.4f}) seconds")
@@ -459,8 +505,16 @@ def format_archives():
         total_categories = len(categories)
         for category_index, category in enumerate(categories):
             if arguments.verbosity >= 2:
+                progress_bar = conditional_progress_bar_prefix(
+                    arguments.concise_output and arguments.verbosity == 2,
+                    (category_index + 1) / total_categories,
+                )
+
                 log_info(
-                    f"\tFormatting category [{category_index + 1}/{total_categories}]<{category}>"
+                    f"\t{progress_bar}Formatting category [{category_index + 1}/{total_categories}]<{category}>",
+                    replace_last=(
+                        arguments.concise_output and arguments.verbosity == 2
+                    ),
                 )
 
             category_folder_path = os.path.join(folder, category)
@@ -473,13 +527,18 @@ def format_archives():
                 entry_folder_path = os.path.join(category_folder_path, entry)
                 entry_markdown_file_path = find_markdown_file(entry_folder_path)
 
-                # then format
                 if entry_markdown_file_path is not None:
                     if arguments.verbosity >= 3:
-                        log_info(
-                            f"\t\tFormatting category <{category}> entry [{entry_index + 1}/{total_entries}]<{entry}>",
-                            replace_last=True,
+                        progress_bar = conditional_progress_bar_prefix(
+                            arguments.concise_output, (entry_index + 1) / total_entries
                         )
+
+                        log_info(
+                            f"\t\t{progress_bar}Formatting category <{category}> entry [{entry_index + 1}/{total_entries}]<{entry}>",
+                            replace_last=arguments.concise_output,
+                        )
+
+                    # formatting file instead of text since it's quicker
                     mdformat.file(entry_markdown_file_path)
 
     if arguments.verbosity >= 1:
