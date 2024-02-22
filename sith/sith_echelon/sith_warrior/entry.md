@@ -1,26 +1,24 @@
 # Introduction
 
-Sith had many great duelists during the wars, The Sith had these duelists become a rank known as Sith Warriors, a very powerful rank and was known to showcase deadly combat prowess and eliminate many enemies of the Sith.
-Warriors were known to showcase a will to eliminate all that stood in their way, without any choice of patience, They would charge in with no questions and strike with them unprepared for war.
-Warriors showcased a great number of fears with their intentions to not only show fear to the many enemies but also keep as many numbers as possible which was a very great advantage to obtain during the Jedi and Sith wars.
+In the vast and intricate tapestry of the Star Wars universe, few figures evoke as much fear and fascination as the Sith Warrior.
+These formidable warriors, steeped in the dark side of the Force, embody strength, ambition, and the relentless pursuit of power.
+In this article, we delve into the depths of the Sith Warrior's prowess, exploring their origins, training, and the dark path they tread.
 
-# Equipment
+# Section 1
 
-Sith Warriors were notorious for obtaining many armored items that helped them in battle, Warriors were holders of armor that was forged in steel and would place almost every main weak point with armor which allowed for a higher chance of no weakness in the wars they faced.
-Warriors would have armor usually on the face, shoulders, thighs, shins, feet, arms, and sometimes on rare occasions everywhere but that required a strong connection to the Darkside as it usually would be pushing the weight of a Sith in battle.
-Warriors also usually had cybernetic enhancements to allow for increased potential on the battlefield and allowed for skills that overpowered the Jedi.
-to top it off a Warrior's lightsaber would also contain armor as even the blade was made sure it was kept intact during the wars.
+The roots of the Sith Warrior trace back to the ancient Sith Order, a malevolent organization steeped in dark rituals and conquest.
+Originating on the planet Korriban, Sith Warriors were trained in the art of combat from a young age, honing their skills to perfection under the tutelage of merciless Sith Masters.
+Through trials of pain, sacrifice, and the embrace of their hatred, these warriors emerged as paragons of the dark side, wielding their anger as a weapon and their cruelty as a shield.
 
-# Combat Tactics
+# Section 2
 
-The Sith Warriors were also known for their brute combat tactics during the wars.
-The warriors would also showcase a strong use of the Darkside to send the enemies on the defensive just before the enemies would be struck down from the face of the galaxy.
-These tactics would be shown as a deadly use of brute strength towards the enemy, always showing that the enemy will need to watch every corner of the warrior's positions to make sure they are not being backstabbed or taken out with a sheer force of usually lightning or objects being thrown at them.
+The journey of a Sith Warrior is one of relentless ambition and unyielding determination.
+Fueled by their hunger for power and dominance, these warriors embark on a path fraught with peril and temptation.
+Through duels of lightsaber combat, displays of raw strength, and the manipulation of the Force, they carve a swath of destruction through their enemies, leaving chaos and despair in their wake.
+Yet, even as they revel in their victories, the specter of betrayal and treachery looms large, for in the world of the Sith, only the strongest survive.
 
-# History
+# Section 3
 
-The Sith were known to be a war-oriented Order, therefore they made use of many combat-ready Sith duelists that would later down the line be made into the first Sith Warriors, also known as Sith Marauders at the time, later down the history the Marauders would be its subtitle outside of the Warrior rank and the rank would just be a Warrior, however, have many subtitles such as “Marauder and Juggernaut”.
-throughout history there were many great Sith Warriors that showcased many talents with the Darkside, Darth Trayus would be the first-ever Sith Lord to start an Academy towards the training of combat, however, this academy would be laid to waste once a Jedi Knight by the name of Meetra Surik would eliminate most of the acolytes in search of Darth Traya.
-The Sith were not yet ready to give up, however, because later down the course of history, We had the infamous Darth Malgus, a prodigy of the time, and showcased the tremendous power of the Darkside and eliminated many enemies of the Sith empire.
-Another great day of the Sith was not officially a known Warrior but was worthy of the title, this Sith was none other than Darth Vader and was known to lay waste to many Jedi, rebels, and any enemy that stood in Vaders way.
-He was known to bring an end to the Jedi for a good 20 years and was able to show a massive amount of fear whenever the opponents heard his presence.
+At the heart of the Sith Warrior's power lies their mastery of the dark side of the Force.
+Through years of study and practice, they harness their rage and hatred, channeling it into devastating attacks and insidious abilities.
+From Force lightning that sears flesh to telekinetic assaults that shatter bones, the Sith Warrior wields the power of the dark side with lethal precision, leaving their enemies broken and defeated in their wake.
