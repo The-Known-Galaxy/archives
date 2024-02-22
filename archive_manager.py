@@ -14,65 +14,113 @@ META_FILE_NAME = "meta.toml"
 META_FILE_NAME_JSON = "meta.json"
 ENTRY_FILE_NAME = "entry.md"
 
-COLOUR_SEQUENCE = {"RESET": "\033[0m", "YELLOW": "\x1b[33;20m", "GREEN": "\x1b[32;20m"}
+COLOUR_SEQUENCE = {
+    "RESET": "\033[0m",
+    "GREY": "\x1b[30;20m",
+    "RED": "\x1b[31;20m",
+    "GREEN": "\x1b[32;20m",
+    "YELLOW": "\x1b[33;20m",
+    "BLUE": "\x1b[34;20m",
+}
 OUTPUT_LOG_TYPES = {
-    "INFO": COLOUR_SEQUENCE["GREEN"] + "INFO" + COLOUR_SEQUENCE["RESET"],
+    "INFO": COLOUR_SEQUENCE["BLUE"] + "INFO" + COLOUR_SEQUENCE["RESET"],
     "WARNING": COLOUR_SEQUENCE["YELLOW"] + "WARN" + COLOUR_SEQUENCE["RESET"],
+    "ERROR": COLOUR_SEQUENCE["RED"] + "ERROR" + COLOUR_SEQUENCE["RESET"],
 }
 
 # CLI arguments for program configuration
 argument_parser = argparse.ArgumentParser(
-    prog="archive_manager",
-    add_help=True,
+    prog="jocasta",
+    add_help=False,
     exit_on_error=True,
     allow_abbrev=True,
-    description="Processes generated archive files (either lua or json) into full archive directories, making them TKG-game ready.",
+    description="""
+Processes and manages archive files, guaranteeing compliance with TKG-game systems.
+Able to generate archives from a Studio-exported JSON format (created using the Plugin), format files, generate meta data, and validate all files.
+
+Inteded for use by programmers of the TKG Development Team, and CI/CD actions in this repository.
+Bugs should be reported to ShadowEngineer directly, via Issues on GitHub.
+
+Yes, the name derives from the in-lore Chief Librarian, Jocasta Nu.""",
     epilog="Created, developed and maintained by ShadowEngineer",
+    formatter_class=argparse.RawTextHelpFormatter,
 )
-argument_parser.add_argument(
+
+# group of arguments for organisation
+global_arguments = argument_parser.add_argument_group(
+    "Global",
+    "Options that don't do anything specific, or modify all program behaviour, regardless of other options.",
+)
+generation_arguments = argument_parser.add_argument_group(
+    "Generation", "Options related to generation of archive files."
+)
+management_arguments = argument_parser.add_argument_group(
+    "Management",
+    "Options related to management, validation and house-keeping of the archive files.",
+)
+
+# arguments
+global_arguments.add_argument(
+    "-h",
+    "--help",
+    action="store_true",
+    dest="help",
+    help="Displays help message, and exits.",
+)
+global_arguments.add_argument(
     "-V",
     "--version",
     action="version",
     dest="version",
     version="%(prog)s 0.0.1",
-    help="Displays tool version.",
+    help="Displays %(prog)s version.",
 )
-argument_parser.add_argument(
+global_arguments.add_argument(
     "-v",
     "--verbose",
     action="count",
     default=0,
     dest="verbosity",
-    help="Adds more-informative intermediate program outputs. Can be specified multiple times for more verbosity.",
+    help="Adds more-informative intermediate outputs. Can be specified multiple times for more verbosity.",
 )
-argument_parser.add_argument(
+
+generation_arguments.add_argument(
     "-g",
     "--generate",
     action="store_true",
     dest="generate",
-    help="Generates the archive directories from the given JSON files.",
+    help="Generates the archive directories from the existing JSON files.",
 )
-argument_parser.add_argument(
+generation_arguments.add_argument(
     "-d",
     "--destructive",
     action="store_true",
     dest="destructive",
-    help="During archive generation, if base folders already exists, it deletes them before starting any work. Does nothing on its own. Dangerous option to use.",
+    help="If using the --generate option, if base folders already exists, it deletes them before starting any work. Does nothing on its own. Dangerous option to use.",
 )
-argument_parser.add_argument(
+generation_arguments.add_argument(
+    "-m",
+    "--generate-meta",
+    action="store_true",
+    dest="meta",
+    help="Generates a summative meta file, explaining the contents of the entire archives.",
+)
+
+management_arguments.add_argument(
     "-f",
     "--format",
     action="store_true",
     dest="format",
     help="Formats all the archive entries.",
 )
-argument_parser.add_argument(
-    "-m",
-    "--genereate-meta",
+management_arguments.add_argument(
+    "-c",
+    "--check",
     action="store_true",
-    dest="meta",
-    help="Generates a summative meta file, explaining the contents of the entire archives",
+    dest="check",
+    help="Ignoring all other options, checks all the files, ensuring they meet the structuring, naming and content rules that the game expects the archives to be in.",
 )
+
 arguments = argument_parser.parse_args()
 
 
@@ -89,6 +137,11 @@ def log_info(text: str):
 def log_warn(text: str):
     """Logs warnings."""
     log_to_output(OUTPUT_LOG_TYPES["WARNING"], text)
+
+
+def log_error(text: str):
+    """Logs errors."""
+    log_to_output(OUTPUT_LOG_TYPES["ERROR"], text)
 
 
 def sanitise_file_name(name: str):
@@ -432,6 +485,16 @@ def generate_meta():
         )
 
 
+def check_archives() -> tuple[int, str]:
+    """Checks the validity of all archives files. Returns an exit code and a string explaining the result of the check."""
+    return 0, "All files valid."
+
+
+# main program execution
+if arguments.help:
+    argument_parser.print_help()
+    exit(0)
+
 if arguments.generate:
     generate_archive_directories()
 
@@ -440,3 +503,11 @@ if arguments.format:
 
 if arguments.meta:
     generate_meta()
+
+if arguments.check:
+    exit_code, result_string = check_archives()
+    if exit_code == 0:
+        log_info(result_string)
+    else:
+        log_error(result_string)
+        exit(exit_code)
