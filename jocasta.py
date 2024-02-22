@@ -7,12 +7,17 @@ import re
 import mdformat
 import time
 
+# program meta variables
+TOOL_VERSION = "0.6.0"
+
 # config variables
 ARCHIVE_FILE_SUFFIX = "_archives"
 ARCHIVE_FILE_TYPE_SUFFIXES = ["lua", "json"]
 META_FILE_NAME = "meta.toml"
 META_FILE_NAME_JSON = "meta.json"
 ENTRY_FILE_NAME = "entry.md"
+
+TRUNCATION_SEQUENCE = "..."
 
 COLOUR_SEQUENCE = {
     "RESET": "\033[0m",
@@ -21,11 +26,31 @@ COLOUR_SEQUENCE = {
     "GREEN": "\x1b[32;20m",
     "YELLOW": "\x1b[33;20m",
     "BLUE": "\x1b[34;20m",
+    "PINK": "\x1b[35;20m",
 }
+
+
+def colour(given_colour: str, text: str) -> str:
+    """
+    Colours text the given text based on the colour given.
+    """
+    try:
+        return COLOUR_SEQUENCE[given_colour] + text + COLOUR_SEQUENCE["RESET"]
+    except KeyError:
+        print(
+            f"Given colour [{given_colour}] is not a valid colour for which a code exists."
+        )
+        exit(1)
+    except:
+        print("what")
+        exit(1)
+
+
 OUTPUT_LOG_TYPES = {
-    "INFO": COLOUR_SEQUENCE["BLUE"] + "INFO" + COLOUR_SEQUENCE["RESET"],
-    "WARNING": COLOUR_SEQUENCE["YELLOW"] + "WARN" + COLOUR_SEQUENCE["RESET"],
-    "ERROR": COLOUR_SEQUENCE["RED"] + "ERROR" + COLOUR_SEQUENCE["RESET"],
+    "SUCCESS": colour("GREEN", "SUCCESS"),
+    "INFO": colour("BLUE", "INFO"),
+    "WARNING": colour("YELLOW", "WARN"),
+    "ERROR": colour("RED", "ERROR"),
 }
 
 # CLI arguments for program configuration
@@ -70,9 +95,8 @@ global_arguments.add_argument(
 global_arguments.add_argument(
     "-V",
     "--version",
-    action="version",
+    action="store_true",
     dest="version",
-    version="%(prog)s 0.0.1",
     help="Displays %(prog)s version.",
 )
 global_arguments.add_argument(
@@ -82,6 +106,14 @@ global_arguments.add_argument(
     default=0,
     dest="verbosity",
     help="Adds more-informative intermediate outputs. Can be specified multiple times for more verbosity.",
+)
+global_arguments.add_argument(
+    "--concise-output",
+    action="store_true",
+    dest="concise_output",
+    help="""During some verbose outputs, overwrites the previous output lines instead of writing new ones, which reduces the overall line count of the total program output.
+Sometimes helpful when it's hard to keep track of what's being done during frequently logged and highly verbose outputs.
+It is advised not to change your terminal window size when this option is applied.""",
 )
 
 generation_arguments.add_argument(
@@ -124,24 +156,98 @@ management_arguments.add_argument(
 arguments = argument_parser.parse_args()
 
 
-def log_to_output(log_type: str, text: str):
-    """Logs given text to the output, formatted with a type."""
-    print(f"[{log_type}]: {text}")
+def no_arguments(args: argparse.Namespace) -> bool:
+    """Checks whether any arguments have been given."""
+    return not (
+        args.help
+        or args.version
+        # or args.verbosity != 0 ignoring verbosity since it doesn't do anything on its own
+        or args.generate
+        or args.destructive
+        or args.meta
+        or args.format
+        or args.check
+    )
 
 
-def log_info(text: str):
+def len_without_control_codes(input: str) -> tuple[int, int]:
+    """
+    Calculates the length of the string without control-code characters.
+    Also returns the difference between the original and filtered lengths
+    """
+    original_length = len(input)
+    filtered = input
+    for control_code in COLOUR_SEQUENCE.values():
+        filtered = filtered.replace(control_code, "")
+    new_length = len(filtered)
+    return new_length, original_length - new_length
+
+
+def log_to_output(log_type: str, text: str, replace_last: bool = False):
+    """
+    Logs given text to the output, formatted with a type.
+    Handles specreplacing previous lines.
+    Truncates instead of wraps if text is too long to fit onto the next screen.
+    """
+
+    # when a line ends with a carriage return, it puts the cursor back at the start of the current line
+    # and the next print statement OVERWRITES the text that is there, which achieves the usual "replacing" feature some terminal programs have.
+    # this is how things like "progress bars" in the terminal window are possible
+    end_character = "\r" if replace_last else "\n"
+
+    # however, during execution, if the terminal size changes, then it needs to be reflected here
+    # apparently shutil has this function - no idea why though, but it works!
+    terminal_width = shutil.get_terminal_size().columns
+
+    # replacing the tab explicitly with 4 spaces, because calculating string length later assumes \t is a single character, even if it maps to 2, 4 or 8 spaces in the final output
+    filtered_text = re.sub("\t", " " * 4, text)
+
+    # building the initial output tring
+    final_text = f"[{log_type}]: {filtered_text}"
+
+    # truncating the end since we don't want things to wrap
+    # -2 for terminal width since the final 2 characters of the string are the line terminator (\r or \n), and the null byte (\0)
+    final_text_length, length_difference = len_without_control_codes(final_text)
+    if final_text_length > terminal_width - 2:
+        formatted_truncation_sequence = colour("GREY", TRUNCATION_SEQUENCE)
+        final_text = f"{final_text[: terminal_width - 2 + length_difference - len(TRUNCATION_SEQUENCE)]}{formatted_truncation_sequence}"
+    # whitespace-padding the output to fit the terminal width
+    else:
+        padding = " " * (terminal_width - final_text_length)
+        final_text = f"{final_text}{padding}"
+
+    # outputting the processed text with the correct end character
+    # flushing is turned on when replacement is necessary to get faster outputting frequency (at a loss to memory performance)
+    # this is due to how printing to stdout works internally. Flushing empties the "write buffer", a separate file that outputs are put into before being bulk-written to the console
+    print(final_text, end=end_character, flush=replace_last)
+
+
+def log_success(text: str, replace_last: bool = False):
+    """Logs successes."""
+    log_to_output(
+        log_type=OUTPUT_LOG_TYPES["SUCCESS"], text=text, replace_last=replace_last
+    )
+
+
+def log_info(text: str, replace_last: bool = False):
     """Logs info."""
-    log_to_output(OUTPUT_LOG_TYPES["INFO"], text)
+    log_to_output(
+        log_type=OUTPUT_LOG_TYPES["INFO"], text=text, replace_last=replace_last
+    )
 
 
-def log_warn(text: str):
+def log_warn(text: str, replace_last: bool = False):
     """Logs warnings."""
-    log_to_output(OUTPUT_LOG_TYPES["WARNING"], text)
+    log_to_output(
+        log_type=OUTPUT_LOG_TYPES["WARNING"], text=text, replace_last=replace_last
+    )
 
 
-def log_error(text: str):
+def log_error(text: str, replace_last: bool = False):
     """Logs errors."""
-    log_to_output(OUTPUT_LOG_TYPES["ERROR"], text)
+    log_to_output(
+        log_type=OUTPUT_LOG_TYPES["ERROR"], text=text, replace_last=replace_last
+    )
 
 
 def sanitise_file_name(name: str):
@@ -215,6 +321,7 @@ def generate_archive_directories():
     """
     Generates the entire archive structure and all necessary files from given archive describing files it finds (currently supporting lua or json).
     """
+    start_time = time.perf_counter()
 
     # look for archive files (either lua or json)
     archive_files: list[str] = []
@@ -234,7 +341,7 @@ def generate_archive_directories():
         file_name = archive_files[i]
         if not file_name.endswith(".json"):
             if arguments.verbosity >= 1:
-                log_info(f"Converting {file_name} to JSON.")
+                log_info(f"Converting {colour('PINK', file_name)} to JSON.")
             file_root, file_type = os.path.splitext(file_name)
             new_name = f"{file_root}.json"
             os.rename(file_name, new_name)
@@ -258,7 +365,9 @@ def generate_archive_directories():
             os.makedirs(base_name, exist_ok=True)
 
             if arguments.verbosity >= 1:
-                log_info(f"Creating category directories for {base_name} archives...")
+                log_info(
+                    f"Creating category directories for {colour('PINK', base_name)} archives..."
+                )
 
             for category_name, category_data in archive_data["categories"].items():
                 processed_category_name = sanitise_file_name(category_name)
@@ -285,7 +394,8 @@ def generate_archive_directories():
                     processed_article_name = sanitise_file_name(article_name)
                     if arguments.verbosity >= 3:
                         log_info(
-                            f"\t\tCreating article [{article_name}] ({processed_article_name})"
+                            f"\t\tCreating article [{article_name}] ({processed_article_name})",
+                            replace_last=True,
                         )
 
                     # creating directory
@@ -321,6 +431,10 @@ def generate_archive_directories():
                     ) as entry_file:
                         entry_file.write(process_markdown(article_data["content"]))
 
+    if arguments.verbosity >= 1:
+        end_time = time.perf_counter()
+        log_success(f"All archives created. (took {end_time - start_time:.4f}) seconds")
+
 
 def format_archives():
     """Formats all archives. Additionally, fixes any unidentified Unicode characters resulting from JSONEncoding from ROBLOX"""
@@ -335,7 +449,7 @@ def format_archives():
     for archive_index, folder in enumerate(archive_folders):
         if arguments.verbosity >= 1:
             log_info(
-                f"Formatting {folder} [{archive_index + 1}/{len(archive_folders)}] archives..."
+                f"Formatting {colour('PINK', folder)} [{archive_index + 1}/{len(archive_folders)}] archives..."
             )
 
         archives_folder_path = os.path.join(os.getcwd(), folder)
@@ -363,13 +477,14 @@ def format_archives():
                 if entry_markdown_file_path is not None:
                     if arguments.verbosity >= 3:
                         log_info(
-                            f"\t\tFormatting category <{category}> entry [{entry_index + 1}/{total_entries}]<{entry}>"
+                            f"\t\tFormatting category <{category}> entry [{entry_index + 1}/{total_entries}]<{entry}>",
+                            replace_last=True,
                         )
                     mdformat.file(entry_markdown_file_path)
 
     if arguments.verbosity >= 1:
         end_time = time.perf_counter()
-        log_info(
+        log_success(
             f"All archives formatted! (took {(end_time - start_time):.4f} seconds)"
         )
 
@@ -386,7 +501,7 @@ def generate_meta():
 
     for archive in archive_folders:
         if arguments.verbosity >= 2:
-            log_info(f"Generating meta files for {archive} archives...")
+            log_info(f"Generating meta files for {colour('PINK', archive)} archives...")
 
         # parsing all categories
         archive_path = os.path.join(os.getcwd(), archive)
@@ -480,19 +595,26 @@ def generate_meta():
 
     if arguments.verbosity >= 1:
         end_time = time.perf_counter()
-        log_info(
+        log_success(
             f"Meta file creation done! (took {(end_time - start_time):.4f} seconds)"
         )
 
 
 def check_archives() -> tuple[int, str]:
     """Checks the validity of all archives files. Returns an exit code and a string explaining the result of the check."""
-    return 0, "All files valid."
+    return (
+        0,
+        "All correct. No problems",
+    )
 
 
 # main program execution
-if arguments.help:
+if no_arguments(arguments) or arguments.help:
     argument_parser.print_help()
+    exit(0)
+
+if arguments.version:
+    print(f"{argument_parser.prog} v{TOOL_VERSION}")
     exit(0)
 
 if arguments.generate:
@@ -507,7 +629,7 @@ if arguments.meta:
 if arguments.check:
     exit_code, result_string = check_archives()
     if exit_code == 0:
-        log_info(result_string)
+        log_success(result_string, True)
     else:
         log_error(result_string)
         exit(exit_code)
