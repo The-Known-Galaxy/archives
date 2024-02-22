@@ -363,18 +363,29 @@ def generate_archive_directories():
         return
 
     # ensuring all found archive files are json files (converting anything that isn't into it)
+    processed_archive_files = {}
     for i in range(0, len(archive_files)):
         file_name = archive_files[i]
+        processed_archive_files[file_name] = file_name
+
         if not file_name.endswith(".json"):
             if arguments.verbosity >= 1:
                 log_info(f"Converting {colour('PINK', file_name)} to JSON.")
             file_root, file_type = os.path.splitext(file_name)
             new_name = f"{file_root}.json"
+
+            # if the converted json file already exists, delete it.
+            existing_file_path = os.path.join(os.getcwd(), new_name)
+            if os.path.exists(existing_file_path):
+                os.remove(existing_file_path)
+
+            # renaming
             os.rename(file_name, new_name)
-            archive_files[i] = new_name
+            processed_archive_files[file_name] = None
+            processed_archive_files[new_name] = new_name
 
     # generating directories
-    for file_name in archive_files:
+    for file_name in processed_archive_files.values():
         with open(file_name) as json_file:
             archive_data = json.load(json_file)
             base_name = archive_data["name"]
@@ -437,7 +448,7 @@ def generate_archive_directories():
                         )
 
                         log_info(
-                            f"\t\t{progress_bar}Creating article [{article_name}] ({processed_article_name})",
+                            f'\t\t{progress_bar}Creating article "{article_name}" ({processed_article_name})',
                             replace_last=arguments.concise_output,
                         )
 
