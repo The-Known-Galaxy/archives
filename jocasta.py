@@ -9,7 +9,7 @@ import time
 import math
 
 # program meta variables
-TOOL_VERSION = "0.6.0"
+TOOL_VERSION = "0.7.0"
 
 # config variables
 ARCHIVE_FILE_SUFFIX = "_archives"
