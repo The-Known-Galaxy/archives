@@ -1,0 +1,10 @@
+TOOL_VERSION = "0.7.0"
+
+ARCHIVE_FILE_SUFFIX = "_archives"
+ARCHIVE_FILE_TYPE_SUFFIXES = ["lua", "json"]
+META_FILE_NAME = "meta.toml"
+META_FILE_NAME_JSON = "meta.json"
+ENTRY_FILE_NAME = "entry.md"
+
+TRUNCATION_SEQUENCE = "..."
+PROGRESS_BAR_CHARACTER = "#"
