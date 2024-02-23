@@ -50,4 +50,4 @@ This is just a guide on how to get the latest setup of archives from the in-Stud
 
 1. Go into each of the Archive studios (if you have access), and run the [ROBLOX Plugin](https://create.roblox.com/store/asset/16368745043/ArchiveParserPlugin%3Fkeyword=&pageNumber=&pagePosition=).
 1. Save the exported file into this repository, replacing any files that might already be here.
-1. Run `python jocasta.py -vvvgdfm --concise-output`
+1. Run `python jocasta.py -vvvgdfmc --concise-output`
