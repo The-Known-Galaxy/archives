@@ -30,7 +30,7 @@ class ArchiveFormatter:
         for archive_index, folder in enumerate(archive_folders):
             if self.Arguments.verbosity >= 1:
                 self.Log.Info(
-                    f"Formatting {c(CC.PINK, folder)} [{archive_index + 1}/{len(archive_folders)}] archives..."
+                    f"Formatting {c(CC.PINK, folder.capitalize())} [{archive_index + 1}/{len(archive_folders)}] archives..."
                 )
 
             archives_folder_path = os.path.join(os.getcwd(), folder)

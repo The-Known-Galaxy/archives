@@ -75,7 +75,7 @@ class ArchiveGenerator:
                 if self.Arguments.destructive and os.path.isdir(base_name):
                     if self.Arguments.verbosity >= 1:
                         self.Log.Warn(
-                            f"Destructive option applied. Deleting {c(CC.PINK, base_name)} archives before re-generating..."
+                            f"Destructive option applied. Deleting {c(CC.PINK, base_name.capitalize())} archives before re-generating..."
                         )
                     shutil.rmtree(base_name)
 
