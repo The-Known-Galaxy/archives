@@ -9,8 +9,8 @@ from ..Utilities.Constants import *
 from ..Utilities import Logger
 from ..Utilities import Files
 from ..Utilities import Terminal
-from jocastas_backend.Utilities.Terminal import TerminalColorCode as CC
-from jocastas_backend.Utilities.Terminal import Colour as c
+from ..Utilities.Terminal import TerminalColorCode as CC
+from ..Utilities.Terminal import Colour as c
 
 
 class ArchiveGenerator:

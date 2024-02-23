@@ -7,10 +7,8 @@ import time
 from jocastas_backend.Functionality import Formatter
 from jocastas_backend.Functionality import Generator
 from jocastas_backend.Utilities import Arguments
-from jocastas_backend.Utilities import Constants
 from jocastas_backend.Utilities import Files
 from jocastas_backend.Utilities import Logger
-from jocastas_backend.Utilities import Terminal
 from jocastas_backend.Utilities.Constants import *
 from jocastas_backend.Utilities.Terminal import TerminalColorCode as CC
 from jocastas_backend.Utilities.Terminal import Colour as c
