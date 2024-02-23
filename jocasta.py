@@ -114,7 +114,7 @@ def generate_archive_directories():
 
         if not file_name.endswith(".json"):
             if arguments.verbosity >= 1:
-                Log.Info(f"Converting {c('PINK', file_name)} to JSON.")
+                Log.Info(f"Converting {c(CC.PINK, file_name)} to JSON.")
             file_root, file_type = os.path.splitext(file_name)
             new_name = f"{file_root}.json"
 
@@ -138,7 +138,7 @@ def generate_archive_directories():
             if arguments.destructive and os.path.isdir(base_name):
                 if arguments.verbosity >= 1:
                     Log.Warn(
-                        f"Destructive option applied. Deleting {c('PINK', base_name)} archives before re-generating..."
+                        f"Destructive option applied. Deleting {c(CC.PINK, base_name)} archives before re-generating..."
                     )
                 shutil.rmtree(base_name)
 
@@ -147,7 +147,7 @@ def generate_archive_directories():
 
             if arguments.verbosity >= 1:
                 Log.Info(
-                    f"Creating category directories for {c('PINK', base_name)} archives..."
+                    f"Creating category directories for {c(CC.PINK, base_name)} archives..."
                 )
 
             categories = archive_data["categories"].items()
@@ -254,7 +254,7 @@ def format_archives():
     for archive_index, folder in enumerate(archive_folders):
         if arguments.verbosity >= 1:
             Log.Info(
-                f"Formatting {c('PINK', folder)} [{archive_index + 1}/{len(archive_folders)}] archives..."
+                f"Formatting {c(CC.PINK, folder)} [{archive_index + 1}/{len(archive_folders)}] archives..."
             )
 
         archives_folder_path = os.path.join(os.getcwd(), folder)
@@ -317,7 +317,7 @@ def generate_meta():
 
     for archive in archive_folders:
         if arguments.verbosity >= 2:
-            Log.Info(f"Generating meta files for {c('PINK', archive)} archives...")
+            Log.Info(f"Generating meta files for {c(CC.PINK, archive)} archives...")
 
         # parsing all categories
         archive_path = os.path.join(os.getcwd(), archive)

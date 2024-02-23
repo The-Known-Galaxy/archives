@@ -3,4 +3,4 @@ __pycache__
 
 # top-level archive descriptor files should be ignored
 *.lua
-*.json
+/*.json
