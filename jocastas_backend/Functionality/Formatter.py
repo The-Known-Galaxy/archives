@@ -38,7 +38,7 @@ class ArchiveFormatter:
             total_categories = len(categories)
             for category_index, category in enumerate(categories):
                 if self.Arguments.verbosity >= 2:
-                    progress_bar = Terminal.conditional_progress_bar_prefix(
+                    progress_bar = Terminal.CreateConditionalProgressBarPrefix(
                         self.Arguments.concise_output and self.Arguments.verbosity == 2,
                         (category_index + 1) / total_categories,
                     )
@@ -61,7 +61,7 @@ class ArchiveFormatter:
 
                     if entry_markdown_file_path is not None:
                         if self.Arguments.verbosity >= 3:
-                            progress_bar = Terminal.conditional_progress_bar_prefix(
+                            progress_bar = Terminal.CreateConditionalProgressBarPrefix(
                                 self.Arguments.concise_output,
                                 (entry_index + 1) / total_entries,
                             )

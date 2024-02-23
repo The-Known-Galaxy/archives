@@ -21,7 +21,7 @@ def Colour(given_colour: TerminalColorCode, text: str) -> str:
     return f"{given_colour.value}{text}{TerminalColorCode.RESET.value}"
 
 
-def create_ascii_progress_bar(progress: float = 0, length: int = 10) -> str:
+def CreateAsciiProgressBar(progress: float = 0, length: int = 10) -> str:
     """
     Creates a progress bar out of ASCII art.
     Example: `[####  ]`
@@ -32,7 +32,7 @@ def create_ascii_progress_bar(progress: float = 0, length: int = 10) -> str:
     return f"[{PROGRESS_BAR_CHARACTER * number_of_progress_characters}{' ' * (length - number_of_progress_characters)}]"
 
 
-def conditional_progress_bar_prefix(
+def CreateConditionalProgressBarPrefix(
     should: bool = True, progress: float = 0, length: int = 10
 ) -> str:
     """
@@ -40,6 +40,6 @@ def conditional_progress_bar_prefix(
     """
 
     if should:
-        return create_ascii_progress_bar(progress=progress, length=length) + " "
+        return CreateAsciiProgressBar(progress=progress, length=length) + " "
     else:
         return ""

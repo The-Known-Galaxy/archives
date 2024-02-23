@@ -93,7 +93,7 @@ class ArchiveGenerator:
                 for category_name, category_data in categories:
                     processed_category_name = Files.SanitiseFileName(category_name)
                     if self.Arguments.verbosity >= 2:
-                        progress_bar = Terminal.conditional_progress_bar_prefix(
+                        progress_bar = Terminal.CreateConditionalProgressBarPrefix(
                             self.Arguments.concise_output
                             and self.Arguments.verbosity == 2,
                             categories_made / total_categories,
@@ -128,7 +128,7 @@ class ArchiveGenerator:
                     for article_name, article_data in articles:
                         processed_article_name = Files.SanitiseFileName(article_name)
                         if self.Arguments.verbosity >= 3:
-                            progress_bar = Terminal.conditional_progress_bar_prefix(
+                            progress_bar = Terminal.CreateConditionalProgressBarPrefix(
                                 self.Arguments.concise_output,
                                 articles_made / total_articles,
                             )

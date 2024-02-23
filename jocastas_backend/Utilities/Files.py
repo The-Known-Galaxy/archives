@@ -4,7 +4,7 @@ import os
 TOP_LEVEL_FOLDER_IGNORE_LIST = ["jocastas_backend"]
 
 
-def SanitiseFileName(name: str):
+def SanitiseFileName(name: str) -> str:
     """Sanitises and converts a given file name to a file system-friendly form."""
     return re.sub(
         "\_*$", "", re.sub("_{2,}", "_", re.sub("\W", "_", name.casefold().strip()))
@@ -21,7 +21,7 @@ def FindInvalidCharacters(entry_or_category_name: str) -> list[str]:
     )
 
 
-def ProcessMarkdown(original_markdown_content: str):
+def ProcessMarkdown(original_markdown_content: str) -> str:
     """
     Processes the markdown outputted from the ROBLOX-side processing:
     1. making sure each sentence starts on a new line (with the 3 possible sentence ending operators)
@@ -43,7 +43,7 @@ def ProcessMarkdown(original_markdown_content: str):
     ).strip()
 
 
-def FindMarkdownFile(path: str):
+def FindMarkdownFile(path: str) -> None | str:
     """Finds a markdown file in the directory at the given path."""
     if not os.path.isdir(path):
         return None
@@ -67,7 +67,7 @@ def FindArchiveFolders() -> list[str]:
     return archive_base_folders
 
 
-def OnlyDirectories(path_prefix: str):
+def OnlyDirectories(path_prefix: str) -> list[str]:
     """Prunes the list of directory children, leaving only the directories in the list."""
     directory_list = os.listdir(path_prefix)
     files_to_remove = []
