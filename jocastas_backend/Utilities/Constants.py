@@ -1,4 +1,4 @@
-TOOL_VERSION = "0.7.0"
+TOOL_VERSION = "0.8.0"
 
 ARCHIVE_FILE_SUFFIX = "_archives"
 ARCHIVE_FILE_TYPE_SUFFIXES = ["lua", "json"]
