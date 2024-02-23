@@ -36,7 +36,7 @@ Checklist of things to do (skip any that you've done before).
 1. Open a terminal, and navigate to a folder you'd like this project to go into (it'll make a new folder inside that).
 1. Run `git clone https://github.com/The-Known-Galaxy/archives.git`
 1. Run `cd archives` (to go into the repository folder).
-1. Run `pip install toml`, `pip install mdformat-gfm`
+1. Run `pip install toml`, `pip install mdformat-gfm`, `pip install pre-commit`
 
 Every time you wish to make changes:
 
