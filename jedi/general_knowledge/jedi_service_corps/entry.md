@@ -1,32 +1,23 @@
 # Introduction
 
-The Jedi Service Corps, is an organization under the Council of Reassignment and was formed during the Old Republic.
-It served as an alternative to progress through Knighthood.
-Those who failed the Initiate or Knight Trials, together with those who were not assigned to a master, were sent to the Service Corps.
-
-The Service Corps is divided in four branches: the Agricultural Corps, the Medical Corps, the Educational Corps, and the Explorational Corps.
-Joining in each of the branches were voluntary but if they failed the Trials, they will be reassigned by the Council based on their skills.
-
-They not only teach and help Initiates to their path to Knighthood but also served importance to the Jedi Order as they helped many star systems in the galaxy.
+The Jedi Service Corps is an organization under the Council of Reassignment.
+Its goal is to train Initiates who either failed their initial Knight Trial or simply chose to join the corps.
+This organization is led by the Taskmaster, with the Deputy Taskmaster as the second in charge.
+Service Initiates are trained by Mentors as well as Service Corps Instructors.
 
 # Section 1
 
-The Agricultural Corps–also known as AgriCorps, led by the Jedi Masters who work under it–help commoners and provide crops to star systems who are experiencing shortages caused by a natural disaster.
-Initiates who are a member of this branch focused on the Living Force which help support, nourish, and maintain plant growth.
-
-The Medical Corps–also known as MedCorps, led by the Circle of Healers–specializes in aiding the wounded during battles.
-Those who joined this branch were taught Force healing and those who were no longer qualified to progress through Knighthood will serve as medics.
-
-The Educational Corps–also known as EduCorps, overseen by the Librarian’s Assembly–serve as instructors to those who lacked knowledge in the galaxy.
-Initiates of this branch were taught how to properly and effectively share information to individuals.
-
-The Exploration Corps–also known as ExplorCorps, led by several Jedi Masters–uncover ancient discoveries and secrets throughout the galaxy.
-They served as archaeologists and researchers.
-Members of the branch were taught navigation and researching skills.
+The main part of the curriculum consists of three classes, which can be done in any order.
+Those are the awareness class, combat class, and expansion class.
+The awareness class introduces new members to the idea of a Knight Trial and explains how to reach that point.
+The combat class serves to assess and improve a Service Initiate’s skill level to prepare them for their trial.
+Finally, the expansion class explains what to do after reaching Knighthood and introduces Service Initiates to specializations.
+Each of these classes also has its own assignment.
+For the combat class in particular, the assignment is an evaluation of one’s dueling skill.
+This phase is called the ACE program.
 
 # Section 2
 
-In 19 BBY, the Jedi Service Corps was disbanded during the Great Jedi Purge when Darth Sidious ordered the Republic to kill all the Jedi in the galaxy in accordance with Order 66.
-Survivors of the purge were forced to follow the teachings of the Sith but those who resisted were immediately killed.
-
-By the end of the Galactic Civil War, when Luke Skywalker rebuilt the Jedi Order, he did not reconsider to reform the Jedi Service Corps but instead he used the information from guidebook “The Jedi Path: A Manual for Students of the Force” to the Order.
+Once Service Initiates pass all three classes and complete all of the assignments, they move on to the Evaluation Phase.
+In this phase, their Knight Trial document is evaluated and a mock KT is hosted.
+If they pass both of those tests, they are approved for their Knight Trial and a request is sent to be seen by Masters.

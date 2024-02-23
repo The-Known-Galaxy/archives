@@ -1,39 +1,58 @@
 # Introduction
 
-The Rakata were a sentient amphibian species, originally Force-sensitive, that lived on the temperate planet of Lehon in the Unknown Regions.
-A Rakatan individual would typically have a varying skin/eye colour with a distinctive tall head supporting short horizontal eyestalks on either side of their head.
-They were adapted for Lehon’s environment, so they developed three-fingered claws able to dig dirt.
-The Rakata spoke the language of Rakata but were able to communicate in other languages due to their intelligence.
-Their society was largely split into classes, the most notable classes being the priest and warrior classes.
+The Rakata were an ancient race of Force-sensitive humanoids, widely known for their technical advancements and conquests in the known galaxy.
+They were one of the first species in history to ever perform hyperspace travel, and some of their constructions have been an unsolved mystery to this day.
+Rakatans were also the pioneer race who connected the Dark Side of the Force with machines, making them by far the most powerful beings in the galaxy before their Infinite Empire’s fall.
 
 # Section 1
 
-Some time before 36,453 BBY, an ancient reptilian Force-sensitive species from Dathomir, the Kwa, arrived on Lehon via an Infinity Gate, which was a highly advanced system of instantaneous transportation across the galaxy.
-Similar to many other worlds before Lehon, the Kwa offered the then-primitive Rakata their knowledge of the Force and technology in trade for being enslaved.
-Little did the Kwa know that the Rakata were actually cannibals and using the knowledge of the Force, drew from only its dark side.
-This paired with the desire to hold dominion with Kwa’s influence allowed the Rakata to conquer other worlds in the Unknown Regions, establishing the Infinite Empire.
-This is when the Rakata earned the name “The Builders”.
-In their newfound empire, the Rakata captured Force-sensitives in the regions they took control of and induced dark-side emotions into them, which was siphoned into powering their warships and machinery.
-Now desiring to use the Infinity Gates, the Rakata turned on their Kwa benefactor in a war that led to severe casualties on both sides, but the Kwa were able to deactivate most of the standing Infinite Gates to slow down the empire’s expansion.
-By 35,000 BBY, the Rakata had spread all over the Unknown Regions and eastern section of the galaxy, even creating the dark-side imbued Star Forge and wiping out most of the mighty Celestial species with a curse.
+The Rakata originated from the planet Lehon in the Unknown Regions, often referred to as Rakata Prime.
+Initially, they were a barbaric, primitive and limited species, but under the guidance of Kwa, another much older, ancient race of Force-attuned builders, the Rakatan civilization flourished.
+Unfortunately, unlike Kwa, the Rakatans did not hesitate to utilise the corrupting Dark Side of the Force, which slowly led to many disagreements between these two races.
+Eventually, after establishing several colonies on planets with a strong resonance in the Force, the Rakata turned against Kwa and waged war on their former teachers, successfully overpowering them.
+At that time, the Rakatans also constructed the mythical Star Forge: a location capable of creating powerful star fleets by itself, which would later be sought by Revan himself.
+Soon after defeating the Kwa, Rakatans focused their efforts on purging the Celestials, the masters of Kwa and ultimate masters of the galaxy, and succeeded, despite the Celestials’ determination to shield the galaxy from them.
+Finally ready, the Rakatan Infinite Empire spread to the rest of the galaxy to dominate and conquer everything that stood in their way.
 
 # Section 2
 
-The Rakata subsequently enveloped over 500 planets in the galaxy, rich in the Force.
-However, their Force hyperdrive technology and Force Hounds only allowed them to travel to worlds with a strong connection to the Force, allowing many different planets to thrive in the empire’s shadow.
-Due to this, they encountered several groups such as the Esh-kha, the Sith and the Je’daii that were in conflict with them, but the Rakata were able to stay victorious.
-After a huge time of galactic supremacy, a civil war between factions in the empire by 25,200 BBY, caused by the corrupting effect of the Star Forge.
-In the heat of this situation, a plague abruptly surfaced, thinning their numbers.
-For the surviving Rakata, they were no longer Force-sensitive and couldn’t activate their technology.
-Sensing this weakness, many enslaved species rebelled against their overseers, leading to the entire Infinite Empire collapsing in 25,200 BBY and surviving Rakata retreating back to Lehon.
-Without access to the Force, survivors descended into savagery that resulted in isolated and warring barbaric tribes, which would remain that way for the next 20,000 years, while civilisations that had been under the control of the Rakata removed most traces of the empire in the galaxy.
+Even when united under one banner, the Rakata were still divided into hundreds of different tribes and factions, each of which shared a slightly different history and cultural heritage.
+Both slavery and intense usage of the Force were important for the Rakata, for they believed that dominance and conquest were the only just methods of development.
+Anger, rage and strength were dominant characteristics of any pieces of culture left by them.
+The two dominant social classes of the Infinite Empire, the ruling priests and the physically stronger, but less important warriors, cooperated but did not trust each other more than was required of them.
+It is worth mentioning that many Rakata became slave masters and successfully gained respect and power among their people during their service.
+Nevertheless, as in every other empire, the Rakata also pledged their allegiance to Predors, an equivalent of lords in their society.
+Predors, especially the supreme Over-Predor among them, managed the whole Empire’s needs, reigned the conquered worlds and often rivalled against one another.
+Another important group in the Rakatan society were the Force Hounds, a cast of Force-sensitive warriors and servants who were talented enough to sense, track down and seek out new, Force-sensitive populations for the Infinite Empire to conquer.
+One of the most important encounters of Force Hounds with other Force-sensitive species happened when Xesh, one of the Predor’s personal Force Hounds, arrived on Tython and was stuck there after causing a planet-wide storm, during which he lost the memory of his past.
+After encountering, and being defeated by, the Je’daii, Xesh was exiled to the Tython’s moon Bogan, where he cooperated with another exiled Force user and created a project of Forcesabers- one of the first predecessors of what we today know as lightsabers, and later one of the weapons used by the Force Hounds.
+After realising the error of his dark ways, Xesh turned to the Light Side of the Force and helped the Je’daii defeat the Rakata, initiating the beginning of their domination’s end.
 
 # Section 3
 
-Over time, these tribes would diversify in ideologies, some preferring aggression and others wanting to flee the system entirely to form the Rakatan Archipelago.
-Only the Elder tribe was known to have records of the Builders that they once were and sought to destroy the Star Forge to erase their violent past.
-The Elders thought it would be a fine chance to do this when Darth Revan and Malak arrived there in 3959 BBY, but Revan tricked them and took the space station for himself.
-Having no power to do anything, the Elders were forced to watch their technology being used in evil ways.
-Revan was eventually able to pull from the dark-side and destroy the Star Forge.
-By 1000 BBY, the knowledge that Rakatan were once great rulers of the galaxy was a myth and lost to time.
-The Rakata tribes on Lehon died out, leaving the last remaining individuals in the Rakatan Archipelago.
+Even though the Rakata conquered thousands of worlds across the galaxy, their preferences lay in the Force-sensitive worlds, which would serve them as both slave sources and potential Force energy banks.
+They took hundreds of thousands of slaves from planets such as Kashyyk, Coruscant and Tatooine, and established many outposts on these controlled planets.
+Interestingly enough, when Rakata encountered Dathomir, the homeworld of the Kwa, they butchered the world’s inhabitants and landscape in revenge for their suffering in the past.
+The Kwa themselves have devolved into an anima, an unintelligent subspecies named Kwi.
+Nevertheless, Dathomir proved to be an interesting planet to the Rakata, for example, because of the Rancor species that lived there.
+
+Belsavis, another planet captured by them, served as a planetary prison that was later claimed by the Galactic Republic for the same purpose.
+There were, however, certain species that challenged the Rakata’s claim to their native worlds and waged war on them, successfully reclaiming their land despite the technical and physical disadvantages.
+The most famous attempts were those of the Sith species of Korriban, the Je’daii of Tython, and Kumumgah of Tatooine.
+All of these races led an aggressive revolt against the Rakata and drove them away from their planets.
+Unlike the Force-sensitive Je’daii and Sith, the planet belonging to Kumumgah was scourged and turned into ashes as an act of revengebyf the losing conquerors before their final retreat.
+The Infinite Empire’s fall came with a sudden, mysterious plague that infected the race of Builders, killing hundreds of thousands of Rakatans and causing the survivors to slowly lose their connection to the Force.
+Tragically, their shattered bond with the Force also disabled them from operating most of their own inventions and slowly turned back into the barbaric, primitive species they had originated as.
+Along with many political plays, wars lost to the Sith and Je’daii and violent slave uprisings across the whole galaxy, the remaining Rakata slowly vanished, exiled themselves into the Wild Space, or returned to their first homeworld only to live in poverty and ignorance.
+The former slaves soon developed their own cultures, freed themselves from the Rakatan influence, and erased all mentions of those events from the public memory.
+
+# Section 4
+
+Even extinct, the Rakata have been certainly one of the most powerful and impactful races to ever live in the Known Galaxy, having left many traces on almost every culture, and planet.
+Their conquests granted various civilisations the technical foundation they needed.
+A sense of nationality and community they wouldn’t have maintained during their slavery.
+Many planets such as Tatooine, Belsavis or Kashyyyk have been irreversibly altered by the race of Builders.
+To this day they remain an object of interest to governments, corporations and researchers.
+Many dark, corrupting inventions of Rakata have been forgotten thanks to the Order of Je’daii and others, such as the Belsavis prison, supporting the enslaved races in their pursuit of safety and knowledge.
+A certain group of Rakatan inventions that have been wreaking mayhem years after the Rakata’s demise, such as the Star Forge, have been destroyed or hidden forever.
+They will certainly never be fully forgotten as one of the most powerful and evil forces in the galaxy.

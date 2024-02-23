@@ -1,4 +1,4 @@
-category_count = 18
+category_count = 16
 [[categories]]
 total_entries = 28
 name = "Sith Philosophy"
@@ -201,7 +201,7 @@ release_year = 2023
 
 
 [[categories]]
-total_entries = 99
+total_entries = 100
 name = "Factions"
 index = 2
 [[categories.entries]]
@@ -897,9 +897,16 @@ author = "AlexJackz"
 name = "Jabba's Criminal Empire"
 release_year = 2024
 
+[[categories.entries]]
+markdown_path = "factions/rebel_alliance/entry.md"
+index = 100
+author = "Mus8732"
+name = "Rebel Alliance"
+release_year = 2024
+
 
 [[categories]]
-total_entries = 116
+total_entries = 117
 name = "Species"
 index = 3
 [[categories.entries]]
@@ -1442,11 +1449,11 @@ name = "Bimm"
 release_year = 2022
 
 [[categories.entries]]
-markdown_path = "species/cathar/entry.md"
+markdown_path = "species/celestials/entry.md"
 index = 79
-author = "Remalior"
-name = "Cathar"
-release_year = 2022
+author = "mummytrie"
+name = "Celestials"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "species/selonian/entry.md"
@@ -1714,9 +1721,16 @@ author = "Il_van"
 name = "Sullustan"
 release_year = 2024
 
+[[categories.entries]]
+markdown_path = "species/cathar/entry.md"
+index = 122
+author = "Remalior"
+name = "Cathar"
+release_year = 2022
+
 
 [[categories]]
-total_entries = 130
+total_entries = 134
 name = "Planets"
 index = 4
 [[categories.entries]]
@@ -2112,11 +2126,11 @@ name = "Wasskah"
 release_year = 2023
 
 [[categories.entries]]
-markdown_path = "planets/jelucan/entry.md"
+markdown_path = "planets/kashyyyk/entry.md"
 index = 57
-author = "SkyPanik"
-name = "Jelucan"
-release_year = 2023
+author = "CoolShark2828"
+name = "Kashyyyk"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "planets/oba_diah/entry.md"
@@ -2629,9 +2643,37 @@ author = "bebravesingapore"
 name = "Ilum"
 release_year = 2023
 
+[[categories.entries]]
+markdown_path = "planets/jelucan/entry.md"
+index = 131
+author = "SkyPanik"
+name = "Jelucan"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "planets/kamino/entry.md"
+index = 132
+author = "CoolShark2828"
+name = "Kamino"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "planets/rishi/entry.md"
+index = 133
+author = "mummytrie"
+name = "Rishi"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "planets/mortis/entry.md"
+index = 134
+author = "AlterAurum"
+name = "Mortis"
+release_year = 2024
+
 
 [[categories]]
-total_entries = 60
+total_entries = 61
 name = "History"
 index = 5
 [[categories.entries]]
@@ -2817,11 +2859,11 @@ name = "Great Sith Wars"
 release_year = 2022
 
 [[categories.entries]]
-markdown_path = "history/tionese_war/entry.md"
+markdown_path = "history/the_galactic_civil_war/entry.md"
 index = 27
-author = "gamer_doritos1"
-name = "Tionese War"
-release_year = 2022
+author = "AlexJackz"
+name = "The Galactic Civil War"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "history/new_sith_wars/entry.md"
@@ -3009,7 +3051,7 @@ release_year = 2023
 markdown_path = "history/great_jedi_purge_order_66/entry.md"
 index = 54
 author = "Minato_Yt108"
-name = "Great Jedi Purge \n(Order 66)"
+name = "Great Jedi Purge (Order 66)"
 release_year = 2023
 
 [[categories.entries]]
@@ -3048,10 +3090,17 @@ name = "The Rise of the Galactic Empire"
 release_year = 2024
 
 [[categories.entries]]
-markdown_path = "history/the_galactic_civil_war/entry.md"
+markdown_path = "history/tionese_war/entry.md"
 index = 61
-author = "AlexJackz"
-name = "The Galactic Civil War"
+author = "gamer_doritos1"
+name = "Tionese War"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "history/the_search_for_exar_kun_s_legacy/entry.md"
+index = 62
+author = "deprav1ty"
+name = "The Search for Exar Kun's Legacy"
 release_year = 2024
 
 
@@ -3705,7 +3754,7 @@ release_year = 2024
 
 
 [[categories]]
-total_entries = 38
+total_entries = 39
 name = "Sith Echelon"
 index = 7
 [[categories.entries]]
@@ -3744,11 +3793,11 @@ name = "Dark Lord of the Sith"
 release_year = 2022
 
 [[categories.entries]]
-markdown_path = "sith_echelon/sith_overseer/entry.md"
+markdown_path = "sith_echelon/sith_overlords/entry.md"
 index = 6
-author = "Redjaal"
-name = "Sith Overseer"
-release_year = 2022
+author = "Mus8732"
+name = "Sith Overlords"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "sith_echelon/sith_council/entry.md"
@@ -3767,9 +3816,9 @@ release_year = 2022
 [[categories.entries]]
 markdown_path = "sith_echelon/sith_warrior/entry.md"
 index = 9
-author = "Redjaal"
+author = "CyreiusVicario"
 name = "Sith Warrior"
-release_year = 2022
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "sith_echelon/sith_inquisitor/entry.md"
@@ -3973,6 +4022,13 @@ index = 38
 author = "Minato_Yt108"
 name = "Sith Lord"
 release_year = 2024
+
+[[categories.entries]]
+markdown_path = "sith_echelon/sith_overseer/entry.md"
+index = 39
+author = "Redjaal"
+name = "Sith Overseer"
+release_year = 2022
 
 
 [[categories]]
@@ -4352,7 +4408,7 @@ release_year = 2024
 
 
 [[categories]]
-total_entries = 64
+total_entries = 65
 name = "Combat Studies"
 index = 9
 [[categories.entries]]
@@ -4803,9 +4859,16 @@ author = "TorrykkTheGod"
 name = "Vornskr Hunting Techniques"
 release_year = 2024
 
+[[categories.entries]]
+markdown_path = "combat_studies/noghri_stealth_techniques/entry.md"
+index = 65
+author = "deprav1ty"
+name = "Noghri Stealth Techniques"
+release_year = 2024
+
 
 [[categories]]
-total_entries = 61
+total_entries = 62
 name = "Archaeological Studies"
 index = 10
 [[categories.entries]]
@@ -5235,6 +5298,13 @@ author = "Odysseus_v1"
 name = "Revan's Lightsaber"
 release_year = 2024
 
+[[categories.entries]]
+markdown_path = "archaeological_studies/rakatan_empire_rise_fall/entry.md"
+index = 62
+author = "mummytrie"
+name = "Rakatan Empire: Rise & Fall"
+release_year = 2024
+
 
 [[categories]]
 total_entries = 11
@@ -5319,7 +5389,7 @@ release_year = 2022
 
 
 [[categories]]
-total_entries = 31
+total_entries = 33
 name = "Foremost of the Order"
 index = 12
 [[categories.entries]]
@@ -5539,6 +5609,20 @@ author = "Long_Guy27"
 name = "Quartermaster Meka Odullu"
 release_year = 2022
 
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/the_tale_of_darth_zinwrath/entry.md"
+index = 32
+author = "PoH_v1"
+name = "The Tale of Darth Zinwrath"
+release_year = 2023
+
+[[categories.entries]]
+markdown_path = "foremost_of_the_order/the_tale_of_darth_gallius/entry.md"
+index = 33
+author = "Daedima"
+name = "The Tale of Darth Gallius"
+release_year = 2022
+
 
 [[categories]]
 total_entries = 2
@@ -5560,7 +5644,7 @@ release_year = 2022
 
 
 [[categories]]
-total_entries = 13
+total_entries = 12
 name = "Group Legends"
 index = 14
 [[categories.entries]]
@@ -5647,16 +5731,9 @@ author = "LuciferTemenos"
 name = "The Death of a Master "
 release_year = 2022
 
-[[categories.entries]]
-markdown_path = "group_legends/the_ascension_of_darth_gallius/entry.md"
-index = 13
-author = "Daedima"
-name = "The Ascension of Darth Gallius"
-release_year = 2022
-
 
 [[categories]]
-total_entries = 204
+total_entries = 206
 name = "Persons of Interest"
 index = 15
 [[categories.entries]]
@@ -5961,11 +6038,11 @@ name = "Naga Sadow"
 release_year = 2022
 
 [[categories.entries]]
-markdown_path = "persons_of_interest/0_0_0/entry.md"
+markdown_path = "persons_of_interest/gial_ackbar/entry.md"
 index = 44
-author = "ShadowKorbius"
-name = "0-0-0"
-release_year = 2021
+author = "Il_van"
+name = "Gial Ackbar"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "persons_of_interest/darth_vader/entry.md"
@@ -6038,11 +6115,11 @@ name = "Darth Vitiate"
 release_year = 2022
 
 [[categories.entries]]
-markdown_path = "persons_of_interest/darth_wyyrlok_ii/entry.md"
+markdown_path = "persons_of_interest/darth_wyyrlok_iii/entry.md"
 index = 55
-author = "SkyPanik"
-name = "Darth Wyyrlok II"
-release_year = 2023
+author = "AlterAurum"
+name = "Darth Wyyrlok III"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "persons_of_interest/darth_xarion/entry.md"
@@ -6346,11 +6423,11 @@ name = "Darth Vilus"
 release_year = 2022
 
 [[categories.entries]]
-markdown_path = "persons_of_interest/abeloth/entry.md"
+markdown_path = "persons_of_interest/0_0_0/entry.md"
 index = 99
-author = "Framis"
-name = "Abeloth"
-release_year = 2023
+author = "ShadowKorbius"
+name = "0-0-0"
+release_year = 2021
 
 [[categories.entries]]
 markdown_path = "persons_of_interest/tay_0/entry.md"
@@ -6598,11 +6675,11 @@ name = "Ennix Devian"
 release_year = 2023
 
 [[categories.entries]]
-markdown_path = "persons_of_interest/darth_vowrawn/entry.md"
+markdown_path = "persons_of_interest/darth_wredd/entry.md"
 index = 135
-author = "jinqxd"
-name = "Darth Vowrawn"
-release_year = 2022
+author = "Mus8732"
+name = "Darth Wredd"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "persons_of_interest/darth_wyyrlok_i/entry.md"
@@ -7068,10 +7145,17 @@ release_year = 2022
 
 [[categories.entries]]
 markdown_path = "persons_of_interest/boba_fett/entry.md"
-index = 204
+index = 203
 author = "Eternal_Incursion"
 name = "Boba Fett"
 release_year = 2024
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/abeloth/entry.md"
+index = 204
+author = "Framis"
+name = "Abeloth"
+release_year = 2023
 
 [[categories.entries]]
 markdown_path = "persons_of_interest/ig_88/entry.md"
@@ -7081,15 +7165,22 @@ name = "IG-88"
 release_year = 2024
 
 [[categories.entries]]
-markdown_path = "persons_of_interest/gial_ackbar/entry.md"
+markdown_path = "persons_of_interest/darth_vowrawn/entry.md"
 index = 206
-author = "Il_van"
-name = "Gial Ackbar"
-release_year = 2024
+author = "jinqxd"
+name = "Darth Vowrawn"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/darth_wyyrlok_ii/entry.md"
+index = 207
+author = "SkyPanik"
+name = "Darth Wyyrlok II"
+release_year = 2023
 
 
 [[categories]]
-total_entries = 62
+total_entries = 64
 name = "Aspects of the Force"
 index = 16
 [[categories.entries]]
@@ -7135,11 +7226,11 @@ name = "Force Sight"
 release_year = 2021
 
 [[categories.entries]]
-markdown_path = "aspects_of_the_force/force_deflect/entry.md"
+markdown_path = "aspects_of_the_force/force_empathy/entry.md"
 index = 7
-author = "ShadowKorbius"
-name = "Force Deflect"
-release_year = 2022
+author = "deprav1ty"
+name = "Force Empathy"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "aspects_of_the_force/force_dash/entry.md"
@@ -7345,11 +7436,11 @@ name = "Tutaminis"
 release_year = 2022
 
 [[categories.entries]]
-markdown_path = "aspects_of_the_force/force_clouding/entry.md"
+markdown_path = "aspects_of_the_force/force_corruptions/entry.md"
 index = 37
-author = "FlashPanik"
-name = "Force Clouding"
-release_year = 2022
+author = "Mus8732"
+name = "Force Corruptions"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "aspects_of_the_force/force_barrier/entry.md"
@@ -7525,5 +7616,19 @@ index = 62
 author = "Iridinia"
 name = "Dark Side Corruption"
 release_year = 2024
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_clouding/entry.md"
+index = 63
+author = "FlashPanik"
+name = "Force Clouding"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "aspects_of_the_force/force_deflect/entry.md"
+index = 64
+author = "ShadowKorbius"
+name = "Force Deflect"
+release_year = 2022
 
 
