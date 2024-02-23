@@ -101,7 +101,7 @@ management_arguments.add_argument(
 )
 
 
-def no_arguments(args: argparse.Namespace) -> bool:
+def NoArguments(args: argparse.Namespace) -> bool:
     """Checks whether any arguments have been given."""
     return not (
         args.help

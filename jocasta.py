@@ -1,12 +1,16 @@
 import os
-import shutil
 import json
 import toml
 import mdformat
 import time
-import math
 
-import jocastas_backend as Backend
+from jocastas_backend.Functionality import Formatter
+from jocastas_backend.Functionality import Generator
+from jocastas_backend.Utilities import Arguments
+from jocastas_backend.Utilities import Constants
+from jocastas_backend.Utilities import Files
+from jocastas_backend.Utilities import Logger
+from jocastas_backend.Utilities import Terminal
 from jocastas_backend.Utilities.Constants import *
 from jocastas_backend.Utilities.Terminal import TerminalColorCode as CC
 from jocastas_backend.Utilities.Terminal import Colour as c
@@ -54,365 +58,8 @@ EXPECTED_ENTRY_META_FIELDS = {
 }
 
 # CLI arguments for program configuration
-arguments = Backend.Arguments.JocastaArgumentParser.parse_args()
-Log = Backend.Logger.Logger(arguments)
-
-
-def get_index_key(entry_data) -> int:
-    """Key function for use in sorting dictionaries of categories or entries."""
-    return entry_data["index"]
-
-
-def create_ascii_progress_bar(progress: float = 0, length: int = 10) -> str:
-    """
-    Creates a progress bar out of ASCII art.
-    Example: `[####  ]`
-    """
-    # clamping progress between 0 and 1
-    progress = max(0, min(progress, 1))
-    number_of_progress_characters = math.floor(progress * length)
-    return f"[{PROGRESS_BAR_CHARACTER * number_of_progress_characters}{' ' * (length - number_of_progress_characters)}]"
-
-
-def conditional_progress_bar_prefix(
-    should: bool = True, progress: float = 0, length: int = 10
-) -> str:
-    """
-    Creates a progress bar, based on a condition, meant for adding it as a prefix to text.
-    """
-
-    if should:
-        return create_ascii_progress_bar(progress=progress, length=length) + " "
-    else:
-        return ""
-
-
-def generate_archive_directories():
-    """
-    Generates the entire archive structure and all necessary files from given archive describing files it finds (currently supporting lua or json).
-    """
-    start_time = time.perf_counter()
-
-    # look for archive files (either lua or json)
-    archive_files: list[str] = []
-    for file_name in os.listdir(os.getcwd()):
-        for type_suffix in ARCHIVE_FILE_TYPE_SUFFIXES:
-            if file_name.endswith(f"{ARCHIVE_FILE_SUFFIX}.{type_suffix}"):
-                archive_files.append(file_name)
-                break
-
-    if len(archive_files) == 0:
-        if arguments.verbosity >= 1:
-            Log.Info("No archive files found. Exiting.")
-        return
-
-    # ensuring all found archive files are json files (converting anything that isn't into it)
-    processed_archive_files = {}
-    for i in range(0, len(archive_files)):
-        file_name = archive_files[i]
-        processed_archive_files[file_name] = file_name
-
-        if not file_name.endswith(".json"):
-            if arguments.verbosity >= 1:
-                Log.Info(f"Converting {c(CC.PINK, file_name)} to JSON.")
-            file_root, file_type = os.path.splitext(file_name)
-            new_name = f"{file_root}.json"
-
-            # if the converted json file already exists, delete it.
-            existing_file_path = os.path.join(os.getcwd(), new_name)
-            if os.path.exists(existing_file_path):
-                os.remove(existing_file_path)
-
-            # renaming
-            os.rename(file_name, new_name)
-            processed_archive_files[file_name] = None
-            processed_archive_files[new_name] = new_name
-
-    # generating directories
-    for file_name in processed_archive_files.values():
-        with open(file_name) as json_file:
-            archive_data = json.load(json_file)
-            base_name = archive_data["name"]
-
-            # cleaning existing base directory if one already exists and destruction option is supplied
-            if arguments.destructive and os.path.isdir(base_name):
-                if arguments.verbosity >= 1:
-                    Log.Warn(
-                        f"Destructive option applied. Deleting {c(CC.PINK, base_name)} archives before re-generating..."
-                    )
-                shutil.rmtree(base_name)
-
-            # making base directory
-            os.makedirs(base_name, exist_ok=True)
-
-            if arguments.verbosity >= 1:
-                Log.Info(
-                    f"Creating category directories for {c(CC.PINK, base_name)} archives..."
-                )
-
-            categories = archive_data["categories"].items()
-            total_categories = len(categories)
-            categories_made = 0
-            for category_name, category_data in categories:
-                processed_category_name = Backend.Files.SanitiseFileName(category_name)
-                if arguments.verbosity >= 2:
-                    progress_bar = conditional_progress_bar_prefix(
-                        arguments.concise_output and arguments.verbosity == 2,
-                        categories_made / total_categories,
-                    )
-                    Log.Info(
-                        f'\t{progress_bar}Creating category "{category_name}" <{processed_category_name}>',
-                        replace_last=(
-                            arguments.concise_output and arguments.verbosity == 2
-                        ),
-                    )
-
-                # making category directory
-                os.makedirs(
-                    os.path.join(base_name, processed_category_name),
-                    exist_ok=True,
-                )
-
-                # adding a meta file
-                with open(
-                    os.path.join(base_name, processed_category_name, META_FILE_NAME),
-                    "w",
-                ) as meta_file:
-                    toml.dump(category_data["meta"], meta_file)
-
-                # creating entry markdown files
-                articles = category_data["articles"].items()
-                total_articles = len(articles)
-                articles_made = 0
-                for article_name, article_data in articles:
-                    processed_article_name = Backend.Files.SanitiseFileName(
-                        article_name
-                    )
-                    if arguments.verbosity >= 3:
-                        progress_bar = conditional_progress_bar_prefix(
-                            arguments.concise_output, articles_made / total_articles
-                        )
-
-                        Log.Info(
-                            f'\t\t{progress_bar}Creating article "{article_name}" ({processed_article_name})',
-                            replace_last=arguments.concise_output,
-                        )
-
-                    # creating directory
-                    os.makedirs(
-                        os.path.join(
-                            base_name, processed_category_name, processed_article_name
-                        ),
-                        exist_ok=True,
-                    )
-
-                    # adding meta file
-                    with open(
-                        os.path.join(
-                            base_name,
-                            processed_category_name,
-                            processed_article_name,
-                            META_FILE_NAME,
-                        ),
-                        "w",
-                    ) as meta_file:
-                        toml.dump(article_data["meta"], meta_file)
-
-                    # creating entry and processing its content
-                    with open(
-                        os.path.join(
-                            base_name,
-                            processed_category_name,
-                            processed_article_name,
-                            ENTRY_FILE_NAME,
-                        ),
-                        "w",
-                        encoding="utf-8",
-                    ) as entry_file:
-                        entry_file.write(
-                            Backend.Files.ProcessMarkdown(article_data["content"])
-                        )
-
-                    articles_made += 1
-                categories_made += 1
-
-    if arguments.verbosity >= 1:
-        end_time = time.perf_counter()
-        Log.Success(f"All archives created. (took {end_time - start_time:.4f}) seconds")
-
-
-def format_archives():
-    """Formats all archives. Additionally, fixes any unidentified Unicode characters resulting from JSONEncoding from ROBLOX"""
-    start_time = time.perf_counter()
-    archive_folders = Backend.Files.FindArchiveFolders()
-
-    if len(archive_folders) == 0 and arguments.verbosity >= 1:
-        Log.Warn("No archive folders to format.")
-        return
-
-    # then iterate through all folders, categories and entry folders, to find the entry markdowns
-    for archive_index, folder in enumerate(archive_folders):
-        if arguments.verbosity >= 1:
-            Log.Info(
-                f"Formatting {c(CC.PINK, folder)} [{archive_index + 1}/{len(archive_folders)}] archives..."
-            )
-
-        archives_folder_path = os.path.join(os.getcwd(), folder)
-        categories = Backend.Files.OnlyDirectories(archives_folder_path)
-        total_categories = len(categories)
-        for category_index, category in enumerate(categories):
-            if arguments.verbosity >= 2:
-                progress_bar = conditional_progress_bar_prefix(
-                    arguments.concise_output and arguments.verbosity == 2,
-                    (category_index + 1) / total_categories,
-                )
-
-                Log.Info(
-                    f"\t{progress_bar}Formatting category [{category_index + 1}/{total_categories}]<{category}>",
-                    replace_last=(
-                        arguments.concise_output and arguments.verbosity == 2
-                    ),
-                )
-
-            category_folder_path = os.path.join(folder, category)
-
-            entries = Backend.Files.OnlyDirectories(category_folder_path)
-            total_entries = len(entries)
-            for entry_index, entry in enumerate(entries):
-                entry_folder_path = os.path.join(category_folder_path, entry)
-                entry_markdown_file_path = Backend.Files.FindMarkdownFile(
-                    entry_folder_path
-                )
-
-                if entry_markdown_file_path is not None:
-                    if arguments.verbosity >= 3:
-                        progress_bar = conditional_progress_bar_prefix(
-                            arguments.concise_output, (entry_index + 1) / total_entries
-                        )
-
-                        Log.Info(
-                            f"\t\t{progress_bar}Formatting category <{category}> entry [{entry_index + 1}/{total_entries}]<{entry}>",
-                            replace_last=arguments.concise_output,
-                        )
-
-                    # formatting file instead of text since it's quicker
-                    mdformat.file(entry_markdown_file_path)
-
-    if arguments.verbosity >= 1:
-        end_time = time.perf_counter()
-        Log.Success(
-            f"All archives formatted! (took {(end_time - start_time):.4f} seconds)"
-        )
-
-
-def generate_meta():
-    """Generates a single meta file for each set of archives, explaining their contents and using the existing meta files as sources of truth."""
-    start_time = time.perf_counter()
-
-    archive_folders = Backend.Files.FindArchiveFolders()
-
-    if len(archive_folders) == 0 and arguments.verbosity >= 1:
-        Log.Warn("No archive folders to generate meta files for.")
-        return
-
-    for archive in archive_folders:
-        if arguments.verbosity >= 2:
-            Log.Info(f"Generating meta files for {c(CC.PINK, archive)} archives...")
-
-        # parsing all categories
-        archive_path = os.path.join(os.getcwd(), archive)
-        categories = Backend.Files.OnlyDirectories(archive_path)
-
-        # creating main meta data object
-        category_list = list()
-
-        for category in categories:
-
-            # collecting meta data from meta file
-            category_path = os.path.join(archive_path, category)
-            category_meta_file_path = os.path.join(category_path, META_FILE_NAME)
-
-            # ensuring the category has a meta file
-            if not os.path.exists(category_meta_file_path):
-                if arguments.verbosity >= 1:
-                    Log.Warn(
-                        f"[{category_path}] does not have a {META_FILE_NAME}. Skipping category."
-                    )
-                continue
-
-            # variables in preparation for processing meta file
-            entries = Backend.Files.OnlyDirectories(category_path)
-            entry_count = len(entries)
-            entry_list = list()
-
-            # parsing all entries
-            for entry in entries:
-
-                # collecting meta data from meta file
-                entry_path = os.path.join(category_path, entry)
-                entry_meta_file = os.path.join(entry_path, META_FILE_NAME)
-
-                # ensuring the entry has a meta file
-                if not os.path.exists(entry_meta_file):
-                    if arguments.verbosity >= 1:
-                        Log.Warn(
-                            f"[{entry_path}] does not have a {META_FILE_NAME}. Skipping entry."
-                        )
-                    continue
-
-                # reading and processing entry meta file
-                with open(entry_meta_file, "r") as meta_file:
-                    entry_meta_data = toml.load(meta_file)
-
-                    # adding each bit of meta data into the list of entries, prior to adding them to the main meta object
-                    entry_list.append(
-                        dict(
-                            markdown_path=f"{category}/{entry}/{ENTRY_FILE_NAME}",
-                            **entry_meta_data,
-                        )
-                    )
-
-            # sorting entries by index
-            entry_list.sort(key=get_index_key)
-
-            # reading the category meta file
-            with open(category_meta_file_path, "r") as meta_file:
-                # loading toml data into a python dictionary
-                category_meta_data = toml.load(meta_file)
-
-                # appending a new category dictionary
-                category_list.append(
-                    dict(
-                        entries=entry_list,
-                        total_entries=entry_count,
-                        **category_meta_data,  # unpacking all category meta data into keys/values inside the new, expanded meta data
-                    ),
-                )
-
-        # sorting categories
-        category_list.sort(key=get_index_key)
-
-        # compiling meta data
-        archive_meta_data = dict(
-            categories=category_list, category_count=len(categories)
-        )
-
-        # writing meta files (toml for readability and json for roblox processing)
-        with open(os.path.join(archive, META_FILE_NAME), "w") as new_meta_toml_file:
-            toml.dump(archive_meta_data, new_meta_toml_file)
-        with open(
-            os.path.join(archive, META_FILE_NAME_JSON), "w"
-        ) as new_meta_json_file:
-            json.dump(archive_meta_data, new_meta_json_file, indent=None)
-
-        if arguments.verbosity >= 2:
-            Log.Info(f"{archive.capitalize()} archive meta files created.")
-
-    if arguments.verbosity >= 1:
-        end_time = time.perf_counter()
-        Log.Success(
-            f"Meta file creation done! (took {(end_time - start_time):.4f} seconds)"
-        )
+arguments = Arguments.JocastaArgumentParser.parse_args()
+Log = Logger.Logger(arguments)
 
 
 def check_archives() -> tuple[int, str]:
@@ -423,7 +70,7 @@ def check_archives() -> tuple[int, str]:
     category_problems = 0
     entry_problems = 0
 
-    archive_folders = Backend.Files.FindArchiveFolders()
+    archive_folders = Files.FindArchiveFolders()
     if len(archive_folders) == 0 and arguments.verbosity >= 1:
         Log.Warn("No archive folders to check.")
         return
@@ -447,7 +94,7 @@ def check_archives() -> tuple[int, str]:
             )
 
         # now checking all categories
-        categories = Backend.Files.OnlyDirectories(archive_path)
+        categories = Files.OnlyDirectories(archive_path)
         existing_category_indices = {}
         for category in categories:
             category_path = os.path.join(archive_path, category)
@@ -540,11 +187,9 @@ def check_archives() -> tuple[int, str]:
                                 )
                             elif value_type == str:
                                 non_matching_characters: list = (
-                                    Backend.Files.FindInvalidCharacters(field_value)
+                                    Files.FindInvalidCharacters(field_value)
                                 )
-                                correct_entry_name = Backend.Files.SanitiseFileName(
-                                    field_value
-                                )
+                                correct_entry_name = Files.SanitiseFileName(field_value)
 
                                 if len(non_matching_characters) > 0:
                                     category_problems += 1
@@ -596,7 +241,7 @@ def check_archives() -> tuple[int, str]:
                         existing_category_indices[meta_toml["index"]] = (
                             os.path.basename(category_path)
                         )
-            entries = Backend.Files.OnlyDirectories(category_path)
+            entries = Files.OnlyDirectories(category_path)
             existing_entry_indices = {}
             for entry in entries:
                 entry_path = os.path.join(category_path, entry)
@@ -706,9 +351,9 @@ def check_archives() -> tuple[int, str]:
                                     )
                                 elif value_type == str:
                                     non_matching_characters: list = (
-                                        Backend.Files.FindInvalidCharacters(field_value)
+                                        Files.FindInvalidCharacters(field_value)
                                     )
-                                    correct_entry_name = Backend.Files.SanitiseFileName(
+                                    correct_entry_name = Files.SanitiseFileName(
                                         field_value
                                     )
 
@@ -779,22 +424,24 @@ def check_archives() -> tuple[int, str]:
 
 
 # main program execution
-if Backend.Arguments.no_arguments(arguments) or arguments.help:
-    Backend.Arguments.JocastaArgumentParser.print_help()
+if Arguments.NoArguments(arguments) or arguments.help:
+    Arguments.JocastaArgumentParser.print_help()
     exit(0)
 
 if arguments.version:
-    print(f"{Backend.Arguments.JocastaArgumentParser.prog} v{TOOL_VERSION}")
+    print(f"{Arguments.JocastaArgumentParser.prog} v{TOOL_VERSION}")
     exit(0)
 
+archive_generator = Generator.ArchiveGenerator(arguments)
+archive_formatter = Formatter.ArchiveFormatter(arguments)
 if arguments.generate:
-    generate_archive_directories()
+    archive_generator.GenerateAllArchivesFromSource()
 
 if arguments.format:
-    format_archives()
+    archive_formatter.FormatAllArchiveEntries()
 
 if arguments.meta:
-    generate_meta()
+    archive_generator.GenerateGlobalArchiveMetaFiles()
 
 if arguments.check:
     exit_code, result_string = check_archives()
