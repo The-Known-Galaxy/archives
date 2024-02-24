@@ -28,8 +28,8 @@ class Logger:
         """
         original_length = len(input)
         filtered = input
-        for control_code in COLOUR_SEQUENCE.values():
-            filtered = filtered.replace(control_code, "")
+        for control_code in TerminalColorCode:
+            filtered = filtered.replace(control_code.value, "")
         new_length = len(filtered)
         return new_length, original_length - new_length
 
