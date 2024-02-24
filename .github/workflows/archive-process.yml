@@ -17,7 +17,7 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install toml==0.10.2
-      - run: pip install mdformat-gfm==0.7.17
+      - run: pip install mdformat-gfm==0.3.6
       - run: python jocasta.py --format
       - run: python jocasta.py --generate-meta
       - run: python jocasta.py --check
