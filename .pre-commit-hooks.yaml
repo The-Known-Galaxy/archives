@@ -1,6 +1,0 @@
--   id: archive-validator
-    name: Archive Validator
-    description: Validates all files in the archives.
-    entry: python test.py
-    language: python
-    types: [text]

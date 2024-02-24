@@ -36,7 +36,15 @@ Checklist of things to do (skip any that you've done before).
 1. Open a terminal, and navigate to a folder you'd like this project to go into (it'll make a new folder inside that).
 1. Run `git clone https://github.com/The-Known-Galaxy/archives.git`
 1. Run `cd archives` (to go into the repository folder).
-1. Run `pip install toml`, `pip install mdformat-gfm`, `pip install pre-commit`, `pre-commit install`
+1. Run `pip install toml`, `pip install mdformat-gfm`
+1. Execute: (this is pre-commit hook setup)
+   1. If on a Windows system or non-BASH terminal (Command Prompt, Powershell, etc):
+      1. `rename .git\hooks\pre-commit.sample pre-commit`
+      1. `echo pre-commit-contents.txt > .git\hooks\pre-commit`
+   1. If on a Linux/UNIX-style or Mac OS terminal (Git Bash, Bash, Z-Shell, etc):
+      1. `mv .git/hooks/pre-commit.sample .git/hooks/pre-commit`
+      1. `cat pre-commit-contents.txt > .git\hooks\pre-commit`
+
 
 Every time you wish to make changes:
 
