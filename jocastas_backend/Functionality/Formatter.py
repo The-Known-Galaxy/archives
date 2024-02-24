@@ -82,8 +82,12 @@ class ArchiveFormatter:
                         # getting rid of any nasty unknown Unicode characters
                         # how does this work? source: trust me bro
                         meta_file = pathlib.Path(meta_file_path)
-                        contents = meta_file.read_bytes().decode()
-                        meta_file.write_bytes(contents.encode())
+                        contents = meta_file.read_bytes().decode(
+                            encoding="utf-8", errors="replace"
+                        )
+                        meta_file.write_bytes(
+                            contents.encode(encoding="utf-8", errors="replace")
+                        )
 
         if self.Arguments.verbosity >= 1:
             end_time = time.perf_counter()
