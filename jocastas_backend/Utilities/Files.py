@@ -88,5 +88,5 @@ def ValidateTomlFileEncoding(path_to_toml: str):
         return
 
     file = pathlib.Path(path_to_toml)
-    contents = file.read_text()
-    file.write_text(contents)
+    contents = file.read_text(encoding="utf-8", errors="replace")
+    file.write_text(data=contents, encoding="utf-8", errors="replace")
