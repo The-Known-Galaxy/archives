@@ -8,6 +8,7 @@ from ..Utilities import Files
 from ..Utilities import Terminal
 from ..Utilities.Terminal import TerminalColorCode as CC
 from ..Utilities.Terminal import Colour as c
+from ..Utilities.Constants import *
 
 
 class ArchiveFormatter:
@@ -58,6 +59,7 @@ class ArchiveFormatter:
                 for entry_index, entry in enumerate(entries):
                     entry_folder_path = os.path.join(category_folder_path, entry)
                     entry_markdown_file_path = Files.FindMarkdownFile(entry_folder_path)
+                    meta_file_path = os.path.join(entry_folder_path, META_FILE_NAME)
 
                     if entry_markdown_file_path is not None:
                         if self.Arguments.verbosity >= 3:
@@ -73,6 +75,21 @@ class ArchiveFormatter:
 
                         # formatting file instead of text since it's quicker
                         mdformat.file(entry_markdown_file_path)
+
+                    # re-encoding meta file
+                    if os.path.exists(meta_file_path):
+                        contents = None
+                        with open(meta_file_path, "r") as meta_file:
+                            contents = meta_file.read()
+
+                        # getting rid of any nasty unknown Unicode characters
+                        # how does this work? source: trust me bro
+                        contents = contents.encode(
+                            encoding="utf-8", errors="replace"
+                        ).decode(encoding="utf-8", errors="strict")
+
+                        with open(meta_file_path, "w") as meta_file:
+                            meta_file.write(contents)
 
         if self.Arguments.verbosity >= 1:
             end_time = time.perf_counter()

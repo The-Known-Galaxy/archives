@@ -243,7 +243,6 @@ class ArchiveGenerator:
 
                     # reading and processing entry meta file
                     with open(entry_meta_file, "r") as meta_file:
-                        print(entry_meta_file)
                         entry_meta_data = toml.load(meta_file)
 
                         # adding each bit of meta data into the list of entries, prior to adding them to the main meta object
