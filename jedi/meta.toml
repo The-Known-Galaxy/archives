@@ -435,7 +435,7 @@ markdown_path = "historical_events/cold_war/entry.md"
 index = 62
 author = ""
 name = "Cold War"
-release_year = 0
+release_year = 2021
 
 [[categories.entries]]
 markdown_path = "historical_events/skirmish_in_the_tingel_arm/entry.md"
@@ -4870,7 +4870,7 @@ release_year = 2021
 markdown_path = "expansion_region/noe_ha_on/entry.md"
 index = 11
 author = "ElysiaLValkyrie"
-name = "Noe’ha’on"
+name = "Noe'ha'on"
 release_year = 2021
 
 [[categories.entries]]

@@ -62,7 +62,7 @@ class ArchiveGenerator:
 
                 # renaming
                 os.rename(file_name, new_name)
-                processed_archive_files[file_name] = None
+                processed_archive_files.pop(file_name)
                 processed_archive_files[new_name] = new_name
 
         # generating directories
@@ -113,13 +113,15 @@ class ArchiveGenerator:
                     )
 
                     # adding a meta file
+                    category_meta_file_path = os.path.join(
+                        base_name, processed_category_name, META_FILE_NAME
+                    )
                     with open(
-                        os.path.join(
-                            base_name, processed_category_name, META_FILE_NAME
-                        ),
+                        category_meta_file_path,
                         "w",
                     ) as meta_file:
                         toml.dump(category_data["meta"], meta_file)
+                    Files.ValidateTomlFileEncoding(category_meta_file_path)
 
                     # creating entry markdown files
                     articles = category_data["articles"].items()
@@ -149,16 +151,18 @@ class ArchiveGenerator:
                         )
 
                         # adding meta file
+                        article_meta_file_path = os.path.join(
+                            base_name,
+                            processed_category_name,
+                            processed_article_name,
+                            META_FILE_NAME,
+                        )
                         with open(
-                            os.path.join(
-                                base_name,
-                                processed_category_name,
-                                processed_article_name,
-                                META_FILE_NAME,
-                            ),
+                            article_meta_file_path,
                             "w",
                         ) as meta_file:
                             toml.dump(article_data["meta"], meta_file)
+                        Files.ValidateTomlFileEncoding(article_meta_file_path)
 
                         # creating entry and processing its content
                         with open(
@@ -279,8 +283,10 @@ class ArchiveGenerator:
             )
 
             # writing meta files (toml for readability and json for roblox processing)
-            with open(os.path.join(archive, META_FILE_NAME), "w") as new_meta_toml_file:
+            archive_meta_file_path = os.path.join(archive, META_FILE_NAME)
+            with open(archive_meta_file_path, "w") as new_meta_toml_file:
                 toml.dump(archive_meta_data, new_meta_toml_file)
+            Files.ValidateTomlFileEncoding(archive_meta_file_path)
             with open(
                 os.path.join(archive, META_FILE_NAME_JSON), "w"
             ) as new_meta_json_file:

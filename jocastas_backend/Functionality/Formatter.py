@@ -55,13 +55,20 @@ class ArchiveFormatter:
 
                 category_folder_path = os.path.join(folder, category)
 
+                category_meta_file_path = os.path.join(
+                    category_folder_path, META_FILE_NAME
+                )
+                Files.ValidateTomlFileEncoding(category_meta_file_path)
+
                 entries = Files.OnlyDirectories(category_folder_path)
                 total_entries = len(entries)
                 for entry_index, entry in enumerate(entries):
                     entry_folder_path = os.path.join(category_folder_path, entry)
-                    entry_markdown_file_path = Files.FindMarkdownFile(entry_folder_path)
-                    meta_file_path = os.path.join(entry_folder_path, META_FILE_NAME)
 
+                    meta_file_path = os.path.join(entry_folder_path, META_FILE_NAME)
+                    Files.ValidateTomlFileEncoding(meta_file_path)
+
+                    entry_markdown_file_path = Files.FindMarkdownFile(entry_folder_path)
                     if entry_markdown_file_path is not None:
                         if self.Arguments.verbosity >= 3:
                             progress_bar = Terminal.CreateConditionalProgressBarPrefix(
@@ -76,18 +83,6 @@ class ArchiveFormatter:
 
                         # formatting file instead of text since it's quicker
                         mdformat.file(entry_markdown_file_path)
-
-                    # re-encoding meta file
-                    if os.path.exists(meta_file_path):
-                        # getting rid of any nasty unknown Unicode characters
-                        # how does this work? source: trust me bro
-                        meta_file = pathlib.Path(meta_file_path)
-                        contents = meta_file.read_bytes().decode(
-                            encoding="utf-8", errors="replace"
-                        )
-                        meta_file.write_bytes(
-                            contents.encode(encoding="utf-8", errors="replace")
-                        )
 
         if self.Arguments.verbosity >= 1:
             end_time = time.perf_counter()

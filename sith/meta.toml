@@ -1,6 +1,6 @@
 category_count = 16
 [[categories]]
-total_entries = 28
+total_entries = 29
 name = "Sith Philosophy"
 index = 1
 [[categories.entries]]
@@ -116,11 +116,11 @@ name = "Immortality"
 release_year = 2023
 
 [[categories.entries]]
-markdown_path = "sith_philosophy/dark_side_of_the_force/entry.md"
+markdown_path = "sith_philosophy/darth_malak_s_ruthlessness/entry.md"
 index = 17
-author = "Reavion"
-name = "Dark Side of the Force"
-release_year = 2021
+author = "mummytrie"
+name = "Darth Malak's Ruthlessness"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "sith_philosophy/weakness_of_inferiors/entry.md"
@@ -199,9 +199,16 @@ author = "jaketstone34"
 name = "Power of the Sith"
 release_year = 2023
 
+[[categories.entries]]
+markdown_path = "sith_philosophy/dark_side_of_the_force/entry.md"
+index = 29
+author = "Reavion"
+name = "Dark Side of the Force"
+release_year = 2021
+
 
 [[categories]]
-total_entries = 100
+total_entries = 102
 name = "Factions"
 index = 2
 [[categories.entries]]
@@ -902,6 +909,20 @@ markdown_path = "factions/rebel_alliance/entry.md"
 index = 100
 author = "Mus8732"
 name = "Rebel Alliance"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "factions/inferno_squad/entry.md"
+index = 101
+author = "MitchT23"
+name = "Inferno Squad"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "factions/knights_of_zakuul/entry.md"
+index = 102
+author = "mummytrie"
+name = "Knights of Zakuul"
 release_year = 2024
 
 
@@ -2673,7 +2694,7 @@ release_year = 2024
 
 
 [[categories]]
-total_entries = 61
+total_entries = 63
 name = "History"
 index = 5
 [[categories.entries]]
@@ -2691,11 +2712,11 @@ name = "Mission to Mustafar"
 release_year = 2023
 
 [[categories.entries]]
-markdown_path = "history/hundred_year_darkness/entry.md"
+markdown_path = "history/imperial_civil_war/entry.md"
 index = 3
-author = "ThornedRedRose"
-name = "Hundred-Year Darkness"
-release_year = 2021
+author = "kdlyyy"
+name = "Imperial Civil War"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "history/golden_age_of_the_sith/entry.md"
@@ -3103,9 +3124,23 @@ author = "deprav1ty"
 name = "The Search for Exar Kun's Legacy"
 release_year = 2024
 
+[[categories.entries]]
+markdown_path = "history/the_sith_empire_s_dark_age/entry.md"
+index = 63
+author = "kdlyyy"
+name = "The Sith Empire’s Dark Age"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "history/hundred_year_darkness/entry.md"
+index = 64
+author = "ThornedRedRose"
+name = "Hundred-Year Darkness"
+release_year = 2021
+
 
 [[categories]]
-total_entries = 92
+total_entries = 95
 name = "Scientific Studies"
 index = 6
 [[categories.entries]]
@@ -3599,11 +3634,11 @@ name = "Derriphan-class Battleship"
 release_year = 2022
 
 [[categories.entries]]
-markdown_path = "scientific_studies/kumauri_battleship/entry.md"
+markdown_path = "scientific_studies/kwazel_candy/entry.md"
 index = 71
-author = "Worlock365"
-name = "Kumauri Battleship"
-release_year = 2022
+author = "daedima"
+name = "Kwazel candy"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "scientific_studies/cal_class_battleship/entry.md"
@@ -3751,6 +3786,27 @@ index = 92
 author = "AlexJackz"
 name = "Death's Embrace"
 release_year = 2024
+
+[[categories.entries]]
+markdown_path = "scientific_studies/dianoga_s_kiss/entry.md"
+index = 93
+author = "mummytrie"
+name = "Dianoga’s Kiss"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "scientific_studies/makebian_skybulb/entry.md"
+index = 94
+author = "daedima"
+name = "Makebian Skybulb"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "scientific_studies/kumauri_battleship/entry.md"
+index = 95
+author = "Worlock365"
+name = "Kumauri Battleship"
+release_year = 2022
 
 
 [[categories]]
@@ -4032,7 +4088,7 @@ release_year = 2022
 
 
 [[categories]]
-total_entries = 53
+total_entries = 56
 name = "Points of Interest"
 index = 8
 [[categories.entries]]
@@ -4239,11 +4295,11 @@ name = "Darth Azamin's Stronghold"
 release_year = 2022
 
 [[categories.entries]]
-markdown_path = "points_of_interest/throne_of_the_sith/entry.md"
+markdown_path = "points_of_interest/the_eternal_throne/entry.md"
 index = 30
-author = "jinqxd"
-name = "Throne of the Sith"
-release_year = 2022
+author = "Dawns1ayer"
+name = "The Eternal Throne"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "points_of_interest/outer_rim_territories/entry.md"
@@ -4406,9 +4462,30 @@ author = "AlexanderWestley"
 name = "Tomb of Ludo Kressh"
 release_year = 2024
 
+[[categories.entries]]
+markdown_path = "points_of_interest/temple_of_nul/entry.md"
+index = 54
+author = "Dawns1ayer"
+name = "Temple of Nul"
+release_year = 2024
+
+[[categories.entries]]
+markdown_path = "points_of_interest/throne_of_the_sith/entry.md"
+index = 55
+author = "jinqxd"
+name = "Throne of the Sith"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "points_of_interest/the_foundry/entry.md"
+index = 56
+author = "deprav1ty"
+name = "The Foundry"
+release_year = 2024
+
 
 [[categories]]
-total_entries = 65
+total_entries = 67
 name = "Combat Studies"
 index = 9
 [[categories.entries]]
@@ -4552,11 +4629,11 @@ name = "Cho Mai"
 release_year = 2022
 
 [[categories.entries]]
-markdown_path = "combat_studies/force_imbued_blade/entry.md"
+markdown_path = "combat_studies/force_lightning_mastery/entry.md"
 index = 21
-author = "ValenTemenos"
-name = "Force-imbued blade"
-release_year = 2022
+author = "mummytrie"
+name = "Force Lightning Mastery"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "combat_studies/chain_sickle/entry.md"
@@ -4678,11 +4755,11 @@ name = "Form XI - Tràkata"
 release_year = 2022
 
 [[categories.entries]]
-markdown_path = "combat_studies/stava/entry.md"
+markdown_path = "combat_studies/soresu_form_iii/entry.md"
 index = 39
-author = "ElMajestico"
-name = "Stava"
-release_year = 2023
+author = "Odysseus_v1"
+name = "Soresu (Form III)"
+release_year = 2024
 
 [[categories.entries]]
 markdown_path = "combat_studies/kinetic_combat/entry.md"
@@ -4865,6 +4942,20 @@ index = 65
 author = "deprav1ty"
 name = "Noghri Stealth Techniques"
 release_year = 2024
+
+[[categories.entries]]
+markdown_path = "combat_studies/force_imbued_blade/entry.md"
+index = 66
+author = "ValenTemenos"
+name = "Force-imbued blade"
+release_year = 2022
+
+[[categories.entries]]
+markdown_path = "combat_studies/stava/entry.md"
+index = 67
+author = "ElMajestico"
+name = "Stava"
+release_year = 2023
 
 
 [[categories]]
@@ -5733,7 +5824,7 @@ release_year = 2022
 
 
 [[categories]]
-total_entries = 206
+total_entries = 207
 name = "Persons of Interest"
 index = 15
 [[categories.entries]]
@@ -7177,6 +7268,13 @@ index = 207
 author = "SkyPanik"
 name = "Darth Wyyrlok II"
 release_year = 2023
+
+[[categories.entries]]
+markdown_path = "persons_of_interest/githany/entry.md"
+index = 208
+author = "mummytrie"
+name = "Githany"
+release_year = 2024
 
 
 [[categories]]

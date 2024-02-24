@@ -1,5 +1,6 @@
 import re
 import os
+import pathlib
 
 TOP_LEVEL_FOLDER_IGNORE_LIST = ["jocastas_backend"]
 
@@ -79,3 +80,13 @@ def OnlyDirectories(path_prefix: str) -> list[str]:
         directory_list.remove(file)
 
     return directory_list
+
+
+def ValidateTomlFileEncoding(path_to_toml: str):
+    """Does *something* to the encoding of a TOML file that makes reading/writing it NOT error due to UTF-8 encoding (i think)"""
+    if not os.path.exists(path_to_toml):
+        return
+
+    file = pathlib.Path(path_to_toml)
+    contents = file.read_text()
+    file.write_text(contents)
