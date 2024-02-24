@@ -2,6 +2,7 @@ import argparse
 import time
 import os
 import mdformat
+import pathlib
 
 from ..Utilities import Logger
 from ..Utilities import Files
@@ -78,18 +79,11 @@ class ArchiveFormatter:
 
                     # re-encoding meta file
                     if os.path.exists(meta_file_path):
-                        contents = None
-                        with open(meta_file_path, "r") as meta_file:
-                            contents = meta_file.read()
-
                         # getting rid of any nasty unknown Unicode characters
                         # how does this work? source: trust me bro
-                        contents = contents.encode(
-                            encoding="utf-8", errors="replace"
-                        ).decode(encoding="utf-8", errors="strict")
-
-                        with open(meta_file_path, "w") as meta_file:
-                            meta_file.write(contents)
+                        meta_file = pathlib.Path(meta_file_path)
+                        contents = meta_file.read_bytes().decode()
+                        meta_file.write_bytes(contents.encode())
 
         if self.Arguments.verbosity >= 1:
             end_time = time.perf_counter()
