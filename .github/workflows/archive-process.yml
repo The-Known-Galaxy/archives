@@ -16,8 +16,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install toml
-      - run: pip install mdformat-gfm
+      - run: pip install toml==0.10.2
+      - run: pip install mdformat-gfm==0.7.17
       - run: python jocasta.py --format
       - run: python jocasta.py --generate-meta
       - run: python jocasta.py --check
