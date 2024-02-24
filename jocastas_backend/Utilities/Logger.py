@@ -63,7 +63,9 @@ class Logger:
                 final_text
             )
             if final_text_length > terminal_width - 2:
-                formatted_truncation_sequence = Colour("GREY", TRUNCATION_SEQUENCE)
+                formatted_truncation_sequence = Colour(
+                    TerminalColorCode.GREY, TRUNCATION_SEQUENCE
+                )
                 final_text = f"{final_text[: terminal_width - 2 + length_difference - len(TRUNCATION_SEQUENCE)]}{formatted_truncation_sequence}"
             # whitespace-padding the output to fit the terminal width
             else:
