@@ -1,0 +1,15 @@
+[project]
+# project information
+name = "jocasta"
+version = "0.8.0"
+requires-python = ">= 3.11.4"
+dependencies = ["toml==0.10.2", "mdformat-gfm==0.3.6"]
+
+# dev information
+readme = "README.md"
+authors = [{ name = "ShadowEngineer" }]
+maintainers = [{ name = "ShadowEngineer" }]
+classifiers = ["Development Status :: 3 - Alpha"]
+
+[project.scripts]
+jocasta = "jocasta:jocasta"

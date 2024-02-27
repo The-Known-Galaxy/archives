@@ -10,7 +10,9 @@ from jocastas_backend.Utilities.Terminal import Colour as c
 arguments = Arguments.JocastaArgumentParser.parse_args()
 Log = Logger.Logger(arguments)
 
-if __name__ == "__main__":
+
+def jocasta():
+    """Main CLI executor for the Jocasta archive utility."""
     if Arguments.NoArguments(arguments) or arguments.help:
         Arguments.JocastaArgumentParser.print_help()
         exit(0)
@@ -38,3 +40,7 @@ if __name__ == "__main__":
         else:
             Log.Error(result_string)
             exit(exit_code)
+
+
+if __name__ == "__main__":
+    jocasta()
