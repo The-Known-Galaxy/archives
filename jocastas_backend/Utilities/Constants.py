@@ -2,7 +2,7 @@ TOOL_VERSION = "0.8.0"
 
 ARCHIVE_FILE_SUFFIX = "_archives"
 ARCHIVE_FILE_TYPE_SUFFIXES = ["lua", "json"]
-META_FILE_NAME = "meta.toml"
+META_FILE_NAME = "meta.yaml"
 META_FILE_NAME_JSON = "meta.json"
 ENTRY_FILE_NAME = "entry.md"
 

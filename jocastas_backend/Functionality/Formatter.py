@@ -58,7 +58,7 @@ class ArchiveFormatter:
                 category_meta_file_path = os.path.join(
                     category_folder_path, META_FILE_NAME
                 )
-                Files.ValidateTomlFileEncoding(category_meta_file_path)
+                Files.FormatMetaFile(category_meta_file_path, allow_non_exist=True)
 
                 entries = Files.OnlyDirectories(category_folder_path)
                 total_entries = len(entries)
@@ -66,7 +66,7 @@ class ArchiveFormatter:
                     entry_folder_path = os.path.join(category_folder_path, entry)
 
                     meta_file_path = os.path.join(entry_folder_path, META_FILE_NAME)
-                    Files.ValidateTomlFileEncoding(meta_file_path)
+                    Files.FormatMetaFile(meta_file_path, allow_non_exist=True)
 
                     entry_markdown_file_path = Files.FindMarkdownFile(entry_folder_path)
                     if entry_markdown_file_path is not None:

@@ -1,7 +1,6 @@
 import argparse
 import time
 import os
-import toml
 from enum import Enum
 
 from ..Utilities.Constants import *
@@ -70,9 +69,6 @@ class ArchiveValidator:
             archive_path = os.path.join(os.getcwd(), archive)
 
             # checking meta file existence
-            if not os.path.exists(os.path.join(archive_path, META_FILE_NAME)):
-                archive_problems += 1
-                self.__log(VALIDATIONS.META_MISSING, {"path": archive_path})
             if not os.path.exists(os.path.join(archive_path, META_FILE_NAME_JSON)):
                 archive_problems += 1
                 self.__log(VALIDATIONS.META_MISSING_JSON, {"path": archive_path})
@@ -89,12 +85,145 @@ class ArchiveValidator:
                     category_problems += 1
                     self.__log(VALIDATIONS.META_MISSING, {"path": category_path})
                 else:
-                    with open(category_meta_file_path, "r") as meta_file:
-                        meta_toml = toml.load(meta_file)
-                        can_set_category_index = True
-                        for field, value_type in EXPECTED_CATEGORY_META_FIELDS.items():
+                    category_meta_data = Files.ReadMetaFile(category_meta_file_path)
+                    can_set_category_index = True
+                    for field, value_type in EXPECTED_CATEGORY_META_FIELDS.items():
+                        try:
+                            field_value = category_meta_data[field]
+                            field_value_int = None
+                            field_value_str = None
+
                             try:
-                                field_value = meta_toml[field]
+                                field_value_int = int(field_value)
+                            except ValueError:
+                                field_value_int = None
+
+                            try:
+                                field_value_str = str(field_value)
+                            except ValueError:
+                                field_value_str = None
+
+                            # for the edge-case that "123" can be converted to a number
+                            if value_type == int and (
+                                type(field_value) != int
+                                or field_value_int == None
+                                or field_value_int < 0
+                            ):
+                                # can't set the index post-verification since the index key doesn't exist or isn't an int
+                                can_set_category_index = (
+                                    False
+                                    if field == "index"
+                                    and can_set_category_index == True
+                                    else can_set_category_index
+                                )
+
+                                category_problems += 1
+                                self.__log(
+                                    VALIDATIONS.META_INTEGER_FIELD_NOT_POSITIVE_WHOLE,
+                                    {
+                                        "path": category_path,
+                                        "field_name": field,
+                                        "field_value": str(field_value),
+                                    },
+                                )
+                            elif value_type == int and (
+                                field == "index"
+                                and existing_category_indices.get(field_value_int)
+                                != None
+                            ):
+                                existing_entry_name = existing_category_indices.get(
+                                    field_value_int
+                                )
+                                category_problems += 1
+                                self.__log(
+                                    VALIDATIONS.META_DUPLICATE_INDEX,
+                                    {
+                                        "path": category_path,
+                                        "field_name": field,
+                                        "other_file_name": str(existing_entry_name),
+                                    },
+                                )
+                            elif value_type == str and (
+                                type(field_value) != str or field_value_str == None
+                            ):
+                                category_problems += 1
+                                self.__log(
+                                    VALIDATIONS.META_STRING_FIELD_NOT_STRING,
+                                    {
+                                        "path": category_path,
+                                        "field_name": field,
+                                        "field_value": str(field_value),
+                                    },
+                                )
+                            elif value_type == str:
+                                non_matching_characters: list = (
+                                    Files.FindInvalidCharacters(field_value)
+                                )
+                                correct_entry_name = Files.SanitiseFileName(field_value)
+
+                                if len(non_matching_characters) > 0:
+                                    category_problems += 1
+                                    self.__log(
+                                        VALIDATIONS.META_STRING_FIELD_WITH_INVALID_CHARACTERS,
+                                        {
+                                            "path": category_path,
+                                            "field_name": field,
+                                            "characters": f"\"{''.join(non_matching_characters)}\"",
+                                        },
+                                    )
+                                elif (
+                                    field == "name"
+                                    and os.path.basename(category_path)
+                                    != correct_entry_name
+                                ):
+                                    category_problems += 1
+                                    self.Log.Warn(
+                                        VALIDATIONS.META_AND_FOLDER_NAME_MISMATCH,
+                                        {
+                                            "path": category_path,
+                                            "correct_name": correct_entry_name,
+                                            "actual_name": field_value,
+                                        },
+                                    )
+                                elif field_value_str.strip() == "":
+                                    category_problems += 1
+                                    self.__log(
+                                        VALIDATIONS.META_STRING_FIELD_BLANK,
+                                        {
+                                            "path": category_path,
+                                            "field_name": field,
+                                        },
+                                    )
+                        except KeyError:
+                            category_problems += 1
+                            self.__log(
+                                VALIDATIONS.META_MISSING_FIELD,
+                                {
+                                    "path": category_path,
+                                    "field_name": field,
+                                },
+                            )
+
+                    if can_set_category_index:
+                        existing_category_indices[category_meta_data["index"]] = (
+                            os.path.basename(category_path)
+                        )
+                entries = Files.OnlyDirectories(category_path)
+                existing_entry_indices = {}
+                for entry in entries:
+                    entry_path = os.path.join(category_path, entry)
+
+                    # checking meta file existence
+                    entry_meta_file_path = os.path.join(entry_path, META_FILE_NAME)
+                    if not os.path.exists(entry_meta_file_path):
+                        entry_problems += 1
+                        self.__log(VALIDATIONS.META_MISSING, {"path": entry_path})
+                    else:
+                        entry_meta_data = Files.ReadMetaFile(entry_meta_file_path)
+                        can_set_entry_index = True
+                        for field, value_type in EXPECTED_ENTRY_META_FIELDS.items():
+                            try:
+                                field_value = entry_meta_data[field]
                                 field_value_int = None
                                 field_value_str = None
 
@@ -115,47 +244,60 @@ class ArchiveValidator:
                                     or field_value_int < 0
                                 ):
                                     # can't set the index post-verification since the index key doesn't exist or isn't an int
-                                    can_set_category_index = (
+                                    can_set_entry_index = (
                                         False
                                         if field == "index"
-                                        and can_set_category_index == True
-                                        else can_set_category_index
+                                        and can_set_entry_index == True
+                                        else can_set_entry_index
                                     )
-
-                                    category_problems += 1
+                                    entry_problems += 1
                                     self.__log(
                                         VALIDATIONS.META_INTEGER_FIELD_NOT_POSITIVE_WHOLE,
                                         {
-                                            "path": category_path,
+                                            "path": entry_path,
                                             "field_name": field,
                                             "field_value": str(field_value),
                                         },
                                     )
                                 elif value_type == int and (
                                     field == "index"
-                                    and existing_category_indices.get(field_value_int)
+                                    and existing_entry_indices.get(field_value_int)
                                     != None
                                 ):
-                                    existing_entry_name = existing_category_indices.get(
+                                    existing_entry_name = existing_entry_indices.get(
                                         field_value_int
                                     )
-                                    category_problems += 1
+                                    entry_problems += 1
                                     self.__log(
                                         VALIDATIONS.META_DUPLICATE_INDEX,
                                         {
-                                            "path": category_path,
+                                            "path": entry_path,
                                             "field_name": field,
                                             "other_file_name": str(existing_entry_name),
+                                        },
+                                    )
+                                elif (
+                                    value_type == int
+                                    and field == "release_year"
+                                    and field_value_int < 2020
+                                ):
+                                    entry_problems += 1
+                                    self.__log(
+                                        VALIDATIONS.INVALID_RELEASE_YEAR,
+                                        {
+                                            "path": entry_path,
+                                            "field_name": field,
+                                            "field_value": str(field_value),
                                         },
                                     )
                                 elif value_type == str and (
                                     type(field_value) != str or field_value_str == None
                                 ):
-                                    category_problems += 1
+                                    entry_problems += 1
                                     self.__log(
                                         VALIDATIONS.META_STRING_FIELD_NOT_STRING,
                                         {
-                                            "path": category_path,
+                                            "path": entry_path,
                                             "field_name": field,
                                             "field_value": str(field_value),
                                         },
@@ -169,205 +311,53 @@ class ArchiveValidator:
                                     )
 
                                     if len(non_matching_characters) > 0:
-                                        category_problems += 1
+                                        entry_problems += 1
                                         self.__log(
                                             VALIDATIONS.META_STRING_FIELD_WITH_INVALID_CHARACTERS,
                                             {
-                                                "path": category_path,
+                                                "path": entry_path,
                                                 "field_name": field,
                                                 "characters": f"\"{''.join(non_matching_characters)}\"",
                                             },
                                         )
                                     elif (
                                         field == "name"
-                                        and os.path.basename(category_path)
+                                        and os.path.basename(entry_path)
                                         != correct_entry_name
                                     ):
-                                        category_problems += 1
-                                        self.Log.Warn(
+                                        entry_problems += 1
+                                        self.__log(
                                             VALIDATIONS.META_AND_FOLDER_NAME_MISMATCH,
                                             {
-                                                "path": category_path,
+                                                "path": entry_path,
                                                 "correct_name": correct_entry_name,
                                                 "actual_name": field_value,
                                             },
                                         )
                                     elif field_value_str.strip() == "":
-                                        category_problems += 1
+                                        entry_problems += 1
                                         self.__log(
                                             VALIDATIONS.META_STRING_FIELD_BLANK,
                                             {
-                                                "path": category_path,
+                                                "path": entry_path,
                                                 "field_name": field,
                                             },
                                         )
+
                             except KeyError:
-                                category_problems += 1
+                                entry_problems += 1
                                 self.__log(
                                     VALIDATIONS.META_MISSING_FIELD,
                                     {
-                                        "path": category_path,
+                                        "path": entry_path,
                                         "field_name": field,
                                     },
                                 )
 
-                        if can_set_category_index:
-                            existing_category_indices[meta_toml["index"]] = (
-                                os.path.basename(category_path)
+                        if can_set_entry_index:
+                            existing_entry_indices[entry_meta_data["index"]] = (
+                                os.path.basename(entry_path)
                             )
-                entries = Files.OnlyDirectories(category_path)
-                existing_entry_indices = {}
-                for entry in entries:
-                    entry_path = os.path.join(category_path, entry)
-
-                    # checking meta file existence
-                    entry_meta_file_path = os.path.join(entry_path, META_FILE_NAME)
-                    if not os.path.exists(entry_meta_file_path):
-                        entry_problems += 1
-                        self.__log(VALIDATIONS.META_MISSING, {"path": entry_path})
-                    else:
-                        with open(entry_meta_file_path, "r") as meta_file:
-                            meta_toml = toml.load(meta_file)
-                            can_set_entry_index = True
-                            for field, value_type in EXPECTED_ENTRY_META_FIELDS.items():
-                                try:
-                                    field_value = meta_toml[field]
-                                    field_value_int = None
-                                    field_value_str = None
-
-                                    try:
-                                        field_value_int = int(field_value)
-                                    except ValueError:
-                                        field_value_int = None
-
-                                    try:
-                                        field_value_str = str(field_value)
-                                    except ValueError:
-                                        field_value_str = None
-
-                                    # for the edge-case that "123" can be converted to a number
-                                    if value_type == int and (
-                                        type(field_value) != int
-                                        or field_value_int == None
-                                        or field_value_int < 0
-                                    ):
-                                        # can't set the index post-verification since the index key doesn't exist or isn't an int
-                                        can_set_entry_index = (
-                                            False
-                                            if field == "index"
-                                            and can_set_entry_index == True
-                                            else can_set_entry_index
-                                        )
-                                        entry_problems += 1
-                                        self.__log(
-                                            VALIDATIONS.META_INTEGER_FIELD_NOT_POSITIVE_WHOLE,
-                                            {
-                                                "path": entry_path,
-                                                "field_name": field,
-                                                "field_value": str(field_value),
-                                            },
-                                        )
-                                    elif value_type == int and (
-                                        field == "index"
-                                        and existing_entry_indices.get(field_value_int)
-                                        != None
-                                    ):
-                                        existing_entry_name = (
-                                            existing_entry_indices.get(field_value_int)
-                                        )
-                                        entry_problems += 1
-                                        self.__log(
-                                            VALIDATIONS.META_DUPLICATE_INDEX,
-                                            {
-                                                "path": entry_path,
-                                                "field_name": field,
-                                                "other_file_name": str(
-                                                    existing_entry_name
-                                                ),
-                                            },
-                                        )
-                                    elif (
-                                        value_type == int
-                                        and field == "release_year"
-                                        and field_value_int < 2020
-                                    ):
-                                        entry_problems += 1
-                                        self.__log(
-                                            VALIDATIONS.INVALID_RELEASE_YEAR,
-                                            {
-                                                "path": entry_path,
-                                                "field_name": field,
-                                                "field_value": str(field_value),
-                                            },
-                                        )
-                                    elif value_type == str and (
-                                        type(field_value) != str
-                                        or field_value_str == None
-                                    ):
-                                        entry_problems += 1
-                                        self.__log(
-                                            VALIDATIONS.META_STRING_FIELD_NOT_STRING,
-                                            {
-                                                "path": entry_path,
-                                                "field_name": field,
-                                                "field_value": str(field_value),
-                                            },
-                                        )
-                                    elif value_type == str:
-                                        non_matching_characters: list = (
-                                            Files.FindInvalidCharacters(field_value)
-                                        )
-                                        correct_entry_name = Files.SanitiseFileName(
-                                            field_value
-                                        )
-
-                                        if len(non_matching_characters) > 0:
-                                            entry_problems += 1
-                                            self.__log(
-                                                VALIDATIONS.META_STRING_FIELD_WITH_INVALID_CHARACTERS,
-                                                {
-                                                    "path": entry_path,
-                                                    "field_name": field,
-                                                    "characters": f"\"{''.join(non_matching_characters)}\"",
-                                                },
-                                            )
-                                        elif (
-                                            field == "name"
-                                            and os.path.basename(entry_path)
-                                            != correct_entry_name
-                                        ):
-                                            entry_problems += 1
-                                            self.__log(
-                                                VALIDATIONS.META_AND_FOLDER_NAME_MISMATCH,
-                                                {
-                                                    "path": entry_path,
-                                                    "correct_name": correct_entry_name,
-                                                    "actual_name": field_value,
-                                                },
-                                            )
-                                        elif field_value_str.strip() == "":
-                                            entry_problems += 1
-                                            self.__log(
-                                                VALIDATIONS.META_STRING_FIELD_BLANK,
-                                                {
-                                                    "path": entry_path,
-                                                    "field_name": field,
-                                                },
-                                            )
-
-                                except KeyError:
-                                    entry_problems += 1
-                                    self.__log(
-                                        VALIDATIONS.META_MISSING_FIELD,
-                                        {
-                                            "path": entry_path,
-                                            "field_name": field,
-                                        },
-                                    )
-                            if can_set_category_index:
-                                existing_entry_indices[meta_toml["index"]] = (
-                                    os.path.basename(entry_path)
-                                )
 
         end_time = time.perf_counter()
         total_problems = archive_problems + category_problems + entry_problems

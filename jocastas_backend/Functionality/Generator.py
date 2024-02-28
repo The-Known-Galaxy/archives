@@ -2,7 +2,6 @@ import argparse
 import time
 import os
 import json
-import toml
 import shutil
 
 from ..Utilities.Constants import *
@@ -67,7 +66,10 @@ class ArchiveGenerator:
 
         # generating directories
         for file_name in processed_archive_files.values():
-            with open(file_name) as json_file:
+            # ensuring any and all unicode in the JSON is escaped before processing
+            Files.EscapeUnicodeInJson(file_name)
+
+            with open(file_name, "r") as json_file:
                 archive_data = json.load(json_file)
                 base_name = archive_data["name"]
 
@@ -116,12 +118,7 @@ class ArchiveGenerator:
                     category_meta_file_path = os.path.join(
                         base_name, processed_category_name, META_FILE_NAME
                     )
-                    with open(
-                        category_meta_file_path,
-                        "w",
-                    ) as meta_file:
-                        toml.dump(category_data["meta"], meta_file)
-                    Files.ValidateTomlFileEncoding(category_meta_file_path)
+                    Files.WriteMetaFile(category_data["meta"], category_meta_file_path)
 
                     # creating entry markdown files
                     articles = category_data["articles"].items()
@@ -157,12 +154,9 @@ class ArchiveGenerator:
                             processed_article_name,
                             META_FILE_NAME,
                         )
-                        with open(
-                            article_meta_file_path,
-                            "w",
-                        ) as meta_file:
-                            toml.dump(article_data["meta"], meta_file)
-                        Files.ValidateTomlFileEncoding(article_meta_file_path)
+                        Files.WriteMetaFile(
+                            article_data["meta"], article_meta_file_path
+                        )
 
                         # creating entry and processing its content
                         with open(
@@ -215,10 +209,10 @@ class ArchiveGenerator:
 
                 # collecting meta data from meta file
                 category_path = os.path.join(archive_path, category)
-                category_meta_file_path = os.path.join(category_path, META_FILE_NAME)
+                category_meta_filepath = os.path.join(category_path, META_FILE_NAME)
 
                 # ensuring the category has a meta file
-                if not os.path.exists(category_meta_file_path):
+                if not os.path.exists(category_meta_filepath):
                     if self.Arguments.verbosity >= 1:
                         self.Log.Warn(
                             f"[{category_path}] does not have a {META_FILE_NAME}. Skipping category."
@@ -235,10 +229,10 @@ class ArchiveGenerator:
 
                     # collecting meta data from meta file
                     entry_path = os.path.join(category_path, entry)
-                    entry_meta_file = os.path.join(entry_path, META_FILE_NAME)
+                    entry_meta_filepath = os.path.join(entry_path, META_FILE_NAME)
 
                     # ensuring the entry has a meta file
-                    if not os.path.exists(entry_meta_file):
+                    if not os.path.exists(entry_meta_filepath):
                         if self.Arguments.verbosity >= 1:
                             self.Log.Warn(
                                 f"[{entry_path}] does not have a {META_FILE_NAME}. Skipping entry."
@@ -246,33 +240,30 @@ class ArchiveGenerator:
                         continue
 
                     # reading and processing entry meta file
-                    with open(entry_meta_file, "r") as meta_file:
-                        entry_meta_data = toml.load(meta_file)
+                    entry_meta_data = Files.ReadMetaFile(entry_meta_filepath)
 
-                        # adding each bit of meta data into the list of entries, prior to adding them to the main meta object
-                        entry_list.append(
-                            dict(
-                                markdown_path=f"{category}/{entry}/{ENTRY_FILE_NAME}",
-                                **entry_meta_data,
-                            )
+                    # adding each bit of meta data into the list of entries, prior to adding them to the main meta object
+                    entry_list.append(
+                        dict(
+                            markdown_path=f"{category}/{entry}/{ENTRY_FILE_NAME}",
+                            **entry_meta_data,
                         )
+                    )
 
                 # sorting entries by index
                 entry_list.sort(key=self.__get_index_key)
 
                 # reading the category meta file
-                with open(category_meta_file_path, "r") as meta_file:
-                    # loading toml data into a python dictionary
-                    category_meta_data = toml.load(meta_file)
+                category_meta_data = Files.ReadMetaFile(category_meta_filepath)
 
-                    # appending a new category dictionary
-                    category_list.append(
-                        dict(
-                            entries=entry_list,
-                            total_entries=entry_count,
-                            **category_meta_data,  # unpacking all category meta data into keys/values inside the new, expanded meta data
-                        ),
-                    )
+                # appending a new category dictionary
+                category_list.append(
+                    dict(
+                        entries=entry_list,
+                        total_entries=entry_count,
+                        **category_meta_data,  # unpacking all category meta data into keys/values inside the new, expanded meta data
+                    ),
+                )
 
             # sorting categories
             category_list.sort(key=self.__get_index_key)
@@ -282,15 +273,16 @@ class ArchiveGenerator:
                 categories=category_list, category_count=len(categories)
             )
 
-            # writing meta files (toml for readability and json for roblox processing)
-            archive_meta_file_path = os.path.join(archive, META_FILE_NAME)
-            with open(archive_meta_file_path, "w") as new_meta_toml_file:
-                toml.dump(archive_meta_data, new_meta_toml_file)
-            Files.ValidateTomlFileEncoding(archive_meta_file_path)
+            # writing json meta for roblox processing
             with open(
                 os.path.join(archive, META_FILE_NAME_JSON), "w"
             ) as new_meta_json_file:
-                json.dump(archive_meta_data, new_meta_json_file, indent=None)
+                json.dump(
+                    archive_meta_data,
+                    new_meta_json_file,
+                    indent=None,
+                    ensure_ascii=True,
+                )
 
             if self.Arguments.verbosity >= 2:
                 self.Log.Info(f"{archive.capitalize()} archive meta files created.")

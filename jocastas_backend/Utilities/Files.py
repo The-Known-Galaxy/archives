@@ -1,6 +1,7 @@
 import re
 import os
-import pathlib
+import yaml
+import json
 
 TOP_LEVEL_FOLDER_IGNORE_LIST = ["jocastas_backend"]
 
@@ -82,11 +83,51 @@ def OnlyDirectories(path_prefix: str) -> list[str]:
     return directory_list
 
 
-def ValidateTomlFileEncoding(path_to_toml: str):
-    """Does *something* to the encoding of a TOML file that makes reading/writing it NOT error due to UTF-8 encoding (i think)"""
-    if not os.path.exists(path_to_toml):
-        return
+def WriteMetaFile(data: any, path: str):
+    """Writes data to a meta file."""
+    with open(path, "w") as file:
+        yaml.safe_dump(
+            data,
+            file,
+            default_flow_style=False,
+            indent=4,
+            allow_unicode=True,
+            sort_keys=True,
+        )
 
-    file = pathlib.Path(path_to_toml)
-    contents = file.read_text(encoding="utf-8", errors="replace")
-    file.write_text(data=contents, encoding="utf-8", errors="replace")
+
+def ReadMetaFile(path: str, allow_non_exist: bool = False) -> any:
+    """Reads data from a meta file."""
+    if not os.path.exists(path):
+        raise ValueError(f"Tried to read a meta file that doesn't exist. [{path}]")
+    elif not os.path.isfile(path) and allow_non_exist == False:
+        raise ValueError(
+            f"Tried to read a meta file that isn't a file, and it must exist. [{path}]"
+        )
+
+    data = None
+    with open(path, "r") as meta_file:
+        data = yaml.safe_load(meta_file)
+
+    return data
+
+
+def FormatMetaFile(path: str, allow_non_exist: bool = False):
+    """Formats a meta file at a given path."""
+    data = ReadMetaFile(path, allow_non_exist)
+    WriteMetaFile(data, path)
+
+
+def EscapeUnicodeInJson(path: str):
+    """Converting a JSON file at a given path into a ascii-only (so unicode-escaped) JSON file"""
+    if not os.path.exists(path):
+        raise ValueError(f"Tried to read a json file that doesn't exist. [{path}]")
+    elif not os.path.isfile(path):
+        raise ValueError(f"Tried to read a json file that isn't a file. [{path}]")
+
+    file_contents = None
+    with open(path, "r") as file:
+        file_contents = json.load(file)
+
+    with open(path, "w") as file:
+        json.dump(file_contents, file, ensure_ascii=True)
