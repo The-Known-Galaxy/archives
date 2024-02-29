@@ -4,17 +4,19 @@ from jocastas_backend.Functionality import Validator
 from jocastas_backend.Utilities import Arguments
 from jocastas_backend.Utilities import Logger
 from jocastas_backend.Utilities.Constants import *
-from jocastas_backend.Utilities.Terminal import TerminalColorCode as CC
-from jocastas_backend.Utilities.Terminal import Colour as c
 
-arguments = Arguments.JocastaArgumentParser.parse_args()
+parser = Arguments.JocastaArgumentParser
+arguments = parser.parse_args()
+if arguments.subcommand != None:
+    parser = Arguments.GetParserFromSubCommand(arguments.subcommand)
 Log = Logger.Logger(arguments)
 
 
 def jocasta():
     """Main CLI executor for the Jocasta archive utility."""
-    if Arguments.NoArguments(arguments) or arguments.help:
-        Arguments.JocastaArgumentParser.print_help()
+    print(arguments)
+    if Arguments.NoArguments(arguments):
+        parser.print_help()
         exit(0)
 
     if arguments.version:
