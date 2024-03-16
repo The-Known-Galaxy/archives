@@ -12,16 +12,17 @@ from ..Utilities.Terminal import TerminalColorCode as CC
 from ..Utilities.Terminal import Colour as c
 
 
+def get_index_key(entry_data) -> int:
+    """Key function for use in sorting dictionaries of categories or entries."""
+    return entry_data["index"]
+
+
 class ArchiveGenerator:
     """Handles all generation logic."""
 
     def __init__(self, arguments: argparse.Namespace):
         self.Arguments = arguments
         self.Log = Logger.Logger(arguments)
-
-    def __get_index_key(self, entry_data) -> int:
-        """Key function for use in sorting dictionaries of categories or entries."""
-        return entry_data["index"]
 
     def GenerateAllArchivesFromSource(self):
         """
@@ -251,7 +252,7 @@ class ArchiveGenerator:
                     )
 
                 # sorting entries by index
-                entry_list.sort(key=self.__get_index_key)
+                entry_list.sort(key=get_index_key)
 
                 # reading the category meta file
                 category_meta_data = Files.ReadMetaFile(category_meta_filepath)
@@ -266,7 +267,7 @@ class ArchiveGenerator:
                 )
 
             # sorting categories
-            category_list.sort(key=self.__get_index_key)
+            category_list.sort(key=get_index_key)
 
             # compiling meta data
             archive_meta_data = dict(

@@ -2,7 +2,6 @@ import argparse
 import time
 import os
 import mdformat
-import pathlib
 
 from ..Utilities import Logger
 from ..Utilities import Files

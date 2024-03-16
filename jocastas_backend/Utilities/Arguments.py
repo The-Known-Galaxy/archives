@@ -37,6 +37,10 @@ management_arguments = JocastaArgumentParser.add_argument_group(
     "Management",
     "Options related to management, validation and house-keeping of the archive files.",
 )
+analysis_arguments = JocastaArgumentParser.add_argument_group(
+    "Analysis",
+    "Options related to analysing the archives and studying their contents for interest or statistical purposes.",
+)
 
 # arguments
 global_arguments.add_argument(
@@ -99,6 +103,19 @@ management_arguments.add_argument(
     action="store_true",
     dest="check",
     help="Ignoring all other options, checks all the files, ensuring they meet the structuring, naming and content rules that the game expects the archives to be in.",
+)
+
+VALID_LIST_CHOICES = {
+    "categories": "categories",
+    "entries": "entries",
+}
+analysis_arguments.add_argument(
+    "-l",
+    "--list",
+    action="store",
+    dest="list",
+    choices=VALID_LIST_CHOICES.values(),
+    help="Lists all of the existing contents for the given list type.",
 )
 
 # sub-commands
@@ -301,4 +318,5 @@ def NoArguments(args: argparse.Namespace) -> bool:
                 or args.meta
                 or args.format
                 or args.check
+                or args.list
             )

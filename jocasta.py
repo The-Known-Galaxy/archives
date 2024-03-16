@@ -1,6 +1,7 @@
 from jocastas_backend.Functionality import Formatter
 from jocastas_backend.Functionality import Generator
 from jocastas_backend.Functionality import Validator
+from jocastas_backend.Functionality import Analyser
 from jocastas_backend.Utilities import Arguments
 from jocastas_backend.Utilities import Logger
 from jocastas_backend.Utilities.Constants import *
@@ -14,7 +15,6 @@ Log = Logger.Logger(arguments)
 
 def jocasta():
     """Main CLI executor for the Jocasta archive utility."""
-    print(arguments)
     if Arguments.NoArguments(arguments):
         parser.print_help()
         exit(0)
@@ -25,6 +25,7 @@ def jocasta():
 
     archive_generator = Generator.ArchiveGenerator(arguments)
     archive_formatter = Formatter.ArchiveFormatter(arguments)
+    archive_analyser = Analyser.ArchiveAnalyser(arguments)
     if arguments.generate:
         archive_generator.GenerateAllArchivesFromSource()
 
@@ -42,6 +43,9 @@ def jocasta():
         else:
             Log.Error(result_string)
             exit(exit_code)
+
+    if arguments.list:
+        archive_analyser.ListContents()
 
 
 if __name__ == "__main__":
