@@ -14,3 +14,6 @@ To keep the child fed, Queen Urgah of Gorneesh’s tribe prepared Glock for the 
 The infant had thoroughly enjoyed the food to the point where it immediately became addicting, and the baby Phlog could not put it down.
 Instead of preparing Glock for the infant, The Duloks set off to capture Ewoks to do it for them.
 The Duloks successfully captured Latara, Teebo, and Wicket Wystri Warrick, enslaving them to maximize the production of Glock for the young infant Phlog.
+
+# Why the Gloch Isn't an Actual Gun
+Because Star Wars is silly.
